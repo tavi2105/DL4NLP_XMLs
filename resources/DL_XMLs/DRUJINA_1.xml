@@ -1,0 +1,36 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUJINĂ</orth>
+            <gramGrp>s. f.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUJINĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f.</MorfDef>
+            </def>
+            <def>
+                <RegDef>(învechit; cu sens colectiv) Însoţitor; tovarăş.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <quote>Însoţitor; tovarăş. Sfântul Marele Mucenic Aretha şi cu drujina sa.</quote>
+                        <bibl>
+                            <abbr type="siglum" author="DOSOFTEI" pages="84/9" sigla="DOSOFTEI, V. S." source="DOSOFTEI, V. S. octombrie">DOSOFTEI, V. S. octombrie 84/9</abbr>
+                            , cf.
+                            <abbr type="siglum" author="JAHRESBER" pages="106" sigla="JAHRESBER. V" source="V">JAHRESBER. V, 106</abbr>
+                            ,
+                            <abbr type="siglum" source="TDRG" sigla="TDRG">TDRG</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drujine.</hi>
+            </form>
+            <form>— Din bg. apyxuna.</form>
+        </form>
+    </entry>
+</body>

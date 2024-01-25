@@ -1,0 +1,15 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">UBICV</orth>
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		<sense class="0" value="UBICV, -Ă">
+			<def>
+			<MorfDef>adj.</MorfDef>
+			<RegDef>v. ubicuu.</RegDef>
+			</def>
+		</sense>
+	</entry>
+</body>

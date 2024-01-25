@@ -1,0 +1,24 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCLÉI</orth>
+      <gramGrp>s. m. </gramGrp>
+    </form>
+
+    <sense class="0" value="UCLÉI">
+      <def>
+        <MorfDef>s. m.</MorfDef>
+        <usg>(Iht.; prin Munt., Olt. și Dobr.)</usg>
+        <RegDef>Obleț</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>(Alburnus alburnus).</quote><bibl> Cf. <abbr type="siglum" author="DAMÉ" pages="127" sigla="DAMÉ, T." source="T.">DAMÉ, T. 127</abbr>, <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="ATILA" pages="255" sigla="ATILA, P." source="P.">ATILA, P. 255</abbr>, <abbr type="siglum" author="ANTIPA" pages="161" sigla="ANTIPA, F. I." source="F. I.">ANTIPA, F. I. 161</abbr>, <abbr type="siglum" author="id." pages="387" source="P.">id. P. 387</abbr>, <citedRange source="JAHRESBER.">JAHRESBER.</citedRange> XXVI - XXIX, 113, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, <citedRange source="CADE">CADE</citedRange>, SCRIBAN, D., <abbr type="siglum" author="BĂCESCU" pages="56, 135" sigla="BĂCESCU, P." source="P.">BĂCESCU, P. 56, 135</abbr>, <citedRange pages="276" source="CL" year="1971">CL 1971, 276</citedRange>, H V 169, com. din TURNU MĂGURELE, <citedRange pages="1746/860, 885" source="ALR" volume="I">ALR I 1746/860, 885</citedRange></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Cine n-a mâncat oclei proaspăt, nu știe ce e bun pe lume.</quote><bibl><abbr type="siglum" author="ZANNE" pages="566" sigla="ZANNE, P." source="P." volume="I">ZANNE, P. I, 566</abbr></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">uclei. - </hi>. Și: <hi rend="bold">ocléi</hi>. s. m., <hi rend="bold">ocléie</hi>. (<bibl>ATILA, P. 25</bibl>., <bibl>ANTIPA, F. I. 16</bibl>.) s. f.</form>
+      <form>– Din bg. <hi rend="bold">оклей</hi>,. rus. <hi rend="bold">уклея</hi>.</form>
+    </form>
+  </entry>
+</body>

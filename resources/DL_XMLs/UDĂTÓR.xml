@@ -1,0 +1,53 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UDĂTÓR</orth>
+      <gramGrp>subst.</gramGrp>
+   </form>
+
+    <sense class="0" value="UDĂTÓR, -OÁRE">
+      <def>
+        <MorfDef>subst.</MorfDef>
+      </def>
+      <sense class="1" value="I.">
+        <def>
+		<MorfDef>S. m.</MorfDef>
+		<usg>(Prin Transilv.)</usg>
+		<RegDef>Persoană care udă <hi rend="bold">(2)</hi>,.  care stropește; s p e c. persoană care practică udatul<hi rend="superscript">1</hi>. <hi rend="bold">(2);</hi>.  (rar) stropitor <hi rend="bold">(I)</hi>.</RegDef><bibl>Cf. <citedRange source="DRLU">DRLU</citedRange>, <citedRange source="LM">LM</citedRange>, com. din CÂMPENI, din CLUJ NAPOCA și din ORĂȘTIE</bibl>. 
+		</def>
+      </sense>
+        <sense class="2" value="II 1.">
+          <def>
+		  <MorfDef>S. f., s. n.</MorfDef>
+		  <usg>(Mai ales în Transilv.)</usg>
+		  <RegDef>Stropitoare (<hi rend="bold">I 2</hi>.).</RegDef><bibl>Cf. <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr>, <citedRange source="LM">LM</citedRange>, ALEXI, W., <citedRange source="TDRG">TDRG</citedRange>, <citedRange source="CADE">CADE</citedRange>, <citedRange map="1" source="ALR SN" volume="IV">ALR SN IV h 1</citedRange> 041, <citedRange map="857" source="ALRM SN" volume="II">ALRM SN II h 857</citedRange></bibl>. 
+		  </def>
+        </sense>
+        <sense class="3" value="2.">
+          <def>
+		  <MorfDef>S. f.</MorfDef>
+		  <usg>(Prin Mold.)</usg>
+		  <RegDef>Vas, de obicei din lemn, pentru păstrat apa în care se înmoaie praftura (<hi rend="bold">1</hi>.) și se călește oțelul.</RegDef><bibl>Cf. <abbr type="siglum" author="FLOREA" pages="534" sigla="FLOREA, T. F." source="T. F.">FLOREA, T. F. 534</abbr></bibl>. 
+		  </def>
+        </sense>
+        <sense class="4" value="3.">
+          <def>
+		  <MorfDef>S. f.</MorfDef>
+		  <usg>(Prin Mold. și Bucov.)</usg>
+		  <RegDef>Praftură (<hi rend="bold">1</hi>.).</RegDef><bibl><abbr type="siglum" author="FLOREA" pages="534" sigla="FLOREA, T. F." source="T. F.">FLOREA, T. F. 534</abbr></bibl>. 
+		  </def>
+        </sense>
+        <sense class="5" value="4.">
+          <def>
+		  <MorfDef>S. f.</MorfDef>
+		  <usg>(Art.; prin Olt.)</usg>
+		  <RegDef>Numele unui obicei popular prin care se invocă pornirea ploilor.</RegDef><bibl>Cf. <abbr type="siglum" author="PAMFILE" pages="128" sigla="PAMFILE, VĂZD." source="VĂZD.">PAMFILE, VĂZD. 128</abbr>, <citedRange pages="186" source="ȘEZ." volume="I">ȘEZ. I, 186</citedRange></bibl>. 
+		  </def>
+        </sense>
+      </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">udători, -oare</hi>.</form>
+      <form>– <hi rend="bold">Uda</hi>. + suf. <hi rend="italic">-ător</hi>.</form>
+    </form>
+  </entry>
+</body>

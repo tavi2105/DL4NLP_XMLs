@@ -1,0 +1,30 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCITÉLNĂ</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCITÉLNĂ">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+        <usg>(Bis.; învechit)</usg>
+        <RegDef>Carte (sau evanghelie) cu învățătură.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Cumpărat-am această carte... ucitelnă</quote><bibl> (a. 1643). <abbr type="siglum" author="IORGA" pages="36" sigla="IORGA, S. D." source="S. D." volume="XVII">IORGA, S. D. XVII, 36</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Să știe că am cumpărat această sfântă carte, anume ucitelna</quote><bibl> (a. 1699). <abbr type="siglum" author="id." pages="38" source="ib.">id. ib. 38</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Aceasta carte, anume ucitelnă, este anume a lui Vereș Toader</quote><bibl> (a. 1721). <abbr type="siglum" author="D. POP" pages="63" sigla="D. POP, M." source="M.">D. POP, M. 63</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Cărți au cumpărat:... strastnic, triod, ucitelna, o psaltire</quote><bibl>(a. 1759). <abbr type="siglum" author="IORGA" pages="165" sigla="IORGA, S. D." source="S. D." volume="XVII">IORGA, S. D. XVII, 165</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Un molitvenic de la Ieși..., o alfavită..., o ucitelnă</quote><bibl> (a. 1780). <abbr type="siglum" author="id." pages="160" source="ib." volume="XIII">id. ib. XIII, 160</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Aceasta carte, anume ucitelnă, este a lui popa Simion One</quote><bibl> (a. 1781). <abbr type="siglum" author="D. POP" pages="18" sigla="D. POP, M." source="M.">D. POP, M. 18</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Am cumpărat această sfântă carte, anume ucitelna</quote><bibl> (a. 1786). <abbr type="siglum" author="IORGA" pages="38" sigla="IORGA, S. D." source="S. D." volume="XVII">IORGA, S. D. XVII, 38</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Această carte numită ucitelnă o au cumpărat Cozma Lupului</quote><bibl> (a. 1790). <abbr type="siglum" author="D. POP" pages="38" sigla="D. POP, M." source="M.">D. POP, M. 38</abbr></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucitelne. - </hi>. Și: <hi rend="bold">ceatélnă</hi>. s.f . <bibl>DA I/II</bibl>.</form>
+      <form>– Din slavonul UNKNOWN.</form>
+    </form>
+  </entry>
+</body>

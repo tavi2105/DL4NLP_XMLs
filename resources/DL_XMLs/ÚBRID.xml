@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">ÚBRID</orth>
+      <gramGrp>adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="ÚBRID, -Ă">
+      <def>
+        <MorfDef>adj.</MorfDef>
+        <usg>(Regional)</usg>
+        <RegDef>Care are o constituție slabă; slăbănog (<hi rend="bold">I 2)</hi>.  <bibl>COM. din STRAJA- RĂDĂUȚI</bibl>.</RegDef>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: .</form>
+      <form>– Cf. ș u b r e d.</form>
+    </form>
+  </entry>
+</body>

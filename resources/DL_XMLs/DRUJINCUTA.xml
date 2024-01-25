@@ -1,0 +1,39 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUJINCUŢĂ</orth>
+            <gramGrp>s. f.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUJINCUŢĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f.</MorfDef>
+            </def>
+            <def>
+                <usg>(Regional)</usg>
+                <RegDef>Diminutiv al lui drujincă;parcelă (1) îngustă (Oprişeni) Fălticeni.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <bibl>
+                            Cf.
+                            <abbr type="siglum" pages="155" sigla="SFC" volume="IV">SFC IV, 155</abbr>
+                            ,
+                            <abbr type="siglum" pages="96/393" sigla="CHEST." volume="IV">CHEST. IV 96/393</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drujincuţe.</hi>
+            </form>
+            <form>
+            — Şi: durjuncuăţă s. f. Com. din HANGU — PIATRA NEAMŢ
+            </form>
+            <form>Drujincă+suf. <hi rend="italic">-uță.</hi>
+            </form>
+        </form>
+    </entry>
+</body>

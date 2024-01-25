@@ -1,0 +1,23 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DO1</orth>
+      <gramGrp>adv.</gramGrp>
+    </form>
+
+    <sense class="?" value="DO1">
+      <def>
+	  <MorfDef>adv.</MorfDef>
+	  <usg>(Ban., Olt.)</usg><usg>(În loc. adv.)</usg><hi rend="bold">Mai do </hi>
+	  <RegDef>= aproape, aproape gata să ..., cât p-aci, gata de ...</RegDef><bibl>Cf. <abbr type="siglum" author="GĂMULESCU" pages="127" sigla="GĂMULESCU, E. S." source="E. S.">GĂMULESCU, E. S. 127</abbr></bibl>.   
+	  <dictScrap>
+		<cit id="?"><quote>Sân măi do bătrân dźe cât tsinăr.</quote><bibl><citedRange pages="412" source="FOLC. OLT. - MUNT." volume="I">FOLC. OLT. - MUNT. I, 412</citedRange></bibl>.</cit>
+		<cit id="?"><quote>Iera mai do să cad, dar n-am căzut.</quote><bibl><citedRange source="GL. OLT.">GL. OLT.</citedRange></bibl>.</cit>
+	  </dictScrap>
+	  <hi rend="italic"> Puii de mierlă, până mai do să zboare, sunt în piele goi. ib.</hi></def>
+    </sense>
+    <form type="varia">
+      <form>  - Din sb. <hi rend="bold">do</hi>.</form>
+    </form>
+  </entry>
+</body>

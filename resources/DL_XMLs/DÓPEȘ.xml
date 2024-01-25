@@ -1,0 +1,25 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DÓPEȘ</orth>
+      <gramGrp>s. m. și f., adj.</gramGrp>
+    </form>
+
+    
+    <sense class="UNKNOWN" value="DÓPEȘ, -Ă">
+      <def><MorfDef>s. m. și f., adj.</MorfDef>
+	  <usg>(Prin nord-vestul Munt.)</usg>
+	  <usg>(Persoană)</usg>
+	  <RegDef>de talie mică și groasă.</RegDef><bibl>Cf. <abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>.   
+	  <dictScrap>
+		<cit id="UNKNOWN"><quote>Ce s-o fi făcut dopeșa aia de fată de nu mai vine?</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr> <usg>(Ca epitet pus înaintea termenului calificat, de care se leagă prin prep. „de”) </usg> Cf. <abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>E un dopeș de băiat pietros, ca bolovanul.</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr></bibl>.</cit>
+	  </dictScrap>
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">dopeș, -e</hi>.</form>
+      <form>– <hi rend="bold">Dop </hi>.+ suf. -<hi rend="italic">eș</hi>.</form>
+    </form>
+  </entry>
+</body>

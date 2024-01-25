@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DOA</orth>
+			<gramGrp>num. ord.</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="UNKNOWN" value="DOA">
+			<def>
+			<MorfDef>num. ord.</MorfDef>
+			<RegDef>v. doilea.</RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

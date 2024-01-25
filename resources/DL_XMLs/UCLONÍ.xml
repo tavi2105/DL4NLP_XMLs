@@ -1,0 +1,26 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCLONÍ</orth>
+      <gramGrp>vb. IV. r e f l. </gramGrp>
+    </form>
+
+    
+    <sense class="0" value="UCLONÍ">
+      <def>
+        <MorfDef>vb. IV.</MorfDef>
+        <usg type="gram">Refl.</usg>
+        <usg>(Învechit, rar)</usg>
+        <RegDef>A se da la o parte (de la ceva), a se abate.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Toți ucloniră-se</quote> (f e r i r ă - s e ., b ă t u r ă D, l e p ă d a r ă-s e C2) </cit>
+          <cit id="UNKNOWN"><quote>preură și nu fură op; nu e făcătoriu bine, nu e nece pără la unul.</quote><bibl><citedRange pages="102" source="PSALT.">PSALT. 102</citedRange>, cf. <citedRange source="TDRG">TDRG</citedRange>, DHLR II, 533, <abbr type="siglum" author="ROSETTI" pages="258" sigla="ROSETTI, L. R." source="L. R." volume="VI">ROSETTI, L. R. VI, 258</abbr></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Prez. ind.: <hi rend="italic">uclonesc</hi>.</form>
+      <form>– Din slavonul UNKNOWN.</form>
+    </form>
+  </entry>
+</body>

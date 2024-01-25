@@ -1,0 +1,36 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUIDISM </orth>
+            <gramGrp>s. n.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUIDISM ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. n.</MorfDef>
+            </def>
+            <def>
+                <RegDef>Concepţia religioasă a celților.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <bibl>
+                            Cf.
+                            <abbr type="siglum" author="NEGULICI" sigla="NEGULICI">NEGULICI</abbr>
+                            ,
+                            <abbr type="siglum" sigla="PROT. — POP., N. D." source="PROT. — POP., N. D.">PROT. — POP., N. D.</abbr>
+                            ,
+                            <abbr type="siglum" source="DN" sigla="DN">DN<hi rend="superscript">3</hi>
+                            </abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>- Pronunţat: 
+                <hi rend="italic">dru-i-.</hi>
+            </form>
+            <form>— Din fr. druidisme.</form>
+        </form>
+    </entry>
+</body>

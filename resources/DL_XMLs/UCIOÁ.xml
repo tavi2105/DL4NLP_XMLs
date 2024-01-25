@@ -1,0 +1,19 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIOÁ</orth>
+      <gramGrp>interj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIOÁ">
+      <def>
+	  <MorfDef>interj.</MorfDef>
+	  <RegDef>Cuvânt cu care se alungă păsările de curte.</RegDef><bibl>Cf. <citedRange pages="325" source="SCL" year="1978">SCL 1978, 325</citedRange>, A VI 26</bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Și: <hi rend="bold">ució</hi>. interj. <bibl>SCL 1978, 325</bibl>.</form>
+      <form>– Cf. h u c e a.</form>
+    </form>
+  </entry>
+</body>

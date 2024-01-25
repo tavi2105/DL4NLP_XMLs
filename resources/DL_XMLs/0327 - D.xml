@@ -1,0 +1,565 @@
+<body>	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DROBZINAR</orth>    >
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DROBZINAR">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional)</usg>
+					<RegDef>Loitra de la coşul căruței</RegDef>
+					<usg>(Stroieşti — Suceava)</usg>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> drobzinari</hi></form>
+			<form>- Et. nec.</form>
+		</form>
+	</entry>
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DROTAR</orth>    >
+			<gramGrp>s. m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DROTAR">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Transilv.)</usg>
+					<RegDef>Fabricant de sârmă.</RegDef>
+				</def>
+				<sense class="2" value="2.">
+					<def>
+						<RegDef>Meseriaş care leagă cu droturi (2). </RegDef>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> drotari.</hi></form>
+			<form>- <hi rend="bold">Drot</hi> + suf. -ar.</form>
+		</form>
+	</entry>
+
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DROTAT</orth>    >
+			<gramGrp>adj.</gramGrp>
+			<usg>(Regional)</usg>
+		</form>
+
+		
+		<sense class="0" value="DROTAT">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Despre păr)</usg>
+					<RegDef>Ondulat (2)</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">De sub căciulă îi năvăleau cârlionţii până deasupra sprâncenelor, ca un breton drotat.</hi></quote>
+							<bibl>, Cf. DL<abbr type="siglum" author="TEODOREANU" pages="285" sigla="TEODOREANU, M." souce="M." volume="I">TEODOREANU, M. 1, 285</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+				<sense class="2" value="2.">
+					<def>
+						<usg>(Despre obiecte de îmbrăcăminte sau părți ale acestora)</usg>
+						<RegDef>Cu cute, cu onduleuri; plisat.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ea, o băbuşcă cu bărbia ascuţită sub care e înnodată panglica bonetei drotate ..., ține nişte mătănii de lemn de odogaci.</hi></quote>
+							<bibl><abbr type="siglum" author="ANGHEL — IOSIF" pages="136" sigla="ANGHEL — IOSIF, C. L." souce="C. L.">ANGHEL — IOSIF, C. L. 136</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Îi potrivi guleraşul drotat al rochiei. </hi></quote>
+							<bibl><abbr type="siglum" author="SADOVEANU" pages="465" sigla="SADOVEANU, O." souce="O." volume="XI">SADOVEANU, O. XI, 465</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Purza, ca toate celelalte slujnice, o bluză de pânză albă, cu guleraş şi mânicuţi drotate.</hi></quote>
+							<bibl><abbr type="siglum" author="SADOVEANU" pages="419" sigla="SADOVEANU, O." souce="O." volume="XI">SADOVEANU, O. XI, 419</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> drotați, -te.</hi></form>
+			<form>- V. <hi rend="bold">drota</hi></form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DROTĂLUI</orth>    
+			<gramGrp>vb. IV.<usg type="gram"> rendition="simple:spaced">Tranz.</usg></gramGrp>
+		</form>
+		
+		<sense class="0" value="DROTĂLUI">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Prin nord-vestul Transilv.)</usg>
+					<RegDef>A drotui.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Prez. ind.: ?</form>
+			<form>- <hi rend="bold">Drot</hi>+ suf. -ălui.</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DROTOŞ</orth>    
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DROTOŞ">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Termen depreciativ dat unor grupuri etnice.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Nu cred să vă dejosiţi şi d-voastră ca drotoşi ... şi să vă vindeți dreptul.</hi></quote>
+							<bibl><abbr type="siglum" author="CODRU-DRĂGUŞANU" pages="UNKNOWN" sigla="CODRU-DRĂGUŞANU, C." souce="C.">CODRU-DRĂGUŞANU, C. XVII.</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- PL.: <hi rend="italic">drotoşi</hi>.</form>
+			<form>- Din magh. <hi rend="bold">drotos</hi>[tot].</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DROTUI</orth>    
+			<gramGrp>vb. IV.<usg type="gram"> rendition="simple:spaced">Tranz.</usg></gramGrp>
+		</form>
+		
+		<sense class="0" value="DROTUI">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional; complementul indică droturi, sârme etc.)</usg>
+					<RegDef>A lega; (regional) a drotălui.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Prez. ind.: ?</form>
+			<form>- <hi rend="bold">Drot</hi>+ suf. -ui.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUC</orth>    >
+			<gramGrp>s. m, s.n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DRUC">
+			<def>
+				<MorfDef>s. m, s.n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Tipogr.; învechit)</usg>
+					<RegDef>Stinghie cu care se apasă teascul (1).</RegDef>
+				</def>
+				<sense class="2" value="2.">
+					<def>
+						<usg>(Regional)</usg>
+						<RegDef>Şuvoi de apă care ţâşneşte cu presiune.</RegDef>
+						<usg>(Cârlibaba — Câmpulung Moldovenesc)</usg>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: (1)<hi rend="italic">druci</hi> (2)<hi rend="italic">drucuri</hi></form>
+			<form>- Şi: (învechit)<hi rend="bold">drug</hi>(ŞĂINEANU, D.U.) s. m., (regional)<hi rend="bold">truc</hi> (ARVINTE, TERM. 146) s. n.</form>
+			<form>- Din germ. <hi rend="bold">Druck</hi> „presiune”.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUC</orth>    >
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DROBZINAR">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. drugi.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCAN</orth>    >
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUCAN">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. drugan.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCAR</orth>    
+			<gramGrp>s. m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DRUCAR">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Tipograf.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Iară fiind om înțelept şi desăvârşit cărtular bun, fu ales de fu mai mare drucar, ce să zic(e) fu dascal, şi mai mare prespre tipariu (a. 1632).</hi></quote>
+							<bibl><abbr type="siglum" author="EUSTRATIE" pages="UNKNOWN" sigla="EUSTRATIE, ap. GCR.1, 78/4.">EUSTRATIE, ap. GCR.1, 78/4</abbr>.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Și zețarii şi drugarii şi pilcarii, ... cu toții cădem cu umilinţă şi cu smerenie, şi cu evlavie înaintea prea cinstitelor persoane ale blagocestivilor şi de H[risto]s iubitorilor cititori (a. 1815).</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="133" sigla="BV III, 133">BV III, 133</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Unul din tipăritori, numiţi drugari, era călugăr.</hi></quote>
+							<bibl><abbr type="siglum" author="HELIADE" pages="409" sigla="HELIADE, O. 409" souce="O." volume="III">HELIADE, O. 409</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Unul din tipăritori, numiţi drugari, era călugăr.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="969" sigla="DOC. EC. 969">DOC. EC. 969</abbr></bibl>cf. PONTBRIANT, D., LM, MÂNDRESCU, 1. G. 44, GHEȚIE, R. M. 128, BARCIANU, JAHRESBER. X, 185, ALEXI, W., ŞĂINEANU?, V. MOLIN, V. T. 31, RESMERIŢĂ, D., CADE.
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- PL.: <hi rend="italic">drucari</hi>.</form>
+			<form>- Şi: (învechit)<hi rend="bold">drugar</hi>.</form>
+			<form>- Cf. germ. <hi rend="simple:spaced">Drücker</hi></form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCĂLI</orth>    
+			<gramGrp>vb. IV.<usg type="gram"> rendition="simple:spaced">Tranz.</usg></gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUCĂLI">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Min; prin nordul Olt; complementul indică găuri de sondă, galerii)</usg>
+					<RegDef>A umple cu explozibil, pentru a puşca (3).</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Prez. ind.: <hi rend="italic">drucălesc</hi>.</form>
+			<form>- Cf. <hi rend="simple:spaced">druc</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCĂLIT, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUCĂLIT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Min.; prin nordul Olt.; despre cărbuni)</usg>
+					<RegDef>Care stă să se desprindă de pe pereții galeriei după ce a fost puşcat (3) sau din cauza presiunii. </RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Cărbune druculit.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="162" sigla="FD I, 162" volume="I">FD I, 162</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- PL.: <hi rend="italic">drucăliţi, -te.</hi>.</form>
+			<form>- Şi: (<hi rend="bold">druculit, -ă</hi>.</form>
+			<form>- v. <hi rend="bold">drucăli</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCĂR</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUCĂR">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Clanţă (la uşă).</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Prez. ind.: <hi rend="italic">drucăre</hi>.</form>
+			<form>- Din germ. <hi rend="bold">Drücker</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCUI</orth>    
+			<gramGrp>vb. IV.<usg type="gram"> rendition="simple:spaced">Tranz.</usg></gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUCUI">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional)</usg>
+					<RegDef>A tipări (1).</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Prez. ind.: ?</form>
+			<form>- Cf. germ. <hi rend="simple:spaced">drücken</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCUIT, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUCUIT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional; despre cărți)</usg>
+					<RegDef>Tipărit (1)</RegDef>
+					<usg> (Pecinişca* — Băile Herculane)</usg>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- PL.: <hi rend="italic">drucuiți, -te</hi>.</form>
+			<form>- V. <hi rend="bold">drucui</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCULIT, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUCULIT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. drucălit.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUCUŞOR</orth>    
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUCUŞOR">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. druguşor.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRUETE</orth>    
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRUETE">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Prin Olt. şi Transilv.)</usg>
+					<RegDef>Buştean, buturugă; <hi rend="simple:spaced">spec.</hi> drugan </RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Dă-mi druetele ăla să şed pe el</hi></quote>
+							<bibl><abbr type="siglum" author="PAŞCA" pages="UNKNOWN" sigla="PAŞCA, GL." source="GL.">PAŞCA, GL.,</abbr></bibl>, Cf. MAT. DIALECT. 1, 227
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>
+			<sense class="2" value="♦">
+				<def>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Lemn mai gros în partea de sus a jugului.</hi></quote>
+							<bibl>Cf. <abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="UNKNOWN" source="UNKNOWN">NALR — O IV h 655.</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>- PL.: <hi rend="italic">drueți.</hi>.</form>
+			<form>- Cuvânt traco-dac. Cf. Drobeta		, alb. <hi rend="simple:spaced">dru(pl. drüte) "lemn"</hi> </form>
+		</form>
+	</entry>
+	
+	
+<!-- DRUG - nu este complet -->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+</body>	
+
+
+
+
+

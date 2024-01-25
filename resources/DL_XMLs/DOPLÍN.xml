@@ -1,0 +1,23 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPLÍN</orth>
+      <gramGrp>adj.</gramGrp>
+    </form>
+
+    
+    <sense class="UNKNOWN" value="DOPLÍN, -Ă">
+      <def><MorfDef>adj.</MorfDef>
+	  <usg>(Prin sudul Ban.)</usg>
+	  <RegDef>Plin de tot, foarte plin.</RegDef>Cf. SFC IV, 35.   
+	  <dictScrap>
+		<cit id="UNKNOWN"><quote>N’iX păharu nu doplin, Z’umătaci cu virin.</quote><bibl><citedRange pages="71" source="ARH.  FOLK." volume="III">ARH.  FOLK. III, 71</citedRange></bibl>.</cit>
+	  </dictScrap>
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">doplini, -e</hi>.</form>
+      <form>– Pref. <hi rend="italic">do- + </hi>.<hi rend="bold">plin</hi>.</form>
+    </form>
+  </entry>
+</body>

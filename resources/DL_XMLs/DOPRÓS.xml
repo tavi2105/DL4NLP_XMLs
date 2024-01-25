@@ -1,0 +1,30 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPRÓS</orth>
+      <gramGrp>s. n. </gramGrp>
+    </form>
+
+    
+    <sense class="0" value="DOPRÓS">
+      <def>
+        <MorfDef>s. n.</MorfDef>
+        <usg>(Atestat prima dată în 1789, cf. SCL IX, 239, ap. TDRG<hi rend="superscript">2</hi>.)</usg>
+        <usg>(Rusism învechit, mai ales în Mold.)</usg>
+        <RegDef>Anchetă; interogatoriu.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Pentru acei ci i-au văzut făcând destrămări, au mărturisăt deopotrivă, precum să arată la doprosul supt n<hi rend="superscript">o</hi>.4</quote><bibl>(a. 1833). <abbr type="siglum" author="IORGA" pages="380" sigla="IORGA, S. D." source="S. D." volume="XXI">IORGA, S. D. XXI, 380</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Nici după aceasta nu s-au supus a le asculta ... că ascultându-le ar fi ca să între în dopros și că numai atunce ar pute să li asculte și a răspunde, când ar fi cu iscăliturile D-lor sale.</quote><bibl>(a. 1836). <citedRange pages="163" source="URICARIUL" volume="VIII">URICARIUL, VIII, 163</citedRange>, cf. <abbr type="siglum" author="STAMATI" sigla="STAMATI, D." source="D.">STAMATI, D.</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Strigarea obștiei este doprosul și giudecata regimului trecut în care nimic nu e uitat.</quote><bibl><abbr type="siglum" author="RUSSO" pages="115" sigla="RUSSO, S." source="S.">RUSSO, S. 115</abbr>, cf. <abbr type="siglum" author="ALECSANDRI" pages="1" sigla="ALECSANDRI, T." source="T.">ALECSANDRI, T. 1</abbr> 752, <abbr type="siglum" author="CIHAC" pages="99" sigla="CIHAC" volume="II">CIHAC, II, 99</abbr>, DDRF</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>E un strigăt de uimire indignată printre surate, o fățarnică arătare cu degetul, un dopros și o pâră pornite din inimi.</quote><bibl><citedRange pages="611" source="SĂM." volume="II">SĂM. II, 611</citedRange>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU">ȘĂINEANU</abbr><hi rend="superscript">2</hi>., <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <abbr type="siglum" author="I. BRĂESCU" pages="65" sigla="I. BRĂESCU, M." source="M.">I. BRĂESCU, M. 65</abbr>, <abbr type="siglum" author="RESMERIȚĂ" sigla="RESMERIȚĂ, D." source="D.">RESMERIȚĂ, D.</abbr>, <citedRange source="DL">DL</citedRange>, <citedRange pages="24" source="CONTRIBUȚII" volume="I">CONTRIBUȚII, I, 24</citedRange>, II, 118, 126, <citedRange pages="405" source="SCL" year="1959">SCL 1959, 405</citedRange></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <sense class="1" value="◊">
+      <def>
+        <usg>Expr.</usg>
+        <RegDef><hi rend="bold">A-i lua </hi>(sau <hi rend="bold">a-i face </hi>cuiva) <hi rend="bold">dopros </hi>ori <hi rend="bold">a lua</hi> (pe cineva) <hi rend="bold">la dopros </hi><hi rend="bold"> = a supune (pe cineva)</hi></RegDef>
+	</def>
+	</sense>
+  </entry>
+</body>

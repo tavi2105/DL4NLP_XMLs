@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">ÚCIUL</orth>
+      <gramGrp>s. m. </gramGrp>
+    </form>
+
+    <sense class="0" value="ÚCIUL">
+      <def>
+	  <MorfDef>s. m.</MorfDef>
+	  <usg>(Prin nord-estul Ban.)</usg>
+	  <RegDef>Leagăn în care se balansează cineva; scrânciob <hi rend="bold">(2)</hi>.</RegDef><bibl>Cf. <citedRange pages="1703/85, 87" source="ALR" volume="I">ALR I 1703/85, 87</citedRange></bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">uciuli</hi>.</form>
+      <form>– Cf. ț u ț u<hi rend="bold"> 1</hi>.</form>
+    </form>
+  </entry>
+</body>

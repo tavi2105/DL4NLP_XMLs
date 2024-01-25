@@ -1,0 +1,710 @@
+<body>
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROBZINAR</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROBZINAR">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Regional)</usg>
+						<RegDef>Loitra de la coşul căruței</RegDef>
+						<usg>(Stroieşti — Suceava)</usg>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> drobzinari</hi></form>
+				<form>- Et. nec.</form>
+			</form>
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROCHIE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROCHIE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Bot; şi în compusul <hi rend="italic">pasul-drochiei</hi>)</usg>
+						<RegDef>Scai- ghimpos v.scai</RegDef>
+						<usg>(Centaurea calcitrapa)</usg>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> drochii</hi></form>
+				<form>- Et. nec.</form>
+			</form>
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROC</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROC">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Bot.)</usg>
+						<RegDef>Albastriță</RegDef>
+						<usg>(Centaurea cyanus)</usg>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> droci</hi></form>
+				<form>- Et. nec.</form>
+			</form>
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGARE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROGARE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>Acţiunea de <hi rend="italic">a (se) droga</hi> şi rezultatul ei</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> drogări</hi>.</form>
+				<form>- V.<hi rend="bold"> droga </hi>.</form>
+			</form>
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGAT,-Ă</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROGAT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+					<usg>(Adesea substantivat)</usg>
+					<RegDef>Căruia i s-au administrat sau care a luat droguri.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Îl intrigase silueta ei subțire ... și aerul căpiat de drogată.</hi></quote>
+							<bibl><abbr type="siglum" author="BARBU" pages="105" sigla="BARBU, I." source="I." volume="I">BARBU, I.</abbr></bibl>
+							</cit>	
+					</dictScrap>	
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> drogați,-te</hi>.</form>
+				<form>- V.<hi rend="bold">droga </hi>.</form>
+			</form>
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROC</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROC">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. drob </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGĂRIE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROGĂRIE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v.<hi rend="bold"> drogherie </hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+		</entry>
+
+
+	
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGHERIE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="DROGHERIE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Astăzi rar)</usg>
+						<RegDef>Magazin în care se vând articole de igienă și de toaletă, precum și unele preparate farmaceutice; comerț cu asemenea produse.</RegDef> Cf. STAMATI, D., BARCIANU, ALEXI, W., ȘĂINEANU, TDRG, RESMERIȚĂ, D.
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Mi se părea că toată lumea știe ce aștept, rezemat de bara galbenă din vitrina unei drogherii vecine.</hi></quote>
+								<bibl><abbr type="siglum" author="CAMIL PETRESCU" pages="285" sigla="CAMIL PETRESCU, P." source="P.">CAMIL PETRESCU, P.</abbr></bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Un zvon străbate prin ușile deschise ale...„Farmaciei  Drogueriei”.</hi></quote>
+								<bibl><abbr type="siglum" author="BRĂESCU" pages="30" sigla="BRĂESCU, O. A." source="O. A." volume="I">BRĂESCU, O. A.</abbr>, cf. SCRIBAN, D.</bibl>
+								</cit>	
+						</dictScrap>
+					</def>
+					<sense class="2" value="◊">
+						<def>
+							<usg>(Rar)</usg>
+							<RegDef>Articole care se vând într-o drogherie (1).</RegDef> Cf. CADE.
+						</def>
+					</sense>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Scris și: (după fr.)<hi rend="italic"> droguerie </hi>.</form>
+				<form>- Pl.: <hi rend="italic"> drogherii </hi>.</form>
+				<form>- Și: (învechit) <hi rend="bold">drogărie</hi> s. f. BARCIANU, ALEXI, W.</form>
+				<form>- Din fr. <hi rend="bold">droguerie</hi>.</form>
+			</form>
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGHIST, -Ă</orth>    
+				<gramGrp>s. m. și f.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="DROGHIST, -Ă">
+				<def>
+					<MorfDef>s. m. și f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Astăzi rar)</usg>
+						<RegDef>Persoană care deține sau care vinde într-o drogherie (1).</RegDef> Cf. BAR. - MUNT., W., ap. TDRG.
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Cel întâi caz s-a ivit la 7 mart, în al VII arondisment și anume tot în quartalul droghiștilor.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="856" sigla="CONTEMPORANUL" source="CONTEMPORANUL" volume="III">CONTEMPORANUL</abbr></bibl>, cf. BARCIANU, ALEXI, W., ȘĂINEANU, TDRG, RESMERIȚĂ, D., CADE.
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Hapurile droghistului din București ... nu-l împiedicase [pe tânăr] din linia firească a vieții sale.</hi></quote>
+								<bibl><abbr type="siglum" author="LOVINESCU" pages="187" sigla="LOVINESCU, C." source="C." volume="III">LOVINESCU, C.</abbr>, cf. NOM. PROF. 49, SCRIBAN, D., DEX, DN.</bibl>
+								</cit>	
+						</dictScrap>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Scris și: <hi rend="italic"> droguist </hi>. BAR. - MUNT., W., ap. TDRG.</form>
+				<form>- Pl.: <hi rend="italic"> droghiști, -ste </hi>.</form>
+				<form>- Din fr. <hi rend="bold">droguiste</hi>.</form>
+			</form>
+		</entry>
+
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROCHIE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROCHIE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v.<hi rend="bold"> dropie </hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROD</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROD">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>v. <hi rend="bold"> drot </hi>  </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DRODEAN</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DRODEAN">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. <hi rend="bold"> dodrean </hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROFIE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROFIE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. <hi rend="bold"> dropie </hi> ></RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROG</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="DROG">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Nume generic dat substanțelor de origine vegetală, minerală sau animală, folosite la fabricarea medicamentelor, a vopselelor sau ca stupefiante.</RegDef> Cf. BULETIN, F. (1834), AP. TDRG, ȘĂINEANU, RESMERIȚĂ, D., CADE.
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Ați putut prevedea pentru un viitor apropiat convocarea unei conferințe generale pentru limitarea fabricării de droguri dăunătoare.</hi></quote>
+								<bibl><abbr type="siglum" author="TITULESCU" pages="333" sigla="TITULESCU, D." source="D.">TITULESCU, D.</abbr> Cf. SCRIBAN, D.</bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">După repeziciunea cu care i se aprindeau și i se stingeau luminile din ochi, bancherul bănui că Derderian ia droguri.</hi></quote>
+								<bibl><abbr type="siglum" author="STANCU" pages="48" sigla="STANCU, R. A." source="R. A." volume="V">STANCU, R. A.</abbr></bibl>
+								</cit>	
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Autorul introduce în nuvelă și o crimă premeditată, săvârșită cu droguri de un student medic.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="683" sigla="IST. LIT. ROM." source="IST. LIT. ROM." volume="II">IST. LIT. ROM.</abbr>, cf. DER, DC.</bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">S-au luat noi măsuri cu privire la comerțul de droguri.</hi></quote>
+								<bibl><abbr type="siglum" author="G. BARBU" pages="235" sigla="G. BARBU, A. V." source="A. V.">G. BARBU, A. V.</abbr></bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Statistici oficiale precizează că utilizarea drogurilor este principala cauză a creșterii criminalității.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 1 492, 2/12" sigla="CONTEMP. 1975" source="CONTEMP. 1975">CONTEMP. 1975</abbr>, cf. DEX</bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Afirmația că nicotina este un drog a părut multă vreme riscantă.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 22, 9" sigla="FLACARA, 1975" source="FLACARA, 1975">FLACARA, 1975</abbr></bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Alți doi medici s=au trezit cu toti copiii bolnavi de droguri și irecuperabili.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 5, 19" sigla="FLACARA, 1977" source="FLACARA, 1977">FLACARA, 1977</abbr>, cf. DN.</bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Dacă drogul ar fi cu vânzare liberă, societatea s-ar prăbuși ca un castel de cărți de joc.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 1 626, 4/1" sigla="CONTEMP. 1979" source="CONTEMP. 1979">CONTEMP. 1979</abbr>, cf. DEX</bibl>
+								</cit>
+						</dictScrap>
+					</def>
+					<sense class="2" value="♦">
+						<def>
+							<usg>(Familiar)</usg>
+							<RegDef>Medicament.</RegDef>
+							<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Bărbierii..., cu drocurile purgative, alergau toată ziua.</hi></quote>
+								<bibl><abbr type="siglum" author="G. BARBU" pages="113" sigla="G. BARBU, A. V." source="A. V." volume="V">G. BARBU, A. V.</abbr>, cf. DEX.</bibl>
+								</cit>
+							</dictScrap>
+						</def>
+					</sense>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> droguri </hi>.</form>
+				<form>- Din fr. <hi rend="bold">drogue</hi>.</form>
+			</form>
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROG</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROG">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. <hi rend="bold"> drob </hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROG</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROG">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. <hi rend="bold"> drug </hi></RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGA</orth>    
+				<gramGrp>vb I.<usg type="gram"> rendition="simple:spaced">Tranz.</usg> și <usg type="gram"> rendition="simple:spaced">refl.</usg> </gramGrp>
+			</form>
+
+			
+			<sense class="0" value="DROGA">
+				<def>
+					<MorfDef>vb. I</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>A(-și) administra stupefiante.</RegDef>
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Mă aflam înconjurată de tineri care, refuzând orice activitate normală, se drogau.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 1 492, 3/12" sigla="CONTEMP. 1975" source="CONTEMP. 1975">CONTEMP. 1975</abbr></bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">A fuma tutun este un mod de a te droga cu nicotină.</hi></quote>
+								<bibl><abbr type="siglum" author="FLACĂRA" pages="nr. 22, 9" sigla="FLACĂRA, 1975" source="FLACĂRA, 1975">FLACĂRA, 1975</abbr>, cf. DEX, DN.</bibl>
+								</cit>	
+						</dictScrap>
+					</def>
+					<sense class="2" value="◊">
+						<def>
+							<usg type="sem">Fig.</usg>
+							<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">O societate care refuză informațiile imaginii realiste este o societate care se droghează cu idilisme.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 1 304, 9/3" sigla="CONTEMP. 1971" source="CONTEMP. 1971">CONTEMP. 1971</abbr></bibl>
+								</cit>
+							</dictScrap>
+						</def>
+					</sense>
+					<sense class="3" value="♦">
+						<def>
+							<RegDef>A face să ia sau a lua medicamente în cantități excesive.</RegDef> Cf. DEX, DN.
+						</def>
+					</sense>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Prez. ind.: <hi rend="italic"> droghez </hi>.</form>
+				<form>- Din fr. <hi rend="bold">droguer</hi>.</form>
+			</form>
+		</entry>
+
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGOMAN</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROGOMAN">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. <hi rend="bold"> dragoman </hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGOMIR</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROGOMIR">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. <hi rend="bold"> dragomir </hi></RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROGONIȚE</orth>    
+				<gramGrp>s. f. pl.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROGONIȚE">
+				<def>
+					<MorfDef>s. f. pl.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Bot.)</usg>
+						<RegDef>Cimișir (Buxus sempervirens)</RegDef> Cf. BORZA, D. 34.
+						
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Accentul necunoscut.</form>
+				<form>- Et. nec.</form>
+			</form>
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROI</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROI">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. <hi rend="bold"> droaie </hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROJDE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="DROJDE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+						<RegDef>v. <hi rend="bold"> drojdie </hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+
+
+
+
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DROJDERIE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="DROJDERIE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Rar)</usg>
+						<RegDef>Magazin În care se vinde rachiu de drojdie</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">[Muierile] plecau după bărbați, să-i caute la ... drojderie.</hi></quote>
+							<bibl><abbr type="siglum" author="BARBU" pages="367" sigla="BARBU, G." souce="G.">BARBU, G.</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> drojderii</hi></form>
+				<form>- <hi rend="bold"> Drojdie </hi> + suf. -ărie </form>   
+			</form>
+		</entry>
+
+</body>
+	
+
+	
+
+
+	
+
+

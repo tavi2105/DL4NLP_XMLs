@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIU2</orth>
+      <gramGrp>subst.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIU2">
+      <def>
+	  <MorfDef>subst.</MorfDef>
+	  <usg>(Regional)</usg>
+	  <RegDef>Ață răsucită cu care coase cizmarul.</RegDef><bibl>Cf. H XVII 9</bibl>., <bibl>com. MARIAN</bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Accentul necunoscut. - . Pl.: ? - . Și: <hi rend="bold">ugiu</hi>. subst. <bibl>Com. MARIAN</bibl>.</form>
+      <form>– Etimologia necunoscută.</form>
+    </form>
+  </entry>
+</body>

@@ -1,0 +1,426 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DUNĂREANCĂ</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="DUNĂREANCĂ">
+      <def>
+        <MorfDef>subst.</MorfDef>
+      </def>
+      <sense class="1" value="I.">
+        <def>
+          <MorfDef>s.f.</MorfDef>
+        </def>
+	  </sense>
+        <sense class="2" value="1.">
+          <def>
+		  <RegDef><hi rend="bold">1.</hi>Femeie care face parte din populația de bază din părțile (de pe malul românesc al) Dunării sau este originară de acolo.</RegDef>
+            <dictScrap>
+			<cit id="UNKNOWN"><quote><hi rend="italic">Dunărencele sunt femei puternice.</hi></quote>.</cit>
+			</dictScrap>
+          </def>
+		</sense>
+			<sense class="3" value="◊">
+			<def>
+             <usg>(Adjectival)</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote><hi rend="italic">Femeile dunărence au costume specifice.</hi></quote>.</cit>
+              </dictScrap>
+			</def>
+			</sense>
+			<sense class="4" value="♦">
+            <def>
+			<usg>(De obicei art.)</usg>
+			 <RegDef>Numele unui dans popular; melodie după care se execută acest dans</RegDef>
+			 <dictScrap>
+				<cit id="UNKNOWN"><quote><hi rend="italic">Jocurile călușarilor sunt: bătuta, chindia, dunăreanca, băltăreasca</hi></quote>
+				<bibl><abbr type="siglum" author="PAMFILE" pages="69" sigla="PAMFILE, S.V." source="S.V">PAMFILE, S. V. 69, cf. VARONE, JOC.ROM.N.72, H IX 174</abbr></bibl>.</cit>
+			  </dictScrap>
+					</def>
+			</sense>
+			</sense>
+		<form type="varia">
+			<form>-PL.:<hi rend="bold">dunete.</hi></form>
+			<form>-Din fr.<hi rend="bold">dunette.</hi></form>
+		</form>
+	</entry>
+	
+
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUNĂREANȚ</orth>
+		  <gramGrp>s.n.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNĂREANȚ">
+			<def>
+				<MorfDef>s.n.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dunărinț.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUNĂRENȚ</orth>
+		  <gramGrp>s.n.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNĂRENȚ">
+			<def>
+				<MorfDef>s.n.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dunărinț.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNĂRESC</orth>    >
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNĂRESC,-EASCĂ">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<RegDef>Referitor la Dunăre, care aparține Dunării</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Pe malul dunăresc</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="273" sigla="UNKNOWN" source="MAT.FOLK I">MAT.FOLK. I 273</abbr></bibl>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="531" sigla="ALR II" source="II">ALR II 4 365/36, 531.</abbr></bibl>.</cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-PL.:<hi rend="ITALIC">dunărești.</hi></form>
+			<form>-<hi rend="bold">Dunăre</hi>(n.pr)+ suf.<hi rend="italic">-esc</hi> </form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNĂRINȚ</orth>    >
+			<gramGrp>s.n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNĂRINȚ">
+			<def>
+				<MorfDef>s.n.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>(Prin.Ban.)</usg>
+						<RegDef>Vânt ce bate dinspre Dunăre, din direcția sud, sud-vest</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<bibl><abbr type="siglum" author="PAMFILE" pages="54" sigla="PAMFILE VĂZD." source="CHEST. IV">Cf. PAMFILE, VĂZD. 54, CADE,BOCEANU,GL., CHEST. IV 85/22</abbr></bibl></cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-Și.:<hi rend="bold">dunăreț.</hi>(CHEST.IV 85/22), <hi rend="bold">dunăreanț.</hi>(CADE) s.n.</form>
+			<form>-Cf.<hi rend="spaced">Dunăre</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNĂRINȚĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNĂRINȚĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>(Regional)</usg>
+						<RegDef>Pește înrudit cu zvârluga, dar cu petele laterale mult mai mari și coloritul violaceu, care trăiește numai în Dunăre <hi rend="italic">(Cobitis bulgarica)</hi></RegDef>
+						<dictScrap>
+							<cit><bibl><abbr type="siglum" author="ANTONESCU" pages="97" sigla="C. ANTONESCU" source="P.">Cf. C.ANTONESCU, P.97</abbr></bibl></cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-Pl.:<hi rend="italic">dunărințe.</hi></form>
+			<form>-Cf.<hi rend="spaced">Dunăre</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNĂRIUȚĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNĂRINȚĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>(Regional)</usg>
+						<RegDef>Joc acompaniat de lăutari. nedefinit mai îndeaproape </RegDef>
+						<dictScrap>
+							<cit><bibl><abbr type="siglum" author="PAMFILE" pages="16" sigla="PAMFILE, J." source="SFC IV">Cf. PAMFILE, J. III, 16, SFC IV, 145,147</abbr></bibl></cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-Pronunțat:<hi rend="italic">-ri-u.</hi>-Pl.:<hi rend="italic">dunăriuțe</hi></form>
+			<form>-Et.nec.</form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNCHEMAN</orth>    >
+			<gramGrp>s.m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNCHEMAN">
+			<def>
+				<MorfDef>s.m.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>(Nav.)</usg>
+						<RegDef>Fochist la caldarină</RegDef>
+						<dictScrap>
+							<cit><bibl><abbr type="siglum" author="CADE" pages="UNKNOWN" sigla="CADE, D. MAR." source="D.MAR">Cf. CADE, D. MAR.</abbr></bibl></cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-Scris și:<hi rend="italic">dunkeman.</hi>CADE-Pl.:<hi rend="italic">dunchemani</hi></form>
+			<form>-Din germ.<hi rend="bold">Dunkelmann</hi> </form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNDAR</orth>    >
+			<gramGrp>s.m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNDAR">
+			<def>
+				<MorfDef>subst.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>(Regional; cu sens colectiv)</usg>
+						<RegDef>Mulțime de oameni aflată într-o casă (Godinești-Tismana)</RegDef>
+						<dictScrap>
+							<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="120" sigla="GR.S.V." source="S.V.">Cf. GR.S.V.,120</abbr></bibl></cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-Din sb.<hi rend="bold">dundar</hi> </form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNETĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNETĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<RegDef>Punte mică ridicată deasupra punții principale la pupa unei nave, unde sunt amenajate cabinele echipajului</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Comandantul, zi și noapte pe dunetă.., observa mersul corabiei.</hi></quote>
+								<bibl><abbr type="siglum" author="GHICA" pages="22" sigla="GHICA, C.E.I" source="C.E.I.">GHICA, C.E.I,22, cf.DDRF, ALEXI, W., CADE, ABC MAR</abbr></bibl></cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">La pupă, pe dunetă, toate erau împodobite cu bun gust</hi></quote>
+							<bibl><abbr type="siglum" author="BART" pages="26" sigla="BART S.M." source="S.M.">BART S.M. 26,cf. SCRIBAN, D.</abbr></bibl></cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Ușa unei cabine de sub dunetă se deschise</hi></quote>
+							<bibl><abbr type="siglum" author="TUDORAN" pages="458" sigla="TUDORAN P." source="DEX">TUDORAN, P. 458, cf.DER, DEX, DN3</abbr></bibl></cit>
+						</dictScrap>
+					</def>
+			</sense>
+			<sense class="1," value="">
+					<def>
+						<RegDef>Punte mică ridicată deasupra punții principale la pupa unei nave, unde sunt amenajate cabinele echipajului</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Comandantul, zi și noapte pe dunetă.., observa mersul corabiei.</hi></quote>
+								<bibl><abbr type="siglum" author="GHICA" pages="22" sigla="GHICA, C.E.I" source="C.E.I.">GHICA, C.E.I,22, cf.DDRF, ALEXI, W., CADE, ABC MAR</abbr></bibl></cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">La pupă, pe dunetă, toate erau împodobite cu bun gust</hi></quote>
+							<bibl><abbr type="siglum" author="BART" pages="26" sigla="BART S.M." source="S.M.">BART S.M. 26,cf. SCRIBAN, D.</abbr></bibl></cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Ușa unei cabine de sub dunetă se deschise</hi></quote>
+							<bibl><abbr type="siglum" author="TUDORAN" pages="458" sigla="TUDORAN P." source="DEX">TUDORAN, P. 458, cf.DER, DEX, DN3</abbr></bibl></cit>
+						</dictScrap>
+					</def>						
+			</sense>
+			<sense class="2" value="◊">
+					<def>
+						<usg>(Prin ANALOGIE)</usg>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">De pe duneta mesei de scris, despre elan, Voi consulta impresiile lui Melville.</hi></quote>
+							<bibl><abbr type="siglum" author="VULPESCU" pages="10" sigla="P.">, VULPESC, P.10</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> dunete.</hi></form>
+			<form>- Din fr.<hi rend="bold">dunette</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNGĂ</orth>    >
+			<gramGrp>vb. I</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNGĂ">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg><hi rend="spaced">Tranz</hi></usg>
+						<RegDef>A trage sau a trasa dungi<hi rend="spaced">(1.)</hi>p. <hi rend="spaced">ext.</hi>a însemna cu dungi</RegDef>
+						<dictScrap>
+							<bibl><abbr type="siglum" author="PONTBRIANT" pages="UNKNOWN" sigla="PONTBRIANT, D." source="LM">PONTBRIANT, D., LM</abbr></bibl>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Credeți că un volovan...dungat cu zgârieturi paralel, deșteaptă atâta poezie în mintea unui om lipsit de știință.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="345" sigla="I" source="CONTEMPORANUL">CONTEMPORANUL, I, 345</abbr></bibl></cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Tulpina ei</hi>[a anghelicăi]...<hi rend="italic">dungată cu șanțuri în lung, e acoperită de un praf verzui</hi></quote>
+							<bibl><abbr type="siglum" author="VOICULESCU" pages="55" sigla="L." source="UNKNOWN">VOICULESCU, L. 55</abbr></bibl></cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">La clasa a 7-a m-am înfățișat cu mâneca tunicii dungată...de doua galoane de rănit</hi></quote>
+							<bibl><abbr type="siglum" author="MIHĂESCU" pages="11" sigla="D.A." source="UNKNOWN">MIHĂESCU, D.A. 11.</abbr></bibl></cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Părul altădată blond, era acum dungat de șuvițe cărunte</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="UNKNOWN" source="DEX2">CONTEMP. 1975, NR. 1 477, Cf. DEX2</abbr></bibl></cit>
+						</dictScrap>
+					</def>
+			<form>- Prez. ind: <hi rend="italic"> dunghez.</hi></form>
+			<form>- De la.<hi rend="bold">dungă</hi></form>
+			</sense>
+		</sense>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNGACI</orth>    >
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNGACI, -CE">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>Regional</usg>
+						<RegDef>Încăpățânat (Someș-Guruslău-Jibou)</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="209" sigla="UNKNOWN" source="MAT.DIALECT. I">Cf. MAT.DIALECT. I, 209</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-PL.:<hi rend="ITALIC">dungaci,-ce</hi></form>
+			<form>-<hi rend="bold">Dungă</hi>(n.pr)+ suf.<hi rend="italic">-aci</hi> </form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNGARE</orth>    >
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNGACI, -CE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>(Învechit, rar)</usg>
+						<RegDef>Acțiunea de a <hi rend="spaced">dunga</hi>dunga și rezultatul ei</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<bibl><abbr type="siglum" author="PONTBRIANT" pages="UNKNOWN" sigla="D." source="UNKNOWN">Cf. PONTBRIANT, D.</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-PL.:<hi rend="ITALIC">dungări</hi></form>
+			<form>-V<hi rend="bold">dunga</hi></form>
+		</form>
+	</entry>
+			 
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUNGARIȘTE</orth>    >
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUNGARIȘTE">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>(Învechit, rar)</usg>
+						<RegDef>Carceră</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<bibl><abbr type="siglum" author="MÂNDRESCU" pages="44" sigla="I" source="G">Cf. MÂNDRESCU, I.G.44</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-PL.:<hi rend="ITALIC">dungariști</hi></form>
+			<form>-Din germ.<hi rend="bold">Dunkelarrest</hi></form>
+		</form>
+	</entry>
+</body>

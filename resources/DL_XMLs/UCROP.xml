@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCROP</orth>
+      <gramGrp>s. n. </gramGrp>
+    </form>
+
+    <sense class="0" value="UCROP">
+      <def>
+        <MorfDef>s. n. </MorfDef>
+        <RegDef>v. uncrop. </RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

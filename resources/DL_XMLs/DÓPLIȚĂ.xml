@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DÓPLIȚĂ</orth>
+      <gramGrp>s. f.</gramGrp>
+    </form>
+
+    <sense class="0" value="DÓPLIȚĂ">
+      <def><MorfDef>s. f.</MorfDef>
+	  <usg>(Prin Munt.)</usg>
+	  <RegDef>Femeie scundă și grasă.</RegDef>
+	  <bibl>Cf. <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr></bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">doplițe</hi>.</form>
+      <form>– Cf. dop.</form>
+    </form>
+  </entry>
+</body>

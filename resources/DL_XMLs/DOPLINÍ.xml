@@ -1,0 +1,25 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPLINÍ</orth>
+      <gramGrp>vb. IV. </gramGrp>
+    </form>
+
+    
+    <sense class="0" value="DOPLINÍ">
+      <def>
+        <MorfDef>vb. IV.</MorfDef>
+        <usg type="gram">Refl.</usg>
+        <usg>(Învechit, rar)</usg>
+        <RegDef>A se îndeplini.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Rog pre toți ca ce nu s-au potut doplini din neagiungerea minții mele spre capetarea pornirii să facă bine a adaoge.</quote><bibl><abbr type="siglum" author="IORGOVICI" sigla="IORGOVICI, O." source="O.">IORGOVICI, O.</abbr> XIV/10, cf. SFC IV, 35</bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Prez. ind.: <hi rend="italic">doplinesc</hi>.</form>
+      <form>– Pref. <hi rend="italic">do- + </hi>.<hi rend="bold">plini</hi>.</form>
+    </form>
+  </entry>
+</body>

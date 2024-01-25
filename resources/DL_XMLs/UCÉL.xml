@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCÉL</orth>
+      <gramGrp>s.m.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCÉL">
+      <def>
+	  <MorfDef>s.m.</MorfDef>
+	  <usg>(În dicționarele din trecut)</usg>
+	  <RegDef>Pasăre (<hi rend="bold">I 2</hi>.).</RegDef><bibl>Cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, PONTBRIANT, D</bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucei</hi>.</form>
+      <form>–  Din it. <hi rend="bold">uccello</hi>.</form>
+    </form>
+  </entry>
+</body>

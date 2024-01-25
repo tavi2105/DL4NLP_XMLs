@@ -1,0 +1,33 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRULĂ</orth>
+            <gramGrp>s. f.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRULĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f.</MorfDef>
+            </def>
+            <def>
+                <usg>(Regional; depreciativ)</usg>
+                <RegDef>Femeie depravată (Bonţ — Gherla).</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <bibl>
+                            Cf.
+                            <abbr type="siglum" author="PAŞCA" sigla="PAŞCA, GL." source="GL.">PAŞCA, GL.</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drule.</hi>
+            </form>
+            <form>— Cf.trulă.</form>
+        </form>
+    </entry>
+</body>

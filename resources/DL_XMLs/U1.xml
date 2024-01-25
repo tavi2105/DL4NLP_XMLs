@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">U1</orth>
+      <gramGrp>s. m. invar.</gramGrp>
+    </form>
+
+    
+    <sense class="0" value="U1">
+      <def><MorfDef>s. m.</MorfDef>
+	  <usg type="gram">invar. </usg>
+	  <RegDef>A douăzeci și patra (iar după reintroducerea literelor <hi rend="italic">â</hi>.  și <hi rend="italic">q</hi>. , a douăzeci și șasea) literă a alfabetului limbii române și sunetul corespunzător (vocală rotunjită închisă din seria posterioară).</RegDef>
+	  <bibl>Cf. HELIADE, GR. ROM V/6</bibl>.   
+	  <dictScrap>
+		<cit id="UNKNOWN"><quote>Din timpuri străvechi,... vocalele „i” și „u” la sfârșitul cuvintelor au începu să se rostească șoptit.</quote><bibl><abbr type="siglum" author="PUȘCARIU" pages="246" sigla="PUȘCARIU, C. S." source="C. S.">PUȘCARIU, C. S. 246</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Uite..., ăsta-i „u”, ăsta-i „o”.</quote><bibl><citedRange pages="196" source="T. DIAL. M." volume="I">T. DIAL. M. I, 196</citedRange></bibl>.</cit>
+	  </dictScrap></def>
+    </sense>
+  </entry>
+</body>

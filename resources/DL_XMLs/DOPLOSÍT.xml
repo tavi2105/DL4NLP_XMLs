@@ -1,0 +1,31 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPLOSÍT</orth>
+      <gramGrp>adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="DOPLOSÍT, -Ă">
+      <def>
+		<MorfDef> adj.</MorfDef>
+		<usg>(Prin nord-estul Olt.)</usg>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<RegDef>Care s-a ros, s-a tocit, care și-a pierdut rigiditatea (prin întrebuințare).</RegDef>
+		<bibl>Cf. <abbr type="siglum" author="CIAUȘANU" pages="158" sigla="CIAUȘANU, V." source="V.">CIAUȘANU, V. 158</abbr></bibl>. 
+		</def>
+      </sense>
+      <sense class="2" value="2.">
+        <def>
+		<RegDef>Vlăguit.</RegDef>
+		<bibl>Cf. <abbr type="siglum" author="CIAUȘANU" pages="158" sigla="CIAUȘANU, V." source="V.">CIAUȘANU, V. 158</abbr></bibl>. </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">doplosiți, -te</hi>.</form>
+      <form>– V. <hi rend="bold">doplosi</hi>.</form>
+    </form>
+  </entry>
+</body>
+

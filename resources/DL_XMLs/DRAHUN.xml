@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRAHUN</orth>
+			<gramGrp>subst</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="0" value="DRAHUN">
+			<def>
+			<MorfDef>subst</MorfDef>
+			<RegDef>v. drăgun.</RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

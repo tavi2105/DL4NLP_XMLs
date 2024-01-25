@@ -1,0 +1,544 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCÍDE</orth>
+      <gramGrp>vb. III. t r a n z.</gramGrp> 
+    </form>
+
+    <sense class="0" value="UCÍDE">
+      <def>
+        <MorfDef>vb. III.</MorfDef>
+        <usg type="gram">Tranz.</usg>
+      </def>
+    </sense>
+      <sense class="1" value="1.">
+        <def>
+          <RegDef>A pricinui (cu sau fără intenție) moartea violentă a unei ființe; a omorî </RegDef>
+		</def>
+	  </sense>
+	  <sense class="2" value ="(1)">
+		 <usg>(învechit)</usg> 
+		 <RegDef>a săvârși </RegDef>
+	  </sense>
+	  <sense class="3" value="(2)">
+        <def>
+		 <RegDef>  V. a s a s i n a.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Se ai ucide greașnicii, Doamne.</quote><bibl><citedRange pages="118"><hi rend="superscript">r</hi>/16" source="PSALT. HUR.">PSALT. HUR. 118<hi rend="superscript">r</hi>./16</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Închiseră ușile, cerăndu elu se-lu ucigă.</quote><bibl>COD. VOR<hi rend="superscript">2</hi>. 17<hi rend="superscript">r</hi>./14</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Hicleșig făcea se-lu ucigă elu pre cale.</quote><bibl><citedRange pages="33"><hi rend="superscript">r</hi>/6" source="ib.">ib. 33<hi rend="superscript">r</hi>./6</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nu ucide ei, se nu cândva uite leagea ta.</quote><bibl><citedRange pages="112" source="PSALT.">PSALT. 112</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Demăreața ucidea toți păcătoșii pământului.</quote><bibl><citedRange pages="207" source="ib.">ib. 207</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Că sânteți feciorii celor ce au ucis proroci.</quote><bibl><citedRange pages="303/13" source="EV. SL.-ROM.">EV. SL.-ROM. 303/13</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Irod... tremise și ucise toți coconii.</quote><bibl><citedRange pages="203" source="TETRAEV." year="1574">TETRAEV. (1574), 203</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cain..., după ce ucise frate-său, el se bolnăvi.</quote><bibl><abbr type="siglum" author="CORESI" pages="58" sigla="CORESI, EV." source="EV.">CORESI, EV. 58</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Se cade fitului omenesc mult a se chinui și batjocurit a fi..., și ucis a fi, și a treia zi învie-va.</quote><bibl><abbr type="siglum" author="id." pages="67" source="ib.">id. ib. 67</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Eu ucig și viu fac, vatăm și eu vindec.</quote><bibl><abbr type="siglum" author="id." pages="293"><hi rend="superscript">r</hi>/4" source="PS. SL.-ROM.">id. PS. SL.-ROM. 293<hi rend="superscript">r</hi>./4</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Iară mutarea, de-ș va ucide feciorul de năprasnă și va muri.</quote><bibl> id. în <citedRange century="XVI" pages="222" source="TEXTE ROM.">TEXTE ROM. (XVI), 222</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cine va ucide pe Cain de șapte ori va fi pedepsit.</quote><bibl><citedRange pages="23/12" source="PO">PO 23/12</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Adună ceată și se rădicară într-aceea noapte de uciseră pre Mihail</quote><bibl> (a. 1620). <citedRange pages="62/2" source="GCR" volume="I">GCR I, 62/2</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Deci Mavrichie fu vinovat; dară coconii pentru ce-i uciseră fără vină?</quote><bibl><citedRange source="MOXA">MOXA</citedRange>, C. 77<hi rend="superscript">r</hi>./15</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>S-au jeluit... c-a ucis Capșea pre un fecior a lui Dumitru</quote><bibl> (a. 1621). <abbr type="siglum" author="I. BIANU" pages="64" sigla="I. BIANU, D. R." source="D. R.">I. BIANU, D. R. 64</abbr>, cf. <citedRange pages="154" source="ST. LEX.">ST. LEX.154</citedRange><hi rend="superscript">v1</hi>./21</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Vlădicii... să svătuisă ca să ucigă și pre Lazar.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="66" sigla="VARLAAM, C." source="C.">VARLAAM, C. 66</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nu voi posluși acesta lucru ca să ocig pruncul.</quote><bibl><citedRange source="HERODOT">HERODOT</citedRange><hi rend="superscript">2</hi>., 45</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>El s-au mâniiat și i-au ucis pre toți.</quote><bibl><abbr type="siglum" author="id." pages="103" source="ib.">id. ib. 103</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>De să va prileji să dea lupii în oi..., cela ce au ucis dulăul să plătească toată paguba.</quote><bibl><citedRange pages="20" source="PRAV.">PRAV. 20</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cela ce să va  svătui să ucigă pre vreun diregătoriu,... de nu va fi apucat să facă moarte, să nu se cearte.</quote><bibl>id. 70</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cine ucide vinovat iaste giudecății.</quote><bibl><citedRange pages="7"><hi rend="superscript">r</hi>/13" source="N. TEST." year="1648">N. TEST. (1648), 7<hi rend="superscript">r</hi>./13</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Poate fiecine să ucigă fără certare pre cela ce să găteaște să-l fure</quote><bibl> (a. 1652). <citedRange pages="162/6" source="GCR" volume="I">GCR I, 162/6</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cetățenii vrură să-l ucigă cu-nșelăciune.</quote><bibl><abbr type="siglum" author="DOSOFTEI" month="noiembrie" pages="126"><hi rend="superscript">r</hi>/13" sigla="DOSOFTEI, V. S." source="V. S.">DOSOFTEI, V. S. noiembrie 126<hi rend="superscript">r</hi>./13</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Boul... pre vreun bărbat sau muiare va împunge așa cum să moară, acel bou să-l ucigă cu pietri.</quote><bibl><abbr type="siglum" author="ZOBA" pages="105" sigla="ZOBA, S." source="S.">ZOBA, S. 105</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>I-au scos pre ei să-i ucigă la pustie.</quote><bibl><citedRange pages="133"><hi rend="superscript">1</hi>/47" source="BIBLIA" year="1688">BIBLIA (1688), 133<hi rend="superscript">1</hi>./47</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cela ce va omorî <usg>(v a o m o r î ms. 45, va ucide ms. 4 389)</usg> pre Cain șapte izbândiri va dezlega.</quote><bibl>ib.<hi rend="superscript">2</hi>. I, 176/43</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cu toții... asupra nevinovatului și bunului împărat năvrăpăsc și acolea pe loc neomenește îl ucig.</quote><bibl><abbr type="siglum" author="CANTEMIR" pages="225" sigla="CANTEMIR, HR." source="HR.">CANTEMIR, HR. 225</abbr>, cf. <citedRange source="ANON. CAR.">ANON. CAR.</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>El le-au dat galbeni, că să temea să nu-l ucigă.</quote><bibl> R. POPESCU, <citedRange pages="285" source="CM" volume="I">CM I, 285</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Lovi pe măgariu și-l ucise</quote><bibl> (cca 1705). <citedRange pages="353/10" source="GCR" volume="I">GCR I, 353/10</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nimenea să nu ucidă pre ceea ce s-au păzit vie de cătră dânșii.</quote><bibl><citedRange pages="75"><hi rend="superscript">v</hi>/12" source="AETHIOPICA">AETHIOPICA, 75<hi rend="superscript">v</hi>./12</citedRange>, cf. <abbr type="siglum" author="KLEIN" pages="444" sigla="KLEIN, D." source="D.">KLEIN, D. 444</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Iacă vrăjmașul va să ne ucidă.</quote><bibl><abbr type="siglum" author="BUDAI-DELEANU" pages="279" sigla="BUDAI-DELEANU, Ț." source="Ț.">BUDAI-DELEANU, Ț. 279</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Îndărăt de-aci, că aci cu pietri te ucidem și te mâncă câini!</quote><bibl> N. STOICA, C B. 186, cf. <citedRange source="DRLU">DRLU</citedRange>, LB</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Soldații... au perit ucigând o mulțime de dușmani.</quote><bibl><citedRange pages="51"><hi rend="superscript">1</hi>/5" source="AR" year="1829">AR (1829), 51<hi rend="superscript">1</hi>./5</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Spre-a patriii paos a-l ucide am cercat.</quote><bibl><abbr type="siglum" author="ASACHI" pages="208" sigla="ASACHI, S. L." source="S. L." volume="I">ASACHI, S. L. I, 208</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>După ce îi uciseră mai pe toți, se întoarseră la locul luptei spre a culege jaful.</quote><bibl><abbr type="siglum" author="BĂLCESCU" pages="392" sigla="BĂLCESCU, M. V." source="M. V.">BĂLCESCU, M. V. 392</abbr>, cf. <citedRange source="ISER">ISER</citedRange>, BAR. - MUNT., W. 782<hi rend="superscript">2</hi>./38, <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>De două zile, o ceată de vânători cu arendașul moșiii se luptă să-i ucigă.</quote><bibl><abbr type="siglum" author="PELIMON" pages="221/4" sigla="PELIMON, I." source="I.">PELIMON, I. 221/4</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Făcătorii de rău fac complot ca să ucidă un călător spre a-l despoia.</quote><bibl><abbr type="siglum" author="CANELLA" pages="58" sigla="CANELLA, V." source="V.">CANELLA, V. 58</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucide-ne-mpreună ca pentru veșnicie Să fim doi spectri gemeni uniți prin infamie.</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="185" sigla="ALECSANDRI, T." source="T." volume="II">ALECSANDRI, T. II, 185</abbr>, cf. <abbr type="siglum" author="CIHAC" pages="295" sigla="CIHAC" volume="I">CIHAC, I, 295</abbr>, LM</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Mândrul căpitan Ce-a ucis cu mâna-i pașa musulman.</quote><bibl><abbr type="siglum" author="BOLINTINEANU" pages="44" sigla="BOLINTINEANU, O." source="O.">BOLINTINEANU, O. 44</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să-mi ucizi calul, tâlharule!</quote><bibl><abbr type="siglum" author="GRANDEA" pages="206" sigla="GRANDEA, S." source="S.">GRANDEA, S. 206</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Puteri să puie-n brațul ce-ar sta să mă ucidă.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="115" sigla="EMINESCU, O." source="O." volume="I">EMINESCU, O. I, 115</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ăla a fost ucis pe tată-său și-l băgase pe frate-său la ocnă.</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="285" sigla="CARAGIALE, O." source="O." volume="VI">CARAGIALE, O. VI, 285</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Care ucide ursul cu cuțitul fără a clipi?</quote><bibl><abbr type="siglum" author="DELAVRANCEA" pages="109" sigla="DELAVRANCEA, O." source="O." volume="II">DELAVRANCEA, O. II, 109</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Îndată se lăți vuietul că mitropolitul a fost ucis.</quote><bibl><abbr type="siglum" author="I. NEGRUZZI" pages="66" sigla="I. NEGRUZZI, A." source="A.">I. NEGRUZZI, A. 66</abbr>, cf. DDRF</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cel ce mi-a ucis bărbatul Azi mă are-n voia lui!</quote><bibl><abbr type="siglum" author="COȘBUC" pages="11" sigla="COȘBUC, P." source="P." volume="II">COȘBUC, P. II, 11</abbr>, cf. <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nu se poate să ucideți un copil!</quote><bibl><abbr type="siglum" author="DAVILA" pages="46" sigla="DAVILA, V. V." source="V. V.">DAVILA, V. V. 46</abbr>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Când Rienzi se apropie, îl ucide mișelește.</quote><bibl><abbr type="siglum" author="PANU" pages="26" sigla="PANU, A." source="A." volume="I">PANU, A. I, 26</abbr>, cf. <citedRange source="TDRG.">TDRG.</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Iahveh, pe Univers înfuriat, Ucide oameni ca să cadă stele.</quote><bibl><abbr type="siglum" author="CODREANU" pages="299" sigla="CODREANU, S." source="S." volume="I">CODREANU, S. I, 299</abbr>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Strecurându-se noaptea în odaia de culcare a domnului ca să-l ucidă, Clara-doamna e prinsă.</quote><bibl><abbr type="siglum" author="LOVINESCU" pages="86" sigla="LOVINESCU, S." source="S." volume="I">LOVINESCU, S. I, 86</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Mi-au ucis bărbatul în reghimentele lor.</quote><bibl><abbr type="siglum" author="REBREANU" pages="231" sigla="REBREANU, R." source="R." volume="II">REBREANU, R. II, 231</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ne-am bătut. Puteam prea bine să-l ucid. Dar l-am lăsat...</quote><bibl><abbr type="siglum" author="EFTIMIU" pages="98" sigla="EFTIMIU, Î." source="Î.">EFTIMIU, Î. 98</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Vehilul cu care trăia de câțiva ani... a ucis-o din gelozie.</quote><bibl><abbr type="siglum" author="M. ELIADE" pages="70" sigla="M. ELIADE, D." source="D.">M. ELIADE, D. 70</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ce? Ai ucis pe cineva?... Nu ai alură ofensivă.</quote><bibl><abbr type="siglum" author="TOPÂRCEANU" pages="228" sigla="TOPÂRCEANU,  O. A." source="O. A." volume="I">TOPÂRCEANU,  O. A. I, 228</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>A venit înaintea curții un ticălos care-și ucisese părinții.</quote><bibl><abbr type="siglum" author="BRĂESCU" pages="360" sigla="BRĂESCU, O. A." source="O. A." volume="II">BRĂESCU, O. A. II, 360</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Oștirile dușmanilor... veneau ucigând lumea și arzând satele.</quote><bibl><abbr type="siglum" author="VISSARION" pages="43" sigla="VISSARION, B." source="B.">VISSARION, B. 43</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucide-n cuib perechea de sure turturele Ce v-a-ngânat sărutul.</quote><bibl><abbr type="siglum" author="VOICULESCU" pages="231" sigla="VOICULESCU, POEZII" source="POEZII" volume="I">VOICULESCU, POEZII, I, 231</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Înainte de Hristos, femeia și copii erau sub stăpânirea totală a bărbatului, care îi putea chiar ucide.</quote><bibl><abbr type="siglum" author="ROMANESCU" pages="45" sigla="ROMANESCU, ZEȚ." source="ZEȚ.">ROMANESCU, ZEȚ. 45</abbr>, cf. <abbr type="siglum" author="D. POP" pages="155" sigla="D. POP, M." source="M.">D. POP, M. 155</abbr>, <abbr type="siglum" author="ROSETTI" pages="128" sigla="ROSETTI, L. R." source="L. R." volume="I">ROSETTI, L. R. I, 128</abbr>, <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Întorcându-se apoi acasă, ucide muștele care îl turburau, se culcă din nou și poate în sfârșit să doarmă.</quote><bibl><abbr type="siglum" author="NEGULESCU" pages="100" sigla="NEGULESCU, G." source="G.">NEGULESCU, G. 100</abbr></bibl>.</cit>
+            <cit id="-UNKNOWN"><quote>Temutul avocat  ucisese în duel acum trei ani pe un alt purtător de nume istoric: Tudor Buzescu.</quote><bibl><abbr type="siglum" author="MIHĂESCU" pages="32" sigla="MIHĂESCU, D. A." source="D. A.">MIHĂESCU, D. A. 32</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Am ucis furnicile cu sutele, strivindu-le.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="43" sigla="CĂLINESCU, C. O." source="C. O.">CĂLINESCU, C. O. 43</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cu câteva decenii înainte, Cain al lui Byron ucidea pe fratele său Avei.</quote><bibl><abbr type="siglum" author="BLAGA" pages="109" sigla="BLAGA, Z." source="Z.">BLAGA, Z. 109</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Și-a ucis cu focuri de pușcă prietenul.</quote><bibl><abbr type="siglum" author="VINEA" pages="82" sigla="VINEA, L." source="L." volume="II">VINEA, L. II, 82</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Războiul devalorizează... însăși viața, fiindcă el impune omului să ucidă omul.</quote><bibl><abbr type="siglum" author="FLORIAN" pages="35" sigla="FLORIAN, R." source="R." volume="II">FLORIAN, R. II, 35</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Vor aștepta lumina zilei, vor urca, vor sparge ușa și-l vor ucide.</quote><bibl><citedRange source="V. ROM.">V. ROM.</citedRange> ianuarie1966, 81</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigând și robind dușmanul..., au câștigat atunci biruința cea mai frumoasă.</quote><bibl><citedRange month="ianuarie" pages="27" source="V. ROM." year="1970">V. ROM. ianuarie  1970, 27</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uciga-l-aș, uciga, Dar nu știu ce-i otrava.</quote><bibl><abbr type="siglum" author="POMPILIU" pages="56" sigla="POMPILIU, B." source="B.">POMPILIU, B. 56</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ea a căutat vreme cu prilej de l-a ucis.</quote><bibl><abbr type="siglum" author="SEVASTOS" pages="66" sigla="SEVASTOS, P." source="P.">SEVASTOS, P. 66</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ziua ședea lângă oi..., Noaptea ucidea ciocoi.</quote><bibl><abbr type="siglum" author="RĂDULESCU-CODIN" pages="224" sigla="RĂDULESCU-CODIN, L. P." source="L. P." volume="I">RĂDULESCU-CODIN, L. P. I, 224</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>De ucis, n-am ucis pe nimeni.</quote><bibl> FURTUNĂ, C 82, cf. <citedRange pages="291" source="ALR" volume="I" volumepart="II">ALR I/II h 291</citedRange>, <citedRange pages="409" source="ALRM" volume="I" volumepart="II">ALRM I/II h 409</citedRange>, ALR II/I MN 3, 6 811, <citedRange pages="594/414" source="ALR" volume="II" volumepart="3">ALR II 3 594/414</citedRange>, 520, <citedRange pages="3" source="ib.">ib. 3</citedRange> 596/64, 105, 192, 219, 228, 272, 349, 551, 605, 682, 876, 899, 987, A V 15, VI 26, NALR- O II MN 285, 1904, NALR - B I h 118</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Jur-prejur de mese Stau în cete dese Sfinți și mucenici,... Uciși în dreptate.</quote><bibl><citedRange pages="288" source="BALADE" volume="I">BALADE, I, 288</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>A ieșit înaintea împăratului spuind că el a ucis șarpele.</quote><bibl>CAF III, 394</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Pentru tini-un rău de câne Mi-am ucis frate cu mine.</quote><bibl>ib. VI, 240</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Pentru un lucru de nimica era să-mi ucid vaca.</quote><bibl><citedRange pages="144" source="SNOAVA" volume="III">SNOAVA, III, 144</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nu vinde pielea ursului înainte de a-l ucide.</quote><bibl><abbr type="siglum" author="ZANNE" pages="680" sigla="ZANNE, P." source="P." volume="I">ZANNE, P. I, 680</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Gura ucide mai mult decât sabia.</quote><bibl><abbr type="siglum" author="id." pages="178" source="ib." volume="II">id. ib. II, 178</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+        <sense class="4" value="◊">
+          <def>
+            <usg>(Prin analogie)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Albinele... îi ucig [pe trântori] și din lăcașul lor afară îi scot.</quote><bibl><abbr type="siglum" author="TOMICI" pages="20/15" sigla="TOMICI, C. A." source="C. A.">TOMICI, C. A. 20/15</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="5" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Soarele în răsărit de sânge-și spală-n mare Lăncile, cu care a ucis în goană noaptea.</quote><bibl><abbr type="siglum" author="BLAGA" pages="10" sigla="BLAGA, POEZII" source="POEZII">BLAGA, POEZII, 10</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="6" value="◊">
+          <def>
+            <usg>Absol.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Ai obidit vrun om mișel sau ai ucis.</quote><bibl><citedRange pages="214" source="COD. TOD.">COD. TOD. 214</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Boambele... rău ucidea.</quote><bibl><abbr type="siglum" author="N. STOICA" pages="165" sigla="N. STOICA, C. B." source="C. B.">N. STOICA, C. B. 165</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Toți care au ucis n-au să uite aceasta niciodată.</quote><bibl><abbr type="siglum" author="C. PETRESCU" pages="18" sigla="C. PETRESCU, Î." source="Î." volume="II">C. PETRESCU, Î. II, 18</abbr></bibl>.</cit>
+              <cit id="-UNKNOWN"><quote>Poate ai fi vrut să și ucizi?</quote><bibl><abbr type="siglum" author="ARGHEZI" pages="95" sigla="ARGHEZI, S." source="S." volume="XI">ARGHEZI, S. XI, 95</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cine-a văzut pe ucigaș șezând, Și după ce-a ucis, Alăturea de victimă, ani lungi?</quote><bibl><abbr type="siglum" author="JEBELEANU" pages="73" sigla="JEBELEANU, S. H." source="S. H.">JEBELEANU, S. H. 73</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Am mers la vânătoare și-am ucis.</quote><bibl><abbr type="siglum" author="ISANOS" pages="390" sigla="ISANOS, P." source="P.">ISANOS, P. 390</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Obuzele ucideau și săpau totodată groapa,</quote><bibl><abbr type="siglum" author="id." pages="104" source="V.">id. V. 104</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="7" value="◊">
+          <def>
+            <usg type="gram">Refl. pas.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Poruncea Dumnezeu, în legea veche, că de va slobozi vreo fată, cu bună voia ei, a-și pierde fecioriia sa..., să  se ucidă cu pietri.</quote><bibl><abbr type="siglum" author="MAIOR" pages="801" source="ȘA" volume="I">MAIOR, în ȘA I, 801</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Secretariul ministrului..., ieșind de la teatru, s-au ucis de cătră un om, ce-l scoseră din slujba sa.</quote><bibl><citedRange pages="230"><hi rend="superscript">2</hi>/8" source="AR" year="1829">AR (1829), 230<hi rend="superscript">2</hi>./8</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Comendantul..., mergând cu o însămnătoare parte de armie prin Transilvania și Ungaria de sus, s-au ucis la a lui înturnare de cătră unguri.</quote><bibl><citedRange pages="20/6" source="IST. M.">IST. M. 20/6</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Iar de atunci nu se mai ucid oameni bătrâni.</quote><bibl><abbr type="siglum" author="FURTUNĂ" pages="41" sigla="FURTUNĂ, C." source="C.">FURTUNĂ, C. 41</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="8" value="◊">
+          <def>
+            <usg type="gram">Refl. recipr.</usg>
+            <bibl>Cf.<bibl> PONTBRIANT, D</bibl>.</bibl>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Să-i facă să se bată până s-or ucide.</quote><bibl><abbr type="siglum" author="CREANGĂ" pages="144" sigla="CREANGĂ, P." source="P.">CREANGĂ, P. 144</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Trebuie să umble, să plângă, să se mângâie, să râză, să se bată sau să se ucigă chiar.</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="297" sigla="CARAGIALE, O." source="O." volume="III">CARAGIALE, O. III, 297</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Dincolo de  noi,... atâția și atâția care se ucid.</quote><bibl><abbr type="siglum" author="C. PETRESCU" pages="103" sigla="C. PETRESCU, Î." source="Î." volume="I">C. PETRESCU, Î. I, 103</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Am fost trimiși să ne măcelărim unul pe altul... ar vrea să ne ucidem din nou.</quote><bibl><abbr type="siglum" author="H. LOVINESCU" pages="106" sigla="H. LOVINESCU, T." source="T.">H. LOVINESCU, T. 106</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="9" value="◊">
+          <def>
+            <usg>(Prin exagerare)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Discordia ne va ucide. Trebui să ne unim forțele.</quote><bibl><abbr type="siglum" author="HASDEU" pages="35" sigla="HASDEU, T. C." source="T. C.">HASDEU, T. C. 35</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Și-nciudat pe vulpe că l-a amăgit, se duce s-o ucidă în bătaie.</quote><bibl>CREANGĂ, ap. CADE</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Nu-i ucidea chinul, cât doru-i ucidea.</quote><bibl><abbr type="siglum" author="COȘBUC" pages="201" sigla="COȘBUC, P." source="P." volume="II">COȘBUC, P. II, 201</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Născutu-s-a din setea de lumină Ce pururea pe om va să-l ucidă.</quote><bibl><abbr type="siglum" author="CODREANU" pages="80" sigla="CODREANU, S." source="S." volume="I">CODREANU, S. I, 80</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>O, o, nu cumva ți-ai pus în gând să mă ucizi cu o mărturisire?</quote><bibl><abbr type="siglum" author="REBREANU" pages="105" sigla="REBREANU, I." source="I.">REBREANU, I. 105</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cântați-mi să mă satur,... Voi, stele, măști de aur, Hieratice făpturi. De m-ar ucide vraja romanticei păduri.</quote><bibl><abbr type="siglum" author="BOTTA" pages="127" sigla="BOTTA, S." source="S." volume="I">BOTTA, S. I, 127</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Își chinuiau mintea ce să mai inventeze ca să nu-i ucidă plictiseala.</quote><bibl><abbr type="siglum" author="PREDA" pages="12" sigla="PREDA, R." source="R.">PREDA, R. 12</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>L-o bătut de l-o ucigat.</quote><bibl><citedRange pages="596/95" source="ALR" volume="II" volumepart="3">ALR II 3 596/95</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="10" value="◊">
+          <def>
+            <usg>(Subiectul indică o boală, o substanță toxică, un obiect etc.)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Medicamentul,... la o doză oarecare, poate să ucigă.</quote><bibl><citedRange pages="50/22" source="MAN. SĂNĂT.">MAN. SĂNĂT. 50/22</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cade copacul peste car de-l sfarmă și peste boi de-i ucide.</quote><bibl><abbr type="siglum" author="CREANGĂ" pages="46" sigla="CREANGĂ, P." source="P.">CREANGĂ, P. 46</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>L-a ajuns boala care l-a ucis.</quote><bibl><abbr type="siglum" author="ARGHEZI" pages="154" sigla="ARGHEZI, S." source="S." volume="IX">ARGHEZI, S. IX, 154</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Molima din 1813-1814 a ucis jumătate din populația capitalei.</quote><bibl><abbr type="siglum" author="G. BARBU" pages="179" sigla="G. BARBU, A. V." source="A. V.">G. BARBU, A. V. 179</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="11" value="◊">
+          <def>
+            <usg>(Prin metonimie)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Cutare produs chimic... se  administrează cu centimiligramul, și rețeta lui ar putea ucide un elefant.</quote><bibl><abbr type="siglum" author="ARGHEZI" pages="31" sigla="ARGHEZI, S." source="S." volume="XII">ARGHEZI, S. XII, 31</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="12" value="◊">
+          <def>
+            <usg>(În imprecații)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Ești mai mare, apoi și mai frumușică, căci aceasta caută, precum îl văz eu, ucide-l-ar pietrile de schimonosit!</quote><bibl><abbr type="siglum" author="GORJAN" pages="173/14" sigla="GORJAN, H." source="H.">GORJAN, H. 173/14</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucig-o toaca! Bată-o pustia! D-ale ei fermeci mi-e rea soția.</quote><bibl><abbr type="siglum" author="I. VĂCĂRESCUL" pages="330/25" sigla="I. VĂCĂRESCUL, P." source="P.">I. VĂCĂRESCUL, P. 330/25</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ascundeți-vă mai bine..., ca să nu vă mai găsească, ucigă-l crucea și mănânce-l moartea!</quote><bibl><abbr type="siglum" author="EMINESCU" pages="16" sigla="EMINESCU, P. L." source="P. L.">EMINESCU, P. L. 16</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Dar diavolul ce alta are de lucru decât să ispitească... - ucigă-l crucea!</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="249" sigla="CARAGIALE, O." source="O." volume="II">CARAGIALE, O. II, 249</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucigă-te bolohanii, unde-ai îmbiat toată ziua,  spânzuratule?</quote><bibl><citedRange pages="16" source="CONTEMPORANUL" vnote="2" volume="VI">CONTEMPORANUL, VI<hi rend="subscript">2</hi>, 16</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Piei, dimone, ucigă-te-ar crucea!</quote><bibl><abbr type="siglum" author="DELAVRANCEA" pages="26" sigla="DELAVRANCEA, V. V." source="V. V.">DELAVRANCEA, V. V. 26</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucigă-te toaca! zice bătrâna scuipând în sân.</quote><bibl><abbr type="siglum" author="AGÂRBICEANU" pages="30" sigla="AGÂRBICEANU, O." source="O." volume="I">AGÂRBICEANU, O. I, 30</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Se bucura și zicea c-o avut noroc. Norocul, ucigă-l focul . . .</quote><bibl><abbr type="siglum" author="VLASIU" pages="468" sigla="VLASIU, A. P." source="A. P.">VLASIU, A. P. 468</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ptiu! Ucigă-te crucea!</quote><bibl><abbr type="siglum" author="SORESCU" pages="90" sigla="SORESCU, L. L." source="L. L." volume="III">SORESCU, L. L. III, 90</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucigă-te crucea, drace! Ce nu dai babelor pace?</quote><bibl><abbr type="siglum" author="JARNÍK - BÂRSEANU" pages="466" sigla="JARNÍK - BÂRSEANU, D." source="D.">JARNÍK - BÂRSEANU, D. 466</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucigă-te crucea, tu ai chiar nebunit de tot.</quote><bibl><abbr type="siglum" author="RETEGANUL" pages="7" sigla="RETEGANUL, P." source="P." volume="I">RETEGANUL, P. I, 7</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucigă-te toaca, da aici îmi erai părintele!</quote><bibl><abbr type="siglum" author="SEVASTOS" pages="119" sigla="SEVASTOS, P." source="P.">SEVASTOS, P. 119</abbr>, cf. <citedRange pages="167" source="ȘEZ." volume="V">ȘEZ. V, 167</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Fugi, izdate, blestemate, Ucigă-te sfânta cruce.</quote><bibl><abbr type="siglum" author="RĂDULESCU-CODIN" pages="562" sigla="RĂDULESCU-CODIN, L. P." source="L. P." volume="I">RĂDULESCU-CODIN, L. P. I, 562</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucigă-te sfânta cruce, Sui în pod și n-ai ce duce!</quote><bibl><abbr type="siglum" author="VICIU" pages="121" sigla="VICIU, F." source="F.">VICIU, F. 121</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucigă-te crucea, drace, Ce nu dai babelor pace, Să mai facă rugăciuni.</quote><bibl><citedRange pages="117" source="AN. DOBR." volume="XI">AN. DOBR. XI, 117</citedRange>, cf. <citedRange pages="596/346" source="ALR" volume="II" volumepart="3">ALR II 3 596/346</citedRange>, 705, 762, <citedRange map="2" source="ALR SN" volume="VII">ALR SN VII h 2</citedRange> 056/130</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Trezindu-se, începe a-și face cruce și a povesti ce a visat strigând: -Ptiu! ucigă-l toaca, necurat.</quote><bibl><citedRange pages="577" source="SNOAVA" volume="III">SNOAVA, III, 577</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="13" value="◊">
+          <def>
+            <RegDef>Compuse: <hi rend="bold">ucigă-l-crucea</hi>.  (ori <hi rend="bold">-sfânta-cruce</hi>.) sau <hi rend="bold">ucigă-l-toaca</hi>. , (regional) <hi rend="bold">ucigă-l-tămâia</hi>.  (ori <hi rend="bold">-fumul-</hi>. <hi rend="bold">tămâii</hi>.) sau <hi rend="bold">ucigă-l-pietrele</hi>.  (ori - <hi rend="bold">bolovanii</hi>.) sau <hi rend="bold">ucigă-l-vederea</hi>.  (ori - <hi rend="bold">mânia</hi>. , - <hi rend="bold">focul</hi>. , - <hi rend="bold">întunerecul</hi>.) sau <hi rend="bold">ucigă-l-Maica-Precista</hi>.  (ori - <hi rend="bold">Doamne)</hi></RegDef>
+		  </def>
+		
+		  <sense class="14" value="a)">
+            <def>
+		    <MorfDef>s.m. </MorfDef>
+			<usg>(popular)</usg>
+			<RegDef> nume dat diavolului.</RegDef><bibl>Cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr></bibl>.   
+			<dictScrap>
+			  <cit id="UNKNOWN"><quote>Fugea lumea de dânsul ca de ucigă-l toaca.</quote><bibl><abbr type="siglum" author="GHICA" pages="41" sigla="GHICA, S." source="S.">GHICA, S. 41</abbr>, cf. <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Îngerul urât se pare, ucigă-l-crucea frumos!</quote><bibl><abbr type="siglum" author="HASDEU" pages="16" sigla="HASDEU, R. V." source="R. V.">HASDEU, R. V. 16</abbr>, cf. <citedRange pages="508" source="HEM">HEM 508</citedRange></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Când se pune el, face și pă ucigă-l tămâia mogândeață și tot iese dasupra.</quote><bibl><abbr type="siglum" author="JIPESCU" pages="52" sigla="JIPESCU, O." source="O.">JIPESCU, O. 52</abbr>, cf. 114</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Balele... pe care ucigă-l-toaca le scuipă din văgăune... se adună în nomol.</quote><bibl><abbr type="siglum" author="ODOBESCU" pages="187" sigla="ODOBESCU, S." source="S." volume="III">ODOBESCU, S. III, 187</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Moșneagul însă, gândind că-i ucigă-l-crucea, s-a spăriet.</quote><bibl><abbr type="siglum" author="CREANGĂ" pages="79" sigla="CREANGĂ, P." source="P.">CREANGĂ, P. 79</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>A călcat omul în urmă rea și-a căzut în stăpânirea lui ucigă-l-toaca.</quote><bibl><abbr type="siglum" author="SLAVICI" pages="334" sigla="SLAVICI, N." source="N." volume="II">SLAVICI, N. II, 334</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Cotoroanța de babă... Ucigă-l crucea mi-a adus-o azi în casă.</quote><bibl><citedRange pages="16" source="CONTEMPORANUL" vnote="2" volume="VI">CONTEMPORANUL, VI<hi rend="subscript">2</hi>, 16</citedRange></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>În Moldova... cred românii că cel ce s-a omorât singur pe sine s-a dat lui ucigă-l-crucea.</quote><bibl><abbr type="siglum" author="MARIAN" pages="345" sigla="MARIAN, Î." source="Î.">MARIAN, Î. 345</abbr>, cf. <citedRange source="DDRF">DDRF</citedRange>, <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr>, <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <abbr type="siglum" author="CANDREA" pages="114" sigla="CANDREA, F." source="F.">CANDREA, F. 114</abbr>, <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="PAMFILE" pages="58" sigla="PAMFILE, S. T." source="S. T.">PAMFILE, S. T. 58</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Când faci casă nouă, să îngropi de viu un cucoș în mijlocul ei, atunci nu se apropie „ucigă-l-crucea” de casă.</quote><bibl><abbr type="siglum" author="GOROVEI" pages="56" sigla="GOROVEI, CR." source="CR.">GOROVEI, CR. 56</abbr>, cf. <citedRange source="JAHRESBER.">JAHRESBER.</citedRange> XIX-XX, 16</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Ucidă-l-toaca s-amestecă în daravelele oaminilor.</quote><bibl><abbr type="siglum" author="SEVERIN" pages="54" sigla="SEVERIN, S." source="S.">SEVERIN, S. 54</abbr>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, CADE</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Din ziua aceea gospodarii toți s-au lepădat de ucigă-l crucea.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="36" sigla="SADOVEANU, O." source="O." volume="III">SADOVEANU, O. III, 36</abbr>, cf. <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Ți-am spus să nu mai pomenești pe ucigă-l-crucea. Ce păcatele, doar ești preot bătrân.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="239" sigla="CĂLINESCU, E. O." source="E. O." volume="II">CĂLINESCU, E. O. II, 239</abbr>, cf. <citedRange pages="11" source="FORM. CUV." volume="I">FORM. CUV. I, 11</citedRange>, 40, 104, 107, 108, H IV 161</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>A treia noapte au venit ucigă-i-crucea cu iadul întreg înaintea lui..., dar toate acestea n-au îngrozit pe voinic.</quote><bibl><abbr type="siglum" author="SBIERA" pages="153" sigla="SBIERA, P." source="P.">SBIERA, P. 153</abbr>, com. MARIAN</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>De-o fi „ucigă-l-toaca”, ne facem cruce și-l închinăm în stani și-n bolovani.</quote><bibl><abbr type="siglum" author="RETEGANUL" pages="14" sigla="RETEGANUL, P." source="P." volume="I">RETEGANUL, P. I, 14</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Ucigă-l crucea  a secat toate izvoarele.</quote><bibl><abbr type="siglum" author="SEVASTOS" pages="32" sigla="SEVASTOS, P." source="P.">SEVASTOS, P. 32</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Fugeau, pare c-ar fi văzut pe ucigă-l toaca.</quote><bibl><abbr type="siglum" author="id." pages="91" source="ib.">id. ib. 91</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Ucidă-l-crucea, diavolu,... e dușmanul cel mai neîmpăcat al omului.</quote><bibl><citedRange pages="241" source="ȘEZ." volume="I">ȘEZ. I, 241</citedRange></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Și fata fugea de cioban ca de ucigă-l-toaca.</quote><bibl><abbr type="siglum" author="RĂDULESCU-CODIN" pages="163" sigla="RĂDULESCU-CODIN, Î." source="Î.">RĂDULESCU-CODIN, Î. 163</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Să cătrănea ucigă-l-crucea și se înnegrea de ciudă.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="12" sigla="PAMFILE, D." source="D.">PAMFILE, D. 12</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>O îndemnă ucigă-l-toaca de se suie pe un lemn s-o ducă și pe ea acasă.</quote><bibl><citedRange pages="263" source="I. CR." volume="II">I. CR. II, 263</citedRange>, cf. III, 286</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Chiuie fata, iaca vie ucigă-l crucea - Dumnezeu cu noi, în casă!</quote><bibl><abbr type="siglum" author="FURTUNĂ" pages="50" sigla="FURTUNĂ, C." source="C.">FURTUNĂ, C. 50</abbr>, cf. <abbr type="siglum" author="COMAN" sigla="COMAN, GL." source="GL.">COMAN, GL.</abbr>, <citedRange pages="616/770, 890, 934, 960" source="ALR" volume="I">ALR I 616/770, 890, 934, 960</citedRange>, ALR II/I MN 95, 2 744, <citedRange map="1" source="ALR SN" volume="V">ALR SN V h 1</citedRange> 568/192</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>N-are pe unde scăpa, Că nu-i ucigă-l-crucea!</quote><bibl><citedRange pages="249" source="BALADE" volume="II">BALADE, II, 249</citedRange>, cf. <abbr type="siglum" author="ZANNE" pages="392" sigla="ZANNE, P." source="P." volume="IV">ZANNE, P. IV, 392</abbr>, ib. VI, 537</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Nu trecea o noapte în care ucigă-l sfânta cruce cu toți puii lui să nu fi scăpărat pe lângă bordeiașul babii Marină.</quote><bibl><citedRange pages="103" source="SNOAVA" volume="II">SNOAVA, II, 103</citedRange></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Nerușinându-se de sfântul locaș, rostiră chiar numele lui ucigă-l toaca în biserică.</quote><bibl>ib. III, 416</bibl>.</cit>
+			</dictScrap>
+			</def>
+          </sense>
+		  <sense class="15" value="b)">
+            <def>
+              <usg>(Astr.; regional)</usg>
+              <RegDef>cărăușul.</RegDef>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Cărăușului îi zic unii și ucigă-l-toaca sau ucigă-l-crucea, adică diavolul.</quote><bibl><abbr type="siglum" author="OTESCU" pages="5" sigla="OTESCU, CR." source="CR.">OTESCU, CR. 5</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Prin unele părți, cărăușul se mai cheamă și ucigă-l-toaca.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="163" sigla="PAMFILE, CER." source="CER.">PAMFILE, CER. 163</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+        </sense>
+        <sense class="16" value="♦">
+          <def>
+            <usg type="gram">Refl.</usg>
+            <RegDef>A se sinucide.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Înșiși să vor ucide prea sine unde vor vede slava sfinților</quote><bibl> (cca 1550). <citedRange pages="471/7" source="CUV. D. BĂTR." volume="II">CUV. D. BĂTR. II, 471/7</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Nu uitați că între sărutul însoțirei voastre se va pune fantomul acelei ce s-a ucis din pricina voastră.</quote><bibl><abbr type="siglum" author="NEGRUZZI" pages="54" sigla="NEGRUZZI, S." source="S." volume="I">NEGRUZZI, S. I, 54</abbr>, cf. <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Când ar ști Stănică că eu sânt aici, sânt sigură că s-ar ucide!</quote><bibl><abbr type="siglum" author="BOLINTINEANU" pages="403" sigla="BOLINTINEANU, O." source="O.">BOLINTINEANU, O. 403</abbr>, cf. 223</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Decebal... mai înainte de a se ucide cu propria sa mână, puse să abată apele răului Sargeția.</quote><bibl><abbr type="siglum" author="ODOBESCU" pages="284" sigla="ODOBESCU, S." source="S." volume="II">ODOBESCU, S. II, 284</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Iar tu uiți tot la raza de splendoare Ce-o varsă-asupra ta a  lumii regi... Ș-ai vrea cu proprii mâni să ne ucidem.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="373" sigla="EMINESCU, O." source="O." volume="IV">EMINESCU, O. IV, 373</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ce-mi mai rămâne de făcut?... Dacă m-aș ucide!</quote><bibl><abbr type="siglum" author="GANE" pages="177" sigla="GANE, N." source="N." volume="I">GANE, N. I, 177</abbr>, cf. DDRF</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Regele... și fruntașii geți se ucid singuri, spre a nu cădea prizonieri.</quote><bibl><abbr type="siglum" author="PÂRVAN" pages="89" sigla="PÂRVAN, G." source="G.">PÂRVAN, G. 89</abbr>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, CADE</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Spun parcă toți cireșii o poveste Cu-o zână albă care s-a ucis.</quote><bibl><abbr type="siglum" author="D. BOTEZ" pages="22" sigla="D. BOTEZ, P. O." source="P. O.">D. BOTEZ, P. O. 22</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="17" value="♦">
+          <def>
+		  <usg>(Regional; complementul indică animale, păsări domestice)</usg>
+		  <RegDef>A tăia</RegDef>
+		  </def>
+		  <sense class="18" value="(III 1)">
+		    <def>
+		    <RegDef> a sacrifica <hi rend="bold">(1)</hi>.</RegDef><bibl>Cf. <citedRange source="LB">LB</citedRange>, <citedRange pages="291" source="ALR" volume="I" volumepart="II">ALR I/II h 291</citedRange>, <citedRange pages="409" source="ALRM" volume="I" volumepart="II">ALRM I/II h 409</citedRange>, <citedRange pages="736/243, 255, 266, 269, 270, 273, 280, 283, 355" source="ALR" volume="I">ALR I 736/243, 255, 266, 269, 270, 273, 280, 283, 355</citedRange>, <citedRange pages="596/157" source="ALR" volume="II" volumepart="3">ALR II 3 596/157</citedRange>, 219, 228, 235, 250, 284, <citedRange map="1" source="ALR SN" volume="IV">ALR SN IV h 1</citedRange> 117, <citedRange map="936" source="ALRM SN" volume="III">ALRM SN III h  936</citedRange></bibl>.
+          </def>
+		  </sense>
+		  <sense class="19" value="◊">
+            <def>
+              <usg>Fig.</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>O voi cari sânteți așezați de păstori ai oamenilor, nu sânteți păstori decât numai ca să tundeți și să ucideți turma voastră.</quote><bibl><abbr type="siglum" author="PLEȘOIANU" pages="43/4" sigla="PLEȘOIANU, T." source="T." volume="IV">PLEȘOIANU, T. IV, 43/4</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+        </sense>
+        <sense class="20" value="♦">
+          <def>
+            <usg type="gram">Tranz. și refl.</usg>
+            <usg>(Învechit și regional; despre părți ale corpului, țesuturi)</usg>
+            <RegDef>A (se) distruge, a (se) vătăma (<hi rend="bold">I 1</hi>.).</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Apucatu-m-au zile de sărăcie... și piialea mea s-au ucis tare și oasele mele să ojogiră de arsură.</quote><bibl><citedRange pages="375"><hi rend="superscript">2</hi>/49" source="BIBLIA" year="1688">BIBLIA (1688), 375<hi rend="superscript">2</hi>./49</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ți-ai ucis mâna.</quote><bibl><citedRange map="1" source="ALR SN" volume="VII">ALR SN VII h 1</citedRange> 924/29</bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="21" value="♦">
+          <def>
+            <usg type="gram">Tranz.</usg>
+            <usg>(Regional)</usg>
+            <RegDef>A obosi foarte tare, a epuiza.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Duduia părea cuminte, își căuta de casă, de copii;... voia parcă anume să-si ucidă nervii prea ațâțați.</quote><bibl><abbr type="siglum" author="NĂDEJDE" pages="21" sigla="NĂDEJDE, C. V." source="C. V.">NĂDEJDE, C. V. 21</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Muta mobilele dintr-un loc în altul... pân ce-și ucidea trupul si urâtul.</quote><bibl><abbr type="siglum" author="id." pages="23" source="ib.">id. ib. 23</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+          <sense class="22" value="◊">
+            <def>
+              <usg type="gram">Refl.</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>M-am ucis.</quote><bibl><citedRange pages="291" source="ALR" volume="I" volumepart="II">ALR I/II h 291</citedRange>/35, cf. <citedRange pages="409" source="ALRM" volume="I" volumepart="II">ALRM I/II h 409</citedRange>/35</bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+      </sense>
+      <sense class="23" value="2.">
+        <def>
+          <usg>Fig.</usg>
+          <RegDef>A face să piară; a distruge, a nimici <hi rend="bold">(1)</hi>.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Ucise viniile lor și smochinele lor și tiri tot lemnul de hotarul lor.</quote><bibl><citedRange pages="221" source="PSALT.">PSALT. 221</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>O, mândră floare,... mă tem că te va ucide A brumei aspre crudul venin.</quote><bibl><abbr type="siglum" author="ASACHI" pages="114" sigla="ASACHI, S. L." source="S. L." volume="I">ASACHI, S. L. I, 114</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>În zădar îngheți pământul, Ucizi florile.</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="22" sigla="ALECSANDRI, P." source="P." volume="III">ALECSANDRI, P. III, 22</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Fluturii plecară și se depărtară atât de mult,... încât s-au pierdut printre fulgii de zăpadă și au fost uciși de iarnă.</quote><bibl><abbr type="siglum" author="D. ZAMFIRESCU" pages="271" sigla="D. ZAMFIRESCU, O." source="O." volume="V">D. ZAMFIRESCU, O. V, 271</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Sondele au spart scoarța pământului, fierăstraiele au ucis pădurile.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="391" sigla="SADOVEANU, O." source="O." volume="XIV">SADOVEANU, O. XIV, 391</abbr>, cf. <citedRange pages="434" source="L. ROM." year="1987">L. ROM. 1987, 434</citedRange></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+      <sense class="24" value="3.">
+        <def>
+          <usg>Fig.</usg>
+          <usg>(Complementul indică un abstract, un fenomen etc.)</usg>
+          <RegDef>A provoca dispariția, a face să înceteze.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Nu vă temeți... sufletu lui nu pot ucide.</quote><bibl><citedRange pages="178/14" source="EV. SL.-ROM.">EV. SL.-ROM. 178/14</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Fără de cuvinte pohtă să o ucidem.</quote><bibl><abbr type="siglum" author="CORESI" pages="163" sigla="CORESI, EV." source="EV.">CORESI, EV. 163</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Sparse zidul păcatului și vrajba o ucise cu venirea sa</quote><bibl> (a. 1644). <citedRange pages="111/27" source="GCR" volume="I">GCR I, 111/27</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Astă manieră de privire ucide geniul, încurajează puternic înmulțirea mediocrităților</quote><bibl> (a. 1862). <citedRange pages="188" source="PLR" volume="I">PLR I, 188</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Sărmana copilă cercă în zadar să lupte în contra destinului, care-i ucidea fericirea.</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="109" sigla="ALECSANDRI, O. P." source="O. P.">ALECSANDRI, O. P. 109</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nenorocirea mea îi va ucide viața.</quote><bibl><abbr type="siglum" author="BOLINTINEANU" pages="404" sigla="BOLINTINEANU, O." source="O.">BOLINTINEANU, O. 404</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Tu îmi ucizi gândirea, căci nu mă înțelegi.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="437" sigla="EMINESCU, O." source="O." volume="IV">EMINESCU, O. IV, 437</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Acea speranță eu o ucideam în inima mea.</quote><bibl><abbr type="siglum" author="id." pages="230" source="ib." volume="VII">id. ib. VII, 230</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Câte talente ucise!</quote><bibl><abbr type="siglum" author="DELAVRANCEA" pages="64" sigla="DELAVRANCEA, T." source="T.">DELAVRANCEA, T. 64</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>După ce vârsta aceasta trece... frumoasele simțimente sunt ucise de proza vieții.</quote><bibl><abbr type="siglum" author="D. ZAMFIRESCU" pages="24" sigla="D. ZAMFIRESCU, O." source="O." volume="V">D. ZAMFIRESCU, O. V, 24</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Privirea ei zâmbitoare ucidea orice putere de împotrivire.</quote><bibl><abbr type="siglum" author="BRĂTESCU-VOINEȘTI" pages="166" sigla="BRĂTESCU-VOINEȘTI, P." source="P.">BRĂTESCU-VOINEȘTI, P. 166</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Dar ea, ca energia să-mi ucidă, Râdea mereu cu râsul ei drăcesc.</quote><bibl><abbr type="siglum" author="CODREANU" pages="252" sigla="CODREANU, S." source="S." volume="I">CODREANU, S. I, 252</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cucoana Marieta era așa de parfumată..., încât ucise într-o clipă... mirosul rustic și bărbătesc al nucului, sub care se aflau.</quote><bibl><abbr type="siglum" author="HOGAȘ" pages="91" sigla="HOGAȘ, H." source="H.">HOGAȘ, H. 91</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Băui până simții că am ucis setea.</quote><bibl><abbr type="siglum" author="id." pages="293" source="DR." volume="I">id. DR. I, 293</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Moartea lui ucisese însă tot în ea.</quote><bibl><abbr type="siglum" author="PAPADAT-BENGESCU" pages="72" sigla="PAPADAT-BENGESCU, R." source="R." volume="I">PAPADAT-BENGESCU, R. I, 72</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Rănile s-au închis; am ucis trecutul.</quote><bibl><abbr type="siglum" author="LOVINESCU" pages="29" sigla="LOVINESCU, S." source="S." volume="I">LOVINESCU, S. I, 29</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Am făcut un tratat spre a ucide echivocul.</quote><bibl><abbr type="siglum" author="TITULESCU" pages="641" sigla="TITULESCU, D." source="D.">TITULESCU, D. 641</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>S-a dus să-și ucidă neastâmpărul... prin cele păduri cu fiare de vânat.</quote><bibl><abbr type="siglum" author="GALACTION" pages="71" sigla="GALACTION, O." source="O.">GALACTION, O. 71</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Oameni veniți să-și ucidă urâtul... cătară hipnotic la ascensiunea domoală a luminei.</quote><bibl><abbr type="siglum" author="C. PETRESCU" pages="16" sigla="C. PETRESCU, Î." source="Î." volume="I">C. PETRESCU, Î. I, 16</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>E inadmisibil să ucizi, cu un gest, tot ce e mai curat și mai sfânt într-un om!</quote><bibl><abbr type="siglum" author="MUȘATESCU" pages="375" sigla="MUȘATESCU, T." source="T.">MUȘATESCU, T. 375</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucis-am în gând întâia clipă a vieții și fulgerat-am începuturile tale.</quote><bibl><abbr type="siglum" author="CIORAN" pages="117" sigla="CIORAN, C. A." source="C. A.">CIORAN, C. A. 117</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Îmi voi ucide timpul și visurile, deci, Cărpi-voi pe-ntuneric mantaua vieții mele.</quote><bibl><abbr type="siglum" author="ARGHEZI" pages="58" sigla="ARGHEZI, S." source="S." volume="I">ARGHEZI, S. I, 58</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Strângând banii, ai ucis din fașă zece tragedii.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="38" sigla="CĂLINESCU, C. O." source="C. O.">CĂLINESCU, C. O.  38</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Eu nu strivesc corola de minuni a lumii Și nu ucid Cu mintea tainele ce le-ntâlnesc În calea mea.</quote><bibl><abbr type="siglum" author="BLAGA" pages="3" sigla="BLAGA, POEZII" source="POEZII">BLAGA, POEZII, 3</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Retrăiește aspirațiile, înfrângerile, durerile... cu o pietate pe care n-a ucis-o spiritul critic.</quote><bibl><abbr type="siglum" author="CONSTANTINESCU" pages="251" sigla="CONSTANTINESCU, S." source="S." volume="III">CONSTANTINESCU, S. III, 251</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ca Saul omorând vrăjitoarele, așa voi ucide Melancolia.</quote><bibl><abbr type="siglum" author="BOTTA" pages="92" sigla="BOTTA, S." source="S." volume="I">BOTTA, S. I, 92</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Seceta a ucis orice boare de vânt. Soarele s-a topit și a curs pe pământ.</quote><bibl><abbr type="siglum" author="LABIȘ" pages="37" sigla="LABIȘ, P." source="P.">LABIȘ, P. 37</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Prea multă finețe ucide sensul însuși al criticii.</quote><bibl><citedRange month="iunie" pages="27" source="V. ROM." year="1965">V. ROM. iunie 1965, 27</citedRange></bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="25" value="◊">
+          <def>
+            <usg>Expr.</usg>
+            <RegDef><hi rend="bold">A ucide timpul </hi>= a omorî timpul, v. o m o r î <hi rend="bold">(2)</hi>.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Succesele de la Brașov nu erau decât un mod de a  ucide timpul și amintirea speranței.</quote><bibl><abbr type="siglum" author="TEODOREANU" pages="428" sigla="TEODOREANU, L." source="L.">TEODOREANU, L. 428</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Li se părea că a ucide timpul... în acest chip e o farsă pe care o joacă destinului.</quote><bibl><abbr type="siglum" author="VINEA" pages="198" sigla="VINEA, L." source="L." volume="I">VINEA, L. I, 198</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      <sense class="26" value="4.">
+        <def>
+          <usg>(Învechit și regional)</usg>
+          <RegDef>A bate (pe cineva) foarte tare; a lovi rău (pe cineva).</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Și-i ucidea prin gloate ceia ce credea întru tinre.</quote><bibl><citedRange source="COD. VOR.">COD. VOR.</citedRange><hi rend="superscript">2</hi>. 21<hi rend="superscript">v</hi>./7</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cine te va ucide în bucă dă și alalta</quote> (a. 1574). <bibl>GCR I, *9/14</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nepotul popei... au uces un om de au murit</quote><bibl> (a. 1588). <citedRange pages="52" source="CUV. D. BĂTR." volume="I">CUV. D. BĂTR. I, 52</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Se... duc în orașe și în cetăți de-i gonescu și-i  hulescu și-i ucigu și-i scopescu spre ei.</quote><bibl><citedRange pages="209" source="COD. TOD.">COD. TOD. 209</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ei, venindu, i-au timpinat niște tălhar[i]... și i-au tălhuit și i-au ucis, cum vor spune sânguri dumitale</quote><bibl> (a. 1629). <abbr type="siglum" author="IORGA" pages="46" sigla="IORGA, D. B." source="D. B." volume="I">IORGA, D. B. I, 46</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să vor duce... uciși și usturați de îngeri cumpliți și nemilostivi.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="25" sigla="VARLAAM, C." source="C.">VARLAAM, C. 25</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Luară trestiia și-l ucidea cu nusă în cap.</quote><bibl><abbr type="siglum" author="id." pages="78" source="ib.">id. ib. 78</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Va stropși cu picioarele sau-l va ucide cu pumnii ponciși în inimă, până-l va omorî.</quote><bibl><citedRange pages="85" source="PRAV.">PRAV. 85</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Coaste i-au frânt ucigându-o cu un ciocan de her.</quote><bibl><abbr type="siglum" author="DOSOFTEI" sigla="DOSOFTEI, V. S." source="V. S.">DOSOFTEI, V. S.</abbr> septemrie 20<hi rend="superscript">v</hi>./6</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Porunci să-l întinză pre doi stâlpi cruciș și să-l ucigă pre trup.</quote><bibl><citedRange pages="58"><hi rend="superscript">r1</hi>/29" source="MINEIUL" year="1776">MINEIUL (1776), 58<hi rend="superscript">r1</hi>./29</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>O ucidea pre trup cu  cureale crude.</quote><bibl><citedRange pages="187"><hi rend="superscript">r1</hi>/31" source="ib.">ib. 187<hi rend="superscript">r1</hi>./31</citedRange>, cf. <citedRange source="DRLU">DRLU</citedRange>, <citedRange source="ISER">ISER</citedRange>, <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, PONTBRIANT, D., <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU">ȘĂINEANU</abbr>, D. U., <citedRange source="CADE">CADE</citedRange>, DHLR II, 486</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Pe mine de ce m-ai ucis așa, cu ciomagul?</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="114" sigla="SADOVEANU, O." source="O." volume="III">SADOVEANU, O. III, 114</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Te asuprește Gheorghe Alistar? Ori te ucide?</quote><bibl><abbr type="siglum" author="id." pages="658" source="ib." volume="XIII">id. ib. XIII, 658</abbr>, cf. <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr>, <citedRange pages="61" source="CL" year="1970">CL 1970, 61</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>. A venit la cățelele acelea, carile erau acum iară ucise și rănite la picioare.</quote><bibl><abbr type="siglum" author="SBIERA" pages="209" sigla="SBIERA, P." source="P.">SBIERA, P. 209</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Îl frânseră, Îl uciseră, Până rânza îi și pierdură.</quote><bibl><citedRange pages="1" source="MAT. FOLK.">MAT. FOLK. 1</citedRange> 509</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Îl ucise, îl ucise și,... el știe cum făcu că muri copilul.</quote><bibl><abbr type="siglum" author="RĂDULESCU-CODIN" pages="34" sigla="RĂDULESCU-CODIN, Î." source="Î.">RĂDULESCU-CODIN, Î. 34</abbr>, cf. <abbr type="siglum" author="VICIU" sigla="VICIU, GL." source="GL.">VICIU, GL.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Se năpusti să-l apuce la bătaie... Și prinde a-l ucide cu harapnicul!</quote><bibl><abbr type="siglum" author="FURTUNĂ" pages="84" sigla="FURTUNĂ, V." source="V.">FURTUNĂ, V. 84</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ieste-o casă văruită Ș-o ńevastă necăẑîtă, C-o ucide bărbatu Ca să-ẑ lese drăguțu.</quote><bibl><abbr type="siglum" author="T. PAPAHAGI" pages="47" sigla="T. PAPAHAGI, M." source="M.">T. PAPAHAGI, M. 47</abbr>, cf. 235, <citedRange pages="155" source="GR. S." volume="V">GR. S. V, 155</citedRange>, <abbr type="siglum" author="PAȘCA" sigla="PAȘCA, GL." source="GL.">PAȘCA, GL.</abbr>, <citedRange pages="291" source="ALR" volume="I" volumepart="II">ALR I/II h 291</citedRange>, <citedRange pages="409" source="ALRM" volume="I" volumepart="II">ALRM I/II h 409</citedRange>, <citedRange pages="596/130" source="ALR" volume="II" volumepart="3">ALR II 3 596/130</citedRange>, <citedRange pages="3" source="ib.">ib. 3</citedRange> 598/27, 362, <citedRange map="978" source="ALR SN" volume="IV">ALR SN IV h 978</citedRange>/130, ib. VII h 1 924/784, A V 14, VI 4, 26</bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="27" value="◊">
+          <def>
+            <usg>(Complementul indică o parte a corpului)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Mitariul... nu vrea nici ochii săi să-ș rădice la ceriu, ce ucidea pieptul lui.</quote><bibl><abbr type="siglum" author="CORESI" pages="17" sigla="CORESI, EV." source="EV.">CORESI, EV. 17</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Îl trânti dracul în pământ, ucigându-i capul de pietri și... muri</quote><bibl> (a. 1692). <citedRange pages="296/23" source="GCR" volume="I">GCR I, 296/23</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Care femeie nu se silea să toarcă 7 jumătăți îi ucidea degetele cu un ciocan de fer.</quote><bibl>H III 314</bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="28" value="◊">
+          <def>
+            <usg>(Complementul indică un obiect)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Cumu-i piatra ce să cheamă adamant, cât să o are ucide cu hierul, tot nu să zdrobește.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="149" sigla="VARLAAM, C." source="C.">VARLAAM, C. 149</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="29" value="◊">
+          <def>
+            <usg type="gram">Refl. recipr.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Te ucizi cu careva?</quote><bibl><citedRange pages="291" source="ALR" volume="I" volumepart="II">ALR I/II h 291</citedRange>/361, cf. <citedRange pages="768/348" source="ALR" volume="I" volumepart="1">ALR I 1 768/348</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Doi feciori să ucid pă drum.</quote><bibl><citedRange pages="578/362" source="ALR" volume="II" volumepart="3">ALR II 3 578/362</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="30" value="♦">
+          <def>
+            <usg type="gram">Refl.</usg>
+            <usg>(Învechit și regional)</usg>
+            <RegDef>A se lovi, a se izbi.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Mitariul... se ucidea în piept și inema-ș răniia.</quote><bibl><abbr type="siglum" author="CORESI" pages="17" sigla="CORESI, EV." source="EV.">CORESI, EV. 17</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Aduș fiiul mieu ție, are duh mut; și unde să ară a fi, află-l el, ucide-se el... și scrâșneaște cu dinții lui.</quote><bibl><abbr type="siglum" author="id." pages="76" source="ib.">id. ib. 76</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>De pietri să ucidea și hiarăle și obedzile strica.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="174" sigla="VARLAAM, C." source="C.">VARLAAM, C. 174</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>El să îmbată și sare la pădure și să ucide de toți copacii</quote> (a. 1693). <bibl>DLRV</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>M-am ucis în cap cu pumnii.</quote><bibl>PANN, ap. CADE</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Am căzut și m-am ucis.</quote><bibl><citedRange pages="246" source="GR. S." volume="VI">GR. S. VI, 246</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="31" value="♦">
+          <def>
+            <usg type="gram">Refl.</usg>
+            <usg>(Învechit și regional)</usg>
+            <RegDef>A se lupta.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Tremease voinicii toți... să se ucigă cu turcii.</quote><bibl><citedRange pages="379/8" source="MOXA">MOXA, 379/8</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Multa urdie tătărească Năprasnic se ucide cu gloata românească.</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="289" sigla="ALECSANDRI, P." source="P." volume="III">ALECSANDRI, P. III, 289</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="32" value="♦">
+          <def>
+            <usg>(Regional)</usg>
+            <RegDef>A sfărâma <hi rend="bold">(1)</hi>. , a zdrobi. V. m ă r u n ț i.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>După ce a strivit toate spicele, ucide, adecă mărunțușează și paiele.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="200" sigla="PAMFILE, A. R." source="A. R.">PAMFILE, A. R. 200</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucise pe masă cu un pietroi niște sare.</quote><bibl><abbr type="siglum" author="HOGAȘ" pages="141" sigla="HOGAȘ, DR." source="DR." volume="I">HOGAȘ, DR. I, 141</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Avea Pisicuța un așa talent la ronțăit iarba și ucis între dinți vârfurile tinere și fragede ale crăngilor, încât îți lasa gura apă.</quote><bibl><abbr type="siglum" author="id." pages="230" source="ib.">id. ib. 230</abbr>, cf. A III 8</bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+      <sense class="33" value="5.">
+        <def>
+          <usg>Fig.</usg>
+          <RegDef>A pricinui cuiva suferințe (fizice sau morale); a chinui.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Plângu și să flămănzescu... și sântu uciși și zua și noapte, iară inima lor iaste miloasă</quote><bibl> (ante 1550). <citedRange pages="1/23" source="GCR" volume="I">GCR I, 1/23</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigându-i cu ucidere [de] ceaea ce n-are moarte și ardzându-i cu cărbuni de foc nestinsu.</quote><bibl><citedRange pages="225" source="COD. TOD.">COD. TOD. 225</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cu ereticii împreunându-se..., întru amărăciunea veninului cel purtătoriu de moarte necând și ucigând sufletele lor și ale oamenilor</quote><bibl> (a. 1642). <citedRange pages="98/7" source="GCR" volume="I">GCR I, 98/7</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Muierușcă din Brașeu! Mură-albastră-i ochiul tău Care mă ucide rău.</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="53" sigla="ALECSANDRI, P. P." source="P. P.">ALECSANDRI, P. P. 53</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="34" value="◊">
+          <def>
+            <usg type="gram">Refl. pas.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Iară Hristos păziia cei ce se drăcise ca să nu se ucigă,... ca să știe... de ce reale izbăviți sânt.</quote><bibl><abbr type="siglum" author="CORESI" pages="237" sigla="CORESI, EV." source="EV.">CORESI, EV. 237</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="35" value="♦">
+          <def>
+            <usg type="gram">Intranz.</usg>
+            <usg>(Învechit)</usg>
+            <RegDef>A suferi; a plânge, a jeli.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Ducând să-ș îngroape cuconul ce-i murisă..., bocindu-să și ucigând ca o maică.</quote><bibl><abbr type="siglum" author="DOSOFTEI" month="noiembrie" pages="124"><hi rend="superscript">r</hi>/23" sigla="DOSOFTEI, V. S." source="V. S.">DOSOFTEI, V. S. noiembrie 124<hi rend="superscript">r</hi>./23</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="36" value="♦">
+          <def>
+            <usg type="gram">Refl.</usg>
+            <usg>(Învechit)</usg>
+            <RegDef>A se zbuciuma <hi rend="bold">(1)</hi>,.  a se chinui.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Fămeaea... rămase acolo, ucigându-se cu atâtea plânsuri.</quote><bibl><citedRange pages="51"><hi rend="superscript">r1</hi>/18" source="MINEIUL" year="1776">MINEIUL (1776), 51<hi rend="superscript">r1</hi>./18</citedRange>, cf. DLRV</bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="37" value="♦">
+          <def>
+            <usg type="gram">Refl.</usg>
+            <usg>(Prin sudul Munt.)</usg>
+            <RegDef>A se căi, a se necăji.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Acu să ucid ei că n-a învățat carte.</quote><bibl><citedRange pages="71" source="LEXIC REG." volume="II">LEXIC REG. II, 71</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+      <sense class="38" value="6.">
+        <def>
+          <usg>(Învechit, rar)</usg>
+          <RegDef>A pângări <hi rend="bold">(1)</hi>.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Și ucisu fu pământul lor cu sânge.</quote><bibl><citedRange pages="226" source="PSALT.">PSALT. 226</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucis fu pământul lor cu sânge și spurcară-se în dealele lor.</quote><bibl><abbr type="siglum" author="CORESI" pages="299/8" sigla="CORESI, PS." source="PS.">CORESI, PS. 299/8</abbr>, cf. <abbr type="siglum" author="ROSETTI" pages="263" sigla="ROSETTI, L. R." source="L. R." volume="VI">ROSETTI, L. R. VI, 263</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Prez. ind.: <hi rend="italic">ucíd</hi>. și <usg>(învechit și regional)</usg> <hi rend="italic">ucig</hi>,. <usg>(regional)</usg> <hi rend="italic">ucíz</hi>. (<bibl>ALR I/II h 29</bibl>., <bibl>ALRM I/II h 40</bibl>., <bibl>ALR SN VII h 1 92</bibl>., <bibl>ALRM SN IV h 1 49</bibl>.), pers. 2 și <usg>(regional)</usg> <hi rend="italic">ucigi </hi>. (<bibl>ALR SN VII h 1 92</bibl>., <bibl>ALRM SN IV h 1 49</bibl>.), pers. 3 și <usg>(regional)</usg> <hi rend="italic">ucige</hi>. (<bibl>ALR SN VII h 1 925/32</bibl>., <bibl>ALRM SN IV h 1 500/23</bibl>.), <hi rend="italic">ucigă</hi>. (<bibl>ALR SN VII h 1 92</bibl>., <bibl>ALRM SN IV h 150</bibl>.), pers. 4 accentuat și (regional) <hi rend="italic">ucidém</hi>. (<bibl>ALR SN VII h 1 92</bibl>., <bibl>ALRM SN IV h 150</bibl>.), <hi rend="italic">ucizím</hi>. (<bibl>ALR SN VII h 1 925/</bibl>., <bibl>ALRM SN IV h 1500/</bibl>.), (regional) perf. s.: pers. <hi rend="bold">1</hi>. <hi rend="italic">ucisei</hi>,. pers. 5 și <usg>(învechit)</usg> <hi rend="italic">uciset</hi>. (<bibl>COD. VOR<hi rend="superscript">2</hi>. 66<hi rend="superscript">v</hi>./</bibl>., <bibl>CORESI, L. 31/1</bibl>.); conjunct. pers. 3 și (regional) <hi rend="italic">să ucide</hi>. (<bibl>ALR SN VII h 205</bibl>., <bibl>ALRM SN IV h 159</bibl>.), <hi rend="italic">să ucige</hi>. (<bibl>ib</bibl>.), <hi rend="italic">să uciză</hi>. (<bibl>ib</bibl>.), (învechit și regional) <hi rend="italic">să ucigă</hi>. (<bibl>CORESI, ap. DHLR II, 21</bibl>., <bibl>ALR SN VII h 205</bibl>., <bibl>ALRM SN IV h 150</bibl>.); cond.-opt. pers. 2 și (învechit) <hi rend="italic">uciseri</hi>. (<bibl>PSALT. 29</bibl>.), <hi rend="italic">ucisere</hi>. (<bibl>DHLR II, 22</bibl>.); part. <hi rend="italic">ucis;</hi>. ger.: <hi rend="italic">ucizând</hi>. și <hi rend="italic">ucigând</hi>,. (regional) <hi rend="italic">ucidând</hi>. (<bibl>ALR SN VII h 2152/83</bibl>., <bibl>ALRM SN IV h 1652/83</bibl>.). - Și: (învechit) <hi rend="bold">ucéde</hi>.(conjunct. pers. 3 <hi rend="italic">să ucegă</hi>. <bibl>D. POP, M. 15</bibl>.) vb. III, (regional) <hi rend="bold">ucigá</hi>. vb. I, (învechit, rar) <hi rend="bold">ocíde</hi>. vb. III.</form>
+      <form>– Lat. <hi rend="bold">occidere</hi>.</form>
+    </form>
+  </entry>
+</body>

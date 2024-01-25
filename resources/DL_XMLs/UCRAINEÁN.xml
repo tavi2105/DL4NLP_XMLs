@@ -1,0 +1,47 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCRAINEÁN</orth>
+      <gramGrp>s. m. și f. </gramGrp>
+    </form>
+
+    <sense class="0" value="UCRAINEÁN, -Ă">
+      <def>
+        <MorfDef>s. m. și f., adj.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<MorfDef>S. m. și f.</MorfDef>
+		<RegDef>Persoană care face parte din populația de bază a Ucrainei sau este originară de acolo; (la m. pl.) popor care s-a constituit ca națiune pe teritoriul Ucrainei.</RegDef><bibl>Cf. <citedRange source="CADE">CADE</citedRange>, <citedRange source="M. D. ENC.">M. D. ENC.</citedRange>, <citedRange source="DEX">DEX</citedRange>, <citedRange pages="152" source="L. ROM." year="1977">L. ROM. 1977, 152</citedRange>, DSR</bibl>. 
+		</def>
+      </sense>
+      <sense class="2" value="2.">
+        <def>
+          <MorfDef>Adj.</MorfDef>
+          <RegDef>Care aparține Ucrainei sau ucrainenilor, privitor la Ucraina sau la ucraineni, originar din Ucraina, caracteristic ucrainenilor.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Avea o față blândă, curat ucraineană,niște ochi mari căprii.</quote><bibl><citedRange pages="24" source="CONTEMPORANUL" vnote="1" volume="VI">CONTEMPORANUL, VI<hi rend="subscript">1</hi>, 24</citedRange>, cf. CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>A vorbit în limba ucraineană, pe care o înțelegeam și eu.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="295" sigla="SADOVEANU, O." source="O." volume="XI">SADOVEANU, O. XI, 295</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Coborau... pufuri de năgară, rătăcite... din stepele ucrainiene.</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr>XIV, 102</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Popoarele ortodoxe, rus, ucrainian, sârbesc, grec, prezintă acest grandios fenomen al unei relative unități lingvistice.</quote><bibl><abbr type="siglum" author="BLAGA" pages="192" sigla="BLAGA, T. CULT." source="T. CULT.">BLAGA, T. CULT. 192</abbr>, cf. <abbr type="siglum" author="id." pages="258" source="T. VAL.">id. T. VAL. 258</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Vorbitori de limbă ucraineană se află și pe teritoriul patriei noastre.</quote><bibl><abbr type="siglum" author="GRAUR" pages="197" sigla="GRAUR, I. L." source="I. L.">GRAUR, I. L. 197</abbr>, cf. <abbr type="siglum" author="PANAITESCU" pages="49" sigla="PANAITESCU, O. Ț." source="O. Ț.">PANAITESCU, O. Ț. 49</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="3" value="♦">
+          <def>
+            <usg>(Substantivat, f.)</usg>
+            <RegDef>Limba vorbită de ucraineni (<hi rend="bold">1</hi>.).</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>În ucraineană sânt foarte răspândite numele în -enko.</quote><bibl><abbr type="siglum" author="GRAUR" pages="80" sigla="GRAUR, N. P." source="N. P.">GRAUR, N. P. 80</abbr>, cf. <citedRange source="M. D. LINGV.">M. D. LINGV.</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pronunțat: <hi rend="italic">-crai-nean</hi>. - . Pl.: <hi rend="italic">ucraineni, -e</hi>. - . Și.</form>
+      <form><hi rend="bold">ucrainián, -ă</hi>. (pronunțat <hi rend="italic">-ni-an</hi>.) s.m. și f., adj.</form>
+      <form>– <hi rend="bold">Ucraina</hi>. (n. pr.) + suf. <hi rend="italic">-ean</hi>.</form>
+    </form>
+  </entry>
+</body>

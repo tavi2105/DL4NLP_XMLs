@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZORDINE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="?" value="DIZORDINE">
+			<def>
+			<MorfDef>s. f.</MorfDef>
+			<RegDef>v. dezordine.</RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

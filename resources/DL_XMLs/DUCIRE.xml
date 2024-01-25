@@ -1,0 +1,18 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DUCIRE</orth>
+            <gramGrp>s. v.</gramGrp>
+        </form>
+
+
+        <sense class="0" value="DUCIRE">
+            <def>
+                <MorfDef rendition="simple:spaced">s. v.</MorfDef>
+            </def>
+            <def>
+                <RegDef>ducere</RegDef>
+            </def>
+        </sense>
+    </entry>
+</body>

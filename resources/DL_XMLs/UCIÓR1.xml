@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIÓR1</orth>
+      <gramGrp>s.n.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIÓR1">
+      <def>
+        <MorfDef>s.n.</MorfDef>
+        <RegDef>v. urcior<hi rend="superscript">1</hi>. </RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

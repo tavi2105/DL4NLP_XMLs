@@ -1,0 +1,22 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCRAÍNȚI</orth>
+      <gramGrp>s.m.  pl. </gramGrp>
+    </form>
+
+    <sense class="0" value="UCRAÍNȚI">
+      <def>
+        <MorfDef>s.m. pl.</MorfDef>
+		<usg> (Rar)</usg>
+        <RegDef> Ucraineni.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Acei ucrainți, închinând și cinstind băutură de-a lor, chiar râdeau de obiceiul nostru, al moldovenilor, de a bea vin.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="127" sigla="SADOVEANU, O." source="O." volume="XIII">SADOVEANU, O. XIII, 127</abbr></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Din ucr. укрїнці.</form>
+    </form>
+  </entry>
+</body>

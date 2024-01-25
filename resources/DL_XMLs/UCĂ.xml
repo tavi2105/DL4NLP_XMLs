@@ -1,0 +1,16 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCĂ</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCĂ">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+        <usg>(Regional)</usg>
+        <RegDef>v. ocă<hi rend="superscript">1</hi></RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

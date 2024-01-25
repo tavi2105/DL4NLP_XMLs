@@ -1,0 +1,32 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIGĂTURĂ</orth>
+      <gramGrp>s. f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIGĂTURĂ">
+      <def>
+        <MorfDef>s. f.</MorfDef>
+		<usg>(Învechit) </usg>
+      </def>
+	  <sense class="1" value="1.">
+	    <def>
+			<RegDef> Omor <hi rend="bold">(1)</hi>. </RegDef>Cf.<bibl><abbr type="siglum" sigla="CADE, DSR.">CADE, DSR.</abbr></bibl>
+	    </def> 
+	  </sense>
+	  <sense class="2" value="2.">
+	    <def>
+	    <RegDef> Lovitură foarte puternică; bătaie cruntă.</RegDef>
+		<dictScrap>
+		  <cit id="UNKNOWN"><quote> Rămas-au bieţii oameni numai cu sufletul, bătuţi, struncinaţi, cât nu se poate... povesti caznele şi ucigăturile lor de tătari. <bibl>MUSTE, <citedRange pages="18/32" source="LET."></citedRange>Cf. <abbr author="CADE">CADE</abbr></bibl></quote></cit>
+		</dictScrap>
+		</def>
+	  </sense>
+    </sense>
+	<form type="varia">
+	  <form>- Pl.: <hi rend="italic">ucigături. </hi></form>
+	  <form>-<hi rend="bold"> Ucig</hi> (prez. ind. al lui <hi rend="italic">ucide</hi>) + suf. <hi rend="italic">-ătură.</hi></form>
+	</form>
+  </entry>
+</body>

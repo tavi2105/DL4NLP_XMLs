@@ -1,0 +1,19 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">ÚCE</orth>
+      <gramGrp>subst.</gramGrp>
+    </form>
+
+    <sense class="0" value="ÚCE">
+      <def>
+	  <MorfDef>subst.</MorfDef>
+	  <usg>(Prin sud-vestul Transilv.)</usg>
+	  <RegDef>Om urât. </RegDef><citedRange pages="172" source="REV. CRIT." volume="III">REV. CRIT. III, 172</citedRange>,<bibl><abbr type="siglum" author="PASCU" pages="301" sigla="PASCU, S." source="S.">PASCU, S. 301</abbr></bibl>. </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.:?</form>
+      <form>– Etimologia necunoscută.</form>
+    </form>
+  </entry>
+</body>

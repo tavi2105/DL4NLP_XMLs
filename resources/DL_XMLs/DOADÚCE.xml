@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOADÚCE</orth>
+      <gramGrp>vb. III</gramGrp>
+    </form>
+
+    
+    <sense class="UNKNOWN" value="DOADÚCE">
+      <def>
+	  <MorfDef>vb. III.</MorfDef>
+	  <RegDef>Tranz. (Ban.) A termina de adus.</RegDef><bibl>Cf. <abbr type="siglum" author="NOVACOVICIU" pages="9" sigla="NOVACOVICIU, C. B." source="C. B." volume="I">NOVACOVICIU, C. B. I, 9</abbr>, SFC IV, 34</bibl>. </def>
+    </sense>
+  </entry>
+</body>

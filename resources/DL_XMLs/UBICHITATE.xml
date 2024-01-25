@@ -1,0 +1,15 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">UBICHITATE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		<sense class="0" value="UBICHITATE">
+			<def>
+			<MorfDef>s. f.</MorfDef>
+			<RegDef>v.ubicuitate.</RegDef>
+			</def>
+		</sense>
+	</entry>
+</body>

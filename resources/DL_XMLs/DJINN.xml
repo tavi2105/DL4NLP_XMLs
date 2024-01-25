@@ -1,0 +1,22 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DJINN</orth>
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="UNKNOWN" value="DJINN">
+			<def>
+			<MorfDef>s. m.</MorfDef>
+			<usg>(În credinţele musulmane)</usg>
+			<RegDef>Spirit (binefăcător sau răufăcător). Cf. DER, NDN.</RegDef>
+			</def>
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat <hi rend="italic">gin</hi> — PL.:<hi rend="italic">djinni</hi></form>
+			<form>— Cuv. arab. Cf. fr.djinn.</form>
+		</form>
+		</dictScrap>
+	</entry>
+</body>

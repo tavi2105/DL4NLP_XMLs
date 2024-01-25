@@ -1,0 +1,51 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUJB</orth>
+            <gramGrp>s. m.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUJB">
+            <def>
+                <MorfDef rendition="simple:spaced">s. m.</MorfDef>
+            </def>
+            <def>
+                <RegDef>(Prin Bucov.) Al doilea vornicel (2).</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <quote>Unul dintre cei doi vornicei se numeşte vătăjel ..., iar celălalt drujb.</quote>
+                        <bibl>
+                            <abbr type="siglum" author="MARIAN" pages="217" sigla="MARIAN, NU." source="NU.">MARIAN, NU. 217</abbr>
+                        </bibl>
+                    </cit>
+                    <cit id="UNKNOWN">
+                        <quote>Este obicei de a merge şi a chema împreună cu vornicelul şi drujbul.</quote>
+                        <bibl>
+                            <abbr type="siglum" pages="278" sigla="id. ib.">id. ib. 278</abbr>
+                        </bibl>
+                    </cit>
+                    <cit id="UNKNOWN">
+                        <quote>Dar păzitoarele comoarei 101 nu ştiu ce anume voeşte druzba (vornicelul).</quote>
+                        <bibl>
+                            <abbr type="siglum" pages="493" sigla="id. ib.">id. ib. 493</abbr>
+                            , cf.
+                            <abbr type="siglum" source="TDRG" sigla="TDRG">TDRG</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drujbi.</hi>
+            </form>
+            <form>
+            — Şi:
+                <hi rend="italic">druzbă s. f.</hi>
+            </form>
+            <form>— Derivat regresiv de la drujbă <hi rend="superscript">1</hi>
+            </form>
+        </form>
+    </entry>
+</body>

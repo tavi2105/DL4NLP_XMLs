@@ -1,0 +1,93 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUI, -IE</orth>
+            <gramGrp rendition="simple:spaced">s. m., adj.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUI, -IE">
+            <def>
+                <MorfDef rendition="simple:spaced">s. m., adj.</MorfDef>
+            </def>
+            <sense class="1" value="1.">
+                <def>
+                    <RegDef>(Prin sudul Transilv.) Lemn gros şi scurt.</RegDef>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <bibl>
+                                Cf. 
+                                <abbr type="siglum">TODORAN, GL.</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="2" value="♦">
+                <def>
+                    <RegDef>Om beat. (Haţeg)</RegDef>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <bibl>
+                                Cf. 
+                                <abbr type="siglum">TODORAN, GL.</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="3" value="2.">
+                <def>
+                    <usg>(Regional)</usg>
+                    <RegDef>Tare (1) (în ceea ce priveşte consistenţa).</RegDef>
+                </def>
+            </sense>
+            <sense class="4" value="◊">
+                <def>
+                    <usg>(Adverbial, ca determinant al unui adjectiv, căruia îi dă valoare de superlativ)</usg>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <quote>Săul ... se făcea drui de tare, de puteai tăia în el ca în ceară.</quote>
+                            <bibl>
+                                <abbr type="siglum" author="AL LUPULUI" source="P. G. 195.">AL LUPULUI, P. G. 195.</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="5" value="◊">
+                <def>
+                    <usg>(Substantivat; ca epitet pus înaintea termenului calificat, de care se leagă prin prep. „de”)</usg>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <quote>E un drui de copil.</quote>
+                            <bibl>
+                                <abbr type="siglum">LEXIC REG.</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="6" value="♦">
+                <def>
+                    <RegDef>Îngheţat de frig (Suseni — Târgu Jiu).</RegDef>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <bibl>
+                                Cf. 
+                                <abbr type="siglum" volume="44">LEXIC REG. 44</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drui, </hi>
+                -ie.
+            </form>
+            <form>— Cuvânt traco-dac. Cf. alb.dru, dru.</form>
+        </form>
+    </entry>
+</body>

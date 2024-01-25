@@ -1,0 +1,29 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZVOLVIRE</orth>
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="?" value="DIZVOLVIRE">
+			<def>
+			<MorfDef>s.f.</MorfDef>
+			<usg>(Învechit, rar)</usg>
+			<RegDef> Acţiunea de a dizvolvi şirezultatul ei.</RegDef>
+				<dictScrap>
+					<cit id="?"><quote> [Congresul] pomeneşte încă o dată de această cheară şi curată disvolvire a guvernului nostru.</quote>
+						<bibl>
+							<abbr type="siglum" author="AR" source="(1829)" pages="1437/1"></abbr>Cf.
+							<abbr type="siglum" author="URSU" sigla="URSU, T. Ș." pages="187">URSU, T. Ş. 187,</abbr>
+							<abbr type="siglum" author="SFC" volume="IV" pages="317">SFC IV, 317.</abbr>
+						</bibl></cit>
+				</dictScrap>
+			</def>
+		</sense>
+		<form type="varia">
+			<form>— Scris şi: <hi rend="italic">disvolvire.</hi>  — PL.: <hi rend="italic">dizvolviri.</hi></form>
+			<form>- V. dizvolvi.</form>
+		</form>
+	</entry>
+</body>

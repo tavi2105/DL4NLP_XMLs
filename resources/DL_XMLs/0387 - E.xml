@@ -1,0 +1,466 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERPETOGRAFIE</orth>
+		  <gramGrp> s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERPETOGRAFIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Franțuzism învechit, rar)</usg>
+					<RegDef>Erpetologie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. erpétographie.-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! initial scris: -->
+	<!-- s. f. Erpetologie. Cf. LM. — Din tr. erpâtographie. -->
+
+	<!-- (Franțuzism învechit, rar) -->
+
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERPETOLOG</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERPETOLOG">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Specialist în erpetologie; (franțuzism învechit, rar) erpetograf, erpetologist.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: erpetologi..-</form>
+			<form>— Din it. erpetologo.-</form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERPETOLOGIC, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERPETOLOGIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care aparţine erpetologiei, referitor la erpetologie; (franțuzism învechit, rar) erpetografic.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: erpetologici, -ce.-</form>
+			<form>— Din fr. erpétologique.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERPETOLOGIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERPETOLOGIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ramură a zoologiei care se ocupă cu studiul reptilelor şi al amfibienilor; (franțuzism învechit, rar) erpetografie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Şi: (rar) herpetologie s. f. D. ENC.-</form>
+			<form>— Din fr. erpétologie, herpétologie.-</form>
+			<form>— it. erpetologia.-</form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERPETOLOGIST</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERPETOLOGIST">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Franţuzism învechit, rar)</usg>
+					<RegDef> Erpetolog.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: erpetologişti.-</form>
+			<form>— Din fr. erpétologiste.-</form>
+		</form>
+	</entry>
+
+	<!-- !!!!! erpetologişti scris ca erpetologizşti (z adaugat ???) -->
+	<!-- !!!!! â in loc de é -->
+	<!-- !!!!! initial scris:  -->
+	<!-- ERPETOLOGIST s. m. Erpetolog. Cf. LM. -->
+
+	<!-- — PL.: erpetologizşti. -->
+
+	<!-- — Din fr. erpâtologiste. -->
+
+	<!-- (Franţuzism învechit, rar) -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERRATUM</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERRATUM">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. erată.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERTAŞ</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERTAŞ">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. irtaş.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERȚ</orth>
+		  <gramGrp>subst.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERȚ">
+			<def>
+				<MorfDef>subst.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Germanism, regional)</usg>
+					<RegDef> Fontă</RegDef>
+					<usg>(Făget — Moineşti)</usg>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pl.:?-</form>
+			<form>— Din germ. Erz.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUA</orth>
+		  <gramGrp>vb. I. <usg type="gram" 
+		rendition="simple:spaced">Tranz.</usg></gramGrp>
+		</form>
+		
+		<sense class="0" value="ERUA">
+			<def>
+				<MorfDef>vb. I.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Jur; latinism învechit, în Transilv.; complementul indică probe, mărturii etc.)</usg>
+					<RegDef> A examina, a cerceta, a investiga.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Prez. ind.: eruez.-</form>
+			<form>— Din lat. eruere-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! ur in loc de Jur  -->
+	<!-- ???? Tranz. este pus la MorfDef ?? -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUBESCENT, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="?" value="ERUBESCENT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Care se înroşeşte, care devine roşu.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: erubescenţi, -te.-</form>
+			<form>— Din lat. erubescens, -entis-</form>
+			<form>— Din fr. érubescent.-</form>
+		</form>
+	</entry>
+
+	<!-- !!!!! é ignorat total -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUBESCENȚĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERUBESCENȚĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Înroşire; roşeaţă, îmbujorare.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: erubescenţi, -te.-</form>
+			<form>— Din lat. erubescentia-</form>
+			<form>— Din fr. érubescence-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! 6 in loc de é -->
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUCIC</orth>
+		  <gramGrp>adj. </gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ERUCIC">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>(În sintagma) Acid erucic = acid nesaturat prezent în gliceride şi în uleiurile din seminţele de rapiță şi de muştar.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Acidul erucic se găseşte în proporția de 40...57% din totalitatea acizilor graşi din uleiurile extrase din semințele diferitelor specii de rapiță.</quote>
+							<bibl><abbr type="siglum" author="LTR" pages=" UNKNOWN " sigla="LTR?." source="LTR?">LTR?		</abbr></bibl>, cf. NDN.
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. érucique-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUCIFORM, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERUCIFORM, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Despre larvele unor insecte sau despre organele unor plante)</usg>
+					<RegDef> Care are aspectul, forma unei omizi.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: eruciformi, -e.-</form>
+			<form>— Din fr. éruciforme.-</form>
+		</form>
+	</entry>
+	
+	<!-- ERUCTĂ -->
+
+
+
+
+	
+	<!-- ERUCTĂȚIE -->
+
+
+
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUCTAȚIUNE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERUCTAȚIUNE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. eructaţie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<!-- ERUDI -->
+
+
+
+
+
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUDICIUNE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERUDICIUNE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. erudiție.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUDIRE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ERUDIRE">
+			<def>
+				<MorfDef>S. F.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Livresc, rar)</usg>
+					<RegDef> Instruire, învăţătură.</RegDef>
+					<dictScrap>
+						<cit id="exemplu --">
+							<quote>Eminescu citea cu plăcere „imnele din Rig-Veda”... Și el, ca schopenhauerian, nu putea să se lipsească de o așa delectabilă erudire.</quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="7/2" sigla="ROMÂNIA LITERARĂ">ROMÂNIA LITERARĂ, 1979, nr. 15, 7/2.</abbr></bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— V. erudi.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERUDIT, -Ă</orth>
+		  <gramGrp>adj. (În sintagma) Acid erucic = acid nesaturat prezent în gliceride şi în uleiurile din seminţele de rapiță şi de muştar. </gramGrp>
+		</form>
+
+		
+		<sense class="?" value="ERUDIT, -Ă">
+			<def>
+				<MorfDef>adj, s. m. şi f.</MorfDef>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<RegDef>(Rar) Înroşire; roşeaţă, îmbujorare.</RegDef>
+					<dictScrap>
+						<cit id="exemplu --">
+							<quote>Acidul erucic se găseşte în proporția de 40...57% din totalitatea acizilor graşi din uleiurile extrase din semințele diferitelor specii de rapiță.</quote>
+							<bibl><abbr type="siglum" author="LTR?" pages=" ----- " sigla="LTR?." source="LTR?">LTR?		</abbr></bibl>, cf. NDN.
+						</cit>
+						<cit id="exemplu --">
+							<quote>Acidul erucic se găseşte în proporția de 40...57% din totalitatea acizilor graşi din uleiurile extrase din semințele diferitelor specii de rapiță.</quote>
+							<bibl><abbr type="siglum" author="LTR?" pages=" ----- " sigla="LTR?." source="LTR?">LTR?		</abbr></bibl>, cf. NDN.
+						</cit>
+						<cit id="exemplu --">
+							<quote>Acidul erucic se găseşte în proporția de 40...57% din totalitatea acizilor graşi din uleiurile extrase din semințele diferitelor specii de rapiță.</quote>
+							<bibl><abbr type="siglum" author="LTR?" pages=" ----- " sigla="LTR?." source="LTR?">LTR?		</abbr></bibl>, cf. NDN.
+						</cit>
+						<cit id="exemplu --">
+							<quote>Acidul erucic se găseşte în proporția de 40...57% din totalitatea acizilor graşi din uleiurile extrase din semințele diferitelor specii de rapiță.</quote>
+							<bibl><abbr type="siglum" author="LTR?" pages=" ----- " sigla="LTR?." source="LTR?">LTR?		</abbr></bibl>, cf. NDN.
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. érucique-</form>
+		</form>
+	</entry>
+
+	<!-- ERUDIT -->
+	-------------------------------------------------------------------------
+</body>

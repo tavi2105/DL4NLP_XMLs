@@ -1,0 +1,608 @@
+<body>
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTOIT</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTOIT">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+					<RegDef>v. <hi rend="bold"> altoit </hi>. </RegDef>
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+	</body>	
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTOIT,-Ă</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTOIT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoit </hi>. </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+	</body>	
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTOITURĂ,-Ă</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTOITURĂ,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoitură </hi>. </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+	</body>	
+
+
+
+<!-- ULTRA- -->
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRA-</orth>    
+				<gramGrp>UNKNOWN</gramGrp>
+			</form>
+			<sense class="0" value="ULTRA-">
+				<def>
+					<MorfDef>UNKNOWN</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Element de compunere care înseamnă „peste măsură de”, „foarte”, „dincolo de” și care servește la formarea unor adjective ca ultrascurt, ultrarapid și a unor substantive ca ultrasunet, ultracentrifugă.</RegDef>Cf. ȘĂINEANU, D. U., CADE, SCRIBAN, D., IORDAN, STIL. 211, DL, DM, SFC I, 46. DER, M. D. ENC., DEX, DN, FORM. CUV. II, 249, D. MED.
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Din lat. <hi rend="bold"> ultra </hi>, fr. <hi rend="bold"> ultra- </hi> </form>   
+			</form>
+		</entry>
+	</body>	
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRA</orth>    
+				<gramGrp>s. m. invar</gramGrp>
+			</form> 
+			
+			<sense class="0" value="ULTRA">
+				<def>
+					<MorfDef>s. m. invar</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+					<usg>(Invechit,rar)</usg>
+					<RegDef>Persoana care exagereaza in opiniile sale.</RegDef>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Din fr.<hi rend="bold">ultra.</hi></form>
+				
+			</form>
+		</entry>
+	</body>	
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAABUNDENT,-Ă</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRAABUNDENT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Supraabundent.DSR.</RegDef>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pronuntat: <hi rend="italic"> -tra-a.</hi></form>
+				<form>- Pl.: <hi rend="italic"> abundenti,-te.</hi></form>
+							<form>- <hi rend="bold">Ultra-+abundent.</hi></form>
+			</form>
+		</entry>
+	</body>	
+
+
+<!-- ULTRAACUSTIC -->
+
+	<body>
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAACUSTIC, -Ă</orth>    
+				<gramGrp>s. f., adj.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRAACUSTIC, -Ă">
+				<def>
+					<MorfDef>s. f., adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Parte a acusticii care se ocupă cu studierea ultrasunetelor.</RegDef> Cf. LTR, M. D. ENC., D. FIZ., DEX, FORM. CUV. II, 249, 251, DN.
+					</def>
+					<sense class="2" value="2.">
+						<def>
+							<RegDef>Referitor la ultraacustică (1), de ultraacustică.</RegDef> Cf. DN, DEX - S.
+						</def>
+					</sense>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pronunțat: <hi rend="italic">-tra-a-</hi>.</form>
+				<form>- Pl.: <hi rend="italic">ultraacustici, -ce </hi>.</form>
+				<form>- Din fr. <hi rend="bold">ultraacoustique</hi>, germ. <hi rend="bold">Ultraakustik</hi>. </form>
+			</form>
+		</entry>
+	</body>
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRABAZIC,-Ă</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRABAZIC,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+					<usg>(Despre roci eruptive)</usg>
+					<RegDef>Care este relativ sărac în silice, fiind alcătuit în special din olivină sau din piroxeni.</RegDef>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> ultrabazici, -ce</hi></form>
+				<form>- Din fr.<hi rend="bold">ultrabasique</hi>.</form>
+			</form>
+		</entry>
+	</body>	
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRACENTRAL,-Ă</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRACENTRAL,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+					<RegDef>Care este situat in centrul unei localitati.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Caut apartament ultracentral.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="512" sigla="L. ROM. 1987" source="L. ROM. 1987">L. ROM. 1987</abbr>.</bibl>
+							</cit>
+					</dictScrap>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> ultracentrali,-e</hi></form>
+				<form>- <hi rend="bold">Ultra + central.</hi></form>
+			</form>
+		</entry>
+	</body>	
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRACENTRIFUGA</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRACENTRIFUGA">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>	
+					<RegDef>Centrifugă cu turație foarte mare, care serveste la separarea prin sedimentare a particulelor coloidale, a unor virusuri etc.</RegDef>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> ultracentrifuge</hi></form>
+				<form>- <hi rend="bold">Ultra- + centrifuga.</hi> Cf. fr. <hi rend="simple:spaced">ultracentrifugeuse</hi>.</form>
+			</form>
+		</entry>
+	</body>	
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRACONDENSOR</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRACONDENSOR">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Condensor de lumină cu care sunt dotate ultramicroscoapele.</RegDef>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> ultracondensoare.</hi></form>
+				<form>- <hi rend="bold">Ultra- + condensor.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRACONFIDENTIAL,-Ă.</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRACONFIDENTIAL,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Rar)</usg>
+						<RegDef>Strict confidențial; strict secret.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">In mod ultraconfidențial,Léger mi-a comunicat că... se studiază între organele militare franceze și italiene toate ipotezele care interesează ambele părți.</hi></quote>
+							<bibl><abbr type="siglum" author="TITULESCU" pages="655" sigla="TITULESCU, D." source="D.">TITULESCU, D.</abbr> Cf. SCRIBAN, D., DL, DM, M. D. ENC, DEX, DN, FORM, CUV, II, 252, DSR.</bibl>
+							</cit>	
+						</dictScrap>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+							<form>- <hi rend="italic"> Pronuntat:-ti-al.</hi></form>
+				<form>- Pl.: <hi rend="italic"> ultraconfidentiali,-e.</hi></form>
+				<form>- <hi rend="bold">Ultra- + confidential.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRACONFORTABIL,-Ă.</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRACONFORTABIL,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Foarte confortabil.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic"> Apartament ultraconfortabil.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="512" sigla="L. ROM. 1987" source="L. ROM. 1987">L. ROM. 1987</abbr>.</bibl>
+							</cit>	
+						</dictScrap>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+			<form>- Pl.: <hi rend="italic"> ultraconfortabili,-e.</hi></form>
+			<form>- <hi rend="bold">Ultra- + confortabil.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRACONSERVATOR, -OARE</orth>    
+				<gramGrp>adj., s.m. și f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRACONSERVATOR, -OARE">
+				<def>
+					<MorfDef>adj., s.m. și f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Persoană)</usg>
+						<RegDef> care are idei conservatoare exagerate.</RegDef> Cf. DN, FORM. CUV. II, 249, 250.
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+			<form>- Pl.: <hi rend="italic"> ultraconservatori, -oare</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + conservator</hi>.</form>
+			</form>
+		</entry>
+	</body>
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRADEMAGOG.</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRADEMAGOG">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Persoană care dă dovadă de o demagogie dusă la extrem.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Clevetici ultrademagogul.</hi></quote>
+							<bibl><abbr type="siglum" author="ALECSANDRI" pages="29" sigla="ALECSANDRI, T." source="T.">ALECSANDRI, T.</abbr>.</bibl>
+							</cit>	
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Alecsandri... atacă pe „ultrademagogi”.</hi></quote>
+							<bibl><abbr type="siglum" author="IBRĂILEANU" pages="131" sigla="IBRĂILEANU, SP. CR." source="SP. CR.">IBRĂILEANU, SP. CR.</abbr>, cf. DEX, DN, FORM. CUV. II, 249, 250, 251.</bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Scris si: <hi rend="italic"> ultra - demagog.</hi></form>
+				<form>- Pl.: <hi rend="italic"> ultrademagogi.</hi></form>
+				<form>- <hi rend="bold">Ultra- + demagog.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRADEMOCRAT,-Ă.</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRADEMOCRAT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef> Cf. DN, DEX-S.
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Care afiseaza în mod exagerat democratismul; ultrademocratic.</RegDef>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+
+							
+				<form>- Pl.: <hi rend="italic"> ultrademocrați,-te.</hi></form>
+				<form>- <hi rend="bold">Ultra- + democrat.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRADEMOCRATIC,-Ă.</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRADEMOCRATIC,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Care afișeaza în mod exagerat democratismul; ultrademocrat.</RegDef>
+						<dictScrap>
+						<cit id="UNKNOWN">
+						<quote><hi rend="italic"> Oricât s-ar vorbi de partidul ultra-democratic. </hi> </quote>
+						<bibl><abbr type="siglum" author="MAIORESCU" pages="486" sigla="MAIORESCU, D." source="D." volume="I">MAIORESCU, D.</abbr>.</bibl>
+						</cit>
+						</dictScrap>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Scris si: <hi rend="italic"> ultra-democratic.</hi></form>
+				<form>- Pl.: <hi rend="italic"> ultrademocratici,-ce.</hi></form>
+				<form>- <hi rend="bold">Ultra- + democratic.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRADIFERENȚIAT,-Ă.</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRADIFERENTIAT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Rar)</usg>
+						<RegDef>Diferențiat la extrem.</RegDef>
+						<cit id="UNKNOWN">
+						<quote><hi rend="italic"> Natura problematică,ultradiferențiată, fără axă și cu substanșa nervoasă pulverizată a decadentului. </hi></quote>
+						<bibl><abbr type="siglum" author="BLAGA" pages="128" sigla="BLAGA, Z." souce="Z." > BLAGA,Z. 128.</abbr></bibl>
+						</cit>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+							<form>- Pronuntat: <hi rend="italic"> ți-at.</hi></form>
+							<form>- Pl.: <hi rend="italic"> ultradiferențiați,-te.</hi></form>
+				<form>- <hi rend="bold">Ultra-+ diferențiat.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAEFICIENT,-Ă.</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRADIFERENTIAT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Foarte eficient.</RegDef> DEX-S
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pronuntat: <hi rend="italic"> -tra-e-fi-ci-ent</hi></form>
+				<form>- Pl.: <hi rend="italic"> ultraeficienți,-te.</hi></form>
+				<form>- <hi rend="bold">Ultra-+ eficient.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAELABORAT,-Ă.</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRADIFERENTIAT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Foarte elaborat.</RegDef> DEX-S
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pronunțat: <hi rend="italic"> -tra-e-</hi></form>
+				<form>- Pl.: <hi rend="italic"> ultraelaborați,-te.</hi></form>
+				<form>- <hi rend="bold">Ultra-+ elaborat.</hi></form>
+			</form>
+		</entry>
+	</body>
+
+
+
+	<body>	
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAETERAT,-Ă.</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRADIFERENTIAT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Rar)</usg>
+						<RegDef>Desprins cu totul de realitatea materială; eteric.</RegDef>
+						<cit id="UNKNOWN">
+						<quote><hi rend="italic"> Dumneata ești... un idealist ultraeterat, care pretinzi că în literatură omenirea să pășească... pe iarbă smălțată cu flori. </hi></quote>  
+						<bibl><abbr type="siglum" author="CĂLINESCU" pages="143" sigla="CĂLINESCU, C. O." source= "C. O."> CĂLINESCU, C. O. </abbr> </bibl>
+						</cit>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pronuntat: <hi rend="italic"> -tra-e-</hi></form>
+				<form>- Pl.: <hi rend="italic"> ultraeterați,-te.</hi></form>
+				<form>- <hi rend="bold">Ultra-+ eterat.</hi></form>
+			</form>
+		</entry>
+	</body>
+</body>

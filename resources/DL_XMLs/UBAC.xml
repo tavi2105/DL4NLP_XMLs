@@ -1,0 +1,18 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">UBAC</orth>
+			<gramGrp>s. m.</gramGrp>
+		</form>
+
+		<sense class="0" value="UBAC">
+			<def>
+			<MorfDef>s. m.</MorfDef>
+			<RegDef>Versant al unui munte expus spre nord, spre umbră. <biblr><citRange>DN<hi rend="superscript">3</hi>.</citRange></biblr></RegDef>
+			</def>
+		</sense>
+		<form type="varia">
+		<form>Din fr. <hi rend="bold">ubac</hi></form>
+		</form>
+	</entry>
+</body>

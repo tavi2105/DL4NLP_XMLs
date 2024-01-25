@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCINAȘ</orth>
+      <gramGrp>s. n.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCINAȘ">
+      <def>
+        <MorfDef>s. n.</MorfDef>
+        <RegDef>. ocinaş<hi rend="superscript">2</hi>.</RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

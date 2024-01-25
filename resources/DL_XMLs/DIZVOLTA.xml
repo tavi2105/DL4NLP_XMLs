@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZVOLTA</orth>
+			<gramGrp>vb. 1</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="0" value="DIZVOLTA">
+			<def>
+			<MorfDef>vb. 1</MorfDef>
+			<RegDef>v. dezvolta.</RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

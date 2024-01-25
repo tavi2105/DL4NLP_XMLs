@@ -1,0 +1,25 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UBERÁL</orth>
+      <gramGrp>adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UBERÁL, -Ă">
+      <def>
+	  <MorfDef>adj.</MorfDef>
+	  <usg>(Livresc)</usg>
+	  <RegDef>Care este în legătură cu sânul, al sânului.</RegDef><bibl><citedRange source="DN">DN</citedRange><hi rend="superscript">2</hi></bibl>. 
+	  </def>
+      <sense class="1" value="◊">
+        <def>
+		<RegDef><hi rend="italic">Fântână uberală </hi>= fântână reprezentând o femeie (o nimfă, o silfidă), din sânii căreia curge apa.</RegDef><bibl>Cf. <citedRange source="DN">DN</citedRange><hi rend="superscript">3</hi></bibl>. 
+		</def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">uberali, -e</hi>.</form>
+      <form>– Din fr. <hi rend="bold">ubéral</hi>.</form>
+    </form>
+  </entry>
+</body>

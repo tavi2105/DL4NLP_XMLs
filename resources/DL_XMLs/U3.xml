@@ -1,0 +1,72 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">U3</orth>
+      <gramGrp>interj.</gramGrp>
+    </form>
+
+    <sense class="0" value="U3">
+      <def>
+        <MorfDef>interj.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+          <usg>(Adesea prelungit sau repetat)</usg>
+          <RegDef>Cuvânt care imită urletul unor animale (mai ales al lupului).</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Lupul flămând leșinat... U! mă! -ntreabă prin urlat, Cine e mai mare-n sat?</quote><bibl><abbr type="siglum" author="PANN" pages="95/13" sigla="PANN, P. V." source="P. V." volume="I">PANN, P. V. I, 95/13</abbr>, cf. <citedRange source="DM">DM</citedRange>, <citedRange source="DL">DL</citedRange>, DEX</bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+      <sense class="2" value="2.">
+        <def>
+		<usg>(Adesea prelungit sau repetat)</usg>
+		<RegDef>Cuvânt care imită sunetul specific scos de porumbel.</RegDef>
+		<bibl>Cf. <citedRange pages="5751/2, 27, 47, 279, 325, 246, 551, 682, 769, 812, 836" source="ALR" volume="II">ALR II 5751/2, 27, 47, 279, 325, 246, 551, 682, 769, 812, 836</citedRange></bibl>. 
+		</def>
+      </sense>
+      <sense class="3" value="3.">
+        <def>
+		<usg>(Prelungit și repetat)</usg>
+		<RegDef>Cuvânt care imită sunetul specific scos de curcan <usg>(Măcețiș de Jos - Băilești)</usg>.</RegDef><bibl>Cf. ALR II 5742/872</bibl>. 
+		</def>
+      </sense>
+      <sense class="4" value="4.">
+        <def><usg>(Prelungit și repetat)</usg>
+		<RegDef>Cuvânt care imită sunetul specific scos de broatec <usg>(Pecinișca - Băile Herculane)</usg>.</RegDef><bibl>Cf. <citedRange map="733" source="ALR SN" volume="III">ALR SN III h 733</citedRange>/2</bibl>. 
+		</def>
+      </sense>
+      <sense class="5" value="5.">
+        <def>
+          <usg>(Prelungit și repetat)</usg>
+          <RegDef>Cuvânt care imită sunetul provocat de mișcarea unui corp care străbate cu viteză un spațiu; vâj.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Pă la unsprezece ceasuri numa aude... că vine om [= un]buzdugan: - Uuuu! Păăc! Mintenaș o fo și zmău acolea.</quote><bibl><abbr type="siglum" author="O. BÂRLEA" pages="465" sigla="O. BÂRLEA, A. P." source="A. P." volume="I">O. BÂRLEA, A. P. I, 465</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+      <sense class="6" value="6.">
+        <def>
+          <usg>(Prelungit și repetat)</usg>
+          <RegDef>Cuvânt care imită sunetul unui clopot.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Clopotele făceau: „uî, uî, uî”, altele repede: „tang-ting-tang”.</quote><bibl><abbr type="siglum" author="AGÂRBICEANU" pages="83" sigla="AGÂRBICEANU, A." source="A.">AGÂRBICEANU, A. 83</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+	  <sense>
+		<def>
+		  <usg>(Prelungit și repetat)</usg>
+		  <RegDef>Cuvânt care imită fluieratul unei locomotive cu aburi în timpul funcționării ei. </RegDef>
+		  <dictScrap>
+			<cit id="UNKNOWN"><quote>Uuuu! Vine acceleratul!</quote></cit>
+		  </dictScrap>
+		</def>
+	  </sense>
+    </sense>
+    <form type="varia">
+	  <form>- Şi: <usg>(rar)</usg> ui interj. </form>
+	  <form>- Onomatopee.</form>
+	</form>
+  </entry>
+</body>

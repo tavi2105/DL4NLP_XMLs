@@ -1,0 +1,319 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UDÁ</orth>
+      <gramGrp>vb. I.</gramGrp>
+    </form>
+
+    <sense class="0" value="UDÁ">
+      <def>
+        <MorfDef>vb. I.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<usg type="gram">Tranz.</usg>
+		<usg>(Subiectul gramatical sau logic indică apa ori alt lichid)</usg>
+		<RegDef>A îmbiba, a umple de umezeală, a face să fie ud <hi rend="bold">(1)</hi>.  V. u m e z i.</RegDef><bibl>Cf. <abbr type="siglum" author="MOLNAR" pages="296/10" sigla="MOLNAR, D." source="D.">MOLNAR, D. 296/10</abbr>, LB</bibl>.   
+		<dictScrap>
+		  <cit id="UNKNOWN"><quote>Pe floare rouă în van o udă, Când săgetează arsura pe pământ.</quote><bibl><abbr type="siglum" author="ASACHI" pages="97" sigla="ASACHI, S. L." source="S. L." volume="I">ASACHI, S. L. I, 97</abbr>, cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, PONTBRIANT, D., <abbr type="siglum" author="CIHAC" pages="295" sigla="CIHAC" volume="I">CIHAC, I, 295</abbr></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Strânse pe Costin în brațe și sorbi cu buzele rouă ce udase fața și părul lui.</quote><bibl><abbr type="siglum" author="GRANDEA" pages="125" sigla="GRANDEA, S." source="S.">GRANDEA, S. 125</abbr></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Să mergi păn ploaie fără umbrelă ... și să nu te ude.</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="185" sigla="CARAGIALE, O." source="O." volume="VI">CARAGIALE, O. VI, 185</abbr>, cf. <citedRange source="DDRF">DDRF</citedRange>, <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr>, <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU">ȘĂINEANU</abbr>, D. U., CADE</bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Mărfurile cele mai fine se transportau mai cu samă pe uscat ... pentru frica de a nu fi udate.</quote><bibl>N. A. BOGDAN, C M. 132</bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Stătu o clipă locului, încercând să-și amintească dacă ploaia ce-i udase pantofii căzuse azi.</quote><bibl><citedRange month="octombrie" pages="100" source="V. ROM." year="1954">V. ROM. octombrie 1954, 100</citedRange></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Stătea cu ochii închiși și ploaia îi udase și barba.</quote><bibl>ib. noiembrie 1964, 17</bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Norișor mândru d'e ploaie Nu sui la munte tare, Că-i acolo mândru mńeu. L-i ploua șî l-i uda.</quote><bibl><citedRange pages="79" source="GRAIUL" volume="II">GRAIUL, II, 79</citedRange>, cf. <citedRange pages="536/95" source="ALR" volume="II" volumepart="2">ALR II 2 536/95</citedRange>, 325, 365, 414, 514, 531, 551, 574, 682, 723, 728, 762, 784, 848, 876, 886, 899, 928, <citedRange map="844" source="ALR SN" volume="III">ALR SN III h 844</citedRange></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Cum îl lăsăm ... atâta grâu pă vatra ... dac-ar veńi ploaia să-l ud'e.</quote><bibl><abbr type="siglum" author="O. BÂRLEA" pages="463" sigla="O. BÂRLEA, A. P." source="A. P." volume="II">O. BÂRLEA, A. P. II, 463</abbr></bibl>.</cit>
+		</dictScrap>
+		<RegDef><hi rend="italic">Nici ploaia îl udă, nici soarele îl arde, </hi>se spune despre cel care nu se supără de nimic, căruia totul îi este indiferent.</RegDef><bibl>Cf. <abbr type="siglum" author="ZANNE" pages="60" sigla="ZANNE, P." source="P." volume="I">ZANNE, P. I, 60</abbr></bibl>. 
+		</def>
+        <sense class="2" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Locuri slăvite udate de sângele eroilor.</quote><bibl><abbr type="siglum" author="BĂLCESCU" pages="143" sigla="BĂLCESCU, O." source="O." volume="I">BĂLCESCU, O. I, 143</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>O fântână lină, Cu apă puțină, Cu apă sărată, Cu lacrimi udată!</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="192" sigla="ALECSANDRI, P. P." source="P. P.">ALECSANDRI, P. P. 192</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Fii blestemat, Că pământul l-ai udat Tot cu sânge de soldat.</quote><bibl><citedRange pages="117" source="FOLC. TRANSILV." volume="I">FOLC. TRANSILV. I, 117</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="3" value="♦">
+          <def>
+            <usg>(Cu complinirea „până la piele”)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Păn' la pele udat de ploaie.</quote><bibl><abbr type="siglum" author="ASACHI" pages="90" sigla="ASACHI, S. L." source="S. L." volume="I">ASACHI, S. L. I, 90</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Trezit din fantaziile sale metafizice, băgă de seamă că ploaia-l udase până la piele.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="27" sigla="EMINESCU, P. L." source="P. L.">EMINESCU, P. L. 27</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>S-a întâlnit cu o femeie pe care ploaia o udase până la piele.</quote><bibl><abbr type="siglum" author="PUȘCARIU" pages="192" sigla="PUȘCARIU, D. V." source="D. V.">PUȘCARIU, D. V. 192</abbr>. (R e f l</bibl>.)  </cit>
+              <cit id="UNKNOWN"><quote>Ploua de vărsa; mă udasem până la piele.</quote><bibl><citedRange pages="386/26" source="MOZAICUL" year="1839">MOZAICUL (1839), 386/26</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="4" value="♦">
+          <def>
+            <usg>(În forma negativă)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Toate chinurele măriei neudați și fără de frică tocmeaște-ne a treace și oarece valure se rădică spre noi și undele domoleaște-le.</quote><bibl><abbr type="siglum" author="CORESI" pages="66" sigla="CORESI, EV." source="EV.">CORESI, EV. 66</abbr>, cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, PONTBRIANT, D., <abbr type="siglum" author="COSTINESCU" sigla="COSTINESCU">COSTINESCU</abbr>, <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr>, <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+          <sense class="5" value="◊">
+            <def>
+              <usg type="gram">Absol.</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Un vânt repede, o ploaie furioasă începură a bate și a uda, și ținură așa până aproape de ziuă.</quote><bibl><abbr type="siglum" author="BOLINTINEANU" pages="414" sigla="BOLINTINEANU, O." source="O.">BOLINTINEANU, O. 414</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+          <sense class="6" value="◊">
+            <def>
+              <usg type="gram">Refl. pas.</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Legumele cele proaspete nu trebuiesc să se ude.</quote><bibl><abbr type="siglum" author="PENESCU" pages="32/1" sigla="PENESCU, M." source="M.">PENESCU, M. 32/1</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+          <sense class="7" value="◊">
+            <def>
+              <usg type="gram">Refl.</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Se ude-se (să se ude</quote><bibl><citedRange source="CC">CC</citedRange><hi rend="superscript">2</hi>. H, s ă - n t i n g ă D</bibl>.</cit>
+                <cit id="UNKNOWN"><quote>piciorul tău în sânge.</quote><bibl><citedRange pages="129" source="PSALT.">PSALT. 129</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Roata de la tocilă, învârtindu-se, se udă.</quote><bibl><abbr type="siglum" author="DAMÉ" pages="108" sigla="DAMÉ, T." source="T.">DAMÉ, T. 108</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>I s-o udat cămașa ... și ne jucăm de-a caii, să se usuce.</quote><bibl><abbr type="siglum" author="VLASIU" pages="50" sigla="VLASIU, A. P." source="A. P.">VLASIU, A. P. 50</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>S-au udat banii, erau de hârtie.</quote><bibl><abbr type="siglum" author="SORESCU" pages="144" sigla="SORESCU, L. L." source="L. L." volume="I">SORESCU, L. L. I, 144</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Începu a vrăji cu mâinile pe jos pe iarbă, ca să i se ude de rouă și să deie cu ea la ochi.</quote><bibl><abbr type="siglum" author="RETEGANUL" pages="25" sigla="RETEGANUL, P." source="P." volume="I">RETEGANUL, P. I, 25</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Leliță cu rochie scurtă, Sai valea și mă sărută. Sară dracul p-acolea Că mi se udă rochia!</quote><bibl><citedRange pages="200" source="DOINE">DOINE, 200</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Să-mi aleg un cal porumb, Scurt în gât și lung în trup ... Când oi trece Moldova Să nu se ude scara.</quote><bibl><citedRange pages="404" source="BALADE" volume="II">BALADE, II, 404</citedRange></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+        </sense>
+        <sense class="8" value="♦">
+          <def>
+		  <RegDef>A pune în contact cu apa, a muia în apă sau în alt lichid, a acoperi cu stropi de apă sau de alt lichid, a stropi, a face să fie ud <hi rend="bold">(1)</hi>.</RegDef>
+		  <dictScrap>
+		    <cit id="UNKNOWN"><quote>O vulpe hitleană nemeri de-și uda coada în apă și scutura pre foc de vrea să-l stingă.</quote><bibl>MOXA, 354/37</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>[Apa] să o poată treci și muierile să nu-și ude nici genunchile.</quote><bibl>HERODOT<hi rend="superscript">2</hi>. , 75</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Au amețit ... și s-au dus la cortu, de l-au udat împărăteasa cu niște apă, și s-au trezvit.</quote><bibl>NECULCE, L. 246, cf. ANON. CAR., LEX. MARS. 188, DRLU</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Să fie datoare a căra apă în toate zilele și a uda caldarâmul.</quote><bibl>REGUL. ORG. 527/26, cf. POLIZU</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Nu avem curaj a înghiți acel noroi apos, ci ne mulțămim numai a uda batiste în el și a le lipi de obraz cu partea nemânjită.</quote><bibl>ALECSANDRI, O. P. 348, cf. DDRF, BARCIANU</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>El se sculă, udă un prosop cu apă rece, se legă cu el la cap.</quote><bibl>PĂTRĂȘCANU, S. A. 42, cf. TDRG, ȘĂINEANU, D. U., CADE</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Pietrișul fusese udat de curând.</quote><bibl>M. ELIADE, C. 17</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Grădinarul acesta care stropește florile și era să-i ude pantofii, pare un om de treabă.</quote><bibl>V. ROM. ianuarie 1965, 19</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Voi trimite... Să te ude Azvârlind pe tine o găleată de apă.</quote><bibl>STĂNESCU, D. S. 46</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Udă cârpa-n apă rece, Te leagă la cap și-ți trece.</quote><bibl>JARNÍK - BÂRSEANU, D. 14</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Fă punte mândrii să treacă, Fă punte cu lăstărei, Să nu-și ude ciucurei.</quote><bibl>HODOȘ, P. P. 63</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Ia apă din ostroave Și-mi udă țâțânele.</quote><bibl>BIBICESCU, P. P. 343</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Mergea-n râul lui Iordan, Lua apă lui Roman. Și, după ce mi-l uda, Mai frumușel mi-l făcea.</quote><bibl>RĂDULESCU- CODIN, L. P. I, 25, cf. ALR I 619/51, 61, 80, 90, 112, 305, 815, ib. 771/1, ib. 1 271/363, ALR II 2 535/272, ib. 2 536/836, ALR SN IV h 1 064/2</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Miul ce-mi făcea?... Cu apă-l uda. Cu vin că-l stropea, Până mi-l trezea.</quote><bibl>BALADE, II, 269, cf. UDRESCU, GL</bibl>. </cit>
+		    <cit id="UNKNOWN"><quote>Spală-mi cojocul, dar nu mi-l uda</quote></cit>
+		  </dictScrap>
+		  <RegDef>(= cel ce a greșit să fie pedepsit, dar nu cu prea mare asprime).</RegDef><bibl><abbr type="siglum" author="ZANNE" pages="123" sigla="ZANNE, P." source="P." volume="III">ZANNE, P. III, 123</abbr></bibl>. 
+		  </def>
+          <sense class="9" value="◊">
+            <def>
+              <usg>(Prin exagerare; adesea cu determinarea „cu lacrimi”)</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Cu lacrămele meale așternutul mieu ud.</quote><bibl><abbr type="siglum" author="CORESI" pages="7"> <hi rend="superscript">r </hi>/16" sigla="CORESI, PS. SL.- ROM." source="PS. SL.- ROM.">CORESI, PS. SL.- ROM. 7<hi rend="superscript">r</hi>./16</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Oftă și căută spre ceri, și cu lacrămi udă pământul</quote><bibl> (a. 1600-1625). <citedRange pages="67/32" source="GCR" volume="I">GCR I, 67/32</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Scălda-voi în toate nopțile patul mieu, cu lacrămile meale așternutul mieu voiu uda.</quote><bibl><citedRange pages="383"> <hi rend="superscript">2 </hi>/24" source="BIBLIA" year="1688">BIBLIA (1688), 383<hi rend="superscript">2</hi>./24</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>În toate nopțile își uda așternutul cu lacrăme de pocăință.</quote><bibl><abbr type="siglum" author="ANTIM" pages="361" sigla="ANTIM, O." source="O.">ANTIM, O. 361</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Sărutând mâinile stăpănu-său, le udă cu cele mai credincioase lacrămi.</quote><bibl><citedRange pages="207/27" source="MOZAICUL" year="1838">MOZAICUL (1838), 207/27</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Cunoaște-l de pe-a lui lacrimi ce le-i găsi pe hârtie ... Cu ele odinioară udam a tale picioare.</quote><bibl><abbr type="siglum" author="CONACHI" pages="99" sigla="CONACHI, P." source="P.">CONACHI, P. 99</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Pâne românească udată cu lacreme.</quote><bibl><citedRange pages="116" source="FM" year="1861">FM (1861), 116</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Din ce noian îndepărtat Au răsărit [cânturile] în mine! Cu câte lacrimi le-am udat, Iubito, pentru tine!</quote><bibl><abbr type="siglum" author="EMINESCU" pages="184" sigla="EMINESCU, O." source="O." volume="I">EMINESCU, O. I, 184</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Ele plângeau de udau pământul.</quote><bibl><abbr type="siglum" author="CREANGĂ" pages="175" sigla="CREANGĂ, P." source="P.">CREANGĂ, P. 175</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Plângea de-și uda cămașa.</quote><bibl><abbr type="siglum" author="VLASIU" pages="309" sigla="VLASIU, A. P." source="A. P.">VLASIU, A. P. 309</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Tu vei ghici durerea Zeiței pământene Și plânsetul Fecioarei, ce câmpuri leteene I-e dat mult timp să ude în rouă ochilor.</quote><bibl><abbr type="siglum" author="I. BARBU" pages="10" sigla="I. BARBU, J. S." source="J. S.">I. BARBU, J. S. 10</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Plângea, plângea de gândeai că udă locul.</quote><bibl><abbr type="siglum" author="BOTA" pages="29" sigla="BOTA, P." source="P.">BOTA, P. 29</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Și pe codru-l bate vântu, Și eu plâng de ud pământu.</quote><bibl>FOLC. TRANSILV, II, 24</bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Când a auzit Gheorghe una ca asta, a început să plângă de uda pământul.</quote><bibl>CAF III, 399</bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+          <sense class="10" value="◊">
+            <def>
+              <usg type="gram">Refl.</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Cu lacrămile meale așternutul mieu udă-se.</quote><bibl><citedRange pages="8" source="PSALT.">PSALT. 8</citedRange></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+          <sense class="11" value="◊">
+            <def>
+              <usg>(În basme)</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Dacă nu le va uda [cămășile] cu lacrămi de turturică ... va muri.</quote><bibl><abbr type="siglum" author="ISPIRESCU" pages="114" sigla="ISPIRESCU, L." source="L.">ISPIRESCU, L. 114</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+          <sense class="12" value="◊">
+            <def>
+			<usg>Expr.</usg>
+			<RegDef><hi rend="bold">A uda</hi> (pe cineva) șoarece = a uda <hi rend="bold">(1</hi>.) pe cineva foarte tare.</RegDef>
+			<dictScrap>
+			  <cit id="UNKNOWN"><quote>A început să-i răstoarne în cap strachină după strachină, de a udat-o șoarece.</quote><bibl><abbr type="siglum" author="PÂRVESCU" pages="61" sigla="PÂRVESCU, C." source="C.">PÂRVESCU, C. 61</abbr></bibl>.</cit>
+			</dictScrap>
+			<RegDef>=A(-și. uda gura (sau gurița, gâtul, gâtlejul, măseaua, mustața. a bea pentru a-și potoli setea, mai ales a bea vin sau altă băutură alcoolică.</RegDef>
+			<dictScrap>
+			  <cit id="UNKNOWN"><quote>Cum îi plăcea să ude des mustața ne împrietenisem la toartă.</quote><bibl><abbr type="siglum" author="CIPRIAN" pages="131" sigla="CIPRIAN, S." source="S." volume="I">CIPRIAN, S. I, 131</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Femeia își udă gura cu apă.</quote><bibl><abbr type="siglum" author="STANCU" pages="196" sigla="STANCU, D." source="D.">STANCU, D. 196</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Se opri și-și udă gâtlejul uscat cu un pahar de vin.</quote><bibl><abbr type="siglum" author="PREDA" pages="388" sigla="PREDA, M." source="M.">PREDA, M. 388</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Poftiți de-nchinați, Vă udați gura căscată.</quote><bibl><abbr type="siglum" author="TEODORESCU" pages="171" sigla="TEODORESCU, P. P." source="P. P.">TEODORESCU, P. P. 171</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Când mai uzi cel gât, îți mai ridici parcă de la inimă cu căușul. <bibl>FURTUNĂ, C </bibl>.</quote><bibl>2</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Și mai dați cu udătura, Să-și ude Mitică gura. <bibl>BALADE, II</bibl>.</quote><bibl>34</bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Cu apă gura Și-o uda, Arsura și-o potolea.</quote><bibl><citedRange pages="123" source="ib.">ib. 123</citedRange></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>S-au luat amândoi la birt și-ndemnându-se din ce în ce, unde nu mi se pune a-și uda măseaua, de cugeti că focul și para, ele o mistuie. <bibl>SNOAVA, </bibl>.</quote><bibl>II, 91</bibl>.</cit>
+			  </dictScrap>
+			  <RegDef><hi rend="italic">Bea cu oala, Să fugă boala, Și cu ploschița, Să-și ude gurița, </hi>se spune despre bețivi.</RegDef><bibl>Cf. <abbr type="siglum" author="ZANNE" pages="452" sigla="ZANNE, P." source="P." volume="III">ZANNE, P. III, 452</abbr></bibl>.   
+			  <RegDef><hi rend="bold">A-și uda sufletul </hi>= a bea apă pentru a-și potoli setea.</RegDef>
+			  <dictScrap>
+			    <cit id="UNKNOWN"><quote>Făt-Frumos ... a cerut de la babă să-i deie puțină apă să-și ude sufletul.</quote><bibl><abbr type="siglum" author="SBIERA" pages="123" sigla="SBIERA, P." source="P.">SBIERA, P. 123</abbr></bibl>.</cit>
+			  </dictScrap>
+			  </def>
+          </sense>
+        </sense>
+        <sense class="13" value="◊">
+          <def>
+            <usg type="gram">Refl.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>De dimineață până la prânzu iaste foarte caldu încât, de căldură, se udu cu apă.</quote><bibl><citedRange source="HERODOT">HERODOT</citedRange><hi rend="superscript">2</hi>., 176</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>A doua zi, după ce m-am udat pe cap și m-am pieptănat ..., am plecat. .</quote><bibl>RĂESCU, A. 159</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Atunci zicea el că mersese mult târâș, târâș, Prin apă, cu șpanga deasupra să nu se ude.</quote><bibl><abbr type="siglum" author="SORESCU" pages="34" sigla="SORESCU, L. L." source="L. L." volume="III">SORESCU, L. L. III, 34</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Oaia dată de sufletul mortului pe cealaltă lume se udă în apă și merge de scutură lâna pe focul unde arde  stăpânul său.</quote><bibl><citedRange pages="198" source="ȘEZ." volume="II">ȘEZ. II, 198</citedRange>, cf. <citedRange pages="445" source="BALADE" volume="I">BALADE, I, 445</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Să bagă-m baltă ..., să udă!</quote><bibl><abbr type="siglum" author="O. BÂRLEA" pages="391" sigla="O. BÂRLEA, A. P." source="A. P." volume="II">O. BÂRLEA, A. P. II, 391</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ce șede pe apă și nu se udă?</quote><bibl> (Umbra). <abbr type="siglum" author="TEODORESCU" pages="247" sigla="TEODORESCU, P. P." source="P. P.">TEODORESCU, P. P. 247</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="14" value="♦">
+          <def>
+            <RegDef>A umezi, a umecta.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Udându-le gura cu puțină zamă de carne caldă, au început câte puțin a-și deschide ochii.</quote><bibl><abbr type="siglum" author="DRĂGHICI" pages="27/14" sigla="DRĂGHICI, R." source="R.">DRĂGHICI, R. 27/14</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Udă-i buzele, țață Marițo, că altceva n-ai ce-i face.</quote><bibl><abbr type="siglum" author="H. LOVINESCU" pages="227" sigla="H. LOVINESCU, T." source="T.">H. LOVINESCU, T. 227</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+          <sense class="15" value="◊">
+            <def>
+              <usg>Fig.</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Cu aspra nepăsare, tu ... buzele-nsetate cu fiere mi le uzi.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="432" sigla="EMINESCU, O." source="O." volume="IV">EMINESCU, O. IV, 432</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+        </sense>
+        <sense class="16" value="♦">
+          <def>
+            <RegDef>A bea în timpul mesei vin sau alte băuturi.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Nu pierdeau prilejul unui ceai parfumat și al tartinelor cu icre negre, udate cu un pahar de vin autohton.</quote><bibl><abbr type="siglum" author="C. PETRESCU" pages="179" sigla="C. PETRESCU, C. V." source="C. V.">C. PETRESCU, C. V. 179</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Rupse o coajă de pâine, o așeză pe limbă și o udă cu o înghițitură de vin.</quote><bibl><abbr type="siglum" author="I. M. SADOVEANU" pages="24" sigla="I. M. SADOVEANU, S." source="S.">I. M. SADOVEANU, S. 24</abbr>, cf. <citedRange source="DL">DL</citedRange>, <citedRange source="DM">DM</citedRange>, DEX</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Sarmale din piept de curcan ... și toate astea udate cu o sticlă de vin.</quote><bibl><citedRange pages="30" source="SNOAVA" volume="II">SNOAVA, II, 30</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="17" value="♦">
+          <def>
+            <usg>(Familiar)</usg>
+            <RegDef>A sărbători ceva sau pe cineva făcând cinste, dând de băut.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Hai să udăm hainele, ca să ție!</quote><bibl><abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ai câștigat la loterie; ești bun de cinste, hai să te udăm!</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="18" value="♦">
+          <def>
+            <usg type="gram">Refl.</usg>
+            <usg>(Cu subiectul „ochii”)</usg>
+            <RegDef>A se umple de lacrimi.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Acu cinci ani, murise biata mămuca ... Mi se udă ochii când mă gândesc la ea.</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="50" sigla="ALECSANDRI, T." source="T.">ALECSANDRI, T. 50</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ochii de plâns mi se udă.</quote><bibl><abbr type="siglum" author="EPURE" pages="14" sigla="EPURE, P." source="P.">EPURE, P. 14</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="19" value="♦">
+          <def>
+            <usg>Fig.</usg>
+            <usg>(Învechit, în textele religioase)</usg>
+            <RegDef>A acoperi (cu rușine, cu ocară).</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Scurtat-ai dzilele vreamei lui, udat-ai <usg>(s t r o p i t-a i <bibl>H</bibl>. i-a i t u r n a t .)</usg> elu cu reace.</quote><bibl><citedRange pages="187" source="PSALT.">PSALT. 187</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+      <sense class="20" value="2.">
+        <def>
+          <usg type="gram">Tranz.</usg>
+          <RegDef>A turna apă peste plante, peste semănături; a stropi.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>De nu va fi ploaie, vor muri toți de foami, neftind alt mijlocu de udat ei pâinile.</quote><bibl><citedRange source="HERODOT">HERODOT</citedRange><hi rend="superscript">2</hi>., 92, cf. <citedRange pages="242" source="LEX. MARS.">LEX. MARS. 242</citedRange>, DRLU</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uda răsadurile de copăcei, răsăde crengi verzi și alte soiuri de copaci.</quote><bibl><abbr type="siglum" author="DRĂGHICI" pages="151/29" sigla="DRĂGHICI, R." source="R.">DRĂGHICI, R. 151/29</abbr>, cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să iei acești pui de dafin, ... să-i uzi cu năstrapa cea de aur.</quote><bibl><abbr type="siglum" author="ISPIRESCU" pages="235" sigla="ISPIRESCU, L." source="L.">ISPIRESCU, L. 235</abbr>, cf. DDRF</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să-i spui că florile din strat Le ud, și cresc mai revărsat.</quote><bibl><abbr type="siglum" author="COȘBUC" pages="283" sigla="COȘBUC, P." source="P." volume="I">COȘBUC, P. I, 283</abbr>, cf. <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr>, <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Toată ființa ei tremurând de bucurie, ca o plantă pe care o uzi după ce se uscase aproape de lipsă de ploaie.</quote><bibl><abbr type="siglum" author="A. HOLBAN" pages="333" sigla="A. HOLBAN, O." source="O." volume="II">A. HOLBAN, O. II, 333</abbr>, cf. CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>S-arată în lumină o femeie tânără c-o stropitoare în mână și începu să ude florile.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="265" sigla="SADOVEANU, O." source="O." volume="XVI">SADOVEANU, O. XVI, 265</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Are o căscioară cu prispă, cu flori dinaintea ușii, pe care le udă cu stropitoarea.</quote><bibl><abbr type="siglum" author="ARGHEZI" pages="36" sigla="ARGHEZI, S." source="S." volume="VII">ARGHEZI, S. VII, 36</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>N-are gaica flori de dat, C-astă vară n-a plouat Și-am plătit de le-am udat.</quote><bibl><citedRange pages="290" source="ȘEZ." volume="I">ȘEZ. I, 290</citedRange>, cf. ALR II 2 537</bibl>. [Florile]  </cit>
+            <cit id="UNKNOWN"><quote>Le-am sădit și le-am udat, Toate-o-nflorit și-o legat.</quote><bibl>FOLC TRANSILV. I, 25</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Udam prunii la rădăcină.</quote><bibl><citedRange pages="39" source="T. DIAL. M." volume="II">T. DIAL. M. II, 39</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Tot flori de-ale mele... De surori săpate, De mine udate.</quote><bibl>CAF III, 56</bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="21" value="♦">
+          <def>
+            <usg>(Prin Transilv.)</usg>
+            <RegDef>A practica udatul<hi rend="superscript">1</hi>. <hi rend="bold">(2)</hi>.  în a doua zi de Paști; a stropi. <bibl>Com din CÂMPENI, din CLUJ NAPOCA și din ORĂȘTIE</bibl>.</RegDef>
+          </def>
+        </sense>
+      </sense>
+      <sense class="22" value="3.">
+        <def>
+          <usg type="gram">Tranz.</usg>
+          <usg>(Subiectul gramatical sau logic este o apă curgătoare)</usg>
+          <RegDef>A străbate un ținut (alimentându-l cu apă); <usg>p. ext.</usg> a inunda; (cu subiectul „ocean”, „mare”) a atinge, a scălda <hi rend="bold">(4)</hi>.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Răsădi Dumnezeu pom de preceput ce iaste bine și rău, și apă curatoare în mijlocul raiului de udă pomeții.</quote><bibl><citedRange pages="346/16" source="MOXA">MOXA, 346/16</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Geon ... în luna lui avgust să umflă și udă tot pământul Misiriului</quote><bibl> (cca 1750). <citedRange pages="61/33" source="GCR" volume="II">GCR II, 61/33</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Oceanul sau apa care încongioară toate conținuturile este unul, dar după deosebitele țărmuri care udă își ia deosebite numiri.</quote><bibl><citedRange pages="124"> <hi rend="superscript">1 </hi>/8" source="CR" year="1829">CR (1829), 124<hi rend="superscript">1</hi>./8</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Părăiele cu ape văzură-se că udează Vrun loc mai cu-ndestulare ce vitele pășunează?</quote><bibl><abbr type="siglum" author="CONACHI" pages="300" sigla="CONACHI, P." source="P.">CONACHI, P. 300</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ocnele de la Telega sânt situate pe o câmpie înconjurată de dealuri acoperite cu păduri și udată de râul Doftana ce-o traversează.</quote><bibl><abbr type="siglum" author="FILIMON" pages="294" sigla="FILIMON, O." source="O." volume="I">FILIMON, O. I, 294</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Vezi Iordanul care udă câmpii verzii Palestine.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="115" sigla="EMINESCU, O." source="O." volume="IV">EMINESCU, O. IV, 115</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Pământul nostru-i scump și sfânt, Că el ni-e leagăn și mormânt. Cu sânge cald l-am apărat, Și câte ape l-au udat Sânt numai lacrimi ce-am vărsat.</quote><bibl><abbr type="siglum" author="COȘBUC" pages="209" sigla="COȘBUC, P." source="P." volume="I">COȘBUC, P. I, 209</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Parcurile cele scumpe, casa ta și vila ta, Ce cu galbenele-i valuri Tibrul udă.</quote><bibl><abbr type="siglum" author="OLLĂNESCU" pages="126" sigla="OLLĂNESCU, H. O." source="H. O.">OLLĂNESCU, H. O. 126</abbr>, cf. <citedRange source="TDRG">TDRG</citedRange>, CADE</bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+      <sense class="23" value="4.">
+        <def>
+		<usg type="gram">Refl.</usg>
+		<RegDef>A urina.</RegDef><bibl>Cf. <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr>, <citedRange source="DDRF">DDRF</citedRange>, <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="GOROVEI" pages="48" sigla="GOROVEI, CR." source="CR.">GOROVEI, CR. 48</abbr>, CADE</bibl>.   
+		<dictScrap>
+		  <cit id="UNKNOWN"><quote>Nu lăsa pruncii să se joace cu foc, că se udă-n pat.</quote><bibl><abbr type="siglum" author="PRIBEAGUL" pages="109" sigla="PRIBEAGUL, P. R." source="P. R.">PRIBEAGUL, P. R. 109</abbr>, cf. <citedRange pages="655/215" source="ALR" volume="I" volumepart="1">ALR I 1 655/215</citedRange></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Negii ... se nasc din pricina că s-au udat broaștele pe mânile ori picioarele cuiva.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="50" sigla="PAMFILE, B." source="B.">PAMFILE, B. 50</abbr></bibl>.</cit>
+		</dictScrap>
+		<RegDef><hi rend="italic">Nu știe pe unde se udă găina, </hi>se spune despre un tânăr naiv, fără experiență.</RegDef>
+		<dictScrap>
+		  <cit id="UNKNOWN"><quote>Ei, copile! vezi că e pricina, Că nu știi pe unde se udă găina.</quote><bibl><abbr type="siglum" author="PANN" pages="54/8" sigla="PANN, P. V." source="P. V." volume="I">PANN, P. V. I, 54/8</abbr>, cf. <abbr type="siglum" author="ZANNE" pages="476" sigla="ZANNE, P." source="P." volume="I">ZANNE, P. I, 476</abbr></bibl>.</cit>
+		</dictScrap>
+		</def>
+      </sense>
+      <sense class="24" value="5.">
+        <def>
+          <usg type="gram">Tranz.</usg>
+          <RegDef>A murdări cu urină, a stropi cu urină.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Micuța găsi de cuviință să-și ude scutecele tocmai în brațele Eugeniei.</quote><bibl><abbr type="siglum" author="REBREANU" pages="416" sigla="REBREANU, I." source="I.">REBREANU, I. 416</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Lighioile ... l-o batjocorit ..., altele l-o udat, altele l-o găinățat.</quote><bibl><abbr type="siglum" author="VASILIU" pages="94" sigla="VASILIU, P. L." source="P. L.">VASILIU, P. L. 94</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Zăpada albă o udă câinii.</quote><bibl><abbr type="siglum" author="ZANNE" pages="93" sigla="ZANNE, P." source="P." volume="I">ZANNE, P. I, 93</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Prez. ind.: <hi rend="italic">ud</hi>,. pers. 3 (rar) <hi rend="italic">udează</hi>.</form>
+      <form>– Lat. <hi rend="bold">udare</hi>.</form>
+    </form>
+  </entry>
+</body>

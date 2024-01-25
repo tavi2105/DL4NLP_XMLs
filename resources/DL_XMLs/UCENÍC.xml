@@ -1,0 +1,194 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCENÍC</orth>
+      <gramGrp>subst., s.m. și f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCENÍC, -Ă">
+      <def>
+        <MorfDef>subst.</MorfDef>
+      </def>
+      <sense class="1" value="I.">
+        <def>
+          <MorfDef>S.m. și f.</MorfDef>
+        </def>
+        <sense class="2" value="1.">
+          <def>
+            <RegDef>Persoană care primește (și continuă) învățătura cuiva; persoană care adoptă principiile, doctrina cuiva; discipol, învățăcel; <usg>p. ext.</usg> elev, școlar<hi rend="superscript">2</hi>. (<hi rend="bold">1</hi>.).</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Pavel vruindu se între întru gloată, nu-l lăsară elu ucenicii lui.</quote><bibl><citedRange source="COD. VOR.">COD. VOR.</citedRange><hi rend="superscript">2</hi>. 5<hi rend="superscript">v</hi>./7</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Destul ucenicului se fie ca dascălul.</quote><bibl><citedRange pages="177/17" source="EV. SL.-ROM.">EV. SL.-ROM. 177/17</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucenicul ce priimeaște de la dascălul său are și el și dă altuia cuvânt desăvârșit.</quote><bibl><abbr type="siglum" author="CORESI" pages="320" sigla="CORESI, EV." source="EV.">CORESI, EV. 320</abbr>, cf. 41</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Eu sânt domn și biruitoriu, iară nu slugă; învățătoriu, iară nu ucenic, eu Dumnedzău, cu putearea mea cea dumnedzăiască dzic ție.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="53" sigla="VARLAAM, C." source="C.">VARLAAM, C. 53</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucinicu</quote><bibl> (cca 1645). <abbr type="siglum" author="I. GHEȚIE" pages="288" sigla="I. GHEȚIE, B. D." source="B. D.">I. GHEȚIE, B. D. 288</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cela ce va sudui pre ucenic înaintea dascalu-său... suduiaște pre dascalu-său.</quote><bibl><citedRange pages="238" source="PRAV.">PRAV. 238</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Dascălul ce-ș va bate ucenicul nu să va certa ca un suduitoriu, cându-l va bate cu măsură.</quote><bibl><citedRange pages="224" source="ib.">ib. 224</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Pe toți îi iertă și-i deslegă, ca un ucenic adevărat al lui H[risto]s, cu al cărui trup și sânge să și pricestui.</quote><bibl><abbr type="siglum" author="GAVRIL" pages="55" sigla="GAVRIL, NIF." source="NIF.">GAVRIL, NIF. 55</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Au mărs la Ierusalim la Ammonie, ucinicul sv[â]ntului Antonie.</quote><bibl><abbr type="siglum" author="DOSOFTEI" month="NOIEMBRIE" pages="116"><hi rend="superscript">r</hi>/15" sigla="DOSOFTEI, V. S." source="V. S.">DOSOFTEI, V. S. NOIEMBRIE 116<hi rend="superscript">r</hi>./15</abbr>, CF. septembrie23<hi rend="superscript">r</hi>./22</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Între dascăli și ucenici aceaea dragoste trebuiaște să fie și să rămâie, carea iaste între părinți și între feciori.</quote><bibl><abbr type="siglum" author="ZOBA" pages="48" sigla="ZOBA, S." source="S.">ZOBA, S. 48</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cât de multă grijă face dascălul întru învățarea ucinicului.</quote><bibl><abbr type="siglum" author="N. COSTIN" pages="13" sigla="N. COSTIN, C." source="C.">N. COSTIN, C. 13</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Precum se vede, nu ucinică, ce didascală alhimiștilor iaste.</quote><bibl><abbr type="siglum" author="CANTEMIR" pages="45" sigla="CANTEMIR, IST." source="IST.">CANTEMIR, IST. 45</abbr>, cf. <citedRange source="ANON. CAR.">ANON. CAR.</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Era mitropolit țărei preasfințitul Iacov, ucenicul preasfințitului mitropolit Antonie.</quote><bibl>CANTA, <citedRange pages="185/20" source="LET." volume="III">LET. III, 185/20</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>A doua zi... vin dascălii școalilor cu ucenicii cei mai aleși; însă întâi dascalul cel mare... să închină Domnului.</quote><bibl><abbr type="siglum" author="GHEORGACHI" pages="284" sigla="GHEORGACHI, CER." source="CER." year="1762">GHEORGACHI, CER. (1762), 284</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Nu din pricina dascălilor, ci din două pricini s-au dovedit răsipa ucenicilor</quote><bibl> (cca 1772). <citedRange pages="70" source="URICARIUL" volume="I">URICARIUL, I, 70</citedRange>/18</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Țiitoare una de alta numim câte între dânsele să țin una de alta...; ucenic și dascăl.</quote><bibl><abbr type="siglum" author="MOLNAR" pages="59/13" sigla="MOLNAR, RET." source="RET.">MOLNAR, RET. 59/13</abbr></bibl>. [Epitropii] </cit>
+              <cit id="UNKNOWN"><quote>să aibă a ajuta pe ucenicii săraci, iubitori de învățătură</quote><bibl> (a. 1793). <citedRange pages="55" source="URICARIUL" volume="II">URICARIUL, II, 55</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Eder, cel dintâi și credincios ucenic lui Sulțer... două doveade aduce înainte spre adeverire.</quote><bibl><abbr type="siglum" author="MAIOR" pages="193/7" sigla="MAIOR, IST." source="IST.">MAIOR, IST. 193/7</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>El învăța pre ucenicii săi.</quote><bibl><abbr type="siglum" author="PETROVICI" pages="42/7" sigla="PETROVICI, P." source="P.">PETROVICI, P. 42/7</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Sfârșindu-se învățăturile..., mai mult rămânea folosit dascălul decât ucenicul.</quote><bibl><abbr type="siglum" author="BELDIMAN" pages="25/1" sigla="BELDIMAN, N. P." source="N. P." volume="I">BELDIMAN, N. P. I, 25/1</abbr></bibl>. [Dascălii]  </cit>
+              <cit id="UNKNOWN"><quote>să-i învețe catechizmul pe de rost tot și să-l tălcuiască ucenicilor</quote><bibl> (a. 1820). <abbr type="siglum" author="IORGA" pages="209" sigla="IORGA, S. D." source="S. D." volume="XII">IORGA, S. D. XII, 209</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Grecii s-au pus școala să ne-o strice, Între dascăli și ucenici umblă să bage price.</quote><bibl><abbr type="siglum" author="ZILOT" pages="335" sigla="ZILOT, CRON." source="CRON.">ZILOT, CRON. 335</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Unul au zis lui Eschim: cum așa tace, fiind ucenic al lui Socrat?</quote><bibl><abbr type="siglum" author="GOLESCU" pages="166" sigla="GOLESCU, S." source="S.">GOLESCU, S. 166</abbr>, cf. LB</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Veți afla toate învățăturile câte înțălepții da ucenicilor săi.</quote><bibl><abbr type="siglum" author="DRĂGHICI" pages="197/15" sigla="DRĂGHICI, R." source="R.">DRĂGHICI, R. 197/15</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Zidii școala..., în care încape o sumă de opt sute de ucenici.</quote><bibl><abbr type="siglum" author="GORJAN" pages="67/2" sigla="GORJAN, H." source="H." volume="II">GORJAN, H. II, 67/2</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Acest guvernant... nu putu nimic să arate ucenicului său.</quote><bibl><abbr type="siglum" author="TÂMPEANUL" pages="60/8" sigla="TÂMPEANUL, G." source="G.">TÂMPEANUL, G. 60/8</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Între ucenicii ce vor urma învățătura agriculturii să vor ținea câțiva cu cheltuiala școalei.</quote><bibl><citedRange pages="390/7" source="REGUL. ORG.">REGUL. ORG. 390/7</citedRange>, cf. ISER</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucenicii lui Petru Maior au răstălmăcit cuvintele dascălului.</quote><bibl><abbr type="siglum" author="RUSSO" pages="47" sigla="RUSSO, S." source="S.">RUSSO, S. 47</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Am avut cinste a înfățoșa... prohorisirile ucenicilor mei în istorie, citire, scriere.</quote><bibl><abbr type="siglum" author="NEGRUZZI" pages="5" sigla="NEGRUZZI, S." source="S." volume="I">NEGRUZZI, S. I, 5</abbr>, cf. <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucenicul lui Seneca, ridicat de mâni și de păr, se simți despărțit de pământ.</quote><bibl><citedRange pages="395" source="CONTEMPORANUL" vnote="1" volume="VI">CONTEMPORANUL, VI<hi rend="subscript">1</hi>, 395</citedRange>, cf. <citedRange source="DDRF">DDRF</citedRange>, ALEXI, W., <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU">ȘĂINEANU</abbr>, D. U., CADE</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cum așa, să se tragă în degete un ucenic cu profesorul său?</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="551" sigla="SADOVEANU, O." source="O." volume="XVII">SADOVEANU, O. XVII, 551</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Un învățător care-și probozește toată ziua ucenicii ajunge să-i urască și, la răndu-i, devine urât.</quote><bibl>CĂLINESCU, C O. 152</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Am fost... mai tineri puțin... și ne-am socotit ucenicii lui.</quote><bibl>T august1964, 55</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Căci n-ați avut nici frați, nici unchi, Nici ucenici să plângă-n urmă.</quote><bibl><abbr type="siglum" author="VULPESCU" pages="140" sigla="VULPESCU, P." source="P.">VULPESCU, P. 140</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cu trecerea vremii s-a schimbat și îmbrăcămintea ucenicilor lui Hipocrate.</quote><bibl><abbr type="siglum" author="G. BARBU" pages="32" sigla="G. BARBU, A. V." source="A. V.">G. BARBU, A. V. 32</abbr>, cf. <abbr type="siglum" author="MIHĂILĂ" pages="148" sigla="MIHĂILĂ, Î." source="Î.">MIHĂILĂ, Î. 148</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Nu te arăta dascăl până a nu fi ucenic.</quote><bibl><abbr type="siglum" author="ZANNE" pages="643" sigla="ZANNE, P." source="P." volume="V">ZANNE, P. V, 643</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Dracul toate ar vrea să fie, numai ucenic nu.</quote><bibl><abbr type="siglum" author="id." pages="564" source="ib." volume="VI">id. ib. VI, 564</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Mulți din ucenici întrec la învățătură pe înșiși ai lor dascăli.</quote><bibl><abbr type="siglum" citeauthor="I. GOLESCU" origauthor="ZANNE" pages="92" sigla="ZANNE, P." source="P." volume="VIII">I. GOLESCU, ap. ZANNE, P. VIII, 92</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+          <sense class="3" value="◊">
+            <def>
+              <usg>Fig.</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Și a avut Eminescu ucenici o droaie și un mare număr de admiratori cari îl cunoșteau personal.</quote><bibl><abbr type="siglum" author="CHENDI" pages="345" sigla="CHENDI, S." source="S." volume="I">CHENDI, S. I, 345</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+          <sense class="4" value="♦">
+            <def>
+              <usg>(La m.; în limbajul bisericesc; și cu determinările „lui Iisus Hristos”, „lui Hristos”)</usg>
+              <RegDef>Nume dat fiecăruia dintre cei doisprezece apostoli ai lui Hristos; <usg>p. ext.</usg> nume dat fiecăruia dintre cei patru evangheliști.</RegDef>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Rădică ochii lui la ucenicii lui, grăi:... a voastră iaste împărăția lu Dumnezeu</quote><bibl> (a. 1579). <citedRange pages="19/17" source="GCR" volume="I">GCR I, 19/17</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Zise Do[m]nul alor sei ucenici.</quote><bibl><citedRange pages="174/2" source="EV. SL.- ROM.">EV. SL.- ROM. 174/2</citedRange></bibl>. [Hristos]  </cit>
+                <cit id="UNKNOWN"><quote>de munca lui grăiaște cătră ai săi ucenini și apostolilor.</quote><bibl><abbr type="siglum" author="CORESI" pages="88" sigla="CORESI, EV." source="EV.">CORESI, EV. 88</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Petru apostol era tutindinea mai îndrăzneț decât alalți ucenici.</quote><bibl><abbr type="siglum" author="id." pages="67" source="ib.">id. ib. 67</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Deaca auzi H[risto]s că Lazăr s-au războlit..., zise ucinicilor săi: blamați iară în jidovi</quote><bibl>(a. 1600-1650). <citedRange pages="137/33" source="GCR" volume="I">GCR I, 137/33</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>H[risto]s... pace dat-au ap[osto]lilor săi și ucenicilor săi.</quote><bibl><citedRange pages="248/7" source="IEUD">IEUD, 248/7</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Spune Domnul Hristos ucenicilor săi de muncile și de moartea sa.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="55" sigla="VARLAAM, C." source="C.">VARLAAM, C. 55</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Fiind sară, veni oarecine, un om..., acela era ucenic lui I[i]s</quote><bibl>[us] (a. 1642). <citedRange pages="100/38" source="GCR" volume="I">GCR I, 100/38</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Cine va primi pe ucenicii miei pre mine mă va priimi.</quote><bibl><abbr type="siglum" author="ZOBA" pages="50" sigla="ZOBA, S." source="S.">ZOBA, S. 50</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>D[u]mn[e]dzău au poruncit sf[i]nților săi ucenici... să propoveduiască cuvântul său.</quote><bibl><citedRange pages="4/55" source="BIBLIA" year="1688">BIBLIA (1688), [prefață] 4/55</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Hristos ... au luat iar propovedu- itorii evanghelia ..., dzicându-le: ... „Urmați-mi mie, ucenicii mei și învățătorii lumei”.</quote><bibl><abbr type="siglum" author="ANTIM" pages="3" sigla="ANTIM, P." source="P.">ANTIM, P. 3</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Sfântul apostol Toma, fiind el din numărul cetei acelor 12 ucenici ai lui H[risto]s.</quote><bibl>VARLAAM - IOASAF, 6<hi rend="superscript">v</hi>./21</bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Domnul... acestea le-au lăsat ucinicilor săi ca niște porunci de despărțire</quote><bibl> (sec. XVIII). <citedRange pages="80" source="CAT. MAN." volume="I">CAT. MAN. I, 80</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Vestitorii propoveduitori, căpeteniia ucinicilor tăi, D[oa]mne, i-ai priimit întru desfătarea bunătăților tale.</quote><bibl><citedRange pages="28/24" source="CALENDARIU" year="1814">CALENDARIU (1814), 28/24</citedRange>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, CADE</bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Hristos... s-a mărginit să-și trimită „ucenicii” în lume, ca să-i propovăduiască învățăturile.</quote><bibl><abbr type="siglum" author="NEGULESCU" pages="94" sigla="NEGULESCU, F. R." source="F. R.">NEGULESCU, F. R. 94</abbr>, cf. <abbr type="siglum" author="MIHĂILĂ" pages="148" sigla="MIHĂILĂ, Î." source="Î.">MIHĂILĂ, Î. 148</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>El avea numai douăsprezece lumânări, pe când sfinții ucenici și cu Domnul Hristos  făceau treisprezece.</quote><bibl><citedRange pages="501" source="SNOAVA" volume="III">SNOAVA, III, 501</citedRange></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+        </sense>
+        <sense class="5" value="2.">
+          <def>
+            <RegDef>Persoană (tânără) care învață meserie, lucrând sub îndrumarea unui meșter; (învechit) sodal, (regional) inaș, șăgârt.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Dedă lui și ucenicilor lui de să tipărească această carte, Ev[anghe]lie cu învățătură</quote><bibl> (a. 1581).<citedRange pages="45/17" source="CCR">CCR 45/17</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Care ucenic va avea a se băga la meșter să aibă a veni la starostile cu stăpânul său</quote><bibl> (a. 1766). <citedRange pages="2" source="URICARIUL" volume="XIV">URICARIUL, XIV, 2</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Am tocmit pe Todoran, feciorul lui Mihai cojocariul din Craiova, ca să slujască fără de simbrie, adecă ucenic la învățătură, patru ani</quote><bibl> (a. 1775). <abbr type="siglum" author="IORGA" pages="92" sigla="IORGA, S. D." source="S. D." volume="XII">IORGA, S. D. XII, 92</abbr>, cf. LB</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Meșterii cei mari vor plăti patenta de întâia stare... Să osebesc... ucenicii numiților.</quote><bibl><citedRange pages="41/12" source="REGUL. ORG.">REGUL. ORG. 41/12</citedRange>, cf. <citedRange source="ISER">ISER</citedRange>, <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Lăutarii..., nemaiavând cui să cânte bătrânele cântece, nu le-au mai spus copiilor și ucenicilor, ci le-au îngropat cu dânșii.</quote><bibl><abbr type="siglum" author="LAMBRIOR" pages="173" sigla="LAMBRIOR, S." source="S.">LAMBRIOR, S. 173</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Muia feleștiocul în strachina cu dohot și-mi trăgea un pui de răbuială ca aceea, pe la bot, de-i bufnea râsul pe toți ucenicii din ciubotărie.</quote><bibl><abbr type="siglum" author="CREANGĂ" pages="46" sigla="CREANGĂ, A." source="A.">CREANGĂ, A. 46</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Băiatul e ucenic, acum învață meșteșugul.</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="303" sigla="CARAGIALE, O." source="O." volume="IV">CARAGIALE, O. IV, 303</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Nu era nevoie de multă școală: atât ca să-l primească ucenic.</quote><bibl><abbr type="siglum" author="SLAVICI" pages="6" sigla="SLAVICI, O." source="O." volume="II">SLAVICI, O. II, 6</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Mă bag ucenic la dumneata să  mă înveți acest meșteșug.</quote><bibl><abbr type="siglum" author="ISPIRESCU" pages="368" sigla="ISPIRESCU, L." source="L.">ISPIRESCU, L. 368</abbr>, cf. <citedRange source="DDRF">DDRF</citedRange>, <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Zăvorind ușile și obloanele [prăvăliei], ochii îi jucară în toate părțile, mustrând pe ucenici.</quote><bibl><abbr type="siglum" author="DELAVRANCEA" pages="19" sigla="DELAVRANCEA, H. T." source="H. T.">DELAVRANCEA, H. T. 19</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Nu e vorba aci de cuvinte dialectale sau de germanisme, luate de ucenicii români de la stăpânii lor străini, ci e vorba de întreaga mecanică a limbei.</quote><bibl><abbr type="siglum" author="D. ZAMFIRESCU" pages="450" sigla="D. ZAMFIRESCU, O." source="O." volume="V">D. ZAMFIRESCU, O. V, 450</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Câte-un ștrengar de ucenic pășea semeț, cu mâinile-n buzunar.</quote><bibl><abbr type="siglum" author="SANDU-ALDEA" pages="154" sigla="SANDU-ALDEA, D. P." source="D. P.">SANDU-ALDEA, D. P. 154</abbr>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <citedRange source="TDRG.">TDRG.</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Prăvăliile erau deschise de curând și ucenici sprinteni se iveau pe-o clipă în uși.</quote><bibl><abbr type="siglum" author="AGÂRBICEANU" pages="59" sigla="AGÂRBICEANU, A." source="A.">AGÂRBICEANU, A. 59</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ca să-și încerce</quote><bibl> ucenicu, hoțu ăl mare l-a trimis îndată să-i fure o găină din sat. <abbr type="siglum" author="LUNGIANU" pages="62" sigla="LUNGIANU, C." source="C.">LUNGIANU, C. 62</abbr>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, CADE</bibl>. Î </cit>
+              <cit id="UNKNOWN"><quote>n jurul meu roia lume indiferentă:... gospodine ce se întorceau din piață, ucenici de tot felul.</quote><bibl><abbr type="siglum" author="BRĂESCU" pages="124" sigla="BRĂESCU, O. A." source="O. A." volume="II">BRĂESCU, O. A. II, 124</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Eram pus să curăț și atelierul, împreună cu ucenicii.</quote><bibl><abbr type="siglum" author="VLASIU" pages="363" sigla="VLASIU, A. P." source="A. P.">VLASIU, A. P. 363</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>M-am ridicat și eu ca ucenic la un meșter.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="509" sigla="SADOVEANU, O." source="O." volume="V">SADOVEANU, O. V, 509</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Frizeria era plină... Ucenicii și calfele asudau lucrând.</quote><bibl><abbr type="siglum" author="BART" pages="262" sigla="BART, E." source="E.">BART, E. 262</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucenicul era viitorul țehului și în el se oglindea trecutul tuturora.</quote><bibl><abbr type="siglum" author="PAVLESCU" pages="146" sigla="PAVLESCU, M. N." source="M. N.">PAVLESCU, M. N. 146</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Câteva școale noi de ucenici, afectate fabricilor mari, ajută la pregătirea muncitorilor calificați.</quote><bibl><abbr type="siglum" author="IONESCU-MUSCEL" pages="30" sigla="IONESCU-MUSCEL, ȚES." source="ȚES.">IONESCU-MUSCEL, ȚES. 30</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Lucrau la cojoace patru calfe și ucenici, sub supravegherea unui meșter cărunt.</quote><bibl><abbr type="siglum" author="C. PETRESCU" pages="53" sigla="C. PETRESCU, A. R." source="A. R.">C. PETRESCU, A. R. 53</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cu șaisprezece ani în urmă lucrasem ca lăcătuși în același atelier: eu ucenic, el calfă.</quote><bibl><citedRange source="V. ROM.">V. ROM.</citedRange> iunie, 1954, 132</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Avea doi lucrători buni și trei ucenici.</quote><bibl><abbr type="siglum" author="PREDA" pages="117" sigla="PREDA, M." source="M.">PREDA, M. 117</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Erau cu totul patru femei și doi bărbați din care unul foarte tânăr, pesemne un ucenic.</quote><bibl><citedRange source="V. ROM.">V. ROM.</citedRange> martie, 1958, 30</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Un ucenic [al argintarului] d-abia izbuti a ieși pe fereastră, dete fuga după unchiaș și mătușe</quote><bibl> (a. 1872). <abbr type="siglum" pages="356" source="GCR" volume="II" work="POP.">POP., ap. GCR II, 356</abbr>, cf. <abbr type="siglum" author="MIHĂILĂ" pages="148" sigla="MIHĂILĂ, Î." source="Î.">MIHĂILĂ, Î. 148</abbr>, <abbr type="siglum" author="SBIERA" pages="248" sigla="SBIERA, P." source="P.">SBIERA, P. 248</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Calfa... l-o pus să cerceteze pe ceilalți ucenici.</quote><bibl><abbr type="siglum" author="VASILIU" pages="36" sigla="VASILIU, P. L." source="P. L.">VASILIU, P. L. 36</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Plătește la clopotari, Să tragă clopote mari; Plătește la ușânici, Să tragă clopote mici.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="66" sigla="PAMFILE, C. Ț." source="C. Ț.">PAMFILE, C. Ț. 66</abbr>, cf. <abbr type="siglum" author="CIAUȘANU" pages="184" sigla="CIAUȘANU, V." source="V.">CIAUȘANU, V. 184</abbr>, <citedRange pages="3642/192, 414, 531, 537, 605, 762, 848, 899" source="ALR" volume="II">ALR II 3642/192, 414, 531, 537, 605, 762, 848, 899</citedRange>, <citedRange map="500" source="ALR SN" volume="II">ALR SN II h 500</citedRange>,<citedRange map="32" source="ALRM SN" volume="I">ALRM SN I h 32</citedRange> 4, N<citedRange source="ALR">ALR</citedRange> - O III MN 248, 1800, ALR - M III h 772, <citedRange pages="103" source="T. DIAL.M." volume="I">T. DIAL.M. I, 103</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Un cojocar se dusese cu un ucenic al său, ca să îmblănească niște scurteici.</quote><bibl><citedRange pages="181" source="SNOAVA" volume="I">SNOAVA, I, 181</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+          <sense class="6" value="◊">
+            <def>
+              <usg>(Cu determinări care precizează meseria)</usg>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Ucenic la moară.</quote><bibl>LB</bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Ucenic de bucătărie.</quote><bibl><abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Știa băiatul destulă carte ca să fie ucenic de cojocărie.</quote><bibl><abbr type="siglum" author="SLAVICI" pages="18" sigla="SLAVICI, O." source="O." volume="II">SLAVICI, O. II, 18</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Ucenic la un iconar, care după câțiva ani încearcă el însuși a face icoane</quote><bibl> (a. 1896). <citedRange pages="456" source="PLR" volume="I">PLR I, 456</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Ucenic viticol.</quote><bibl><citedRange pages="13" source="NOM. PROF.">NOM. PROF. 13</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Alecuț mă sfătuiește să intru ucenic lăcătuș.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="566" sigla="SADOVEANU, O." source="O." volume="XVII">SADOVEANU, O. XVII, 566</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Ne-a arătat cum fluieră aria Leonorei din Trubadur un ucenic de cizmar.</quote><bibl><abbr type="siglum" author="PUȘCARIU" pages="254" sigla="PUȘCARIU, M." source="M.">PUȘCARIU, M. 254</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Un ucenic de la tipografie trece cu sulul de hârtii.</quote><bibl><abbr type="siglum" author="BOTTA" pages="111" sigla="BOTTA, S." source="S." volume="III">BOTTA, S. III, 111</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Slujise, biet,... Ucenic la ciobănie Din mica-i copilărie.</quote><bibl><abbr type="siglum" author="TEODORESCU" pages="17" sigla="TEODORESCU, P. P." source="P. P.">TEODORESCU, P. P. 17</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+          <sense class="7" value="♦">
+            <def>
+			<usg>(Depreciativ)</usg>
+			<RegDef>Meșter prost, a g e a m i u; diletant.</RegDef><bibl>Cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, <abbr type="siglum" author="CIAUȘANU" pages="184" sigla="CIAUȘANU, V." source="V.">CIAUȘANU, V. 184</abbr></bibl>. 
+			</def>
+          </sense>
+          <sense class="8" value="♦">
+            <def>
+              <RegDef>Novice (la mănăstire).</RegDef>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Un stariț au trimis pre u[n] călugăraș mic ucenic al său la u[n] frate</quote><bibl> (a. 1808). <citedRange pages="200/2" source="GCR" volume="II">GCR II, 200/2</citedRange></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Mai mult de jumătate din aceste mirese ale Domnului crescuseră, ucenice, în casa maicei Rahila.</quote><bibl><abbr type="siglum" author="GALACTION" pages="316" sigla="GALACTION, O." source="O.">GALACTION, O. 316</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Funcții în organizarea bisericii:... stareț, monah... frate, soră, ucenic, schivnic.</quote><bibl><citedRange pages="73" source="NOM. PROF.">NOM. PROF. 73</citedRange></bibl>.</cit>
+              </dictScrap>
+            </def>
+          </sense>
+          <sense class="9" value="♦">
+            <def>
+              <usg>Fig.</usg>
+              <RegDef>Începător într-o activitate.</RegDef>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Studenți cari trândăveau în cafenele și berării; ucenici în arta paletei.</quote><bibl><abbr type="siglum" author="SANDU-ALDEA" pages="43" sigla="SANDU-ALDEA, D. N." source="D. N.">SANDU-ALDEA, D. N. 43</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Nu-i plăcea să se simtă dominat și călăuzit ca un ucenic, la vîrsta lui - fie chiar și de fostul său profesor.</quote><bibl><abbr type="siglum" author="VINEA" pages="375" sigla="VINEA, L." source="L." volume="I">VINEA, L. I, 375</abbr></bibl>.</cit>
+                <cit id="UNKNOWN"><quote>Eu n-am fost niciodată ucenic; Dintru-nceput deplin maestru... numa.</quote><bibl><abbr type="siglum" author="VOICULESCU" pages="280" sigla="VOICULESCU, POEZII" source="POEZII" volume="II">VOICULESCU, POEZII, II, 280</abbr></bibl>.</cit>
+              </dictScrap>
+            </def>
+            <sense class="10" value="◊">
+              <def>
+                <RegDef><hi rend="italic">Ucenicul vrăjitor </hi>= cel care dezlănțuie evenimente, fapte, pe care apoi nu e capabil să le stăpânească.</RegDef>
+                <dictScrap>
+                  <cit id="UNKNOWN"><quote>Tehnica modernă este o mașină infernală, pe care ucenicul vrăjitor nu mai știe s-o controleze.</quote><bibl><abbr type="siglum" author="H. LOVINESCU" pages="154" sigla="H. LOVINESCU, T." source="T.">H. LOVINESCU, T. 154</abbr></bibl>.</cit>
+                  <cit id="UNKNOWN"><quote>Vai mie, Ucenic vrăjitor, Sărăcuț cupar Ce în cupe torn Nopți de chihlimbar.</quote><bibl><abbr type="siglum" author="BOTTA" pages="62" sigla="BOTTA, S." source="S." volume="II">BOTTA, S. II, 62</abbr></bibl>.</cit>
+                </dictScrap>
+              </def>
+            </sense>
+          </sense>
+        </sense>
+      </sense>
+      <sense class="11" value="II.">
+        <def>
+		<MorfDef>S.m.</MorfDef>
+		<usg>(Regional)</usg>
+		<RegDef>Dispozitiv care servește la fixarea unei bucăți de lemn sau a unei scânduri late, în timpul lucrului, pentru a fi prelucrată de tâmplar (Izvorul Alb - Piatra Neamț).</RegDef><bibl><citedRange source="GLOSAR REG.">GLOSAR REG.</citedRange></bibl>. 
+		</def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucenici, -ce. -</hi>. Și: <usg>(învechit și regional)</usg> <hi rend="bold">uciníc, -ă, ociníc, -ă</hi>. (<bibl>IORGA, S. D. XIII, 108, ALR II 3 642/605, 762, 899, ALR SN II h 50</bibl>.), (regional) <hi rend="bold">oceníc, -ă</hi>. (<bibl>CIAUȘANU, V. 184, ALR II 3 642/848, ALR SN II h 50</bibl>.) s.m. și f., (învechit, rar) <hi rend="bold">ucenín</hi>. s.m.</form>
+      <form>– Din slavonul <term xml:lang="cu">o ü k e n i c\</term>..</form>
+    </form>
+  </entry>
+</body>

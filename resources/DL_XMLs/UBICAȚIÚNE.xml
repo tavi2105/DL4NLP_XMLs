@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UBICAȚIÚNE</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UBICAȚIÚNE">
+      <def>
+	  <MorfDef>s.f.</MorfDef>
+	  <usg>(În dicționarele din trecut)</usg>
+	  <RegDef>Ședere a unei persoane într-un anumit loc un timp mai îndelungat. CF. GHEȚIE, R. M.,</RegDef><bibl><abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr>, ALEXI, W</bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pronunțat: <hi rend="italic">-ți-u-</hi>.</form>
+      <form>– Din lat. med. <hi rend="bold">ubicatio</hi>., -<hi rend="bold">onis</hi>. Cf. it. u b i c a - z i o n e.</form>
+    </form>
+  </entry>
+</body>

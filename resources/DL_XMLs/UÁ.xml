@@ -1,0 +1,24 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UÁ</orth>
+      <gramGrp>interj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UÁ">
+      <def>
+        <MorfDef>interj.</MorfDef>
+        <usg>(Învechit, rar)</usg>
+        <RegDef>Exclamație care exprimă dispreț, care se rostește în bătaie de joc.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Hulea pre el... „ua, tu cela ce spărgeau beseareca”.</quote><bibl><citedRange pages="62v/33" source="N. TEST." year="1648">N. TEST. (1648), 62<hi rend="superscript">v</hi>./33</citedRange></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Cela ce trecea huliia pre el, clătiând capetele lor și grăind: „ua, cela ce strică beseareca”.</quote><bibl><citedRange pages="7872/6" source="BIBLIA" year="1688">BIBLIA (1688), 7872/6</citedRange>, cf. <citedRange source="TDRG.">TDRG.</citedRange></bibl></cit>
+        </dictScrap>
+        <hi rend="bold">ούά. </hi>
+      </def>
+    </sense>
+    <form type="varia">
+	  <form>Din gr. <hi rend="bold">ούά</hi>.</form>
+	</form>
+  </entry>
+</body>

@@ -1,0 +1,602 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODENAL</orth>    >
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODENAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>>
+					<RegDef>Care ține de duoden, privitor la duoden; care se formează în duoden.</RegDef>
+					<dictScrap>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Urdinarea se întâmplă când ațiditatea predomnește în mistuirea duodenală.</hi></quote>
+					<bibl><abbr type="siglum" author="SĂNAT" pages="33" sigla="MAN. SĂNAT" source="UNKNOWN">MAN. SĂNAT. 33/6</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Autorii pretind că au obținut cu etamon succese în ulcerul duodenal.</hi></quote>
+					<bibl><abbr type="siglum" author="DANIELOPOLU" pages="114" sigla="DANIELOPOLU, F.N.I." source="F.N.I">DANIELOPOLU, F.N.I, 114</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Excitând gustul și mirosul, ele.</hi>[medicamentele]<hi rend="italic">provoacă secreţia...duodenală</hi></quote>
+					<bibl><abbr type="siglum" author="BELEA" pages="273" sigla="bELEA, P.A." source="P.A.">BELEA, P.A. 273, cf. DL,DM,M.D.ENC.</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">O altă acţiune medicală...a avut în vedere o boală destul de frecventă...şi anume ulcerul duodenal.</hi></quote>
+						<bibl><abbr type="siglum" author="UNKNOWN" pages="16" sigla="UNKNOWN" source="FLACĂRA">FLACĂRA,1975,NR.40,16,cf.DEX, DN2/abbr></abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duodenali,-e.</hi></form>
+			<form>- Din fr.<hi rend="bold">duodenal</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODENECTOMIE</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODENECTOMIE">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Rezecţie operatorie a duodenului</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="D.MED." source="DN3">Cf.D.MED.,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duodenectomii.</hi></form>
+			<form>- Din fr.<hi rend="bold">duodenectomie</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODENITĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODENITĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>>
+					<RegDef>Inflamaţie a mucoasei duodenale.</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="D.MED." source="DN3">Cf.DER,D.MED.,DEX,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duodenite</hi></form>
+			<form>- Din fr.<hi rend="bold">duodenite</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODENOPEXIE</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODENOPEXIE">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>>
+					<RegDef>Fixare chirurgicală a duodenului.</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="D.MED." source="DN3">Cf.D.MED.,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duodenopexii</hi></form>
+			<form>- Din fr.<hi rend="bold">duodenopexie.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODENOSCOPIE</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODENOSCOPIE">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>>
+					<RegDef>Examinarea a duodenului prin endoscopie</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="D.MED." source="DN3">Cf.D.MED.,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duodenoscopii.</hi></form>
+			<form>- Din fr.<hi rend="bold">duodenoscopie.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODENOSTOMIE</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODENOSTOMIE">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>>
+					<RegDef>Creare pe cale chirurgicală a unei comunicaţii între duoden şi exteriorul organismului.</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="D.MED." source="DN3">Cf.D.MED.,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duodenostomii.</hi></form>
+			<form>- Din fr.<hi rend="bold">duodenostomie.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODENOTOMIE</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODENOTOMIE">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>>
+					<RegDef>Incizie operatorie a duodenului.</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="D.MED." source="DN3">Cf.D.MED.,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duodenotomii.</hi></form>
+			<form>- Din fr.<hi rend="bold">duodenotomie.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODENUM</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODENUM">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef><hi rend="bold">duoden.</hi></RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODEŢIMAL</orth>    >
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODEŢIMAL">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef><hi rend="bold">duodecimal.</hi></RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODDIODĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODDIODĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>>
+					<RegDef>Tub electronic care conţine, într-un singur înveliş, două diode</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="DER" source="DN3">Cf. LTR2,DER,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-di-o.</hi>-Pl.:<hi rend="italic">duodiode.</hi></form>
+			<form>- Din germ.<hi rend="bold">Duodiode.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODDIODĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODDIODĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>>
+					<RegDef>Tub electronic care conţine, într-un singur înveliş, două diode</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="DER" source="DN3">Cf. LTR2,DER,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-di-o.</hi>-Pl.:<hi rend="italic">duodiode.</hi></form>
+			<form>- Din germ.<hi rend="bold">Duodiode.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUODRAMĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUODRAMĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Învechit, rar)</usg>
+					<RegDef>Piesă de teatru în care evolueayă numai două personaje</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="COSTINESCU" pages="UNKNOWN" sigla="N.D." source="UNKNOWN">Cf. PROT.-POP.,N.D,COSTINESCU.</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duodrame.</hi></form>
+			<form>- Din fr.<hi rend="bold">duodrame.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUOLET</orth>    >
+			<gramGrp>s.n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUOLET">
+			<def>
+				<MorfDef>s.n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Muz.)</usg>
+					<RegDef>Figură ritmică alcătuită din două note de durată egală cu aceea a trei note într-o măsură ternară.</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="CADE" pages="UNKNOWN" sigla="DER." source="DN3">Cf. CADE,DER,DN3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duolete.</hi></form>
+			<form>- Din fr.<hi rend="bold">duolet.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUOPOL</orth>    >
+			<gramGrp>s.n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUOPOL">
+			<def>
+				<MorfDef>s.n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Ec.pol.)</usg>
+					<RegDef>Tip de monopol caracteriyat prin existenţa a două firme care domină piaţa, producând şi vânyând acelaşi produse sau produse similare</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="D.MAN" source="M.D.ENC3">Cf. D.MAN.M.D.ENC3</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-.</hi>-Pl.:<hi rend="italic">duopoluri.</hi></form>
+			<form>- Din fr.<hi rend="bold">duopole.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUOTRIODĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUOTRIODĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Tub electronic care conţine, într+un singur înveliş, două triode</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="UNKNOWN" source="DEX2">Cf. M.D.ENC.,DN3,DEX2</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-trio-.</hi>-Pl.:<hi rend="italic">duotriode.</hi></form>
+			<form>- Din germ.<hi rend="bold">Duotriode.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUOTRIODĂ</orth>    >
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUOTRIODĂ">
+			<def>
+				<MorfDef>s.f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Tub electronic care conţine, într+un singur înveliş, două triode</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="UNKNOWN" source="DEX2">Cf. M.D.ENC.,DN3,DEX2</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pronunţat:<hi rend="italic">du-o-trio-.</hi>-Pl.:<hi rend="italic">duotriode.</hi></form>
+			<form>- Din germ.<hi rend="bold">Duotriode.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUP1</orth>    >
+			<gramGrp>interj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUP1">
+			<def>
+				<MorfDef>interj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Cuvânt care redă zgomotul făcut de un mers apăsat, de o încălţăminte grea.</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="RESMERIŢĂ" pages="UNKNOWN" sigla="D." source="DEX">Cf. RESMERIŢĂ, D., CADE,SCRIBAN, D.,DEX</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+			</sense>
+			<sense class="2" value="◊">
+            <def>
+              <dictScrap>
+                <cit id="UNKNOWN"><quote>Cuvânt care redă zgomotul înfundat produs de o izbitură, de o căzătură etc..</quote>
+				<bibl><abbr type="siglum" author="RESMERIŢĂ" pages="UNKNOWN" sigla="D." source="DEX" volume="I">Cf. RESMERIŢĂ, D., CADE,SCRIBAN, D.,DEX</abbr></bibl>.</cit>
+              </dictScrap>
+			</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>-Onomatopee.</form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUP2</orth>    >
+			<gramGrp>s.n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUP2">
+			<def>
+				<MorfDef>s.n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional)</usg>
+					<RegDef>Smoc de lână sau de păr încâlcit</RegDef>
+					<dictScrap>
+					<bibl><abbr type="siglum" author="RESMERIŢĂ" pages="UNKNOWN" sigla="D." source="UNKNOWN">Cf. RESMERIŢĂ,D., ŞĂINEANU,D.U,CADE</abbr></bibl>.
+					<cit id="UNKNOWN"><quote><hi rend="italic">Vedea ieşind de sub bancă...nişte labe şi o coadă de câne,o coadă plină de dupuri, bătută de scai.</hi></quote>
+					<bibl><abbr type="siglum" author="MIRONESCU" pages="178" sigla="MIRONESCU, S." source="UNKNOWN">MIRONESCU,S.178,cf. SCRIBAN, D.</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Descântătoarea ie...un dup de lână, neagră sau vânătă.</hi></quote></cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Unde vede-un dup de lână Fuge câte-o săptâmână.</hi></quote>
+					<bibl><abbr type="siglum" author="UNKNOWN" pages="215" sigla="ŞEZ. II" source="II">ŞEZ. II, 215</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Morariu, meşter mare...s-o încins cu un dup de lână Ş+o luat ciocanu-n mână.</hi></quote>
+					<bibl><abbr type="siglum" author="UNKNOWN" pages="129" sigla="ib." source="XII">ib. XII, 129</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+			</sense>
+			<sense class="1" value="♦">
+            <def>
+					<usg>(În forma dub)</usg>
+					<RegDef>Moţ2(1)la cal</RegDef>
+              <dictScrap>
+			  	<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="283" sigla="DR." source="UNKNOWN" volume="I">Cf. DR.V,283</abbr></bibl>.</cit>
+              </dictScrap>
+			</def>
+			</sense>
+			<sense class="1" value="♦">
+            <def>
+					<RegDef>Faţă de pernă</RegDef>
+              <dictScrap>
+				<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="18" sigla="LEXIC REG." source="LEXIC REG." volume="I">Cf. LEXIC REG. 18, MAT. DIALECT. I, 209</abbr></bibl>.</cit>
+              </dictScrap>
+			</def>
+			</sense>
+			<sense class="2" value="1.">
+			<def>
+					<RegDef>Bucată de piele acoperită cu păr, care se întrebuinţeayă la măturatul vetrei.</RegDef>
+					<dictScrap>
+					<bibl><abbr type="siglum" author="CADE" pages="UNKNOWN" sigla="UNKNOWN" source="UNKNOWN">Cf. CADE</abbr></bibl>.
+					</dictScrap>
+			</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>>-Pl.:<hi rend="italic">dupuri.</hi> şi (m) <hi rend="italic">dupi.</hi>-Şi:<hi rend="bold">dub.</hi>s.n</form>
+			<form>-Cf.tc.<hi rend="spaced">Dip.</hi>(învechit)<hi rend="spaced">düp.</hi>(</form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUP3</orth>    >
+			<gramGrp>s.m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUP3">
+			<def>
+				<MorfDef>s.m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>1.(Prin sud-vestul Transilv.)</usg>
+					<RegDef>Butuc</RegDef>
+					<dictScrap>
+					<bibl><abbr type="siglum" author="UNKNOWN" pages="984" sigla="ALR" source="I">Cf. ALR I 984/61, 65, 80, 87, 1 988/870, ALR II 6 406/64</abbr></bibl>.
+					</dictScrap>
+				</def>
+			</sense>
+			<sense class="2" value="1.">
+			<def>
+					<RegDef>Bețișoare lungi și subțiri din lemn, cu care copiii se joacă, aruncându-le în aer și prinzându-le din zbor.</RegDef>
+					<dictScrap>
+					<bibl><abbr type="siglum" author="BARCIANU" pages="UNKNOWN" sigla="DDRF" source="UNKNOWN">Cf. DDRF,BARCIANU,ȘĂINEANU,TDRG, RESMERIŢĂ,D.,CADE</abbr></bibl>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Se mai gioacă și în dupi, în țarc, cu mingea sau cu zmeii.</hi></quote>
+					<bibl><abbr type="siglum" author="ALECSANDRI" pages="393" sigla="P" source="UNKNOWN">Cf. ALECSANDRI, P. 393</abbr></bibl></cit>
+					</dictScrap>
+			</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>>-Pl.:<hi rend="italic">dupi.</hi></form>
+			<form>-Et.nec.</form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUP4</orth>
+		  <gramGrp>s. n. v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUP4">
+			<def>
+				<MorfDef>s. n. v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dop.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUPAC</orth>    >
+			<gramGrp>s.m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUPAC">
+			<def>
+				<MorfDef>s.m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>1.(Prin Mol.)</usg>
+					<RegDef>Lovitură dată cu pumnul</RegDef>
+					<dictScrap>
+					<bibl><abbr type="siglum" author="EMINESCU" pages="104" sigla="O." source="XV">Cf. EMINESCU, O.XV,104,DDRF,ȘĂINEANU,TDRG,RESMERIŢĂ,D.,CADE</abbr></bibl>.
+					<cit id="UNKNOWN"><quote><hi rend="italic">Doar târziu. după ce-a dat câțiva dupaci în ușă, a auzit un glas.</hi></quote>
+					<bibl><abbr type="siglum" author="POPA" pages="49" sigla="V." source="UNKNOWN">Cf. POPA,v.49,cf.SCRIBAN,D.</abbr></bibl></cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Ți-o trânti un dupac la fălci, de ți-or scapara ochii.</hi></quote>
+					<bibl><abbr type="siglum" author="UNKNOWN" pages="167" sigla="IV." source="LEXIC REG">Cf. I.CR.IV,167,cf.LEXIC REG. 101</abbr></bibl></cit>
+					</dictScrap>
+				</def>
+			</sense>
+			<sense class="2" value="1.">
+			<def>
+					<RegDef>Bețișoare lungi și subțiri din lemn, cu care copiii se joacă, aruncându-le în aer și prinzându-le din zbor.</RegDef>
+					<dictScrap>
+					<bibl><abbr type="siglum" author="BARCIANU" pages="UNKNOWN" sigla="DDRF" source="UNKNOWN">Cf. DDRF,BARCIANU,ȘĂINEANU,TDRG, RESMERIŢĂ,D.,CADE</abbr></bibl>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Se mai gioacă și în dupi, în țarc, cu mingea sau cu zmeii.</hi></quote>
+					<bibl><abbr type="siglum" author="ALECSANDRI" pages="393" sigla="P" source="UNKNOWN">Cf. ALECSANDRI, P. 393</abbr></bibl></cit>
+					</dictScrap>
+			</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>>-Pl.:<hi rend="italic">dupaci.</hi></form>
+			<form>-Cf.<hi rend="italic">dup.</hi></form>
+		</form>
+	</entry>
+</body>

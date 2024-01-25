@@ -1,0 +1,176 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIGÁȘ</orth>
+	  <gramGrp>s.m. și f., adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIGÁȘ, -Ă">
+      <def>
+        <MorfDef>s.m. și f., adj.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+          <MorfDef>S.m. și f.</MorfDef>
+          <RegDef>Persoană care a ucis <hi rend="bold">(1</hi>.) sau care a încercat să ucidă pe cineva; asasin.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Împăratul, deacă audzi, să mănie și tremise oastea sa de pierdu ucigașii aceia.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="230" sigla="VARLAAM, C." source="C.">VARLAAM, C. 230</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Sosiră și lideni[i], aducând trupul mortului, și din-napoi vinea ocigașul.</quote><bibl><citedRange source="HERODOT">HERODOT</citedRange><hi rend="superscript">2</hi>., 19</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Deci pre Astiiag, ucigașul tău, să-l răscumperi.</quote><bibl>id. 51</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cela ce-ș va zăloji casa lui la om ucigătoriu, pentru să puie ucigași <usg>(a l e ș i <bibl>MOLD</bibl>.)</usg> acolo să păzască pe vrăjmașul lui..., acela se va pedepsi.</quote><bibl><citedRange pages="310" source="PRAV.">PRAV. 310</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să fugă acolo ucigașul.</quote><bibl><citedRange source="BIBLIA">BIBLIA</citedRange> (1688), ap. <citedRange source="TDRG.">TDRG.</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Da-ți-voi loc unde va fugi acolo ucigașul (ucigașul</quote><bibl> ms. 45, c e l a c e l-a u u c i s ms. 4 389). <citedRange source="BIBLIA">BIBLIA</citedRange> (1688)<hi rend="superscript">2</hi>., II, 140/32</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Porunci judecătoriul să-l puie în țapă... Așa au plătit Dumnezău ucigașului aceluia</quote><bibl> (a. 1691). <citedRange pages="294/28" source="GCR" volume="I">GCR I, 294/28</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să se ducă la Poartă să pârască pă Constantin Vodă Cantemir de rău și de ucigaș de oameni.</quote><bibl><citedRange pages="36" source="IST. Ț. R.">IST. Ț. R. 36</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să izvodiră... învrăjbitori..., ucigaș[i] carii ucidea pre cei ce iubiia pacea și odihna.</quote><bibl><abbr type="siglum" author="N. COSTIN" pages="31" sigla="N. COSTIN, C." source="C.">N. COSTIN, C. 31</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Deaca văzură barbarii spânzurând jugania de mâna lui, zicea unul cătră altul: cu adevărat ucigaș iaste omul acesta</quote><bibl>(a. 1703). <citedRange pages="349/32" source="GCR" volume="I">GCR I, 349/32</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Puindu-l domniia în temniță și scoțându-l la divan, au vrut să-l piardză ca pre un ucigaș</quote><bibl> (a. 1736). <abbr type="siglum" author="IORGA" pages="106" sigla="IORGA, S. D." source="S. D." volume="V">IORGA, S. D. V, 106</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Pre ucigașii aceluia și a celor dimpreună cu dânsul îi va pedepsi.</quote><bibl><citedRange pages="37"><hi rend="superscript">r</hi>/14" source="AETHIOPICA">AETHIOPICA, 37<hi rend="superscript">r</hi>./14</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Hotărindu-l boierii de moarte cu anafora, ca pe un ucigaș de oameni, l-au pus iară la închisoare</quote><bibl> (sfârșitul sec. XVIII). <citedRange pages="255/20" source="LET." volume="III">LET. III, 255/20</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigașii oriunde se vor afla, să se trimeată de cătră ispravnicul ținutului cu faptele lor în scris</quote><bibl> (a. 1776). <citedRange pages="347" source="URICARIUL" volume="XIX">URICARIUL, XIX, 347</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ahileu... au strâgat: arme! ca să alergi să îmblânzască sângile ucigașului sufletul unui prieten</quote><bibl> (a. 1802). <citedRange pages="196/18" source="GCR" volume="II">GCR II, 196/18</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Păntru tâlhari și ucigași ce-oi zice? Aceste pă câmpuri trași în țapă.</quote><bibl><abbr type="siglum" author="BUDAI-DELEANU" pages="317" sigla="BUDAI-DELEANU, Ț." source="Ț.">BUDAI-DELEANU, Ț. 317</abbr>, cf. LB</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Aliații se-ngroziră de vederea acestui ucigaș.</quote><bibl><abbr type="siglum" author="PLEȘOIANU" pages="70/14" sigla="PLEȘOIANU, T." source="T." volume="IV">PLEȘOIANU, T. IV, 70/14</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>De-l vom pârî de ucigaș, trebuie iarăși să-l dovedim de învierșunat, iute, răzbunător.</quote><bibl><citedRange author="MARCOVICI" pages="107" source="RET. ROM.">MARCOVICI, în RET. ROM. 107</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Mai bucuros voi a muri în lanțuri decât să mă fac ucigaș.</quote><bibl><citedRange pages="108/1" source="MOZAICUL" year="1838">MOZAICUL (1838), 108/1</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Te-am lăsat, maică, pre tine! Ucigaș luai cu mine.</quote><bibl><abbr type="siglum" author="BĂRAC" pages="65/24" sigla="BĂRAC, A." source="A.">BĂRAC, A. 65/24</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nebunii cu ucigașii, în adânca lor beție, Au doar n-au năzăritură de cinste cu-nțelepție?</quote><bibl><abbr type="siglum" author="CONACHI" pages="285" sigla="CONACHI, P." source="P.">CONACHI, P. 285</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>În minutul acesta, vei alege... sau a mă avea ginere, sau ucigaș!</quote><bibl><citedRange pages="201" source="PR. DRAM.">PR. DRAM. 201</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ai plătit ucigași ca să-ți omoare împotrivitorii.</quote><bibl><citedRange pages="3"><hi rend="superscript">2</hi>/58" source="BUCOVINA" year="1848">BUCOVINA (1848), 3<hi rend="superscript">2</hi>./58</citedRange>, cf. ISER</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cu câtă delicateță te-ai purtat cătră Chirculescu, pe care lumea îl crede de ucigaș.</quote><bibl><citedRange pages="308" source="BARIȚ" volume="I">BARIȚ, I, 308</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Pe ucigașu-mi îl iert!</quote><bibl><abbr type="siglum" author="CREȚEANU" pages="95/24" sigla="CREȚEANU, M." source="M.">CREȚEANU, M. 95/24</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>O îmbrâncătură aruncă pe ucigaș pe o canapea.</quote><bibl><abbr type="siglum" author="NEGRUZZI" pages="21" sigla="NEGRUZZI, S." source="S." volume="I">NEGRUZZI, S. I, 21</abbr>, cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigașul fără voie.</quote><bibl><abbr type="siglum" author="ALEXANDRESCU" pages="89" sigla="ALEXANDRESCU, O." source="O." volume="I">ALEXANDRESCU, O. I, 89</abbr>, cf. <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Îmi tremură mâna, ca și când, prin descrierea crimelor, aș resimți eu, în locul ucizașilor, remușcările conștiinței!</quote><bibl><abbr type="siglum" author="HASDEU" pages="175" sigla="HASDEU, I. V." source="I. V.">HASDEU, I. V. 175</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Te-aș ucide, de-aș fi un ucigaș!</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="186" sigla="ALECSANDRI, T." source="T." volume="II">ALECSANDRI, T. II, 186</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Strigă cu groază:- Ucigaș!... Fugi!</quote><bibl><abbr type="siglum" author="GRANDEA" pages="298" sigla="GRANDEA, S." source="S.">GRANDEA, S. 298</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cum poți, tirane, ca să-mi spui să iau Pe ucigașul părintelui copiilor mei.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="213" sigla="EMINESCU, O." source="O." volume="VIII">EMINESCU, O. VIII, 213</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigașii tinerimii sunt notați și nu vor scăpa de răspundere.</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="249" sigla="CARAGIALE, O." source="O." volume="I">CARAGIALE, O. I, 249</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ghiță tresări, cuprins de spaima ucigașului prins asupra faptei.</quote><bibl><abbr type="siglum" author="SLAVICI" pages="184" sigla="SLAVICI, O." source="O." volume="I">SLAVICI, O. I, 184</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Păcătoasă societate, în care ucigașii sunt plătiți cu slujbe și cinste.</quote><bibl><abbr type="siglum" author="BACALBAȘA" pages="188" sigla="BACALBAȘA, S. A." source="S. A." volume="I">BACALBAȘA, S. A. I, 188</abbr>, cf. <citedRange source="DDRF">DDRF</citedRange>, <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ah! tâlhari! Ucigași prea mici la suflet pentru drumurile mari! Hai! Scoateți-vă cuțitul.</quote><bibl><abbr type="siglum" author="DAVILA" pages="50" sigla="DAVILA, V. V." source="V. V.">DAVILA, V. V. 50</abbr>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Și-a luat pedeapsa de moarte, murind nu ca un ucigaș ordinar..., ci ca un ideal al tinerimei.</quote><bibl><abbr type="siglum" author="CHENDI" pages="276" sigla="CHENDI, S." source="S." volume="I">CHENDI, S. I, 276</abbr>, cf. <citedRange source="TDRG.">TDRG.</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Aruncă celor care fac haz priviri de ucigaș peste ochelari.</quote><bibl><abbr type="siglum" author="BRĂTESCU-VOINEȘTI" pages="222" sigla="BRĂTESCU-VOINEȘTI, P." source="P.">BRĂTESCU-VOINEȘTI, P. 222</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Perfidul ucigaș al lui Cotys... pune mâna pe stăpânirea întregii Thracii.</quote><bibl><abbr type="siglum" author="PÂRVAN" pages="101" sigla="PÂRVAN, G." source="G.">PÂRVAN, G. 101</abbr>, cf. <abbr type="siglum" author="PASCU" pages="348" sigla="PASCU, S." source="S.">PASCU, S. 348</abbr>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigașul, ca să-și ispășească păcatul, se pune pe muncă.</quote><bibl><abbr type="siglum" author="CARTOJAN" pages="129" sigla="CARTOJAN, C. P." source="C. P." volume="I">CARTOJAN, C. P. I, 129</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Dar ce nefericire mai mare e, decât Să mori, ca ucigașii, cu funia de gât?</quote><bibl><abbr type="siglum" author="EFTIMIU" pages="66" sigla="EFTIMIU, C." source="C.">EFTIMIU, C. 66</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigașul l-a lovit și i-a smuls banii.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="637" sigla="SADOVEANU, O." source="O." volume="X">SADOVEANU, O. X, 637</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Trecând în revistă cu o luciditate de ucigaș în preajma loviturii diversele faze ale acțiunii.</quote><bibl><abbr type="siglum" author="MIHĂESCU" pages="126" sigla="MIHĂESCU, D. A." source="D. A.">MIHĂESCU, D. A. 126</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>N-ar putea-o iubi știind-o ucigașă.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="135" sigla="CĂLINESCU, O." source="O." volume="XII">CĂLINESCU, O. XII, 135</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ca un ucigaș ce-astupă cu năframa O gură învinsă închid cu pumnul toate izvoarele.</quote><bibl><abbr type="siglum" author="BLAGA" pages="83" sigla="BLAGA, POEZII" source="POEZII">BLAGA, POEZII, 83</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uită-te în oglindă: arăți ca un ucigaș prins asupra faptului.</quote><bibl><abbr type="siglum" author="VINEA" pages="40" sigla="VINEA, L." source="L." volume="II">VINEA, L. II, 40</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Bătrânii... le arătau odaia doar prin geam, de frică să nu fie hoți sau ucigași.</quote><bibl><abbr type="siglum" author="DEMETRIUS" pages="59" sigla="DEMETRIUS, A." source="A.">DEMETRIUS, A. 59</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cam mulți ucigași pentru niște bieți oameni fără apărare.</quote><bibl><abbr type="siglum" author="H. LOVINESCU" pages="343" sigla="H. LOVINESCU, T." source="T.">H. LOVINESCU, T. 343</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să se adune oameni ca să-i pună pe goană pe ucigași.</quote><bibl><citedRange source="V. ROM.">V. ROM.</citedRange> decembrie1970, 54</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ieși femeia cea sumeață, ucigașa copilului său, în calea soarelui.</quote><bibl><abbr type="siglum" author="RETEGANUL" pages="6" sigla="RETEGANUL, P." source="P." volume="IV">RETEGANUL, P. IV, 6</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ca din pământ, ies patru paznici ai legii..., pun mâna pe ucigaș... și-l duc la pușcărie.</quote><bibl><abbr type="siglum" author="RĂDULESCU-CODIN" pages="118" sigla="RĂDULESCU-CODIN, Î." source="Î.">RĂDULESCU-CODIN, Î. 118</abbr>, cf. ALR SN IV H 981</bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="2" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Puneți mâna pe Ucigașul Arborilor, - El scapă cuțitul în șipotul lunii Și fuge și plânge.</quote><bibl><abbr type="siglum" author="VINEA" pages="102" sigla="VINEA, O." source="O." volume="I">VINEA, O. I, 102</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Craiul Amurg, ucigașul arborilor, a scăldat câmpia într-o baie de sânge.</quote><bibl><abbr type="siglum" author="BOTTA" pages="107" sigla="BOTTA, S." source="S." volume="I">BOTTA, S. I, 107</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="3" value="♦">
+          <def>
+		  <usg>(Art.; prin nord-vestul Munt.)</usg>
+		  <RegDef>Nume care se dă unor fiare sălbatice (mai ales lupului).</RegDef><bibl>Cf. <abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>.   
+		  <dictScrap>
+		    <cit id="UNKNOWN"><quote>Ucigașul mi-a spârcâit două oi.</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr></bibl>.</cit>
+		  </dictScrap>
+		  </def>
+        </sense>
+      </sense>
+      <sense class="4" value="2.">
+        <def>
+          <MorfDef>S.m. art.</MorfDef>
+          <usg>(Regional)</usg>
+          <RegDef>Nume care se dă diavolului.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Acum ucigașul peste tine împărățește</quote><bibl> (cca 1720). ap. <abbr type="siglum" author="PAMFILE" pages="7" sigla="PAMFILE, D." source="D.">PAMFILE, D. 7</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cătă la dobitoace și găsi unele mai pocite decât ucigașul.</quote><bibl><citedRange pages="15" source="ALAS">ALAS 15</citedRange> IV 1928, 6/1, CF. GR. S. V, 46, <abbr type="siglum" author="CANDREA" pages="115" sigla="CANDREA, F." source="F.">CANDREA, F. 115</abbr>, H IV 161, XI 15</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Brezaia-i chipul ucigașului.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="178" sigla="PAMFILE, CR." source="CR.">PAMFILE, CR. 178</abbr>, cf. ALR I 595/786, <citedRange pages="616/180" source="ib.">ib. 616/180</citedRange>, 786,ALR II/I MN 95, 2744/192, 365, 728, 762, 769, 784, 872</bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="5" value="◊">
+          <def>
+            <usg>(În imprecații)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Lua-l-ar ucigașu să-l ia, că mi-a mâncat sufletul!</quote><bibl><abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="6" value="◊">
+          <def>
+            <RegDef><hi rend="italic">Ucigașul-</hi>.</RegDef>
+            <hi rend="italic">cel-mare =</hi>
+            <RegDef>Scaraoțchi.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Ucigașul-cel-mare, adică Scaraoschi, era închis în casele lui Ion Siriton, legat în lanțuri.</quote><bibl><abbr type="siglum" author="FURTUNĂ" pages="51" sigla="FURTUNĂ, C." source="C.">FURTUNĂ, C. 51</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="7" value="♦">
+          <def>
+		  <usg>(Prin nord-vestul Munt.)</usg>
+		  <RegDef>Epitet pentru o persoană urâcioasă, nesuferită.</RegDef><bibl>Cf. <abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>.   
+		  <dictScrap>
+		    <cit id="UNKNOWN"><quote>Ucigașu-ăla mi-a speriat copilul!</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr></bibl>.</cit>
+		  </dictScrap>
+		  </def>
+        </sense>
+      </sense>
+      <sense class="8" value="3.">
+        <def>
+          <MorfDef>Adj.</MorfDef>
+          <RegDef>Care ucide <hi rend="bold">(1</hi>.) (sau a ucis) pe cineva, care omoară; care provoacă (sau poate provoca) moartea cuiva; ucigător (<hi rend="bold">1</hi>.). V. a s a s i n.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Avea năravul dracului, ucigașu, sireap, mânios, gustăreț, bețiv,... rău de totu.</quote><bibl><citedRange pages="364/37" source="MOXA">MOXA, 364/37</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Avea viață spurcată și nărav sireap și ucigașu, și siliia fete.</quote><bibl><abbr type="siglum" author="id." pages="39"><hi rend="superscript">r</hi>/15" source="C.">id. C. 39<hi rend="superscript">r</hi>./15</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Oameni răi și ucigași</quote><bibl>(cea 1650-1670). <citedRange pages="235/30" source="GCR" volume="I">GCR I, 235/30</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Această stricătoare de tinerime și ucigașă de bătrâni boală atâta s-au lățit pre pământ, cât... nu vom găsi mulți carii să nu o aibă.</quote><bibl><citedRange pages="115/25" source="DIETET.">DIETET. 115/25</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Basta socoti în sine să nu mai prelungească fapta aceea ucigașă ce o purta în inimă.</quote><bibl><abbr type="siglum" author="F. AARON" pages="314/5" sigla="F. AARON, I." source="I." volume="II">F. AARON, I. II, 314/5</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Consulul n-are drept a se amesteca într-o întâmplare ucigașe.</quote><bibl><citedRange pages="282/15" source="MOZAICUL" year="1838">MOZAICUL (1838), 282/15</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Apucă un pistol, . . . se puse pe gânduri privind unealta ucigașă.</quote><bibl><abbr type="siglum" author="NEGRUZZI" pages="79" sigla="NEGRUZZI, S." source="S." volume="I">NEGRUZZI, S. I, 79</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>În spate galii poartă piei grele și flocoase! Desprețuind a lancei împungeri ucigașe.</quote><bibl><abbr type="siglum" author="id." pages="83" source="ib." volume="II">id. ib. II, 83</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Toate le putea învăța Laurent de la ilustrul secretar florentin. . . toate, afară de una: cum să- și apere viața de mâna ucigașă.</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="47" sigla="CARAGIALE, O." source="O." volume="IV">CARAGIALE, O. IV, 47</abbr>, cf. DDRF</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>El însuși fu dus de curtea ucigașă și de doamna sa. . . la Putna.</quote><bibl><abbr type="siglum" author="IORGA" pages="36" sigla="IORGA, C. I." source="C. I." volume="I">IORGA, C. I. I, 36</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Copii morți nebotezați și. . . femei ucigașe de prunci.</quote><bibl><abbr type="siglum" author="LUNGIANU" pages="160" sigla="LUNGIANU, CL." source="CL.">LUNGIANU, CL. 160</abbr>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Impulsul ucigaș se transmite ereditar.</quote><bibl><abbr type="siglum" author="MANIU" pages="187" sigla="MANIU, V. P." source="V. P.">MANIU, V. P. 187</abbr>, cf. CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nu avea nici o hotărâre, nici un gând ucigaș, nimic.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="438" sigla="SADOVEANU, O." source="O." volume="I">SADOVEANU, O. I, 438</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Magdalina, care e un instrument fără voință, face gestul ucigaș.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="135" sigla="CĂLINESCU, O." source="O." volume="XII">CĂLINESCU, O. XII, 135</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Chiar bătăile dintre ei erau mai mult spectaculoase decât ucigașe.</quote><bibl><abbr type="siglum" author="CAMIL PETRESCU" pages="49" sigla="CAMIL PETRESCU, O." source="O." volume="II">CAMIL PETRESCU, O. II, 49</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Citi în ochii lui o pornire ucigașă.</quote><bibl><abbr type="siglum" author="VINEA" pages="60" sigla="VINEA, L." source="L." volume="II">VINEA, L. II, 60</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Era ca o pasăre ucigașă, foarte dotată și vicleană.</quote><bibl><abbr type="siglum" author="PREDA" pages="312" sigla="PREDA, DELIR." source="DELIR.">PREDA, DELIR. 312</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>După trecerea ucigașelor epidemii, rămâneau focare răzlețe, mocnind multă vreme.</quote><bibl><abbr type="siglum" author="G. BARBU" pages="73" sigla="G. BARBU, A. V." source="A. V.">G. BARBU, A. V. 73</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Li se părea că s-a pogorât Dumnezeu și i-a mântuit din mâna cea ucigașă.</quote><bibl>FURTUNĂ V. 85</bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="9" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Și gropițe face-n unghiul ucigașei sale guri.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="159" sigla="EMINESCU, O." source="O." volume="I">EMINESCU, O. I, 159</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Aceeași căldură ucigașă, același aer năbușitor.</quote><bibl><abbr type="siglum" author="VLAHUȚĂ" pages="228" sigla="VLAHUȚĂ, S. A." source="S. A." volume="II">VLAHUȚĂ, S. A. II, 228</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cei doi ochi de colo..., așa de ucigași și plini de păcate..., nu puteau ei să fie nevinovați.</quote><bibl><abbr type="siglum" author="HOGAȘ" pages="81" sigla="HOGAȘ, H." source="H.">HOGAȘ, H. 81</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Plătește cel mai ieftin și mai ucigaș rachiu.</quote><bibl><abbr type="siglum" author="C. PETRESCU" pages="229" sigla="C. PETRESCU, Î." source="Î." volume="II">C. PETRESCU, Î. II, 229</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cine-a rostit vorba ucigașă?</quote><bibl><abbr type="siglum" author="PILLAT" pages="153" sigla="PILLAT, P." source="P.">PILLAT, P. 153</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Vorbele sunt și ele prea adesea ucigașe.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="91" sigla="CĂLINESCU, C. O." source="C. O.">CĂLINESCU, C. O. 91</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Îl fulgeră cu o căutătură ucigașă.</quote><bibl><abbr type="siglum" author="VINEA" pages="404" sigla="VINEA, L." source="L." volume="I">VINEA, L. I, 404</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ultima-i ispită ucigașă.</quote><bibl><abbr type="siglum" author="VULPESCU" pages="27" sigla="VULPESCU, P." source="P.">VULPESCU, P. 27</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ură de moarte vom bea până-n zori. Iar beția noastră ucigașă o să fie Ca purpura regilor visători.</quote><bibl><abbr type="siglum" author="DOINAȘ" pages="28" sigla="DOINAȘ, A. P." source="A. P.">DOINAȘ, A. P. 28</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucigași, -e</hi>.- Și: <usg>(învechit, rar)</usg> <hi rend="bold">ocigáș, -ă</hi>,. (rar) <hi rend="bold">ucizáș, -ă</hi>. s.m. și f.</form>
+      <form>– <hi rend="bold">Ucig</hi>. (prez. ind. al lui <hi rend="italic">ucide) +</hi>. suf. <hi rend="italic">-aș</hi>.</form>
+    </form>
+  </entry>
+</body>

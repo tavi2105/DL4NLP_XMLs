@@ -1,0 +1,44 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DO2</orth>
+      <gramGrp>s. m.</gramGrp>
+    </form>
+
+    
+    <sense class="?" value="DO2">
+      <def>
+        <MorfDef>s. m.</MorfDef>
+      </def>
+      <sense class="UNKNOWN" value="1.">
+        <def>
+          <RegDef>Primul dintre cele șapte sunete ale gamei muzicale, situat pe treapta întâi din gama majoră-tip; semn care reprezintă acest sunet.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Aceste instrumente pot forma octave numai muzicale, adică a sui  ... de la do până la alt do.</quote><bibl><abbr type="siglum" author="HELIADE" pages="373" sigla="HELIADE, O." source="O." volume="II">HELIADE, O. II, 373</abbr>, cf. <abbr type="siglum" author="VALIAN" sigla="VALIAN, V." source="V.">VALIAN, V.</abbr>, <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ai îndrăznit să zici că am luat pe do major c-o jumătate de ton mai sus.</quote><bibl><citedRange pages="2" source="CONTEMPORANUL" volume="V">CONTEMPORANUL, V<hi rend="subscript">2</hi>, 2</citedRange>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <citedRange source="TDRG">TDRG</citedRange>, RESMERIȚĂ, D., <citedRange source="CADE">CADE</citedRange>, SCRIBAN, D., DER</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>La aceasta ne obligă însăși structura acestei concluzii, insistența cu care se impune trioletul Do diez   - Re diez - Sol diez încă de la începutul fragmentului.</quote><bibl>M 1965, nr. 1, 34/1, cf. <citedRange source="DN">DN</citedRange><hi rend="superscript">2</hi>., <citedRange source="M. D. ENC.">M. D. ENC.</citedRange>, DEX</bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="UNKNOWN" value="♦">
+          <def><RegDef>Una dintre gamele muzicale care începe cu do<hi rend="superscript">3</hi>. (<hi rend="bold">1</hi>.).</RegDef><bibl>Cf. <abbr type="siglum" author="IVELA" sigla="IVELA, D. M." source="D. M.">IVELA, D. M.</abbr>, DEX</bibl>. </def>
+        </sense>
+        <sense class="UNKNOWN" value="♦">
+          <def>
+            <RegDef>Denumirea uneia dintre cheile muzicale; semn grafic care indică această cheie.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Linia întâi cu cheie de do se cheamă do. VAHMAN, M. 10/18. Fiecare artist avea două tumbelechiuri, unul acordat în sol, iar celălalt în do.</quote><bibl><abbr type="siglum" author="FILIMON" pages="110" sigla="FILIMON, O." source="O." volume="I">FILIMON, O. I, 110</abbr>, cf. <citedRange source="DER">DER</citedRange>, <citedRange source="DN">DN</citedRange><hi rend="superscript">2</hi>., <citedRange source="M. D. ENC.">M. D. ENC.</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+      <sense class="?" value="2.">
+        <def><RegDef>Coardă a unui instrument muzical, care emite sunetul do<hi rend="superscript">3</hi>. (<hi rend="bold">1</hi>.).</RegDef><bibl>Cf. <citedRange source="DN">DN</citedRange><hi rend="superscript">3</hi></bibl>. </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">do</hi>.</form>
+      <form>– Din it. <hi rend="bold">do</hi>.</form>
+    </form>
+  </entry>
+</body>
+

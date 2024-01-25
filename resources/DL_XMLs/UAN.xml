@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UAN</orth>
+      <gramGrp>s. m.</gramGrp>
+    </form>
+
+    <sense class="0" value="UAN">
+      <def>
+	  <MorfDef>s. m.</MorfDef>
+	  <usg>(Prin Transilv.)</usg>
+          <RegDef>Numele unui soi de pește nedefinit mai îndeaproape. <bibl>Cf. BĂCESCU, P. 184</bibl> </RegDef>
+	  </def>
+    </sense>
+    <form type="varia">
+	  <form>- Pl: <hi rend="italic">uani</hi>.  - Și: <hi rend="bold">oan</hi>.  s. m. <bibl>BĂCESCU, P. 184</bibl>.</form>
+	  <form>Cf. magh. ő n. </form>
+	</form>
+  </entry>
+</body>

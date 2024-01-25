@@ -1,0 +1,80 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCÍS2</orth>
+      <gramGrp>adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCÍS2, -Ă">
+      <def>
+        <MorfDef>adj.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+          <usg>(Adesea substantivat)</usg>
+          <RegDef>(Cel)care a fost (sau este) omorât, asasinat.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Cel ucis de mulți de va avea și rane multe..., giudețul să adevereadze cine i-au făcut rana cea de moarte.</quote><bibl><citedRange pages="273" source="PRAV.">PRAV. 273</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Moscali uciș[i] s-au aflat 53 și răniți 78.</quote><bibl>N. COSTIN, L<hi rend="superscript">2</hi>. 337</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ispravnicul au scris la domnul toată pricina cum s-au întâmplat, trimețând și pe părinții ucisului la Iași</quote><bibl> (sfârșitul secolului XVIII). <citedRange pages="255/5" source="LET." volume="III">LET. III, 255/5</citedRange>, cf. DRLU</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Era firește ca gândirea la ucisul să s-amestece cu cugetările cele asupra însuși soartei sale.</quote><bibl><citedRange pages="503/17" source="MOZAICUL" year="1839">MOZAICUL (1839), 503/17</citedRange>, cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, PONTBRIANT, D</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucisul care moare zâmbind disprețuitor Ucide mult mai crâncen pe-al său ucigător.</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="170" sigla="ALECSANDRI, T." source="T." volume="II">ALECSANDRI, T. II, 170</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>După un an, el ia de nevastă pe Anca, nevasta ucisului.</quote><bibl><abbr type="siglum" author="GHEREA" pages="151" sigla="GHEREA, ST. CR." source="ST. CR." volume="II">GHEREA, ST. CR. II, 151</abbr>, cf. DDRF</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>El vede morți cari zbiară și brațe reci întind; Feciori uciși se-nalță și-l blastămă murind.</quote><bibl><abbr type="siglum" author="COȘBUC" pages="183" sigla="COȘBUC, P." source="P." volume="II">COȘBUC, P. II, 183</abbr>, cf. <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Acest sacrificiu crud e socotit, ca și la geți, ca o mare fericire pentru cea ucisă.</quote><bibl><abbr type="siglum" author="PÂRVAN" sigla="PÂRVAN, G." source="G.">PÂRVAN, G.</abbr>233</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Peste nouă sate și ape multe e un frate al meu ucis, pus într-o țăpușă și păzit de doisprezece străjari.</quote><bibl><abbr type="siglum" author="LUNGIANU" pages="65" sigla="LUNGIANU, C." source="C.">LUNGIANU, C. 65</abbr>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Din cornul zimbrului ucis a răspuns chemare spre cornul lunii.</quote><bibl><abbr type="siglum" author="MANIU" pages="8" sigla="MANIU, V. P." source="V. P.">MANIU, V. P. 8</abbr>, CF. CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Iar în urma lui păsărica ucisă rămase cu aripioarele strânse.</quote><bibl><abbr type="siglum" author="TOPÂRCEANU" pages="92" sigla="TOPÂRCEANU, O. A." source="O. A." volume="II">TOPÂRCEANU, O. A. II, 92</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucișii robi țipară în urmă fioros.</quote><bibl><abbr type="siglum" author="VOICULESCU" pages="187" sigla="VOICULESCU, POEZII" source="POEZII" volume="I">VOICULESCU, POEZII, I, 187</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Căci „văduvioara tinerică” pare a corespunde soției lui Iuga, ucisul din Grue-Sânger.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="90" sigla="CĂLINESCU, O." source="O." volume="XII">CĂLINESCU, O. XII, 90</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Șase mii de kilograme de bombe, șase mii de oameni uciși.</quote><bibl><abbr type="siglum" author="BOGZA" pages="540" sigla="BOGZA, A. Î." source="A. Î.">BOGZA, A. Î. 540</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Zăcea între lumânări la picioarele lui, ucisul.</quote><bibl><abbr type="siglum" author="BARBU" pages="38" sigla="BARBU, PRINC." source="PRINC.">BARBU, PRINC. 38</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Întreaga obște era solidară în favoarea membrului ei ucis sau vătămat.</quote><bibl><abbr type="siglum" author="PANAITESCU" pages="55" sigla="PANAITESCU, O. Ț." source="O. Ț.">PANAITESCU, O. Ț. 55</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Un corn de cerb lopătar ucis.</quote><bibl><citedRange month="ianuarie" pages="9" source="V. ROM." year="1970">V. ROM. ianuarie 1970, 9</citedRange></bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="2" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Mi-a făcut un rău nespus când mi-am simțit naivitatea sângerată, ucisă.</quote><bibl><abbr type="siglum" author="DELAVRANCEA" pages="212" sigla="DELAVRANCEA, T." source="T.">DELAVRANCEA, T. 212</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Merg ca niște umbre în noaptea fără lună, Cu ochii orbi sub vălul uciselor avânturi.</quote><bibl><abbr type="siglum" author="PETICĂ" pages="177" sigla="PETICĂ, O." source="O.">PETICĂ, O. 177</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Mulțimea tăcută, cu bucuria ucisă pe fețe.</quote><bibl><abbr type="siglum" author="C. PETRESCU" pages="111" sigla="C. PETRESCU, Î." source="Î." volume="I">C. PETRESCU, Î. I, 111</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Port doine și litanii, ucisele iubiri, În chilioare scunde și-n file de psaltiri.</quote><bibl><abbr type="siglum" author="LESNEA" pages="59" sigla="LESNEA, I." source="I.">LESNEA, I. 59</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Aici s-așează Dorul ucis.</quote><bibl><abbr type="siglum" author="VOICULESCU" pages="159" sigla="VOICULESCU, POEZII" source="POEZII" volume="II">VOICULESCU, POEZII, II, 159</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>De păduri, de câmpii, De un loc singuratec e vorba, De un suflet ucis Printre arbori, în vis.</quote><bibl><abbr type="siglum" author="BOTTA" pages="181" sigla="BOTTA, S." source="S." volume="I">BOTTA, S. I, 181</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="3" value="♦">
+          <def>
+            <usg>(Despre animale domestice)</usg>
+            <RegDef>Care a fost sacrificat, tăiat.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Își șterse cuțitul și mâinile însângerate în părul ucisului,... declară că slănina e mai groasă de șapte degete.</quote><bibl><abbr type="siglum" author="REBREANU" pages="168" sigla="REBREANU, I." source="I.">REBREANU, I. 168</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+      <sense class="4" value="2.">
+        <def>
+          <RegDef>Lovit foarte tare; bătut crunt.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Dar eu, uită-te, ce am pe trup și pe mâni! Era toată ucisă.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="154" sigla="PAMFILE, CER." source="CER.">PAMFILE, CER. 154</abbr>, cf. CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Baba a cunoscut demult în el puterea ce se dezvăluise acum. De pe când el zăcea la Dropii, într-o toamnă, ucis, și a biruit moartea.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="310" sigla="SADOVEANU, O." source="O." volume="XVII">SADOVEANU, O. XVII, 310</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="8" value="♦">
+          <def>
+		  <usg>(Regional)</usg>
+		  <RegDef>Foarte obosit; epuizat (Banloc - Timișoara).</RegDef><bibl>Cf. <citedRange pages="291" source="ALR" volume="I" volumepart="II">ALR I/II h 291</citedRange>/35, <citedRange pages="409" source="ALRM" volume="I" volumepart="II">ALRM I/II h 409</citedRange>/35</bibl>. 
+		  </def>
+        </sense>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">uciși, -se</hi>.</form>
+      <form>– V. <hi rend="bold">ucide</hi>.</form>
+    </form>
+  </entry>
+</body>

@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZONORĂ</orth>
+			<gramGrp>vb. 1</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="?" value="DIZONORĂ">
+			<def>
+			<MorfDef>vb. 1</MorfDef>
+			<RegDef> v. dezonora. </RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

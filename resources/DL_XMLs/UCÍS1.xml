@@ -1,0 +1,38 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCÍS1</orth>
+      <gramGrp>s.n.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCÍS1">
+      <def>
+        <MorfDef>s.n.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+          <RegDef>Faptul de a u c i d e (<hi rend="bold">1</hi>.); omor (<hi rend="bold">1</hi>.).</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Despre omorâtul sau ucisul stupilor.</quote><bibl><citedRange pages="196/20" source="ECONOMIA">ECONOMIA, 196/20</citedRange>, cf. DRLU</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să fie martoră celui prin dânsa pricinuit ucis.</quote><bibl><citedRange pages="481/20" source="MOZAICUL" year="1839">MOZAICUL (1839), 481/20</citedRange>, cf. <citedRange source="TDRG.">TDRG.</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să nu umbli după ucisul grierilor din casă.</quote><bibl><abbr type="siglum" author="GOROVEI" pages="142" sigla="GOROVEI, CR." source="CR.">GOROVEI, CR. 142</abbr>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Au împușcat pe oameni și i-au supus la cazne... Iar chinurile și ucisurile de care vorbești n-au astâmpărat poporul.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="480" sigla="SADOVEANU, O." source="O." volume="XVII">SADOVEANU, O. XVII, 480</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+      <sense class="2" value="2.">
+        <def>
+          <usg>(Învechit și regional)</usg>
+          <RegDef>Bătaie; chin, suferință.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Rămas-au bieții oameni numai cu sufleteli, bătuți și struncinați... cum nu să poate nice a scrie, nice a să povesti caznele și ucisurili lor ce au avut de tătari.</quote><bibl><abbr type="siglum" author="NECULCE" pages="57" sigla="NECULCE, L." source="L.">NECULCE, L. 57</abbr>, cf. ALR II 3596/836</bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucisuri</hi>.</form>
+      <form>– V. <hi rend="bold">ucide</hi>.</form>
+    </form>
+  </entry>
+</body>

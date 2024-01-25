@@ -1,0 +1,48 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCÁZ</orth>
+      <gramGrp>s.n.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCÁZ">
+      <def>
+        <MorfDef>s.n.</MorfDef>
+        <usg>(Învechit și popular)</usg>
+        <RegDef>Ordin (<hi rend="bold">1</hi>.), ordonanță (<hi rend="bold">I 1</hi>.), decret, poruncă (<hi rend="bold">1</hi>.).</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Aștepta să le vie ucaz de la Petreburhu, de la împăratul moschicescu, să vadă ce vor face.</quote><bibl><abbr type="siglum" author="NECULCE" pages="208" sigla="NECULCE, L." source="L.">NECULCE, L. 208</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>De la îndurarea întru tot milostivului stăpănitoriului împărat, după înaltili ucazuri</quote><bibl> (a.1818). <citedRange pages="219/26" source="GCR" volume="II">GCR II, 219/26</citedRange></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Aicea gheneralii Miloradovici căpătând ucaz (poruncă), curând la Smolensc... să meargă.</quote><bibl> N. STOICA, C B. 308, cf. <citedRange pages="218" source="CAT. MAN." volume="I">CAT. MAN. I, 218</citedRange>, <abbr type="siglum" author="VALIAN" pages="148" sigla="VALIAN, V." source="V.">VALIAN, V. 148</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Foile din St. Petersburg ne împărtășesc un ucas împărătesc din 21 febr[uarie].</quote><bibl><citedRange pages="48"><hi rend="superscript">1</hi>/12" source="GT" year="1839">GT (1839), 48<hi rend="superscript">1</hi>./12</citedRange>, cf. POEN. - AAR. - HILL, V. II, 777<hi rend="superscript">1</hi>./17, <abbr type="siglum" author="STAMATI" sigla="STAMATI, D." source="D.">STAMATI, D.</abbr>, BAR. - MUNT., W. 782<hi rend="superscript">1</hi>./29</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Ucazele lui Petru care ne-au rennoit Din mână nu le lasă; drept pravăț îi slujesc.</quote><bibl><abbr type="siglum" author="NEGRUZZI" pages="194" sigla="NEGRUZZI, S." source="S." volume="II">NEGRUZZI, S. II, 194</abbr>, cf. <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, PONTBRIANT, D., LM</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Se primise de la arhierie un ucaz.</quote><bibl><citedRange pages="660" source="CONTEMPORANUL" volume="III">CONTEMPORANUL, III, 660</citedRange>, cf. <citedRange source="DDRF">DDRF</citedRange>, <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Între atâtea vești zguduitoare..., cade și aceea că un ucaz împărătesc a chemat sub steag... oștenii.</quote><bibl><citedRange pages="578" source="SĂM." volume="III">SĂM. III, 578</citedRange>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU">ȘĂINEANU</abbr>, D. U., <citedRange source="CADE">CADE</citedRange>, <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr>, DEX</bibl>.</cit>
+        </dictScrap>
+      </def>
+      <sense class="1" value="♦">
+        <def>
+		<usg>Fig.</usg>
+		<RegDef>Măsură, decizie, hotărâre care nu admite discuție.</RegDef><bibl>Cf. <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr></bibl>.   
+		<dictScrap>
+		  <cit id="UNKNOWN"><quote>Familia ajunsă în impas, buimăcitor, venea cu un ucaz: în noul an școlar trebuia să rămân acasă.</quote><bibl><abbr type="siglum" author="BLAGA" pages="94" sigla="BLAGA, H." source="H.">BLAGA, H. 94</abbr></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Față colțuroasă, osoasă, avea bunica... parcă mereu zvârlea ucazuri.</quote><bibl><abbr type="siglum" author="STANCU" pages="7" sigla="STANCU, D." source="D.">STANCU, D. 7</abbr></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Tot ce se găsea sub nivelul zvelteții lui i se părea... scos de mai înainte din lupta pentru dragoste, ca printr-un ucaz al ursitelor.</quote><bibl><abbr type="siglum" author="VINEA" pages="219" sigla="VINEA, L." source="L." volume="I">VINEA, L. I, 219</abbr>, cf. <citedRange source="DEX">DEX</citedRange>, DSR</bibl>.</cit>
+		</dictScrap>
+		</def>
+      </sense>
+      <sense class="2" value="♦">
+        <def>
+          <RegDef>Autorizație, ordonanță.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Ș-au făcut ocaz di la ghinărariul Lis,... ca să poată umbla cu 2 oameni pe mari, să prindă pește.</quote><bibl><abbr type="siglum" author="NECULCE" pages="329" sigla="NECULCE, L." source="L.">NECULCE, L. 329</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Scris și: <hi rend="italic">ucas</hi>. - Pl.: <hi rend="italic">ucazuri</hi>. și (rar) <hi rend="italic">ucaze</hi>. - Și: (învechit) <hi rend="bold">ocáz</hi>. s.n.</form>
+      <form>– Din rus. <hi rend="bold">указ</hi>.</form>
+    </form>
+  </entry>
+</body>

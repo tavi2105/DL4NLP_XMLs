@@ -1,0 +1,34 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCENÍȚĂ</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCENÍȚĂ">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+        <usg>(Învechit)</usg>
+        <RegDef>Ucenică <hi rend="bold">(I 1)</hi>.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Aceea este fiică și uceniță fiului lui Dumnezeu.</quote><bibl><abbr type="siglum" author="NEAGOE" pages="273/22" sigla="NEAGOE, ÎNV." source="ÎNV.">NEAGOE, ÎNV. 273/22</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Aceasta... fu uceniță sv[â]ntului Pavel apostol.</quote><bibl><abbr type="siglum" author="DOSOFTEI" month="septembrie" pages="19"><hi rend="superscript">v</hi>/3" sigla="DOSOFTEI, V. S." source="V. S.">DOSOFTEI, V. S. septembrie 19<hi rend="superscript">v</hi>./3</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Să mărturisi sv[â]nta Sevastiani uciniță sv[â]ntului apostol Pavel.</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr> octombrie 85/15</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Mărturisind sf[â]nta că au fost uceniță apostolului Pavel și s-au botezat de dânsul.</quote><bibl><citedRange pages="146"><hi rend="superscript">v1</hi>/12" source="MINEIUL" year="1776">MINEIUL (1776), 146<hi rend="superscript">v1</hi>./12</citedRange>, cf. <citedRange source="LB">LB</citedRange>, <citedRange source="LM">LM</citedRange>, DHLR II, 533, <abbr type="siglum" author="IORDAN" pages="186" sigla="IORDAN, L. R. A." source="L. R. A.">IORDAN, L. R. A. 186</abbr></bibl>.</cit>
+        </dictScrap>
+      </def>
+      <sense class="1" value="◊">
+        <def>
+          <usg>Fig.</usg>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Iară satana juca și se arătă aceștii feate fără de rușine... O, turbarea și pohta spurcată a aceii doamne! Ce cerea, făcu Irod uceniței diavolului.</quote><bibl><abbr type="siglum" author="CORESI" pages="546" sigla="CORESI, EV." source="EV.">CORESI, EV. 546</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucenițe</hi>. - Și: <usg>(învechit, rar)</usg> <hi rend="bold">uciníță</hi>. s.f.</form>
+      <form>– Din slavonul <hi rend="bold">UNKNOWN</hi>.</form>
+    </form>
+  </entry>
+</body>

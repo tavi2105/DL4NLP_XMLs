@@ -1,0 +1,59 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUIDIC, -Ă</orth>
+            <gramGrp>adj.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUIDIC, -Ă">
+            <def>
+                <MorfDef rendition="simple:spaced">adj.</MorfDef>
+            </def>
+            <def>
+                <RegDef>Care aparţine druizilor sau druidismului, referitor la druizi sau la druidism.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <bibl>
+                            Cf.
+                            <abbr type="siglum" author="NEGULICI" sigla="NEGULICI">NEGULICI</abbr>
+                            ,
+                            <abbr type="siglum" sigla="PROT. — POP., N. D." source="PROT. — POP., N. D.">PROT. — POP., N. D.</abbr>
+                        </bibl>
+                    </cit>
+                    <cit id="UNKNOWN">
+                        <quote>Castelul ... are stâlpi ... acoperiţi cu table de aceeaşi piatră, în stil druidic.</quote>
+                        <bibl>
+                            <abbr type="siglum" author="CARAGIALE" pages="166" sigla="CARAGIALE, O." source="O." volume="III">CARAGIALE, O. III, 166</abbr>
+                        </bibl>
+                    </cit>
+                    <cit id="UNKNOWN">
+                        <quote>Unii zei stau în pietre râdicate foarte asamănătoare cu menhirele zise druidice.</quote>
+                        <bibl>
+                            <abbr type="siglum" author="CONTEMPORANUL" pages="931" sigla="CONTEMPORANUL" volume="II">CONTEMPORANUL, II, 931</abbr>
+                            , cf.
+                            <abbr type="siglum" author="CADE" sigla="CADE">CADE</abbr>
+                            ,
+                            <abbr type="siglum" source="LTR" sigla="LTR">LTR<hi rend="superscript">3</hi>
+                            </abbr>
+                            ,
+                            <abbr type="siglum" source="DEX" sigla="DEX">DEX</abbr>
+                            ,
+                            <abbr type="siglum" source="DN" sigla="DN">DN<hi rend="superscript">3</hi>
+                            </abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>- Pronunţat: 
+                <hi rend="italic">dru-i-.</hi>
+            </form>
+            <form>
+            — Pl.:
+                <hi rend="italic">druidici, -ce.</hi>
+            </form>
+            <form>— Din fr. druidique.</form>
+        </form>
+    </entry>
+</body>

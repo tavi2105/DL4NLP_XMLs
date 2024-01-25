@@ -1,0 +1,23 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCÍD</orth>
+      <gramGrp>s.n.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCÍD">
+      <def>
+        <MorfDef>s.n.</MorfDef>
+        <usg>(Învechit, rar)</usg>
+        <RegDef>Omor <hi rend="bold">(1)</hi>.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Ba să tăcem, zău, ca zidul, că nu-i lucru să-l vorbim, De se va afla ucidul, cu toții ne prăpădim.</quote><bibl><abbr type="siglum" author="PANN" pages="115/16" sigla="PANN, P. V." source="P. V." volume="III">PANN, P. V. III, 115/16</abbr></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.:?</form>
+      <form>– Postverbal de la <hi rend="bold">ucide</hi>.</form>
+    </form>
+  </entry>
+</body>

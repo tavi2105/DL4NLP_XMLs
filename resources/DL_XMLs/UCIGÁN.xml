@@ -1,0 +1,26 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIGÁN</orth>
+      <gramGrp>s.m.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIGÁN">
+      <def>
+	  <MorfDef>s.m.</MorfDef>
+	  <usg>(Regional)</usg>
+	  <RegDef>Nume care se dă diavolului.</RegDef><bibl>Cf. <citedRange source="TDRG.">TDRG.</citedRange></bibl>.   
+	  <dictScrap>
+	    <cit id="UNKNOWN"><quote>Doamne, femeie, ce-ți pui tu mintea cu uciganul.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="100" sigla="PAMFILE, D." source="D.">PAMFILE, D. 100</abbr>, cf. <citedRange source="CADE">CADE</citedRange>, <abbr type="siglum" author="CANDREA" pages="115" sigla="CANDREA, F." source="F.">CANDREA, F. 115</abbr>, DSR</bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Nu-i alt chip... decât să-l trimeață la moara uciganilor.</quote><bibl><abbr type="siglum" author="SEVASTOS" pages="31" sigla="SEVASTOS, P." source="P.">SEVASTOS, P. 31</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Prăpastia ceea era hotarul între împărăția uciganilor și împărăția zmeilor.</quote><bibl><abbr type="siglum" author="id." pages="202" source="ib.">id. ib. 202</abbr>, cf. <citedRange pages="273" source="I. CR." volume="III">I. CR. III, 273</citedRange></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Și s-au apucat ei de lucru și s-au rugat zi și noapte, un an încheiat, în numele uciganului.</quote><bibl><abbr type="siglum" author="FURTUNĂ" pages="10" sigla="FURTUNĂ, V." source="V.">FURTUNĂ, V. 10</abbr>, cf. <citedRange pages="146" source="SNOAVA" volume="II">SNOAVA, II, 146</citedRange></bibl>.</cit>
+      </dictScrap>
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucigani</hi>.</form>
+      <form> - <hi rend="bold">Ucigă[-l]</hi>. + suf. <hi rend="italic">-an</hi>.</form>
+    </form>
+  </entry>
+</body>

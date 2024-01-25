@@ -1,0 +1,38 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIGÁIE</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIGÁIE">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<usg>(Regional; în imprecații)</usg>
+		<RegDef>Nume care se dă diavolului. Ucigă-te ucigăile, prostule!</RegDef><bibl><abbr type="siglum" author="VASILIU" pages="31" sigla="VASILIU, P. L." source="P. L.">VASILIU, P. L. 31</abbr>, cf. <abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>. 
+		</def>
+      </sense>
+      <sense class="2" value="2.">
+        <def><usg>(Prin nord-vestul Munt.)</usg>
+		<RegDef>Epitet dat unei persoane nesuferite; pocitură<hi rend="superscript">1</hi>. (<hi rend="bold">2</hi>.), sluțenie (<hi rend="bold">2</hi>.).</RegDef><bibl>Cf. <abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>. 
+		</def>
+        <sense class="3" value="◊">
+          <def>
+            <usg>(Pus înaintea termenului calificat, de care se leagă prin prepoziția „de”)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>O ucigaie de copil.</quote><bibl><abbr type="siglum" author="UDRESCU" sigla="UDRESCU, GL." source="GL.">UDRESCU, GL.</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ucigăile-alea de fete au uitat să mai vie acasă.</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucigăi</hi>.</form>
+      <form>– <hi rend="bold">Ucigă</hi>.[<hi rend="bold">-l</hi>.] + suf. <hi rend="italic">-aie</hi>.</form>
+    </form>
+  </entry>
+</body>

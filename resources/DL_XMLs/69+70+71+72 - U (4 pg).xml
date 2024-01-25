@@ -1,0 +1,2024 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAFILTRARE</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAFILTRARE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Filtrare prin intermediul ultrafiltrului.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ultra-filtrarea se face sub presiune.</hi></quote>
+							<bibl><abbr type="siglum" author="MACAROVICI" pages="157" sigla="MACAROVICI, CH." souce="CH."></abbr>MACAROVICI, CH. 157</bibl>, cf. DT, LTR, DN, FORM. CUV. II, 251, D. MED.
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-filtrare</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultrafiltrări</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + filtrare</hi>.Cf. fr. <hi rend="simple:spaced">ultrafiltration</hi></form>
+		</form>
+	</entry>
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAFILTRU</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAFILTRU">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Aparat de filtrare prevăzut cu o membrană care reține particulele coloidale și suspensiile foarte fine.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">De mare ajutor pentru studiul soluțiilor colidale au fost... ultra-filtrele.</hi></quote>
+							<bibl><abbr type="siglum" author="MACAROVICI" pages="156" sigla="MACAROVICI, CH." souce="CH."></abbr>MACAROVICI, CH. 156</bibl>, cf. DT, LTR, DL, DN, DM, M. D. ENC, DEX, D. BIOL., DN, FORM CUV. II, 250, 251, 295, D. MED.
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-filtru</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultrafiltre</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultra-filtre</hi>, germ. <hi rend="bold">Ultrafilter</hi> </form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAFIN, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAFIN, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Extrem de fin.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Era o ploaie De o calitate rară, vă spun, Fină, ultrafină, De o rară transparență,... De un imens rafinament.</hi></quote>
+							<bibl><abbr type="siglum" author="BOTTA" pages="175" sigla="BOTTA, S." souce="S." volume="II"></abbr>BOTTA, S. II, 175</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultrafini, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + fin</hi></form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAGE</orth>    >
+			<gramGrp>vb. III</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAGE">
+			<def>
+				<MorfDef>vb. III</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. ultragia.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAGIA</orth>    
+			<gramGrp>vb. I<usg type="gram"> rendition="simple:spaced">Tranz.</usg></gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAGIA">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>A jigni, a insulta, a ofensa, a leza.</RegDef> Cf. BARCIANU, ALEXI, W., CADE.
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Colonia a fost ultragiată prin urecheala administrată unui membru al ei.</hi></quote>
+							<bibl><abbr type="siglum" author="KLOPȘTOCK" pages="291" sigla="KLOPȘTOCK, F." source="F.">KLOPȘTOCK, F.</abbr> Cf. SCRIBAN, D., DL, DM, M. D. ENC, DEX, DN, FORM, CUV, II, 252, DSR.</bibl>
+							</cit>
+							<usg>(Glumeț)</usg>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Cu adevărat ultragiasem specia și rănisem sensibilitatea acestor drăguțe vietăți fragile.</hi></quote>
+							<bibl><abbr type="siglum" author="BOTTA" pages="171" sigla="BOTTA, S." source="S." volume="III">BOTTA, S.</abbr></bibl>
+							</cit>	
+					</dictScrap>
+				</def>
+				<sense class="2" value="◊">
+					<def>
+						<usg>(Complementul indică sentimente, atitudini etc.)</usg>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Blasfemata lor desfătare ultrage... amorul.</hi></quote>
+							<bibl><abbr type="siglum" author="PÂCLEANU" pages="48/4" sigla="PÂCLEANU, I." source="I." volume="II">PÂCLEANU, I.</abbr>Cf. UDRESCU</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Îi ultragia suferința.</hi></quote>
+							<bibl><abbr type="siglum" author="G. M. ZAMFIRESCU" pages="70" sigla="G. M. ZAMFIRESCU, M. D." source="M. D." volume="II">G. M. ZAMFIRESCU, M. D.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Tinerețea mea, ultragiată astfel, scrâșnea din toate încheieturile.</hi></quote>
+							<bibl><abbr type="siglum" author="CIPRIAN" pages="88" sigla="CIPRIAN, S." source="S." volume="I">CIPRIAN, S.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Poetul sensibilității ultragiate la maximum.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="4/1" sigla="ROMÂNIA LITERARĂ, 1984, nr. 2">ROMÂNIA LITERARĂ, 1984, nr. 2</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+				<sense class="3" value="♦">
+					<def>
+						<usg>(Complementul indică principii, reguli)</usg>
+						<RegDef>A săvârși o abatere, a contraveni.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Parchetul din Iași nu așteptase ordinul șefului său ierarhic pentru a pune sub acuzare pe îndrăznețul scriitor care cutezase să ultragieze așa-zisa morală publică.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="279" sigla="S. C. ȘT. (IAȘI), 1957">S. C. ȘT. (IAȘI)</abbr></bibl>
+							</cit>	
+							<usg><hi rend="simple:spaced">(Fig.)</hi></usg>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">A ultragia arta.</hi></quote>
+							<bibl><abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN D.</abbr></bibl>
+							</cit>	
+						</dictScrap>
+					</def>
+				</sense>
+				<sense class="4" value="2.">
+					<def>
+						<usg>(Dr.)</usg>
+						<RegDef>A comite un ultraj (2).</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Domnule grefier, acest individ m-a ultragiat în exercițiul funcțiunii.</hi></quote>
+							<bibl><abbr type="siglum" author="REBREANU" sigla="REBREANU" volume="NUV. 168">REBREANU, NUV. 168</abbr></bibl>
+							</cit>	
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ultrajul se pedepsește... în funcție de urmările faptei asupra integrității corporale sau vieții funcționarului ultragiat.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="698" sigla="PR. DREPT">SCRIBAN D.</abbr></bibl>
+							</cit>	
+					</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic"> -gi-a </hi></form>
+			<form>- Prez. ind.: <hi rend="italic"> ultragiez </hi></form>
+			<form>- Și: (învechit) <hi rend="bold">ultraja</hi> (ALEXI, W., CADE) vb. I, <hi rend="bold">ultrage</hi> vb. III </form>
+			<form>- Din <hi rend="bold">ultragiu</hi>. Cf. fr.<hi rend="simple:spaced">outrager</hi>  </form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAGIARE</orth>    >
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAGIARE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. ultragiere.</RegDef>2
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAGIAT, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAGIAT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care a suferit un ultraj; jignit, insultat, ofensat, lezat.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Dacă bietul tânăr avea a face cu o muiere măritată, treaba devenea mai serioasă, pentru că răsplata depindea mult de brasla la care aparținea bărbatul ultragiat.</hi></quote>
+							<bibl><abbr type="siglum" author="GHICA" pages="41" sigla="GHICA, S." source="S.">GHICA, S.</abbr> Cf. BARCIANU, ALEXI, W.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Nici viclenia monarhului ultragiat, nici amenințarea cu moartea nu clintiră sublima încăpățânare a călugărului.</hi></quote>
+							<bibl><abbr type="siglum" author="EFTIMIU" pages="155" sigla="EFTIMIU, N." source="N.">EFTIMIU, N.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Eu am crezut că e vorba de-o glumă. (Ultragiat:) Altminteri nici nu mă pretam.</hi></quote>
+							<bibl><abbr type="siglum" author="MUȘATESCU" pages="296" sigla="MUȘATESCU, T." source="T.">MUȘATESCU, T.</abbr></bibl>
+							</cit>	
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ultragiatul colonel își reveni din furia lui.</hi></quote>
+							<bibl><abbr type="siglum" author="PREDA" pages="296" sigla="PREDA, DELIR." source="DELIR.">PREDA, DELIR.</abbr>cf. DM, M. D. ENC.</bibl>
+							</cit>	
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Se angajează să-l scape de furia celor trei vajnici urmăritori: soțul ultragiat, amantul înșelat și ipistatul nelipsit de la post.</hi></quote>
+							<bibl><abbr type="siglum" author="CIOCULESCU" pages="179" sigla="CIOCULESCU, C." source="C.">CIOCULESCU, C.</abbr>cf. DEX, DSR.</bibl>
+							</cit>	
+					</dictScrap>
+				</def>
+				<sense class="2" value="◊">
+					<def>
+						<usg>(Despre afectivitate, sensibilitate etc.)</usg>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ca tine sunt și culme, și abise, Și-ți aduc un corp în zdrențe și un suflet ultragiat.</hi></quote>
+							<bibl><abbr type="siglum" author="MACEDONSKI" pages="161" sigla="MACEDONSKI, O." source="O." volume="I">MACEDONSKI, O.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Sufletul acesta strivit, ultragiat, o diviniza pe Maro.</hi></quote>
+							<bibl><abbr type="siglum" author="G. M. ZAMFIRESCU" pages="70" sigla="G. M. ZAMFIRESCU, M. D." source="M. D." volume="II">G. M. ZAMFIRESCU, M. D.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Când Petru Maior îl combătea pe Kopitar sau Hasdeu pe Cihac, o făcea și cu intuiția ce ți-o dă sufletul ultragiat.</hi></quote>
+							<bibl><abbr type="siglum" author="CIPRIAN" pages="88" sigla="CIPRIAN, S." source="S." volume="I">CIPRIAN, S.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Poetul sensibilității ultragiate la maximum.</hi></quote>
+							<bibl><abbr type="siglum" author="PUȘCARIU" pages="38" sigla="PUȘCARIU, D. V." source="D. V.">PUȘCARIU, D. V.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Monștrii au [la Shakespeare] un suflet ultragiat.</hi></quote>
+							<bibl><abbr type="siglum" author="VIANU" pages="90" sigla="VIANU, L. U." source="L. U." ></abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">În poezia lui... vorbește, aparent în dodii, o sensibilitate ultragială.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 8, 4/1" sigla="ROMÂNIA LITERARĂ 1985">ROMÂNIA LITERARĂ 1985</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic"> -gi-at </hi></form>
+			<form>- Pl.: (învechit) <hi rend="bold">ultragiați, -te</hi></form> 
+			<form>- Și.: (învechit) <hi rend="bold">ultragiat, -ă</hi> adj. ALEXI, W.</form> 
+			<form>- V. <hi rend="bold">ultragia</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAGIERE</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAGIERE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Acțiunea de a <hi rend="simple:spaced">ultragia</hi>; insultare, jignire, ofensare.</RegDef> Cf. HELIADE, v. 26/19, ALEXI, W., DEX, DN, DSR.
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-gi-e</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultragieri</hi>.</form>
+			<form>- Și: (învechit) <hi rend="bold">ultragiare</hi> (HELIADE, V. 26/19)</form>
+			<form>- V. <hi rend="bold">ultragia</hi></form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAGIU</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAGIU">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef> v. <hi rend="bold">ultraj</hi>.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAGROTESC, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAGROTESC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Din cale afară de grotesc, peste măsură de grotesc, de un grotesc exagerat.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Pelicula este suprasaturată de tipuri care pe ecran ne par ultragrotești, jucate fără nici un simț al măsurii.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 7, 6" sigla="CINEMA, 1968"></abbr>CINEMA, 1968, nr. 7, 6</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultragrotești</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + grotesc</hi></form>
+		</form>
+	</entry>
+	
+	
+	
+		
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAHOMAGIAL, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAHOMAGIAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef> v. <hi rend="bold">ultraomagial</hi>.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAISM</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAISM">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Atitudine caracterizată prin idei sau concepții exagerate; extremism.</RegDef> Cf. GHEȚIE, R. M., ALEXI, W., DN.
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Din. germ. <hi rend="bold">Ultraismus</hi></form>
+		</form>
+	</entry>
+	
+		
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAIST, -Ă</orth>    
+			<gramGrp>adj., s. m. și f.</gramGrp>
+			<usg>(Ieșit din uz)</usg>
+		</form>
+
+		
+		<sense class="0" value="ULTRAIST, -Ă">
+			<def>
+				<MorfDef>adj., s. m. și f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care depășeste limitele normale; exagerat; extremist.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Germanii francezi sânt francezi ultraiști.</hi></quote>
+							<bibl><abbr type="siglum" author="CODRU-DRĂGUȘANU" pages="82" sigla="CODRU-DRĂGUȘANU, C." source="C."></abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Unele comune... representate la comitet prin 4-6 inși din una și aceeași familie aristocratică sau prin alți inși cunoscuți de patrioți ultraiști.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="92" sigla="FM (1861)">FM (1861)</abbr></bibl>
+							</cit>
+			 				<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ei samănă a fi nutrit... niște simțăminte religioase ultraiste.</hi></quote>
+							<bibl><abbr type="siglum" author="SBIERA" pages="347" sigla="SBIERA, F. S." source="F. S.">SBIERA, F. S.</abbr> cf. FORM. CUV. II, 9</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+				<sense class="2" value="2.">
+					<def>
+						<RegDef>Adept al unor idei sau convingeri extreminte.</RegDef> Cf. GHEȚIE, R.M.
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultraiști</hi>.</form>
+			<form>- De la <hi rend="bold">ultraism</hi>.</form>
+		</form>
+	</entry>
+
+	
+	<!-- ULTRAJ -->
+	
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAJ</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAJ">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Jignire, ofensă gravă, amenințare ori act de violență împotriva cuiva.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Era mânat să-mparță ultrajul și durerea.</hi></quote>
+							<bibl><abbr type="siglum" author="UHELIADE" pages="202" sigla="HELIADE, O." source="O." volume="I">HELIADE, O.</abbr>cf. NEGULICI, BAR. - MUNT., W. 576/22</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">În viața noastră dăm peste minute Ce nu se pot șterge zeci și mii de ani, Fie suvenire de plăceri trecute, Fie și ultrage de crudeli tirani.</hi></quote>
+							<bibl><abbr type="siglum" author="MUREȘANU" pages="132/7" sigla="MUREȘANU, P." source="P.">MUREȘANU, P.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Acest nou ultragiu aruncat în față-mi cu ata asprime făcu să dispară din inima mea ultima speranță de amor.</hi></quote>
+							<bibl><abbr type="siglum" author="FILIMON" pages="328" sigla="FILIMON, O." source="O." volume="I">FILIMON, O.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ea-mi este încredințată, n-am să dau altuia cont decât numai tutorului ei; așadar, domnule, du-te să faci altora ultrajele dumitale: ceea ce se face aci nu caută spre dumneata.</hi></quote>
+							<bibl><abbr type="siglum" author="BARONZI" pages="95/28" sigla="BARONZI, M." source="M." volume="I">BARONZI, M.</abbr>cf. PROT. - POP., N. D.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Uit o viață amărâtă de ultragii sângeroase.</hi></quote>
+							<bibl><abbr type="siglum" author="MACEDONSKI" pages="28" sigla="MACEDONSKI, O." source="O." volume="I">MACEDONSKI, O.</abbr>cf. BARCIANU, ALEXI, W., ȘĂILEANU, D. U., CADE.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">La bază e...aceeași revoltă împotriva unei vieți de „ultragii”.</hi></quote>
+							<bibl><abbr type="siglum" author="LOVINESCU" pages="282" sigla="LOVINESCU, S." source="S." volume="I">LOVINESCU, S.</abbr>cf. SCRIBAN, D., DL, DM, M. D. ENC, DEX, DN, FORM. CUV. II, 252, DSR.</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+				<sense class="2" value="◊">
+					<def>
+						<usg type="sem"> rendition="simple:spaced">Fig.</usg>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ultragiul anilor.</hi></quote>
+							<bibl><abbr type="siglum" author="SCRIBAN" pages="UNKNOWN" sigla="SCRIBAN, D.">SCRIBAN, D.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Părul albise, frumoasele mâini pe care citirăm nescrisele ode păleau și ele. Ultragele timpului.</hi></quote>
+							<bibl><abbr type="siglum" author="BOTTA" pages="149" sigla="BOTTA, S." source="S." volume="III">BOTTA, S.</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+				<sense class="3" value="♦">
+					<def>
+						<RegDef>Act, atitudine contrară unor principii, unor reguli. Ultragiul moralei.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ultragiul anilor.</hi></quote>
+							<bibl><abbr type="siglum" author="SCRIBAN" pages="UNKNOWN" sigla="SCRIBAN, D.">SCRIBAN, D.</abbr></bibl>
+							</cit>
+							<usg type="sem"> rendition="simple:spaced">Fig.</usg>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ultragiul artei.</hi></quote>
+							<bibl><abbr type="siglum" author="SCRIBAN" pages="UNKNOWN" sigla="SCRIBAN, D.">SCRIBAN, D.</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+				<sense class="4" value="◊">
+					<def>
+						<RegDef>Ultraj contra bunelor (sau, rar, la bunele) moravuri = infracțiune care constă în săvârșirea în public a unor acte ori gesturi, în folosirea de cuvinte, expresii sau în orice manifestări prin care s-ar aduce atingere bunelor moravuri.</RegDef> Cf. M. D. ENC., DJP.
+					</def>
+				</sense>
+				<sense class="5" value="2.">
+					<def>
+						<usg>(Dr.)</usg>
+						<RegDef>Infracțiune constând în insultă, calomnie, amenințare sau act de violență împotriva unui representant al autorității publice aflat în exercițiul funcțiunii.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Am fi putut... să facem proces verbal de ultragiu adus guvernului și nouă, ca agenți ai forței publice.</hi></quote>
+							<bibl><abbr type="siglum" author="CARAGIALE" pages="191" sigla="CARAGIALE, O." source="O." volume="I">CARAGIALE, O.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Herdelea a primit citație de la tribunal în procesul ce-l pornise judecătorul pentru ultragiu.</hi></quote>
+							<bibl><abbr type="siglum" author="REBREANU" pages="283" sigla="REBREANU, I." source="I.">REBREANU, I.</abbr></bibl>, cf. ȘĂINEANU, D. U., CADE.
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Să-i torni, domnule taxator, un proces-verbal drastic de ultragiu adus în exercițiul funcțiunii.</hi></quote>
+							<bibl><abbr type="siglum" author="BART" pages="89" sigla="BART, S. M." source="S. M.">BART, S. M.</abbr></bibl>, cf. SCRIBAN, D., PR. DREPT. 656.
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Sunt nevoit să-i dresez acestui cetățean actele pentru ultraj.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="9" sigla="V. ROM. septembtie 1970">V. ROM. septembtie 1970</abbr></bibl>, cf. M. D. ENC., DEX, DJP, DN, DREV.
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> ultraje.</hi></form>
+			<form>- Și: (învechit) <hi rend="bold">ultragiu</hi> (pl. ultragii și, învechit, <hi rend="italic"> ultrage</hi> s. n.</form>
+			<form>- Din it. <hi rend="bold">oltraggio</hi>, fr. <hi rend="bold">outrage</hi> </form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAJA</orth>    
+			<gramGrp>vb. I</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAJA">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. ultragia</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAJARE</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAJARE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. ultragiere</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAJAT, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAJAT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. ultragiat</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRALEAL, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRALEAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Extrem de loial.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Se simțeau foarte jenați oricând răsuna în adunări câte o cuvântare mai liberală și nu de tot ultraleală.</hi></quote>
+							<bibl><abbr type="siglum" author="BARIȚIU" pages="163" sigla="BARIȚIU, P. A." source="P. A." volume="III">BARIȚIU, P. A.</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-le-al</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultraleali, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + leal</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRALEAL, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRALEAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Extrem de loial.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Se simțeau foarte jenați oricând răsuna în adunări câte o cuvântare mai liberală și nu de tot ultraleală.</hi></quote>
+							<bibl><abbr type="siglum" author="BARIȚIU" pages="163" sigla="BARIȚIU, P. A." source="P. A." volume="III">BARIȚIU, P. A.</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-le-al</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultraleali, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + leal</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRALIBERAL, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRALIBERAL, -Ă">
+			<def>
+				<MorfDef>adj., s. m. și f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Persoană)</usg>
+					<RegDef>care manifestă o atitudine liberală exagerată, care duce liberalismul la extrem.</RegDef> Cf. BARCIANU, ȘĂINEANU, D. U., CADE, IORDAN, L. R. A. 214, DN, FORM. CUV. II, 249, 297.
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-liberal</hi> BARCIANU, ȘĂINEANU, D. U., CADE, FORM. CUV. II, 297.</form>
+			<form>- Pl.: <hi rend="italic">ultraliberali, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + liberal</hi>. Cf. fr. <hi rend="simple:spaced">ultra-libéral</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRALIBERALISM</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRALIBERALISM">
+			<def>
+				<MorfDef>s. n..</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Liberalism exagerat.</RegDef> Cf. CADE, DN.
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-liberalism</hi>. CADE.</form>
+			<form>- <hi rend="bold">Ultra- + liberalism</hi>. Cf. fr. <hi rend="simple:spaced">ultra-libéralisme</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRALUXOS, -OASĂ</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRALUXOS, -OASĂ">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>De un lux exagerat.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Eroina a dus o existență ultraluxoasă și extravagantă.</hi></quote>
+							<bibl><abbr type="siglum" author="V. ROM." pages="90" sigla="V. ROM. iulie 1961">V. ROM. iulie 1961</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultraluxoși, -oase</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + luxos</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMARIN, -Ă</orth>    
+			<gramGrp>s. n., adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAMARIN, -Ă">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Albastru.</RegDef> Cf. SCRIBAN, D.
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Această pulbere fiind... ceața sufletelor călătoare, cu care gâzele se ciocnesc în zborul lor spre haosul ultramarin.</hi></quote>
+							<bibl><abbr type="siglum" author="ARGHEZI" pages="98" sigla="ARGHEZI, C. J." source="C. J.">ARGHEZI, C. J.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Mări de fosfor, cer ultramarin.</hi></quote>
+							<bibl><abbr type="siglum" author="BENIUC" pages="110" sigla="BENIUC, C. P." source="C. P.">BENIUC, C. P.</abbr>, cf. CL 1970, 288.</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+				<sense class="2" value="◊">
+					<def>
+						<usg>(Adverbial, indicând o nuanță)</usg> 
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Chilimurile oltenești cu câmpurile lor ultra-marin albastre sau roșii închise.</hi></quote>
+							<bibl><abbr type="siglum" author="BLAGA" pages="282" sigla="BLAGA, T. VAL.">BLAGA, T. VAL.</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic"> ultra-marin</hi>.</form>
+			<form>- Pl.: (2)<hi rend="italic"> ultramarini, -e</hi>.</form>
+			<form>- Și: (regional) <hi rend="bold">ultramarină</hi> (CHEST. II 378/188 a) <hi rend="bold"> ultrămărie </hi> (CL 1970, 288) s. f. </form>
+			<form>- Din germ. <hi rend="bold">Ultramarin</hi>.</form>
+			<form>- <hi rend="bold">Ultrămărie</hi>, prin etimologie populară.</form>		
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMARIN, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAMARIN, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Care vine sau care este adus de peste mare; transmarin.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Li se zicea și mărfuri transmarine sau ultra-marine, care arată... că sunt aduse de peste mări.</hi></quote>
+							<bibl><abbr type="siglum" author="N. A. BOGDAN" pages="36" sigla="N. A. BOGDAN, C. M." source="C. M.">N. A. BOGDAN, C. M.</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-marin</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultramarini, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + marin</hi>. Cf. fr. <hi rend="simple:spaced">outremer</hi></form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMARINĂ</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAMARINĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. ultramarin</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMATERIAL, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAMATERIAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Care e foarte strâns legat de problemele materiale.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Voi, sătenii, ... sânteți bieți necăjiți cu câștigul pâinii de toate zilele; de nevoie caută să duceți o viață cu totul materială, ba ultramaterială.</hi></quote>
+							<bibl><abbr type="siglum" author="CODRU-DRĂGUȘANU" pages="25" sigla="CODRU-DRĂGUȘANU, C." source="C.">CODRU-DRĂGUȘANU, C.</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-ri-al</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultramateriali, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + material</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMICROANALIZĂ</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAMICROANALIZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ramură a microanalizei care se ocupă cu identificarea și cu dozarea substanțelor în cantități de ordinul microgramelor.</RegDef> Cf. LTR, DER, M. D. ENC., DC, DN, FORM. CUV. II, 249.
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-cro-a-</hi>.</form>
+			<form>- Din germ. <hi rend="bold">Ultramikroanalyse</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMICROCHIMIE</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAMICROCHIMIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ramură a chimiei care se ocupă cu relațiile chimice și cu procedeele de analiză în care intervin substanțe în cantități foarte mici.</RegDef> Cf. LTR, DL, DM, DEX, DN, FORM. CUV. II, 250.
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Din fr. <hi rend="bold">ultramicrochimie</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMICRON</orth>    
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAMICRON">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Particulă colidală mai mică decât o zecime de micron, care poate fi văzută numai cu ultramicroscopul.</RegDef> Cf. LTR, M. D. ENC., DEX, CHIM. AN. CALIT. 78, DN, FORM. CUV. II, 249.
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultramicroni</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultramicron</hi>.</form>
+		</form>
+	</entry>
+	
+	
+		
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMICROSCOP</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAMICROSCOP">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Microscop foarte puternic, utilizat pentru observarea obiectelor ale căror dimensiuni sunt sub limita de separare a microscopului obisnuit.</RegDef> Cf. SCRIBAN, D.
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">La ultramicroscop celula vie se prezintă ca... o masă de granulațiuni coloidale.</hi></quote>
+							<bibl><abbr type="siglum" author="MARINESCU" pages="50" sigla="MARINESCU, P. A." source="P. A.">MARINESCU, P. A.</abbr>, cf. CADE.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">La ultra-microscop luminarea se face lateral.</hi></quote>
+							<bibl><abbr type="siglum" author="MACAROVICI" pages="156" sigla="MACAROVICI, CH." source="CH.">MACAROVICI, CH.</abbr>.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Actualele microorganisme, vizibile numai la ultramicroscop.</hi></quote>
+							<bibl><abbr type="siglum" author="ARGHEZI" pages="163" sigla="ARGHEZI, S." source="S." volume="XIV">ARGHEZI, S.</abbr>, cf. DT, LTR, DL, DM, DER, M. D. ENC., DC, D. FIZ., DEX, DN, FORM. CUV. II, 250, 251, DSR, DREV.</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+				<sense class="2" value="◊">
+					<def> 
+						<RegDef>Ultramicroscop electronic = microscop electronic cu mărire unghiulară și cu putere de separare superioare unui tip obișnuit.</RegDef> Cf. LTR, M. D. ENC.		
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic"> ultra-microscop</hi>.</form>
+			<form>- Pl.: <hi rend="italic"> ultramicroscoape</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultramicroscope</hi>, germ. <hi rend="bold">Ultramikroscop</hi>.</form>		
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMICROSCOPIC, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAMICROSCOPIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care se poate vedea numai cu ultramicroscopul.</RegDef> Cf. CADE, DL, DM, M. D. ENC., DEX, DN.
+				</def>
+				<sense class="2" value="♦">
+					<def> 
+						<RegDef>Care se execută cu ultramicroscopul.</RegDef> 		
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Studiul ultramicroscopic al digestiunii pepsice în mediul acid.</hi></quote>
+							<bibl><abbr type="siglum" author="MARINESCU" pages="46" sigla="MARINESCU, P. A." source="P. A.">MARINESCU, P. A.</abbr>.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Examenul microscopic și ultramicroscopic al celulei nervoase.</hi></quote>
+							<bibl><abbr type="siglum" author="MARINESCU" pages="51" sigla="MARINESCU, P. A." source="P. A.">MARINESCU, P. A.</abbr>.</bibl>, cf. DL, DM, M. D. ENC., DEX.
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> ultramicroscopici, -ce</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultramicroscopique</hi>.</form>		
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMICROSCOPIE</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAMICROSCOPIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Metodă de cercetare a obiectelor extrem de mici (microbi, bacterii, virusuri etc.), cu ajutorul ultramicroscopului.</RegDef> Cf. M. D. ENC., DC, DEX, D. MED.
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Din fr. <hi rend="bold">ultramicroscopie</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMODERN, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAMODERN, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Foarte modern, de un modernism exagerat; ultramodernist.</RegDef> Cf. CADE, DL, DM, M. D. ENC., DEX, DN.
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ne îndreptăm privirea la mișcarea ultramodernă de aiurea și de la noi.</hi></quote>
+							<bibl><abbr type="siglum" author="NAUM" pages="12" sigla="NAUM, IST. ART." source="IST. ART.">NAUM, IST. ART.</abbr>.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Publicul consumator se poate distra cu numere sensaționale dintre cele mai alese. O dansatoare în stil ultra modern, - un diseur neamț..., - doi gimnaști.</hi></quote>
+							<bibl><abbr type="siglum" author="SADOVEANU" pages="332" sigla="SADOVEANU, O." source="O." volume="IX">SADOVEANU, O.</abbr>.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Tinerii artiști îl copiază de zor pe Poussin, dezvelind de sub solemnitățile compozițiilor lui structuri ultramoderne.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="nr. 1175, 6/2" sigla="CONTEMP. 1969">CONTEMP. 1969</abbr>.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Lemnul secular se învecinează cu aliajul ultramodern.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="86" sigla="V. ROM. iulie 1970">V. ROM. 1970</abbr>.</bibl>, cf. DEX, DN, FORM. CUV. II, 249, 250, 251, 252, 295, DREV.
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Scurtă blană ultramodernă.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="512" sigla="V. ROM. iulie 1987">L. ROM. 1987</abbr>.</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și.: <hi rend="italic"> ultra-modern</hi>.</form>
+			<form>- Pl.: <hi rend="italic"> ultramoderni, -e</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultramoderne</hi>.</form>		
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMODERNIST, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAMODERNIST, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ultramodern.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Își trăsese hainele ultra-moderniste... de-a dreptul peste costumul de baie.</hi></quote>
+							<bibl><abbr type="siglum" author="CĂLINESCU" pages="92" sigla="CĂLINESCU, C. N." source="C. N.">CĂLINESCU, C. N.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Pentru o fată așa de sportivă ca ea trebuie un interior ultra-modernist.</hi></quote>
+							<bibl><abbr type="siglum" author="CĂLINESCU" pages="134" sigla="CĂLINESCU, C. N." source="C. N.">CĂLINESCU, C. N.</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Să revenim la estetica ultramodernistă.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="33" sigla="T decembrie 1964" source="T.">T decembrie 1964</abbr>, cf. DN, FORM. CUV. II, 249.</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-modernist</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultramoderniști, -ste</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + modernist</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMONTAN, -Ă</orth>    
+			<gramGrp>adj., s. m. și f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ULTRAMONTAN, -Ă">
+			<def>
+				<MorfDef>adj., s. m. și f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care se referă la ultramontanism, care ține de ultramontanism.</RegDef> Cf. BARCIANU, ALEXI, W., CADE.
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ce feliu de dorințe pie (evlavioase) au germanii ultramontani este cunoscut.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="191/12" sigla="BUCOVINA (1850)">BUCOVINA (1850)</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Partida ultramontană... nu voia să auză de libertatea religioasă a celorlalte confesiuni.</hi></quote>
+							<bibl><abbr type="siglum" author="BARIȚIU" pages="42" sigla="BARIȚIU, P. A." source="P. A." volume="III">BARIȚIU, P. A.</abbr></bibl>
+							</cit>	
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Se aflau... canoniști ieșiți din așa-numita școală ultramontană.</hi></quote>
+							<bibl><abbr type="siglum" author="BARIȚIU" pages="306" sigla="BARIȚIU, P. A." source="P. A." volume="III">BARIȚIU, P. A.</abbr></bibl>, cf. BARCIANU.
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ei samănă să fi nutrit... niște sânțăminte religioase ultraiste, așa-numite ultramontane.</hi></quote>
+							<bibl><abbr type="siglum" author="SBIERA" pages="347" sigla="SBIERA, F. S." source="F. S.">SBIERA, F. S.</abbr></bibl>, cf. CADE.
+							</cit>
+					</dictScrap>
+				</def>
+				<sense class="2" value="2.">   
+					<def>
+						<RegDef>Partizan al ultramontanismului.</RegDef> Cf. GHEȚIE, R. M., ALEXI, W., ȘĂINEANU, D. U., CADE, SCRIBAN, D., DN.
+					</def>
+				</sense>
+				<sense class="3" value="3.">
+					<def>
+						<RegDef>De dincolo de munți; (rar) ultramuntean.</RegDef> Cf. GHEȚIE, R. M., ȘĂINEANU, D. U., CADE, SCRIBAN, D., DN, FORM. CUV. II, 249, 250, 264.
+					</def>
+				</sense>
+				<sense class="4" value="4.">
+					<def>
+						<RegDef>Locuitor de dincolo de munți.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Nu era un străin acel ultramontan adus în văile luminate de soare ale Italiei pentru altceva decât pentru o faptă de cucerire.</hi></quote>
+							<bibl><abbr type="siglum" author="IORGA" pages="167" sigla="IORGA, P. A." source="P. A." volume="II">IORGA, P. A.</abbr></bibl>, cf. DN.
+							</cit>	
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> ultramontani, -e </hi></form>
+			<form>- Din fr. <hi rend="bold">ultramontain</hi>. Cf. fr.<hi rend="simple:spaced">outrager</hi>  </form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMONTANISM</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAMONTANISM">
+			<def>
+				<usg>(În opoziție cu <hi rend="simple:spaced">galicanism</hi>)</usg>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Curent în cadrul catolicismului, care susține infailibilitatea și autoritatea absolută a papei și primordialitatea Bisericii catolice.</RegDef> Cf. BARCIANU, ȘĂINEANU, D. U., CADE, SCRIBAN, D., DER, M. D. ENC., DN, FORM. CUV. II, 249.		</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Din fr. <hi rend="bold">ultramontanisme</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAMUNTEAN, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAMUNTEAN, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Ultramontan (3).</RegDef> Cf. NEGULICI		
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ducele Toscanei... nu mai este decât o păpușe încoronată; puterea este în mâna streinului ultramuntean, care suge sângele sărmanei noastre patrie.</hi></quote>
+							<bibl><abbr type="siglum" author="FILIMON" pages="333" sigla="FILIMON, O." source="O." volume="I">FILIMON, O.</abbr>, cf. PROT. - POP., N. D., FORM. CUV. II, 249, 251.</bibl>, cf. DN.
+							</cit>	
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultramunteni, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + muntean</hi>. Cf. fr. <hi rend="simple:spaced">ultramontain</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRANAȚIONALIST, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRANAȚIONALIST, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Caracterizat prin naționalism exagerat.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Am dat un anunț, repetat din două în două zile, la o gazetă ultranaționalistă.</hi></quote>
+							<bibl><abbr type="siglum" author="EFTIMIU" pages="120" sigla="EFTIMIU, N." source="N.">EFTIMIU, N.</abbr></bibl>
+							</cit>	
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-ți-o</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultranaționaliști, -ste</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + naționalist</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAOCCIDENTAL, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAOCCIDENTAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Cu foarte pronunțat caracter, aspect etc. occidental.</RegDef> DEX - S 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-tra-oc-</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultraoccidentali, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + occidental</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAOMAGIAL, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAOMAGIAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Care are caracter de omagiu exagerat.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Se simțeau foarte jenați oricând răsuna în adunări câte o cuvântare mai liberală și nu de tot ultraleală și ultrahomagială.</hi></quote>
+							<bibl><abbr type="siglum" author="BARIȚIU" pages="163" sigla="BARIȚIU, P. A." source="P. A." volume="III">BARIȚIU, P. A.</abbr></bibl>
+							</cit>	
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-tra-o-ma-gi-al</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultraomagiali, -e</hi>.</form>
+			<form>- Și: <hi rend="bold">ultrahomagial, -ă</hi> adj.</form>
+			<form>- <hi rend="bold">Ultra- + omagial</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAOPTIMIST, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAOPTIMIST, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Extrem de optimist.</RegDef> Cf. FORM. CUV. II, 249, 251.
+				</def>
+				<sense class="2" value="◊">
+					<def> 
+						<usg>(Substantivat)</usg>		
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Dacă un lucru are același aspect pentru un ultra-pesimist și pentru un ultra-optimist, este cea mai sigură dovadă despre veritatea aspectului.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="2 606" sigla="HEM">HEM</abbr>.</bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-optimist</hi>.</form>
+			<form>- Pronunțat: <hi rend="italic">-tra-op-</hi>.</form>
+			<form>- Pronunțat: <hi rend="italic">-tra-op-</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultraoptimiști, -ste</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + optimist</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAPAS</orth>    
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAPAS">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Masă plastică preparată din melamină.</RegDef> LTR, DC, DN. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Din germ. <hi rend="bold">Ultrapas</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAPESIMIST, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAPESIMIST, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Extrem de pesimist.</RegDef> Cf. FORM. CUV. II, 249, 251.
+				</def>
+				<sense class="2" value="◊">
+					<def> 
+						<usg>(Substantivat)</usg>		
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Un ultra-pesimist și... un ultra-optimist.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="2 606" sigla="HEM">HEM</abbr>.</bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-pesimist</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultrapesimiști, -ste</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + pesimist</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAPORȚELAN</orth>    
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAPORȚELAN">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Porțelan cu caracteristici superioare de izolator pentru curenți de înaltă frecvență.</RegDef> Cf. LTR, DN, FORM. CUV. II, 249, 250, 251, 268. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- <hi rend="bold">Ultra- + porțelan</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAPRESIUNE</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAPRESIUNE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Presiune extrem de ridicată.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Sub acțiunea ultrapresiunilor se pot realiza unele reacții chimice.</hi></quote>
+							<bibl><abbr type="siglum" author="CIȘMAN" pages="274" sigla="CIȘMAN, FIZ." source="FIZ." volume="I">CIȘMAN, FIZ.</abbr>cf. DN, FORM. CUV. II, 249, D. MED.</bibl>
+							</cit>	
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat: <hi rend="italic">-si-u-</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultrapresiuni</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultrapression</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAPROGRESIST, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAPROGRESIST, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Și substantivat)</usg>
+					<RegDef>Care susține în mod exagerat progresul.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Cei mai neîmpăcați inamici ai lui Verdi... erau ultraprogresiștii muzicali.</hi></quote>
+							<bibl><abbr type="siglum" author="FILIMON" pages="302" sigla="FILIMON, O." source="O." volume="II">FILIMON, O.</abbr></bibl>
+							</cit>	
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Mi s-a făcut imputarea că sunt foarte, că sunt prea, că sunt ultra-progresist... că voi progresul cu orice preț.</hi></quote>
+							<bibl><abbr type="siglum" author="CARAGIALE" pages="141" sigla="CARAGIALE, O." source="O." volume="VI">CARAGIALE, O.</abbr>, cf. IORDAN, L. R. A. 214, DEX, DN, FORM. CUV. II, 249, 250, 251, 297, DREV.</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-progresist</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultraprogresiști, -ste</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + progresist</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRARAFINAT, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRARAFINAT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Foarte rafinat.</RegDef> Cf. DEX - S. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.:<hi rend="italic">ultrarafinați, -te</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + rafinat </hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRARAPID, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRARAPID, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Extrem de rapid.</RegDef> Cf. DEX, DN, FORM. CUV. II, 249, 251, DCR. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.:<hi rend="italic">ultrarapizi, -de</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + rapid</hi>. Cf. it. <hi rend="simple:spaced">ultrarapido</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAREACȚIONAR, -Ă</orth>    
+			<gramGrp>adj., s.m. și f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAREACȚIONAR, -Ă">
+			<def>
+				<MorfDef>adj., s.m. și f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>(Persoană) cu vederi înapoiate, care se opune progresului.</RegDef> Cf. DEX, DN, FORM. CUV. II, 249, 251, DREV. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pronunțat:<hi rend="italic">-re-ac-ți-o-</hi>.</form>
+			<form>- Pl.:<hi rend="italic">ultrareacționari, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + reacționar</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAREGALIST, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAREGALIST, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Adept înflăcărat al regalității.</RegDef> Cf. SFC I, 47, DN, FORM. CUV. II, 249, 250. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.:<hi rend="italic">ultraregaliști, -te</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + regalist</hi>. Cf. fr. <hi rend="simple:spaced">ultraroyaliste</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRARETROGRAD, -Ă</orth>    
+			<gramGrp>adj., s. m. și f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRARETROGRAD, -Ă">
+			<def>
+				<MorfDef>adj., s. m. și f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Persoană)</usg>
+					<RegDef>care se opune cu înverșunare progresului, care ține cu îndărătnicie la formele și instituțiile învechite.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Sandu Napoilă ultra-retrogradul.</hi></quote>
+							<bibl><abbr type="siglum" author="ALECSANDRI" pages="37" sigla="ALECSANDRI, T." source="T.">ALECSANDRI, T.</abbr></bibl>
+							</cit>	
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Alecsandri vrea să se manifeste persiflând pe Napoilă, pe „ultraretrogradul”.</hi></quote>
+							<bibl><abbr type="siglum" author="IBRĂILEANU" pages="127" sigla="IBRĂILEANU, SP. CR." source="SP. CR.">IBRĂILEANU, SP. CR.</abbr>, cf. DN, FORM. CUV. II, 250, 251.</bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-retrograd</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultraretrograzi, -de</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + retrograd</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAREVOLUȚIONAR, -Ă</orth>    
+			<gramGrp>adj., s. m. și f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAREVOLUȚIONAR, -Ă">
+			<def>
+				<MorfDef>adj., s. m. și f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Revoluționar exagerat.</RegDef> Cf. CONSTINESCU.
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">A unelti o mișcare ultra-revoluționară (peste măsură revoluționară).</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="41/1" sigla="CR (1831)">CR (1831)</abbr></bibl>
+							</cit>	
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra-revoluționar</hi>.</form>
+			<form>- Pronunțat: <hi rend="italic">-ți-o-</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultrarevoluționari, -e</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultra-révolutionnaire</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAROMANTIC, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRAROMANTIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>De un romantism extrem.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Sunt școale de fantezie, ce umblă după teorii artistice, croind o limbă dramatică... pe formele școalei ultra romantice franțeze.</hi></quote>
+							<bibl><abbr type="siglum" author="RUSSO" pages="73" sigla="RUSSO, S." source="S." >RUSSO, S.</abbr></bibl>, cf. DN, FORM. CUV. II, 250, 251, 252.
+							</cit>	
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Scris și: <hi rend="italic">ultra romantic</hi>.</form>
+			<form>- Pl.: <hi rend="italic">ultraromantici, -ce</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + romantic</hi>. Cf. fr. <hi rend="simple:spaced">ultraromantique</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASCURT, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRASCURT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Extrem de scurt.</RegDef> Cf. DEX, DN, FORM. CUV. II, 250, 251, 252, V. BREBAN, D. G.
+				</def>
+				<sense class="2" value="◊">
+					<def> 
+						<RegDef>(În sintagma) Raze (sau unde, radiații) ultrascurte (și substantivat, f. pl.) = radiații electromagnetice cu lungimi de undă foarte mici, utilizate în telecomunicații, în medicină etc.</RegDef>		
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Razele ultrascurte au un efect bactericid dovedit.</hi></quote>
+							<bibl><abbr type="siglum" author="A. POP" pages="806" sigla="A. POP, CHIRURG." source="CHIRURG.">A. POP, CHIRURG.</abbr>.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Tratamentul cu unde... ultrascurte.</hi></quote>
+							<bibl><abbr type="siglum" author="A. POP" pages="818" sigla="A. POP, CHIRURG." source="CHIRURG.">A. POP, CHIRURG.</abbr>, cf. LTR.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Tratamentul se face prin raze ultrascurte.</hi></quote>
+							<bibl><abbr type="siglum" author="BELEA" pages="552" sigla="BELEA, P. A." source="P. A.">BELEA, P. A.</abbr>, cf. DL, DM, DER IV, 768, DEX, DN, V. BREBAN, D. G.</bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultrascurți, -te</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + scurt</hi>. <hi rend="simple:spaced">Cf. fr. ultra-court</hi></form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASECRET, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRASECRET, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Foarte secret.</RegDef> DEX - S. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.:<hi rend="italic">ultrasecreți, -te</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + secret</hi>. Cf. fr. <hi rend="simple:spaced">ultra-sécret</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASENSIBIL, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRASENSIBIL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Extrem de sensibil.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Un cântar ultrasensibil subt clopot.</hi></quote>
+							<bibl><abbr type="siglum" author="ARGHEZI" pages="124" sigla="ARGHEZI, S." source="S." volume="XI">ARGHEZI, S.</abbr></bibl>, cf. DEX, DN, FORM. CUV. II, 250, 251, DSR.
+							</cit>	
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultrasensibili, -e</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + sensibil</hi>. Cf. fr. <hi rend="simple:spaced">ultra-sensible</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASONIC, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRASONIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Referitor la ultrasunete; care se bazează pe ultrasunete; ultrasonor.</RegDef> DEX - S. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.:<hi rend="italic">ultrasonici, -ce</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultrasonique</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASONOGRAFIE</orth>    
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRASONOGRAFIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ecografie.</RegDef> DEX - S. 
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- <hi rend="italic">ultrasonografii</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultrasonographie</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASONOR, -Ă</orth>    
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ULTRASONOR, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ultrasonic.</RegDef> 
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">O astfel de lamă începe să vibreze sub influența undelor ultrasonore.</hi></quote>
+							<bibl><abbr type="siglum" author="MARIAN-ȚIȚEICA" pages="66" sigla="MARIAN-ȚIȚEICA, FIZ." source="FIZ." volume="II">MARIAN-ȚIȚEICA, FIZ.</abbr></bibl>, cf. IORDAN, L. R. A. 214, DEX, DN, FORM. CUV. II, 250, DSR.
+							</cit>	
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultrasonori, -e</hi>.</form>
+			<form>- Din fr. <hi rend="bold">ultrasonore</hi>.</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+	
+	

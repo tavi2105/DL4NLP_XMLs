@@ -1,0 +1,35 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DUCIPED</orth>
+            <gramGrp>s. n.</gramGrp>
+        </form>
+
+        <sense class="0" value="DUCIPED">
+            <def>
+                <MorfDef rendition="simple:spaced">s. n.</MorfDef>
+            </def>
+            <def>
+                <RegDef>(Prin nord-estul Olt.) Bicicletă.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <bibl>
+                            Cf.
+                            <abbr type="siglum" author="CIAUŞANU" sigla="CIAUŞANU. V." source="V.">CIAUŞANU. V.</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.: ?
+            </form>
+            <form>
+            — Şi: ducipet (CIAUŞANU. V.) s. n., ducipetă (id. ib.) s.f.
+            </form>
+            <form>— De la velociped, prin apropiere de duce<hi>2</hi>
+            </form>
+        </form>
+    </entry>
+</body>

@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRAHOLȚ</orth>
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="0" value="DRAHOLȚ">
+			<def>
+			<MorfDef>s. n.</MorfDef>
+			<RegDef>v. dreholț.</RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

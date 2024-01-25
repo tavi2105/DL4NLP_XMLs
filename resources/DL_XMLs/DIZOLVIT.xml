@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZOLVIT</orth>
+			<gramGrp>adj., s.m.</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="?" value="DIZOLVIT">
+			<def>
+			<MorfDef>adj., s.m.</MorfDef>
+			<RegDef> v. dizolvat. </RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

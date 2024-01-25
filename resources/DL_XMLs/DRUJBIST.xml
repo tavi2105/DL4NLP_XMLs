@@ -1,0 +1,35 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUJBIST</orth>
+            <gramGrp>s. m.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUJBIST">
+            <def>
+                <MorfDef rendition="simple:spaced">s. m.</MorfDef>
+            </def>
+            <def>
+                <usg>(Rar)</usg>
+                <RegDef>Muncitor care lucrează cu drujba<hi rend="superscript">2</hi>.
+                </RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <quote>Pentru muncitorii calificaţi sunt vacante 569 posturi, din care 105 confecționeri îmbrăcăminte, ... 25 drujbişti, 24 şoferi autoturisme.</quote>
+                        <bibl>
+                            <abbr type="siglum" pages="577" sigla="RL" source="RL 2005" volume="nr. 4">RL 2005, nr. 4 577</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drujbişti.</hi>
+            </form>
+            <form>Drujbă<hi rend="superscript">2</hi> + suf. <hi rend="italic">-ist.</hi>
+            </form>
+        </form>
+    </entry>
+</body>

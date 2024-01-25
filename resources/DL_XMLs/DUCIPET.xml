@@ -1,0 +1,18 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DUCIPET</orth>
+            <gramGrp>s. n. v.</gramGrp>
+        </form>
+
+
+        <sense class="0" value="DUCIPET">
+            <def>
+                <MorfDef rendition="simple:spaced">s. n. v.</MorfDef>
+            </def>
+            <def>
+                <RegDef>duciped</RegDef>
+            </def>
+        </sense>
+    </entry>
+</body>

@@ -1,0 +1,28 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPIÓN</orth>
+      <gramGrp>s. m.</gramGrp>
+    </form>
+
+    
+    <sense class="UNKNOWN" value="DOPIÓN">
+      <def>
+        <MorfDef>s. m.</MorfDef>
+        <RegDef>Gogoașă de mătase cu defecte mai mari decât cele obișnuite.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Prezența dopionilor într-o partidă micșorează randamentul de fibră grege și e mai frecventă la rasele asiatice de viermi de mătase.</quote><bibl><citedRange source="LTR">LTR</citedRange></bibl>.</cit>
+        </dictScrap>
+      </def>
+      <sense class="0" value="◊">
+        <def>
+          <RegDef>, cf. NDN.</RegDef>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">dopioni</hi>.</form>
+      <form>– Din it. <hi rend="bold">doppione</hi>.</form>
+    </form>
+  </entry>
+</body>

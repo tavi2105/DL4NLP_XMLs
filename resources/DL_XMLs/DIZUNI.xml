@@ -1,0 +1,16 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZUNI</orth>
+			<gramGrp>vb. IV</gramGrp>
+		</form>
+
+		
+			<sense class="?" value="DIZUNI">
+				<def>
+				<MorfDef>vb. IV</MorfDef>
+				<RegDef>v. dezuni.</RegDef>
+				</def>
+			</sense>
+	</entry>
+</body>

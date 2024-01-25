@@ -1,0 +1,21 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPOLÉTE</orth>
+      <gramGrp>s. m.</gramGrp>
+    </form>
+
+    <sense class="0" value="DOPOLÉTE">
+      <def><MorfDef>s. m.</MorfDef>
+	  <usg>(sg.)</usg>(<usg type="geo">Regional</usg>)
+	  <RegDef>Persoană scundă și grasă.</RegDef>
+	  <dictScrap>
+          <cit id="UNKNOWN">Com. din LOMAN - SEBEȘ.    <hi rend="italic">Îi ca un dop. Ce mai dopolete! ib. </hi></cit>
+	  </dictScrap>
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Cf. dopuleț.</form>
+    </form>
+  </entry>
+</body>

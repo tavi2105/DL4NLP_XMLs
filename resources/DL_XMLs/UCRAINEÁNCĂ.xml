@@ -1,0 +1,19 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCRAINEÁNCĂ</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCRAINEÁNCĂ">
+      <def>
+	  <MorfDef>s.f.</MorfDef>
+	  <RegDef>Ucraineană.</RegDef><bibl>Cf. <citedRange source="DEX">DEX</citedRange>, DSR</bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pronunțat: <hi rend="italic">-crai-nean-</hi>. - Pl.: <hi rend="italic">ucrainence</hi>.</form>
+      <form>– <hi rend="bold">Ucrainean</hi>. + suf. <hi rend="italic">-că</hi>.</form>
+    </form>
+  </entry>
+</body>

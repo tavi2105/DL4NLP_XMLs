@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DOPLU</orth>
+			<gramGrp>adj.</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="0" value="DOPLU, -Ă">
+			<def>
+			<MorfDef>adj. </MorfDef>
+			<RegDef>v. dublu.</RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

@@ -1,0 +1,47 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UDÁRE</orth>
+      <gramGrp>s. f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UDÁRE">
+      <def>
+        <MorfDef>s. f.</MorfDef>
+        <RegDef>Acțiunea de a u d a.</RegDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<RegDef>Acoperire la suprafață cu stropi de apă; stropire.</RegDef><bibl>Cf. <citedRange source="DRLU">DRLU</citedRange>, POEN. - AAR. - HILL, V. I, 820<hi rend="superscript">2</hi>./27</bibl>.<norm> [Buțile] </norm>
+		<dictScrap>
+		  <cit id="UNKNOWN"><quote>să aibă câte un vas de tinichea cu găuri, ca printr-acel vas ... să se facă udarea caldarâmului.</quote><bibl><citedRange pages="527/28" source="REGUL. ORG.">REGUL. ORG. 527/28</citedRange>, cf. BAR. - MUNT., W. 27<hi rend="superscript">2</hi>./38, <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, <citedRange source="ISER">ISER</citedRange>, <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr>, DDRF</bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Când toate ... sunt gata, începe pregătirea mai de aproape [a treieratului] și care se pornește prin udare ..., se udă întreaga față a ariei.</quote><bibl><abbr type="siglum" author="PAMFILE" pages="201" sigla="PAMFILE, A. R." source="A. R.">PAMFILE, A. R. 201</abbr></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Udarea abundentă a stratelor superioare ale solului prin ploi sau irigație.</quote><bibl><abbr type="siglum" author="CHIRIȚĂ" pages="246" sigla="CHIRIȚĂ, P." source="P.">CHIRIȚĂ, P. 246</abbr></bibl>.</cit>
+		  <cit id="UNKNOWN"><quote>Urmează cel de-al doilea act al obiceiului, udarea cununii.</quote><bibl><citedRange pages="33" source="IST. LIT. ROM." volume="I">IST. LIT. ROM. I, 33</citedRange></bibl>.</cit>
+		</dictScrap>
+		</def>
+        <sense class="2" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Cu vetrela d[u]mnezeiescului d[u]h ca cu niște aripi rădicăndu-vă, ați trecut noianul muncilor fără udare, slăviților mucenici.</quote><bibl><citedRange pages="84{sup}v1{/sup}/30" source="MINEIUL" year="1776">MINEIUL (1776), 84<hi rend="superscript">v1</hi>./30</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+      <sense class="3" value="2.">
+        <def>
+          <usg>(Despre ape curgătoare)</usg>
+          <RegDef>Străbatere a unei zone, a unui ținut și alimentare a acestora cu apă.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Un riu iese den locul dulceției spre udarea raiului, ce se împarte acela pre patru capete.</quote><bibl><citedRange pages="16/18" source="PO">PO 16/18</citedRange></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">udări</hi>.</form>
+      <form>– V. <hi rend="bold">uda</hi>.</form>
+    </form>
+  </entry>
+</body>

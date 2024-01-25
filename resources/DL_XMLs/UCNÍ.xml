@@ -1,0 +1,21 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCNÍ</orth>
+      <gramGrp>vb. IV.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCNÍ">
+      <def>
+	  <MorfDef>vb. IV.</MorfDef>
+	  <usg type="gram">Intranz.</usg>
+	  <usg>(Prin Ban.)</usg>
+	  <RegDef>A pufni (de furie, de nemulțumire), a fi foarte mânios.</RegDef><bibl>Cf. <abbr type="siglum" author="NOVACOVICIU" pages="22" sigla="NOVACOVICIU, C. B." source="C. B." volume="I">NOVACOVICIU, C. B. I, 22</abbr>, <abbr type="siglum" author="GĂMULESCU" pages="198" sigla="GĂMULESCU, E. S." source="E. S.">GĂMULESCU, E. S. 198</abbr></bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Prez. ind.: <hi rend="italic">ucnesc</hi>.</form>
+      <form>– Din scr. <hi rend="bold">uknuti</hi>.</form>
+    </form>
+  </entry>
+</body>

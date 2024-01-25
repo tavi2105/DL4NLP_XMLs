@@ -1,0 +1,43 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCÉNIE</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCÉNIE">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<usg>(Ĩnvechit și regional)</usg>
+		<RegDef>Teorie<hi rend="superscript">1</hi>. <hi rend="bold">(1)</hi>,.  învățătură. <hi rend="italic">Ucenie</hi>.  (sec. XVI - XVII). <citedRange century="XVI" pages="409" source="TEXTE ROM.">TEXTE ROM. (XVI), 409</citedRange>, 426, 434, cf.</RegDef><bibl><abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, <citedRange source="LM">LM</citedRange>, com. din TURNU MĂGURELE</bibl>. 
+		</def>
+        <sense class="2" value="♦">
+          <def>
+		  <usg>(Regional)</usg>
+		  <RegDef>Teorie în armată.</RegDef><bibl>Cf. <abbr type="siglum" author="RĂDULESCU-CODIN" pages="54" sigla="RĂDULESCU-CODIN">RĂDULESCU-CODIN, 54</abbr></bibl>. 
+		  </def>
+        </sense>
+      </sense>
+      <sense class="3" value="2.">
+        <def>
+		<usg>(Învechit, prin Munt., Olt. și Mold.)</usg>
+		<RegDef>Instrucție ostășească, exercițiu militar; <usg>(învechit și popular)</usg> mustră<hi rend="superscript">1</hi>. <hi rend="bold">(1)</hi>.</RegDef><bibl>Cf. LM</bibl>.   
+		<dictScrap>
+			<cit id="UNKNOWN"><quote>Făceau ocenie, se strângeau iar roată și vorbeau.</quote><bibl><abbr type="siglum" author="SANDU-ALDEA" pages="218" sigla="SANDU-ALDEA, D. N." source="D. N.">SANDU-ALDEA, D. N. 218</abbr>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <citedRange pages="921" source="CONV. LIT." volume="XLIII">CONV. LIT. XLIII, 921</citedRange></bibl>.</cit>
+			<cit id="UNKNOWN"><quote>Toți grănicerii, afară de așa-porecliții căruțași,... erau făcuți scutiți și de oceanie și de podvezi.</quote><bibl><abbr type="siglum" author="CHIRIȚESCU" pages="8" sigla="CHIRIȚESCU, GR." source="GR.">CHIRIȚESCU, GR. 8</abbr></bibl>.</cit>
+			<cit id="UNKNOWN"><quote>Polcul făcea neîntrecuta-i oceanie, când sotniile se pregăteau de iureș.</quote><bibl><citedRange source="CONV. LIT.">CONV. LIT.</citedRange> XLVII , 115, cf. <citedRange source="CADE">CADE</citedRange>, SCRIBAN, D., BL XII, 57</bibl>.</cit>
+			<cit id="UNKNOWN"><quote>L-a muștruluit mai abitir ca la ocenie.</quote><bibl><abbr type="siglum" author="RĂDULESCU-CODIN" sigla="RĂDULESCU-CODIN">RĂDULESCU-CODIN</abbr>, ap. CADE</bibl>.</cit>
+			<cit id="UNKNOWN"><quote>P-atunci nu era ocenie care-nvăța militarii mustra cu pușca.</quote><bibl><citedRange pages="118" source="GRAIUL" volume="I">GRAIUL, I, 118</citedRange>, cf. 7, <citedRange pages="347" source="I. CR." volume="III">I. CR. III, 347</citedRange>, <citedRange pages="271" source="ARH. OLT." volume="XXI">ARH. OLT. XXI, 271</citedRange></bibl>.</cit>
+		</dictScrap>
+		</def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl: <hi rend="italic">ucenii. -</hi>. Și: <hi rend="bold">océnie</hi>., <hi rend="bold">oceánie</hi>. s.f.</form>
+      <form>– Din slavonul <hi rend="bold">UNKNOWN</hi>, rus. <hi rend="bold">yчениe</hi>.</form>
+    </form>
+  </entry>
+</body>

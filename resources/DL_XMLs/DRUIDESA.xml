@@ -1,0 +1,31 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUIDESĂ</orth>
+            <gramGrp>s. f.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUIDESĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f.</MorfDef>
+            </def>
+            <def>
+                <RegDef>Preoteasă la vechii celți.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <bibl>
+                            <abbr type="siglum" sigla="PROT. — POP., N. D." source="PROT. — POP., N. D.">PROT. — POP., N. D.</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — PL.:
+                <hi rend="italic">druidese</hi>
+            </form>
+            <form>— Din fr. druidesse.</form>
+        </form>
+    </entry>
+</body>

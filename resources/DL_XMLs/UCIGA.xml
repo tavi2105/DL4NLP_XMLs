@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIGA</orth>
+      <gramGrp>vb. I</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIGA">
+      <def>
+        <MorfDef>vb. I</MorfDef>
+        <RegDef>v. ucide. </RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

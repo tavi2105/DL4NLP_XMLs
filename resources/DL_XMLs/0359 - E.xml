@@ -1,0 +1,505 @@
+<!-- !!!! Definitie pentru un cuvnat inceput pe pagina anterioara -->
+<body>
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITIC, -Ă</orth>
+		  <gramGrp>s. m. şi f., adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITIC, -Ă">
+			<def>
+				<MorfDef>s. m. şi f., adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. eretic.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+
+	<!-- !!!! £ in loc de f -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITRASMĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ERITRASMĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Dermatoză provocată de o ciupercă parazită şi caracterizată prin apariţia unor plăci roşii-brune, fin scuamoase, localizate în regiunea inghinală sau la nivelul axilelor.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Eritrasma formează plăci roşii-brune net delimitate, cu uşoară descuamare în special la subsuori sau inghine.</quote>
+							<bibl><abbr type="siglum" author="ABC SĂN." pages="243" sigla="ABC SĂN." source="ABC SĂN.">ABC SĂN. 243</abbr></bibl>, cf. D. MED., NDN. 
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Scris şi: (după fr.) erythrasmă. ENC. ROM.-</form>
+			<form>— Din fr. érythrasma-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!! 6 in loc de é -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITREMIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITREMIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Boală caracterizată prin înmulțirea excesivă a numărului de globule roşii şi manifestată prin roşeața pielii, creşterea tensiunii arteriale, mărirea splinei; eritrocitoză, policitemie, poliglobulie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: eritremii.-</form>
+			<form>— Din fr. érythrémie-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITRIN</orth>
+		  <gramGrp>subst.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITRIN">
+			<def>
+				<MorfDef>subst.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. eritrină.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<!-- ERITRINĂ -->
+
+
+
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITRISM</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITRISM">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef> Coloraţie congenitală roşie sau roşcată a părului (la unii metişi din rasa neagră).</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. érythrisme-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!! 6 in loc de é -->
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITRITĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ERITRITĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Chim.)</usg>
+					<RegDef>Tetraalcool.</RegDef>
+					<dictScrap>
+						<cit id="exemplu --">
+							<quote>Dintre alcoolii tetravalenţi, tetrolii, cel mai simplu este eritrita.</quote>
+							<bibl><abbr type="siglum" author="MACAROVICI, CH." pages="496" sigla="MACAROVICI, CH." source="CH.">MACAROVICI, CH. 496</abbr></bibl>, cf. LTR, LTR?, DER Il, 804. 
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: eritrite.-</form>
+			<form>— Din fr. érythrite.-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! 6 in loc de é -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROBLAST</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ERITROBLAST">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Globulă roşie primitivă, cu nucleu, care se găseşte în organele hematopoietice şi care dă naştere hematiei.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Eritroblaştii policromatofili se caracterizează printr-o citoplasmă de culoare violetă-deschisă.</quote>
+							<bibl><abbr type="siglum" author="D. MED." pages="  " sigla="D. MED." source="D. MED.">D. MED. !!!!!!!    </abbr></bibl>, Cf. MOGOŞ —IANC., C. 528, M. D. ENC., DEX, DNS, D. ENC., NDN. 
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Scris şi: (cu ortografie etimologică) eryrhroblaste. ENC. ROM. II, 329. -</form>
+			<form>— PL.: erizroblaşti şi (rar, n.) eritroblaste.-</form>
+			<form>— Din fr. érythroblaste.-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!! E in loc de é -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROBLASTEMIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITROBLASTEMIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Boală caracterizată prin prezenţa anormală a eritroblaştilor în sânge.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. érythrisme-</form>
+			<form>— Din fr. érythroblastémie.-</form>
+		</form>
+	</entry>
+
+	<!-- !!!!! £ in loc de f -->
+	<!-- !!!!! érythroblastémie scris ca Erythroblastemie  -->
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROBLASTIC, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITROBLASTIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care ţine de eritroblaşti, care se referă la eritroblaşti.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: eritroblastici, -ce.-</form>
+			<form>— Din fr. érythroblastique.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROBLASTOPENIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITROBLASTOPENIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Absența sau reducerea extremă a formării eritroblaştilor din măduva osoasă, care determină o anumită formă de anemie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. érythroblastopénie.-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! â in loc de é -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROBLASTOZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITROBLASTOZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Boală caracterizată prin creşterea numărului de eritroblaşti în organele hematopoietice sau (şi) în sânge.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: eritroblastoze.-</form>
+			<form>— Din fr. érythroblastose.-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!!! £ in loc de f -->
+	<!-- !!!!! â in loc de é -->
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROCIANOZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITROCIANOZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Eritem de nuanță violacee, care apare mai ales la extremităţile membrelor.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: eritrocianoze.-</form>
+			<form>— Din fr. érythrocyanose.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROCITĂR, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ERITROCITĂR, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Anat.)</usg>
+					<RegDef>Globulă roşie primitivă, cu nucleu, care se găseşte în organele hematopoietice şi care dă naştere hematiei.</RegDef>
+					<dictScrap>
+						<cit id="exemplu --">
+							<quote>Totalitatea măsurilor medico-chirurgicale... au ca scop... restabilirea respirației şi nutriției țesuturilor şi refacerea masei eritrocitare.</quote>
+							<bibl><abbr type="siglum" author="ABC. SĂN." pages="186" sigla="ABC. SĂN." source="ABC. SĂN.">ABC SĂN. 186</abbr></bibl>, cf. 231
+						</cit>
+						<cit id="exemplu --">
+							<quote>Țesutul mieloid este format din elemente libere ale seriei eritrocitare, glanulocitare şi trombocitare.</quote>
+							<bibl><abbr type="siglum" author="MOGOŞ — IANC., C." pages="528" sigla="MOGOŞ — IANC., C." source="C.">MOGOŞ — IANC., C. 528</abbr></bibl>, cf. 524
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">		
+			<form>— PL.: eritrocitari, -e.-</form>
+			<form>— Din fr. érythrocytaire.-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!!! érythrocytaire scris ca 6rythroceytaire. -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROCITOZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITROCITOZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Boală caracterizată prin înmulţirea excesivă a numărului de globule roşii şi manifestată prin roşeața pielii, creşterea tensiunii arteriale, mărirea splinei,; eritremie, policitemie, poliglobulie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. érythrocytose.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROCIT</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ERITROCIT">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Anat.)</usg>
+					<RegDef>Hematie.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Eritrocitele se formează în măduva roșie a oaselor şi după 30 de zile se distrug în splină.</quote>
+							<bibl><abbr type="siglum" author="LTR?" pages=" !!!! " sigla="LTR?" source="LTR?">LTR?</abbr></bibl>, cf. DER.
+						</cit>
+						<cit id="UNKNOWN">
+							<quote>La făt, eritrocitele şi leucocitele sunt distruse de ficat şi splină.</quote>
+							<bibl><abbr type="siglum" author="ABC SĂN." pages="183" sigla="ABC SĂN." source="ABC SĂN.">ABC SĂN. 183</abbr></bibl>, cf. 152.335, DN2, D. MED.
+						</cit>
+						<cit id="UNKNOWN">
+							<quote>Eritrocitele, numite şi hematii sau globule roşii, sunt formaţiuni protoplasmatice anucleate.</quote>
+							<bibl><abbr type="siglum" author="MOGOŞ — IANC., C." pages="523" sigla="MOGOŞ — IANC., C." source="C.">MOGOŞ — IANC., C. 523</abbr></bibl>, cf. 527, 528, M.D.ENC., DEX, DN%, DSR, DREV, V. BREBAN, D. G., D. ENC., NDN.
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">	
+			<form>— Scris şi: (cu ortografie etimologică) eryrhrocyte. ENC. ROM.-</form>
+			<form>— PL.: erizrocite.-</form>
+			<form>— Din fr. érythrocyte.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITRODERMIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITRODERMIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Dermatoză generalizată caracterizată printr-o roşeaţă intensă şi uniformă, însoţită de edeme, vezicule, descuamări etc.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: eritrodermii.-</form>
+			<form>— Din fr. érythrodermie.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITRODONȚIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITRODONȚIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Boală congenitală, care constă în pigmentarea în roşu a dinţilor.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. érythrodontie.-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! & in interiorul cuvantului pig&mentarea -->
+	<!-- !!!! E in locul lui é -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ERITROFILI, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ERITROFILI, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Biol.; despre celule)</usg>
+					<RegDef>Care are afinitate pentru coloranţii roşii.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: eritrofili, -e.-</form>
+			<form>— Din fr. érythrophile.-</form>
+		</form>
+	</entry>
+</body>

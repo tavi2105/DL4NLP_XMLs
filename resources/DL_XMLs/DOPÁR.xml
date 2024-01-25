@@ -1,0 +1,31 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPÁR</orth>
+      <gramGrp>s. m., s. n., s. m.</gramGrp>
+    </form>
+
+    
+    <sense class="UNKNOWN" value="DOPÁR">
+      <def>
+        <MorfDef>s. m., s. n.</MorfDef>
+      </def>
+      <sense class="UNKNOWN" value="1.">
+        <def>
+		<MorfDef>S. m.</MorfDef>
+		<usg>(Învechit, rar)</usg>
+		<RegDef>Negustor de dopuri.</RegDef><bibl>Cf. <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr></bibl>. </def>
+      </sense>
+      <sense class="UNKNOWN" value="2.">
+        <def>
+		<MorfDef>S. n.</MorfDef>
+		<usg>(Prin Mold.)</usg><RegDef>Tirbușon.</RegDef>Cf. DDRF. 
+		</def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: (m.) <hi rend="italic">dopari, </hi>.(n.) <hi rend="italic">dopare</hi>.</form>
+      <form>– <hi rend="bold">Dop </hi>.+ suf. -<hi rend="italic">ar</hi>.</form>
+    </form>
+  </entry>
+</body>

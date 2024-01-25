@@ -1,0 +1,789 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFAVOARE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DISFAVOARE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. defavoare</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFAVORITOR, -OARE</orth>
+			<gramGrp>adj.</gramGrp>
+		</form>
+		
+
+		<sense class="0" value="DISFAVORITOR, -OÂRE">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(învechit, rar)</usg>
+					<RegDef>Care defavorizează. A tractarisi şi a-şi dobândi oarecare tocmele mai puţin disfavoritoare.</RegDef>
+					
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disfavoritori, -oare</form>
+			<form>— De la disfavoare</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFAZIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+
+		<sense class="0" value="DISFAZIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Tulburare a vorbirii; dificultate la vorbit; afazie.</RegDef>
+					
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disfazii</form>
+			<form>— Din fr. dysphasie</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFĂCÂTI</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFĂCÂTI">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfăcat</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFĂCAT?, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFĂCAT?, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfăcat</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFĂŞA</orth>
+		  <gramGrp>vb. I</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFĂŞA">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfăşa</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFĂTUI</orth>
+		  <gramGrp>vb. IV</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFĂTUI">
+			<def>
+				<MorfDef>vb. IV</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfătui</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFIGURAT, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFIGURAT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfigurat</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFIINȚĂ</orth>
+		  <gramGrp>vb. I</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFIINȚĂ">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfiinţa</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFIINȚĂRE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFIINȚĂRE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desființare</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFIINȚAT, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFIINȚAT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfiinţat</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFIRA</orth>
+		  <gramGrp>vb. I</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFIRA">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfira</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFLORI</orth>
+			<gramGrp>vb. IV</gramGrp>
+		</form>
+		
+
+		<sense class="0" value="DISFLORI">
+			<def>
+				<MorfDef>vb. IV</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>deflora</RegDef>
+					<dictScrap>
+						<cit id="-1112777458-0">
+							<quote>Critica învia în Grecia pe când disflorise deja frumoasa viață greacă în nemijlocita sa productivitate.</quote>
+							<bibl><abbr type="siglum" author="EMINESCU" pages="250" sigla="EMINESCU, O." source="O." volume="XIV">EMINESCU, O. XIV, 250</abbr></bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFONIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+
+		<sense class="0" value="DISFONIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Alterare a vocii datorată unor leziuni ale coardelor vocale, ale nervilor laringelui sau ale unor centri nervoşi superiori.</RegDef>
+					
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disfonii</form>
+			<form>— Din fr. dysphonie</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFORIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+
+		<sense class="0" value="DISFORIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Tulburare a dispoziţiei caracterizată prin tristeţe profundă şi frică, însoţită uneori de iritabilitate extremă şi de agresivitate.</RegDef>             
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disforii</form>
+			<form>— Din fr. dysphorie</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFORMA</orth>
+		  <gramGrp>vb. I</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFORMA">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. deforma</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFORMITATE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFORMITATE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. diformitate</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFORTIFICA</orth>
+		  <gramGrp>vb. I</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFORTIFICA">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. defortifica</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFRAZIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+
+		<sense class="0" value="DISFRAZIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.) </usg>
+					<RegDef>Schizofrenie.</RegDef>             
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disfrazii</form>
+			<form>— Din fr. dysphrasie</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFRÂNARE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFRÂNARE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfrânare</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFRÂNAT, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		
+		<sense class="0" value="DISFRÂNAT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfrânat</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFUNCȚIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+		  
+		<sense class="0" value="DISFUNCȚIE">
+			<def>
+			  <MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+			  <def>
+				<usg type="sem">(Med.)</usg>
+				<RegDef>Tulburare funcțională a unui organ, a unei glande, a unui aparat sau sistem.</RegDef>
+				<dictScrap>
+				  <cit id="UNKNOWN"><quote>În medicină, sufixul „-ită” presupune un exces în funcţionarea unui organ, o disfuncţie prin exacerbare.</quote><bibl><abbr type="siglum" author="LIICEANU" pages="77" sigla="LIICEANU, J." source="J.">LIICEANU, J. 77</abbr></bibl>.</cit>
+				  <cit id="UNKNOWN"><quote>Unul din trei bărbați ... are probleme de disfuncție erectilă, se arată în cel mai complex studiu privind sexualitatea populației active din România. RL 2006, nr. 4879.</quote><bibl>RL 2006, nr. 4879</bibl></cit>
+				</dictScrap>
+			  </def>
+			  <sense class="2" value="◊">
+				  <def>
+					<usg type="sem" rendition="simple:spaced">Fig.</usg>
+					<dictScrap>
+						<cit id="UNKNOWN"><quote>Și aici apar disfuncţii.</quote><bibl><abbr type="siglum" source="SCÂNTEIA, 1975, nr. 10 347" author="N/A" pages="10 347">SCÂNTEIA, 1975, nr. 10 347</abbr></bibl></cit>
+					</dictScrap>
+				  </def>
+			  </sense>
+			<sense class="3" value="2.">
+			  <def> 
+				<RegDef>Anomalie în funcționarea unei structuri sociale administrative, a unui proces etc..</RegDef>
+				<dictScrap>
+				  <cit id="UNKNOWN"><quote>Este interesantă reacția pieței la aiurelile şi disfuncțiile procesului electoral.</quote><bibl><abbr type="siglum" source="RL 2004, nr. 4 487" author="N/A" pages="487">RL 2004, nr. 4 487</abbr></bibl></cit>
+				  <cit id="UNKNOWN"><quote>Exprimările confuze sau incomplete utilizate în textul actelor normative au creat disfuncții în privința aplicării dispozițiilor legale în domeniul culturii.</quote><bibl><abbr type="siglum" source="RL 2005, nr. 4 559" author="N/A" pages="559">RL 2005, nr. 4 559</abbr></bibl></cit>			
+				</dictScrap>
+			  </def>
+			</sense>
+			<sense class="4" value="3.">
+			  <def>
+				<usg type="sem">(Tehn.)</usg>
+				<RegDef>Reducere a adaptării sau integrării unui subsistem la sistemul din care face parte.</RegDef>
+			  </def>
+			</sense>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disfuncţii</form>
+			<form>— Din germ. Dysfunktion</form>
+			<form>— Din fr. dysfonction</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFUNCȚIONAL, -Ă</orth>
+			<gramGrp>adj.</gramGrp>
+		</form>
+		<sense class="0" value="DISFUNCȚIONAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care se referă la disfuncţie.</RegDef>             
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -fi-o-</form>
+			<form>— PL.: disfuncționali, -e</form>
+			<form>— Disfuncţie + suf. -onal. Cf. engl.dysfunctional</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISFUNCȚIONALITĂTE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+
+		<sense class="0" value="DISFUNCȚIONALITĂTE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Lipsă de funcţionalitate.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Timpul istoric nu duce automat ... la rezolvarea disfuncționalităților ... acumulate într-un stadiu sau altul al mişcării sociale.</quote>
+							<bibl><abbr type="siglum" author="ROMÂNIA LITERARĂ" pages="19" sigla="ROMÂNIA LITERARĂ">ROMÂNIA LITERARĂ, 1979, nr. 11, 19</abbr></bibl>, cf. DN3
+						</cit>
+						<cit id="UNKNOWN">
+							<quote>O altă disfuncționalitate. îi priveşte pe acționarii pentru care s-ar plăti contribuţii de sănătate din valoarea dividendelor.</quote>
+							<bibl><abbr type="siglum" author="RL" pages="805" sigla="RL">RL 2006, nr. 4 805.</abbr></bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -ţi-o-</form>
+			<form>— PL.: disfuncționalități</form>
+			<form>— Disfuncţional + suf. -izare</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFUNDA</orth>
+		  <gramGrp>vb. I</gramGrp>
+		</form>
+		
+		<sense class="0" value="DISFUNDA">
+			<def>
+				<MorfDef>vb. I</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfunda</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DISFUNDĂTURĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DISFUNDĂTURĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. desfundătură</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISGENEZIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		<sense class="0" value="DISGENEZIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Displazie.</RegDef>               
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disgenezii</form>
+			<form>— Din fr. dysgânssie</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISGEUZIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		<sense class="0" value="DISGEUZIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Alterare a simțului gustativ.</RegDef>               
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disgeuzii</form>
+			<form>— Din fr. dysg6usie</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISGLOBULINEMIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		<sense class="0" value="DISGLOBULINEMIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Disproteinemie.</RegDef>               
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disglobulinemii</form>
+			<form>— Din fr. dysglobulinemie</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISGRAFIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		<sense class="0" value="DISGRAFIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Tulburare manifestată prin dificultatea de a scrie corect, caracterizată prin inversiuni şi deformări de litere şi substituiri de cuvinte.</RegDef>               
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disgrafii</form>
+			<form>— Din fr. dysgraphie</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISGRAVIDIE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		
+
+		<sense class="0" value="DISGRAVIDIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Totalitatea manifestărilor patologice apărute în cursul gravidităţii; gestoză.</RegDef>
+					<dictScrap>
+						<cit id="-1112777458-0">
+							<quote>Disgravidiile trebuie tratate de la început, iar femeia trebuie să respecte regimul alimentar lipsit de sare, prescris de medic.</quote>
+							<bibl><abbr type="siglum" author="ABC SĂN." pages="319" sigla="ABC SĂN.">ABC SĂN. 319</abbr>, cf. D. MED., DEX.</bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: disgravidii</form>
+			<form>— Pref. dis- + gravidie</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DISHIDROZĂ</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		<sense class="0" value="DISHIDROZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Afecţiune cutanată, dureroasă, caracterizată printr-o erupție cu vezicule pe mâini şi pe picioare.</RegDef>               
+				</def>
+			</sense>
+		</sense>
+	</entry>
+</body>

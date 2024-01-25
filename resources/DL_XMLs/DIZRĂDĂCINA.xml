@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZRĂDĂCINA</orth>
+			<gramGrp>vb. 1</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="?" value="DIZRĂDĂCINA">
+			<def>
+			<MorfDef>vb. 1</MorfDef>
+			<RegDef>v. dezrădăcina.</RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

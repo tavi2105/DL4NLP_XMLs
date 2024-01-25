@@ -1,0 +1,16 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZVELIT, -Ă</orth>
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="?" value="DIZVELIT, -Ă">
+			<def>
+			<MorfDef>adj.</MorfDef>
+			<RegDef>v. dezvelit.</RegDef>
+			</def>
+		</sense>
+	</entry>
+</body>

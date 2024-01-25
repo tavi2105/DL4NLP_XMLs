@@ -1,0 +1,38 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCISĂTÚRĂ</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCISĂTÚRĂ">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+          <usg>(Învechit)</usg>
+          <RegDef>Omor (<hi rend="bold">1</hi>.), ucidere (<hi rend="bold">1</hi>.).</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Amândoi era într-un nărav rău, și făcea cumu-i învăța Satana: junghieri și ucisături, vărsare de sânge și temnițe.</quote><bibl><citedRange pages="363/25" source="MOXA">MOXA, 363/25</citedRange>, cf. <abbr type="siglum" author="IORGA" pages="262" sigla="IORGA, S. D." source="S. D." volume="XIV">IORGA, S. D. XIV, 262</abbr>, <citedRange source="ANON. CAR.">ANON. CAR.</citedRange>, BAR. - MUNT., W. 766<hi rend="superscript">1</hi>./38</bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+      <sense class="2" value="2.">
+        <def>
+          <usg>(Învechit și regional)</usg>
+          <RegDef>Bătaie cruntă aplicată cuiva; lovitură puternică; <usg>p. ext.</usg> rană.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Avu svențiia sa legături greale și uciseturi dease.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="77" sigla="VARLAAM, C." source="C.">VARLAAM, C. 77</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Atâta i-au ucisu-i, cât într-acealeași ucisături [î]ș[i] deaderă... s[u]fl[e]t[e]le.</quote><bibl><abbr type="siglum" author="DOSOFTEI" month="septembrie" pages="4{sup}r{/sup}/27" sigla="DOSOFTEI, V. S." source="V. S.">DOSOFTEI, V. S. septembrie 4<hi rend="superscript">r</hi>./27</abbr>, cf. <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="PASCU" pages="62" sigla="PASCU, S." source="S.">PASCU, S. 62</abbr>, <citedRange source="CADE">CADE</citedRange>, com. MARIAN</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Știu că a mâncat zdravănă ucisătură!</quote><bibl><abbr type="siglum" author="FURTUNĂ" pages="28" sigla="FURTUNĂ, V." source="V.">FURTUNĂ, V. 28</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucisături</hi>.- Și: <hi rend="bold">ucisetúră</hi>. s.f.</form>
+      <form>– <hi rend="bold">Ucis</hi>.<hi rend="superscript">1</hi>. + suf. <hi rend="italic">-ătură</hi>.</form>
+    </form>
+  </entry>
+</body>

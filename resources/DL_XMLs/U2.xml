@@ -1,0 +1,98 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">U2</orth>
+	  <gramGrp>interj.</gramGrp>
+    </form>
+
+    <sense class="0" value="U2">
+      <def>
+        <MorfDef>interj.</MorfDef>
+	  </def>
+	 <sense class="1" value="1. ">
+	   <def>
+		<usg>(Adesea prelungit sau însoțit de alte interjecții)</usg>
+        <RegDef> Strigăt folosit pentru a atrage cuiva atenția, pentru avertizare <usg>(în legătură cu un pericol)</usg> sau pentru a comunica cu cineva care se află la o anumită depărtare.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>U! iacă lupul, ține-te măi, ține-te.</quote><bibl><abbr type="siglum" author="ȚICHINDEAL" pages="46/10" sigla="ȚICHINDEAL, F." source="F.">ȚICHINDEAL, F. 46/10</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Interjecțiile sunt... de chemare, cum: o!, u!, e!, u-mă!</quote><bibl><abbr type="siglum" author="HELIADE" pages="72/22" sigla="HELIADE, GR. ROM." source="GR. ROM.">HELIADE, GR. ROM. 72/22</abbr></bibl>.[Vizitiul] </cit>
+          <cit id="UNKNOWN"><quote>strigă din băgeagă: „U! Iu! dacă vrei, măi Ghio, adapă-mi și căiuții mei.”</quote><bibl> ap. <citedRange source="TDRG.">TDRG.</citedRange> [Lupul</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>auzi deodată oameni „U! iu, ține măi” strigând.</quote><bibl><citedRange pages="688" source="CONTEMPORANUL" volume="I">CONTEMPORANUL, I, 688</citedRange></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Uu, Culo, măăă!</quote><bibl><abbr type="siglum" author="AGÂRBICEANU" pages="168" sigla="AGÂRBICEANU, O." source="O." volume="I">AGÂRBICEANU, O. I, 168</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Flăcăii din vale începusă să chiuiască și să strige: Uiu, uiu! Ce fel de vânat a fost?</quote><bibl><abbr type="siglum" author="GALACTION" pages="271" sigla="GALACTION, O." source="O.">GALACTION, O. 271</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>„Uuu, n-aude, n-a vede”... chemarea de sus Ajunge la mine în van să se sfarme.</quote><bibl><abbr type="siglum" author="VOICULESCU" pages="181" sigla="VOICULESCU, POEZII" source="POEZII" volume="I">VOICULESCU, POEZII, I, 181</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>U! Ano, fă! rupe gâtul la găina a pestriță.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="557" sigla="SADOVEANU, O." source="O." volume="II">SADOVEANU, O. II, 557</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Uuu! Ileană-i!... răsună cântător glasul unei femei... De departe un glas subțire răspunde prelung.</quote><bibl><abbr type="siglum" author="id." pages="269" source="ib." volume="IV">id. ib. IV, 269</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Uiu-iu! fraților, a chiuit el, să știți că eu îs Pahomie cel vestit, cioban de la Piatra Teiului.</quote><bibl><abbr type="siglum" author="id." pages="445" source="ib." volume="XVIII">id. ib. XVIII, 445</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>U, u, u, mă, nu lăsați lupul!</quote><bibl>H II 253, cf. IV 117</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Strigă așa, spre pădure: - U! mă! Cine nț-are ce să mănânce să vie la stână!</quote><bibl><abbr type="siglum" author="RĂDULESCU-CODIN" pages="43" sigla="RĂDULESCU-CODIN, Î." source="Î.">RĂDULESCU-CODIN, Î. 43</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Bă, u, bă, u, Suraie, u, Că nu t'e strâng pă tin'e.</quote><bibl>PAPAHAGI, M. 138</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Flăcăul... se suie pe un dâmbușor și strigă...: „U..., măi...!”</quote><bibl><citedRange pages="184" source="I. CR." volume="II">I. CR. II, 184</citedRange>, cf. <citedRange pages="82/217, 351, 803" source="ALR" volume="I">ALR I 82/217, 351, 803</citedRange></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>U, bărbate, ia vin, ia! Acesta veni într-un suflet să vază ce e.</quote><bibl><citedRange pages="72" source="SNOAVA" volume="III">SNOAVA, III, 72</citedRange></bibl>.</cit>
+        </dictScrap>
+      </def>
+     </sense>
+      <sense class="2" value="♦">
+        <def>
+		<usg >(Regional)</usg>
+		<RegDef>Exclamație prin care se răspunde la chemarea cuiva <usg>(Suseni - Târgu Jiu)</usg>.</RegDef>
+		<bibl>Cf. <citedRange pages="47" source="LEXIC REG.">LEXIC REG. 47</citedRange></bibl>. 
+		</def>
+      </sense>
+      <sense class="3" value="2.">
+        <def>
+          <usg>(Adesea prelungit sau însoțit de alte interjecții)</usg>
+          <RegDef>Exclamație care exprimă anumite senzații (repulsie, frig etc.).</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Uuuu! brrr! Taicule, mi-e frig.</quote><bibl><abbr type="siglum" author="PREDA" pages="315" sigla="PREDA, M." source="M.">PREDA, M. 315</abbr>, cf. <citedRange pages="3252/53, 876" source="ALR" volume="II">ALR II 3252/53, 876</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uuuuu! Da frig [îmi e]!</quote><bibl><abbr type="siglum" author="O. BÂRLEA" pages="276" sigla="O. BÂRLEA, A. P." source="A. P." volume="I">O. BÂRLEA, A. P. I, 276</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+      <sense class="3" value="3.">
+        <def>
+          <RegDef>Exclamație care exprimă surpriză, nemulțumire sau indignare.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>U! O! Pi! Bre! Ce scandal!</quote><bibl><abbr type="siglum" author="NEGRUZZI" pages="328" sigla="NEGRUZZI, S." source="S." volume="I">NEGRUZZI, S. I, 328</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>U, ce figură de sălbatic!</quote><bibl>VLAHUȚĂ, S. III, 191</bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+      <sense class="4" value="4.">
+        <def>
+          <usg>(Însoțit de obicei de „iu” repetat sau de alte interjecții)</usg>
+          <RegDef>Strigăt care exprimă veselie și care însoțește de obicei chiuiturile în timpul executării dansurilor populare.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Să jucăm în chiuite! să sărim bătând din pinteni... u... iu!</quote><bibl><citedRange author="I. GOLESCU" pages="70" source="PR. DRAM.">I. GOLESCU, în PR. DRAM. 70</citedRange>, cf. <citedRange source="TDRG">TDRG</citedRange>, CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>U.iu,... bucuria lui când au stat ploile Și l-au trimis să pască oile.</quote><bibl><abbr type="siglum" author="VOICULESCU" pages="243" sigla="VOICULESCU, POEZII" source="POEZII" volume="I">VOICULESCU, POEZII, I, 243</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uiu-iu, pă patu gol, Că mireasa n-are țol.</quote><bibl><abbr type="siglum" author="PRIBEAGUL" pages="153" sigla="PRIBEAGUL, P. R." source="P. R.">PRIBEAGUL, P. R. 153</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uiu, iu, până ce-s viu, Dac-oi muri, mort să fiu!</quote><bibl><abbr type="siglum" author="JARNÍK-BÂRSEANU" pages="363" sigla="JARNÍK-BÂRSEANU, D." source="D.">JARNÍK-BÂRSEANU, D. 363</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>U, iu, iu, bunu-i puiu, Da-i mai bună găina, Care-o frige vecina.</quote><bibl><abbr type="siglum" author="id." source="D">id. D</abbr><hi rend="superscript">2</hi>., 535, cf. <citedRange pages="1020" source="CONV. LIT." volume="XX">CONV. LIT. XX, 1020</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>U, iu, iu și na, na, na, Soacră mare, draga mea,... Ieși afară, soacră mare. Că-ți aduc pieptănătoare.</quote><bibl><abbr type="siglum" author="MARIAN" pages="630" sigla="MARIAN, NU." source="NU.">MARIAN, NU. 630</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>U, iu, iu, nânașă mare, Ia și suflă-n lumânare.</quote><bibl><abbr type="siglum" author="id." pages="267" source="NA.">id. NA. 267</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uiu, iu și ia, ia, ia, Mi-a văduvit mierlița.</quote><bibl><citedRange pages="4" source="MAT. FOLK.">MAT. FOLK. 4</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uiu, iu, pe dealu gol Și mireasa n-are țol.</quote><bibl><abbr type="siglum" author="RĂDULESCU-CODIN" pages="487" sigla="RĂDULESCU-CODIN, L. P." source="L. P." volume="I">RĂDULESCU-CODIN, L. P. I, 487</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uiu, iu! pe dealu Vinț, Că mireasa n-are dinți.</quote><bibl><abbr type="siglum" author="VICIU" pages="118" sigla="VICIU, F." source="F.">VICIU, F. 118</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uiu-iu pe deal în sus Prind fetele mâțe-n jug.</quote><bibl><abbr type="siglum" author="FRÂNCU - CANDREA" pages="125" sigla="FRÂNCU - CANDREA, M." source="M.">FRÂNCU - CANDREA, M. 125</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uiuiu, ficior de câne, Ce mi-a dat mă-ta cu tine? O vacă și o junincă.</quote><bibl><abbr type="siglum" author="BUD" pages="46" sigla="BUD, P. P." source="P. P.">BUD, P. P. 46</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Merge tineret mult chiuind: uiu! iu, iu, iu!</quote><bibl><abbr type="siglum" author="FURTUNĂ" pages="13" sigla="FURTUNĂ, C." source="C.">FURTUNĂ, C. 13</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Uiuiu, c-așă mă cheamă, Iepurele bun d'e zamă.</quote><bibl><abbr type="siglum" author="DENSUSIANU" pages="144" sigla="DENSUSIANU, Ț. H." source="Ț. H.">DENSUSIANU, Ț. H. 144</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>U, hu, hu și tu, tu, tu, Alba iesti, niagra nu-i, C-a mâncat-o dumnialui.</quote><bibl><abbr type="siglum" author="DIACONU" pages="153" sigla="DIACONU, Ț. V." source="Ț. V." volume="IV">DIACONU, Ț. V. IV, 153</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>U-iu-iu, nănașule, Sucește-ți mustățile, Sărută nevestele!</quote><bibl><citedRange pages="52" source="FOLC. TRANSILV." volume="IV">FOLC. TRANSILV. IV, 52</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>U, iu, iu, găină sură, Ieri erai pe după șură Ș-amu ești la nuna-n gură.</quote><bibl>CAF IV, 188</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nuntașii se luară toți după el... învățându-l să strige și el: „Uiu-iu și uiu-iu!”.</quote><bibl><citedRange pages="174" source="SNOAVA" volume="III">SNOAVA, III, 174</citedRange></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+	  <sense class="5" value="5. ">
+		<def>
+		<usg>(Regional; însoţit de interj. „na”) </usg>
+          <RegDef>Strigăt cu care se cheamă câinii de vânătoare <usg>(Băleni — Tecuci)</usg>. Cf.<abbr type="siglum">  H III 4.</abbr> </RegDef>
+		</def>
+	  </sense>
+    </sense>
+	<form type="varia">
+		<form>- Formaţie pe baza unui sunet reflex.</form>
+	</form>
+  </entry>
+</body>

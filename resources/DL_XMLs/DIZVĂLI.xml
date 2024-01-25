@@ -1,0 +1,16 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZVĂLI</orth>
+			<gramGrp>vb. IV</gramGrp>
+		</form>
+
+		
+		<sense class="?" value="DIZVĂLI">
+			<def>
+			<MorfDef>vb. IV</MorfDef>
+			<RegDef>v. dezveli.</RegDef>
+			</def>
+		</sense>
+	</entry>
+</body>

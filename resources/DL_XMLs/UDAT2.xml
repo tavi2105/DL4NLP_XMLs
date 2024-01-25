@@ -1,0 +1,31 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UDAT2</orth>
+      <gramGrp>adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UDAT2, -Ă">
+      <def>
+        <RegDef>Muiat în apă sau în alt lichid; stropit cu apă; ud (<hi rend="bold">1</hi>).</RegDef><bibl>Cf. LEX. MARS. 188, 252, DRLU, POLIZU</bibl>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Lipsirea mea va șterge genele tale-udate.</quote><bibl><abbr type="siglum" author="BOLINTINEANU" pages="205" sigla="BOLINTINEANU, O." source="O.">BOLINTINEANU, O. 205</abbr></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Sade și ea, ștergăndu-se cu batista udată.</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="114" sigla="CARAGIALE, O." source="O." volume="I">CARAGIALE, O. I, 114</abbr>, cf. <citedRange source="DDRF">DDRF</citedRange>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU">ȘĂINEANU</abbr>, D. U., CADE</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Ploaia Rece și turbată, În caic Marfă Udată.</quote><bibl><citedRange pages="97" source="BALADE" volume="II">BALADE, II, 97</citedRange></bibl>.</cit>
+        </dictScrap>
+      </def>
+      <sense class="1" value="◊">
+        <def>
+          <usg>(Substantivat)</usg>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Udatul nu se teme de ploaie.</quote><bibl><abbr type="siglum" author="BARONZI" pages="52" sigla="BARONZI, L." source="L.">BARONZI, L. 52</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">udați, -te</hi>.</form>
+      <form>– V. <hi rend="bold">uda</hi>.</form>
+    </form>
+  </entry>
+</body>

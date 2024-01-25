@@ -1,0 +1,34 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPLOSÍ</orth>
+      <gramGrp>vb. IV. r e f l. și t r a n z.</gramGrp>
+    </form>
+
+    <sense class="0" value="DOPLOSÍ">
+      <def>
+        <MorfDef>vb. IV.</MorfDef>
+        <usg type="gram">Refl.</usg> și <usg type="gram">tranz.</usg>
+        <usg>(Prin nord-estul Olt.)</usg>
+      </def>
+      <sense class="0" value="1.">
+        <def><RegDef>A (se) roade<hi rend="superscript">1</hi>. (<hi rend="bold">4</hi>.), a (se) toci<hi rend="superscript">3</hi>. (<hi rend="bold">2</hi>.), a pierde sau a face să piardă din rigiditate (prin întrebuințare).</RegDef>
+		<bibl>Cf. <abbr type="siglum" author="CIAUȘANU" pages="158" sigla="CIAUȘANU, V." source="V.">CIAUȘANU, V. 158</abbr></bibl>.   
+		<dictScrap>
+			<cit id="UNKNOWN"><quote>Ghetele noi s-au mai doplosât, s-au mai dedat pe picior, nu mai sunt tari și scorțoase.</quote><bibl><citedRange pages="264" source="ARH. OLT." volume="XXI">ARH. OLT. XXI, 264</citedRange></bibl>.</cit>
+			<cit id="UNKNOWN"><quote>S-a mai doplosit coada săpii, că mă freca la palme.</quote><bibl><abbr type="siglum" author="COMAN" sigla="COMAN, GL." source="GL.">COMAN, GL.</abbr></bibl>.</cit>
+		</dictScrap>
+		</def>
+      </sense>
+      <sense class="1" value="2.">
+        <def>
+		<RegDef>A (se) vlăgui (<hi rend="bold">1</hi>.).</RegDef>
+		<bibl>Cf. <abbr type="siglum" author="CIAUȘANU" pages="158" sigla="CIAUȘANU, V." source="V.">CIAUȘANU, V. 158</abbr>, <citedRange pages="227" source="MAT. DIALECT." volume="I">MAT. DIALECT. I, 227</citedRange></bibl>. </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Prez. ind.: <hi rend="italic">doplosesc</hi>.</form>
+      <form>– Cf. dupli „a se bătători”.</form>
+    </form>
+  </entry>
+</body>

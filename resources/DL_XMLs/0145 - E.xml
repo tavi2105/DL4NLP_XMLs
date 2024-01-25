@@ -1,0 +1,583 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTRIZI</orth>
+		  <gramGrp>vb. IV</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTRIZI">
+			<def>
+				<MorfDef>vb. IV</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. electriza</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTRIZITATE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTRIZITATE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. electricitate</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTRIZM</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTRIZM">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. electrism</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTRIZMOS</orth>
+		  <gramGrp>subst.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTRIZMOS">
+			<def>
+				<MorfDef>subst.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. electrism</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTRIZUI</orth>
+		  <gramGrp>vb. IV</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTRIZUI">
+			<def>
+				<MorfDef>vb. IV</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. electriza</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTRO-</orth>
+		  <gramGrp>UNKNOWN</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTRO-">
+			<def>
+				<MorfDef>UNKNOWN</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Element de compunere care înseamnă „electric”, „bazat pe electricitate” şi care serveşte la formarea unor substantive ca: electrocar, electrocăldură, electrodinam,electrofotografie şi a unor adjective ca:electrocasnic,electroconductor.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. electr(o)-</form>
+			<form>— Din germ. elektr(0)-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROACUPUNCTURĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTRO-">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Electropunctură</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -tro-a-</form>
+			<form>— PL.: electroacupuncturi</form>
+			<form>— Electro- + acupunctură</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROACUSTICIAN, -Ă</orth>
+		  <gramGrp>s. m. şi f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROACUSTICIAN, -Ă">
+			<def>
+				<MorfDef>s. m. şi f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Specialist în electroacustică</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -tro-a-cus-ti-ci-an.</form>
+			<form>— PL.: electroacusticieni, -e</form>
+			<form>— Din fr. électro-acusticien</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROALIMENTARE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROALIMENTARE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Alimentare cu curent electric</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -tro-a-</form>
+			<form>— PL.: electroalimentări</form>
+			<form>— Electro- + alimentare</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROANALIZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="?" value="ELECTROANALIZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<usg>(Chim.)</usg>
+					<RegDef>Totalitatea metodelor electrochimice care se folosesc în analiza cantitativă; analiză electrochimică.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -tro-a-</form>
+			<form>— PL.: electroanalize</form>
+			<form>— Din germ. Elektroanalyse</form>
+			<form>— Din fr. électro-analyse</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROANASTOMOZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROANASTOMOZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Anastomoză între două segmente ale tubului digestiv, efectuată cu ajutorul unui bisturiu electric</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -tro-a-</form>
+			<form>— PL.: electroanastomoze</form>
+			<form>— Electro- + anastomoză</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROANESTEZIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="?" value="ELECTROANESTEZIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Anestezie bazată pe folosirea curenților electrici.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -tro-a-</form>
+			<form>— PL.: electroanestezii</form>
+			<form>— Din fr. électro-anesthésie</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROAPARATAJ</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROAPARATAJ">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Aparataj electric</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -tro-a-</form>
+			<form>— PL.: electroaparataje</form>
+			<form>— Electro- + aparataj</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROAPRINDERE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROAPRINDERE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Aprindere printr-o scânteie electrică a combustibilului din amestecul carburant aflat în cilindrul unui motor cu ardere internă</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -tro-a-</form>
+			<form>— PL.: electroaprinderi</form>
+			<form>— Electro- + aprindere</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROAUTOBUZ</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROAUTOBUZ">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Autobuz acționat electric; electrobuz.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -tro-a-u-</form>
+			<form>— PL.: electroautobuze</form>
+			<form>— Electro- + autobuz</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROAUTOMOBIL</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROAUTOMOBIL">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Automobil acţionat electric.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -tro-a-u-</form>
+			<form>— PL.: electroautomobile</form>
+			<form>— Electro- + automobil</form>
+		</form>
+	</entry>
+	
+	
+	
+	<!-- -> era initial scris: -->
+	<!-- ELECTROAUTOMOBIL s. n. electric. Cf. DCR?. -->
+
+	<!-- — Pronunţat: -tro-a-u-. — PL.: electroautomobile. -->
+
+	<!-- — Electro- + automobil. -->
+
+	<!-- Automobil acţionat -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROBETON</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROBETON">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Beton armat turnat pe timp friguros şi încălzit electric prin intermediul armăturii lui</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. electrobéton</form>     
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROBICICLETĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROBICICLETĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Bicicletă acționată electric</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: electrobiciclete</form>
+			<form>— Electro- + bicicletă</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROBIOGENEZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROBIOGENEZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Producere de electricitate (1) în organismele vii.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -bi-o-</form>
+			<form>— Din fr. électrobiogenèse</form>   !!!!! è scris ca ă
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROBIOLOGIC, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROBIOLOGIC, -Ă">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care aparţine electrobiologiei, referitor la electrobiologie, de electrobiologie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -bi-o-</form>
+			<form>— PL.: electrobiologici, -ce</form>
+			<form>— Din fr. électrobiologique</form>   
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROBIOLOGIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROBIOLOGIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ştiinţă care studiază apariţia şi efectele fenomenelor electrice în organismele vii, în special asupra sistemului ME 05 Şi a contracțiilor musculare</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Scris şi: electro-biologie. ENC. ROM.</form>
+			<form>— Pronunţat: -bi-o-</form>
+			<form>— Din fr. électrobiologie</form>   
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROBIOSCOPIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROBIOSCOPIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Metodă de stabilire, cu ajutorul curentului electric, a prezenţei sau absenței vieţii.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -bi-o-</form>
+			<form>— PL.: electrobioscopii</form>
+			<form>— Din fr. électrobioscopie</form>   
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROBUR</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROBUR">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Sapă acționată de un motor electric, folosită în explorările petroliere; electrotrepan</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: electrobure</form>
+			<form>— Din fr. électrobur</form>   
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ELECTROBUZ</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ELECTROBUZ">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Autovehicul de transport în comun, acționat de un motor electric alimentat de la un acumulator propriu</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			
+			
+		</form>
+	</entry>
+</body>

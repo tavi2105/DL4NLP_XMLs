@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCRAINIÁN</orth>
+      <gramGrp>s.m. și f., adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCRAINIÁN, -Ă">
+      <def>
+        <MorfDef>s.m. și f., adj.</MorfDef>
+        <RegDef>v. ucrainean. </RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

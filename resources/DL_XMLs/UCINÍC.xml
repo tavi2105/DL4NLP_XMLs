@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCINÍC</orth>
+      <gramGrp>s.m. și f</gramGrp>
+    </form>
+
+    <sense class="0" value="UCINÍC, -Ă">
+      <def>
+        <MorfDef>s.m. și f</MorfDef>
+        <RegDef>v. ucenic. </RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

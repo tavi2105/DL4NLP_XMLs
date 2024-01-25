@@ -1,0 +1,16 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZVINOVĂȚITOR, -OÂRE</orth>
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="?" value="DIZVINOVĂȚITOR, -OÂRE">
+			<def>
+			<MorfDef>adj.</MorfDef>
+			<RegDef>v. dezvinovăţitor.</RegDef>
+			</def>
+		</sense>
+	</entry>
+</body>

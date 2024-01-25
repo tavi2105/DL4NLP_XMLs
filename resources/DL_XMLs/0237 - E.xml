@@ -1,0 +1,530 @@
+<body>	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOMETRU</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOMETRU">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Mucoasă care căptuşeşte uterul şi a cărei structură variază în funcţie de impregnarea hormonală. Febra puerperală... nu este totdeauna efectul îmbolnăvirii septice a endometrului.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+			<form type="varia">
+			<form>— Din fr. endomètre-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOMITOZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOMITOZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Duplicare a cromozomilor fără diviziune nucleară (şi celulară).</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endomitoze-</form>
+			<form>— Din fr. endomitose-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<!-- ENDOMORFISM -->
+
+
+
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDONAZAL, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="?" value="ENDONAZAL, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<usg>(Anat.)</usg>
+					<RegDef>Care aparține mucoasei nazale.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endomazali, -e-</form>
+			<form>— Din fr. endonasal-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDONEFRITĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDONEFRITĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Inflamaţie a mucoasei bazinetului.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endonefrite-</form>
+			<form>— Din fr. endonéphrite-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<!-- ENDOPARAZIT -->
+
+
+
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOPERICARDITĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOPERICARDITĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg> (Med.)</usg>
+					<RegDef>Inflamaţie a pericardului.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. endopéricardite-</form>
+		</form>
+	</entry>
+
+	<!-- !!!!!!!!!! -->
+	<!-- Initial scris asa: -->
+	<!-- ENDOPERICARDITĂ s. f. pericardului. DNS. — Din fr. endopericardite. -->
+
+	<!-- (Med.) Inflamaţie a -->
+
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOPLASMATIC, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOPLASMATIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Biol.)</usg>
+					<RegDef> De endoplasmă, referitor la endoplasmă.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endoplasmatici, -ce-</form>
+			<form>— Din fr. endoplasmatique-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOPLASMĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ENDOPLASMĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Biol.)</usg>
+					<RegDef>De endoplasmă, referitor la endoplasmă.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Endosarcul sau endoplasma, numire ce se dă masei centrale de protoplasmă.</quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="255" sigla="ENC. ROM." source="ENC. ROM." volume="II">ENC. ROM. II, 255</abbr></bibl>, cf. DER, DN?, D. MED., M. D. ENC., DEX, DN-
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endoplasme-</form>
+			<form>— Din fr. endoplasme-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDORADIOTERAPIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="?" value="ENDORADIOTERAPIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Radioterapie a organelor profunde ale corpului cu ajutorul unor aparate speciale introduse în cavitățile naturale.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -di-o--</form>
+			<form>— Din fr. endoradiothérapie-</form>
+		</form>
+	</entry>
+
+	<!-- !!! -->
+	<!-- * in loc de ^n -->
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOREIC, -Ă</orth>
+		  <gramGrp>adj. </gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ENDOREIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Geogr.; în opoziţie cu exoreic; despre bazine hidrografice, regiuni etc.)</usg>
+					<RegDef>Care nu are legătură cu marea prin ape curgătoare; care este lipsit de scurgere.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Regiuni endoreice.</quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="260" sigla="AGROTEHNICA" source="AGROTEHNICA" volume="1">AGROTEHNICA, 1, 260</abbr></bibl>, cf. DEX, DN?, NDN, NDU
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -re-ic-</form>
+			<form>— PL.: endoreici, -ce-</form>
+			<form>— Din fr. endoréique-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! -->
+	<!-- é scris ca a^ -->
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOREISM</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOREISM">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(În opoziţie cu exoreism)</usg>
+					<RegDef> Caracterul, situaţia a ceea ce este endoreic.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. endoréisme-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! -->
+	<!-- é scris ca a^ -->
+
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSARC</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOSARC">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(învechit)</usg>
+					<RegDef> Endoplasmă</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. endosarque-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSCHELET</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOSCHELET">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Zool.)</usg>
+					<RegDef>Schelet intern al anumitor animale nevertebrate (ca sepia, echinodermele)</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endoschelete-</form>
+			<form>— Din germ. Endoskelett-</form>
+			<form>— Din fr. endosquelette-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSCOP</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ENDOSCOP">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Instrument utilizat pentru examenul direct al cavităţilor profunde din organism, în scop diagnostic sau terapeutic, prevăzut cu un sistem optic ce permite iluminarea organului investigat.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Endoscoapele suni tuburi prevăzute cu un sistem optic şi bec de iluminat.</quote>
+							<bibl><abbr type="siglum" author="ABC SĂN." pages="148" sigla="ABC SĂN." source="ABC SĂN.">ABC SĂN. 148</abbr>, cf. DN, M. D. ENC., DEX, DN3, NDN, MDN, MDA, NDU</bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endoscoape-</form>
+			<form>— Din fr. endoscope-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSCOPIC, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOSCOPIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care ţine de endoscopie, care se referă la endoscopie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endoscopici, -ce-</form>
+			<form>— Din fr. endoscopique-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSCOPIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="?" value="ENDOSCOPIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Metodă de examinare (pe viu) a organelor cavitare sau tubulare inaccesibile pe cale directă, cu ajutorul endoscopului.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Pantostate pentru. galvano- cauterizare, endoscopie.</quote>
+							<bibl><abbr type="siglum" author="NOM. MIN." pages="164" sigla="NOM. MIN." source="NOM. MIN.">NOM. MIN. 1, 164</abbr></bibl>                
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endoscopii-</form>
+			<form>— Din fr. endoscopie-</form>
+			<form>— Din engl. endoscopy-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSMOMETRU</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOSCOPIC, -Ă">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Instrument pentru măsurarea intensității fenomenului de endosmoză.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endosmometre-</form>
+			<form>— Din fr. endosmomèttre-</form>
+		</form>
+	</entry>
+
+	<!-- !!!!!!!!!!!!! -->
+	<!-- è ignorat -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSMOS</orth>
+		  <gramGrp>subst.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOSMOS">
+			<def>
+				<MorfDef>subst.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. endosmoză.</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSMOTIC, -Ă</orth>
+		  <gramGrp>adj. </gramGrp>
+		</form>
+		
+		<sense class="0" value="ENDOSMOTIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care ţine de endosmoză, care se referă la endosmoză.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: endosmotici, -ce.-</form>
+			<form>— Din fr. endosmotique.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENDOSMOZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ENDOSMOZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(În opoziţie cu exosmoză)</usg>
+					<RegDef> Proces osmotic de trecere a unui fluid printr-o membrană din mediul exterior acesteia spre interior.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Fenomeni de endosmos s-au 2095 ----------</quote>
+							<bibl><abbr type="siglum" author="NOM. MIN." pages="164" sigla="NOM. MIN." source="NOM. MIN.">NOM. MIN. 1, 164</abbr></bibl>                
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+</body>
+	<!-- !!!!!!! -->
+	<!-- Cuvant incomplet - se continua pe pagina urmatoare! -->

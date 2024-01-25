@@ -1,0 +1,20 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRAI</orth>
+			<gramGrp>s.n.</gramGrp>
+		</form>
+
+		<sense class="0" value="DRAI">
+			<def>
+			<MorfDef>s.n.</MorfDef>
+			<usg>(Învechit, rar) </usg>
+			<RegDef>Straiul<hi rend="superscript">2</hi> unui foc. Cf. <abbr type="siglum" sigla="D. MAR."> D. MAR.</abbr></RegDef>
+			</def>
+		</sense>
+		<form type="varia">
+			<form>– Pl.:?</form>
+			<form>Din fr. <hi rend="bold">draille.</hi>.</form>
+		</form>
+	</entry>
+</body>

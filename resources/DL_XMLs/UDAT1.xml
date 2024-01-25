@@ -1,0 +1,76 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UDAT1</orth>
+      <gramGrp>s. n.</gramGrp>
+    </form>
+
+    <sense class="0" value="UDAT1">
+      <def>
+        <MorfDef>s. n.</MorfDef>
+        <RegDef>Faptul de a u d a.</RegDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<RegDef>Cf. u d a (<hi rend="bold">1</hi>.).</RegDef><bibl>Cf. <citedRange source="DDRF">DDRF</citedRange>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU">ȘĂINEANU</abbr>, D. U., CADE</bibl>. 
+		</def>
+        <sense class="2" value="♦">
+          <def>
+            <RegDef>Stropit<hi rend="superscript">1</hi>. la suprafață, acoperit ușor cu apă.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Cară cu buți pentru udatul ulițelor.</quote><bibl><citedRange pages="542/22" source="REGUL. ORG.">REGUL. ORG. 542/22</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="3" value="♦">
+          <def>
+            <RegDef>Numele unui obicei popular practicat în unele regiuni la nuntă, când nuntașii vor să cufunde pe mire în apa unui izvor sau a unui pârâu.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Cei mai mulți dintre nuntași ... se duc apoi cu toții la o fântână sau și la un părâu la udat. La această ocaziune, doi feciori voiesc, firește că nu înadins, a arunca pre mire în apă.</quote><bibl><abbr type="siglum" author="MARIAN" pages="691" sigla="MARIAN, NU." source="NU.">MARIAN, NU. 691</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+      <sense class="4" value="2.">
+        <def>
+          <RegDef>Stropit<hi rend="superscript">1</hi>. Cf. u d a (<hi rend="bold">2</hi>.).</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Azi e rău de iele să lucrezi și ... nu-i iertat decât de udat și de măcinat.</quote><bibl><abbr type="siglum" author="LUNGIANU" pages="75" sigla="LUNGIANU, CL." source="CL.">LUNGIANU, CL. 75</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nota într-un carnet: ... tensiunea la întoarcerea de la serviciu, înainte de udatul florilor, după udatul florilor.</quote><bibl><abbr type="siglum" author="PREDA" pages="347" sigla="PREDA, R." source="R.">PREDA, R. 347</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Udatul și prășitul s-au efectuat ori de câte ori a fost nevoie.</quote><bibl><citedRange number="634" pages="3/2" source="GÎ" year="1961">GÎ 1961, nr. 634, 3/2</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Câte flori pe luncă-n sus, Toate cu badea le-am pus. Numai una s-a uscat, Am greșit-o la udat.</quote><bibl><citedRange pages="563" source="FOLC. MOLD." volume="II">FOLC. MOLD. II, 563</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Lucrării dă-ngrijire; plantatu, udatu, prășitu.</quote><bibl><citedRange pages="311" source="T. DIAL. M." volume="I">T. DIAL. M. I, 311</citedRange></bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="5" value="♦">
+          <def>
+            <RegDef>Numele unui obicei popular conform căruia mireasa, înainte de nuntă, împreună cu fete și băieți merg prin sat cu o găleată de apă, stropind în jur fetele.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Fetele și băiețî, să cheamă la udat, ..., ca să meargă să plimbe mireasa pân sat și la urmă începe nunta.</quote><bibl><citedRange source="GL. OLT.">GL. OLT.</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Mireasa ... ia stebla de busuioc ... și ud-așa, peste toate fetele, vin d-acolo dă la udat, fac dă trei ori horă.</quote><bibl><citedRange pages="264" source="T. DIAL. M." volume="I">T. DIAL. M. I, 264</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="6" value="♦">
+          <def>
+		  <usg>(Prin Transilv.)</usg>
+		  <RegDef>Numele unui obicei practicat (la oraș) în a doua zi de Paști, când băieții și bărbații stropesc fetele și femeile cu apă de colonie, ca să-și păstreze frumusețea; stropit.</RegDef><bibl>Com. dinN CÂMPENI, din CLUJ NAPOCA și din ORĂȘTIE</bibl>. 
+		  </def>
+        </sense>
+      </sense>
+      <sense class="7" value="3.">
+        <def>
+          <usg>(Învechit)</usg>
+          <RegDef>Faptul de a u r i n a. Cf. u d a <hi rend="bold">(4)</hi>.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Văzu că-i era veștejite mănuntaiele, de numai ce avea de udat.</quote><bibl><citedRange pages="387/10" source="MOXA">MOXA, 387/10</citedRange></bibl>.</cit>
+          </dictScrap>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– V. <hi rend="bold">uda</hi>.</form>
+    </form>
+  </entry>
+</body>
+

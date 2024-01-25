@@ -1,0 +1,666 @@
+<body>
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASONOTERAPIE</orth> 
+				<gramGrp>s. f.</gramGrp>
+			</form>
+				
+			<sense class="0" value="ULTRASONOTERAPIE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Terapie bazata pe ultrasunete.</RegDef> Cf. M. D. ENC, DEX,DN, FORM. CUV. II, 250.
+					</def>
+				</sense>	
+				</sense>
+				<form type="varia">
+					<form>- Din fr.<hi rend="bold">ultrasonotherapie.</hi></form>
+				</form>
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASPECIAL,-Ă</orth>    >
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRASPECIAL,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Care se deosebeste foarte mult de alte lucruri asemanatoare.</RegDef> DEX-S.
+					</def>
+					<sense class="2" value="♦">
+					<def>
+						<RegDef>De strictă specialitate.</RegDef> DEX - S
+					</def>
+					</sense>
+				</sense>	
+			</sense>
+			<form type="varia">		 
+				<form>- Pronuntat: <hi rend="italic"> -ci-al-</hi></form>
+				<form>- Pl.: <hi rend="italic"> ultraspeciali,-e.</hi></form>
+				<form>- <hi rend="bold">Ultra- + special.</hi></form>
+			</form>
+		</entry>
+
+	
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASTRUCTURĂ</orth> 
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRASTRUCTURĂ">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Dispoziție a structurilor ultramicroscopice.</RegDef> Cf.DN, FORM. CUV. II, 250, 251, D. MED. ,DCR.
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> ultrastructuri</hi>.</form>
+				<form>- Din fr.<hi rend="bold">ultrastructure</hi>.</form>
+			</form>
+		</entry>
+
+	
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRASUNET</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRASUNET">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Vibrație a unui mediu elastic, cu frecvențe superioare sunetului, care nu poate fi percepută de urechea omului.</RegDef> 
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Receptor pentru ultrasunete.</hi></quote>
+								<bibl><abbr type="siglum" author="MARIAN-ȚIȚEICA" pages="66" sigla="MARIAN-ȚIȚEICA, FIZ." source="FIZ." volume="II">MARIAN-ȚIȚEICA, FIZ.</abbr>, cf. IORDAN, L. R. A. 214.</bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">În aer... ultrasunetele se sting repede.</hi></quote>
+								<bibl><abbr type="siglum" author="CIȘMAN" pages="90" sigla="CIȘMAN, FIZ." source="FIZ." volume="II">CIȘMAN, FIZ.</abbr></bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Sonda de fund, pe bază de ultrasunet, arătând continuu pe cadran,,, adâncimea apei.</hi></quote>
+								<bibl><abbr type="siglum" author="TUDORAN" pages="92" sigla="TUDORAN, O." source="O.">TUDORAN, O.</abbr>, cf. LTR, DL, DM, DER.</bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Din punct de vedere fizic, ultrasunetul are exact aceeași natură ca și sunetul.</hi></quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="373" sigla="ABC SĂN." source="ABC SĂN.">ABC SĂN.</abbr>, cf. M. D. ENC., DC, D. FIZ., DEX, DN, FORM. CUV. II, 250, 251, 252, 263, D. ECOL., DREV.</bibl>
+								</cit>
+						</dictScrap> 
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+			<form>- Pl.: <hi rend="italic">ultrasunete</hi>.</form>
+			<form>- <hi rend="bold">Ultra- + sunet</hi>. Cf. fr. <hi rend="simple:spaced">ultrason</hi>.</form> 
+			</form>
+		</entry>
+
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAVIOLET, -Ă</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRAVIOLET, -Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(În sintagma)</usg>
+						<RegDef>Raze (sau radiații) ultraviolete = radiații electromagnetice situate dincolo de marginea violetă a spectrului luminii și a căror lungime de undă este mai mică decât lungimea de undă minimă a radiațiilor vizibile.</RegDef>
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Spațiile interplanetare sunt străbătute de razele ultra-violete emise de soare.</hi></quote>
+								<bibl><abbr type="siglum" author="MARINESCU" pages="41" sigla="MARINESCU, P. A." source="P. A.">MARINESCU, P. A.</abbr>, cf. CADE, SCRIBAN, D.</bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Arsurile prin raze ultraviolete se produc la alpiniști.</hi></quote>
+								<bibl><abbr type="siglum" author="A. POP" pages="236" sigla="A. POP, CHIRURG." source="CHIRURG.">A. POP, CHIRURG.</abbr></bibl>
+								</cit>	
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Spectrul solar este compus din radiații simple, împărțite în trei categorii: radiații infra-roșii, radiații vizibile... și radiații ultra-violete.</hi></quote>
+								<bibl><abbr type="siglum" author="MACAROVICI" pages="170" sigla="MACAROVICI, CH." source="CH.">MACAROVICI, CH.</abbr>, cf. DT, LTR.</bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">Razele solare acționează în special prin intermediul razelor ultraviolete.</hi></quote>
+								<bibl><abbr type="siglum" author="BELEA" pages="353" sigla="BELEA, P. A." source="P. A.">BELEA, P. A.</abbr>, cf. DL, DM, M. D. ENC., DEX, DN, FORM. CUV. II, 250, 251, V. BREBAN, D. G.</bibl>
+								</cit>
+						</dictScrap>
+					</def>
+					<sense class="2" value="♦">
+						<def>
+							<usg>(Substantivat, f. pl., rar, n.)</usg>
+							<RegDef>Raze ultraviolete.</RegDef>
+							<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">[Substanțele fluorescente] produc atunci, sub acțiunea ultravioletului, o lumină intensă.</hi></quote>
+								<bibl><abbr type="siglum" author="CIȘMAN" pages="326" sigla="CIȘMAN, FIZ." source="FIZ." volume="II">CIȘMAN, FIZ.</abbr>, cf. DM, M. D. ENC., D. FIZ., DEX, DN.</bibl>
+								</cit>
+							</dictScrap>
+						</def>
+					</sense>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pronunțat: <hi rend="italic"> -vi-o- </hi>.</form>
+				<form>- Scris și: <hi rend="italic"> ultra-violet </hi>.</form>
+				<form>- Pl.: <hi rend="italic">ultraviolete</hi>.</form>
+				<form>- Din fr. <hi rend="bold">ultraviolet</hi>.</form>
+			</form>
+		</entry>
+
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRĂ</orth>    
+				<gramGrp>adv.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULTRĂ">
+				<def>
+					<MorfDef>adv.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Învechit, rar; in loc. adv) )</usg>
+						<RegDef><hi rend="italic">In ultra</hi> = în plus, mai mult.</RegDef> 
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote><hi rend="italic">În ultră, mintea spre a cunoaște lucrează și se simte că lucrează producând noțiunea sa.</hi></quote>
+								<bibl><abbr type="siglum" author="LAURIAN" pages="19/32" sigla="LAURIAN, F." source="F.">LAURIAN, F.</abbr>.</bibl>
+								</cit>
+						</dictScrap> 
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+			<form>- Din lat.<hi rend="bold">ultra</hi> (după fr. <hi rend="italic">en outre)</hi>.</form> 
+			</form>
+		</entry>
+
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTRĂMĂRIE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTRĂMĂRIE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> ultramarin </hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTUGĂ</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUGĂ">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+					<usg>(Regional; despre ciorbă)</usg>
+					<RegDef>Cu multă apă și fără bucăți de carne.</RegDef>Com. din TURNU MAGURELE.
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+			<form>- Pl.: ?</form>
+			<form>- Etimologia necunoscută.</form>
+			</form>
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTUI</orth>    
+				<gramGrp>vb.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUI">
+				<def>
+					<MorfDef>vb.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoi.</hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTUIRE</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUIRE">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoire</hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTUIT</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUIT">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoit.</hi> </RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTUIT,-Ă</orth>    
+				<gramGrp>adj.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUIT,-Ă">
+				<def>
+					<MorfDef>adj.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoit</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTUITOR,-OARE</orth>    
+				<gramGrp>adj., s. m. si f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUITOR,-OARE">
+				<def>
+					<MorfDef>adj., s. m. si f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoitor</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTUITURĂ</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUITURĂ">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoitură</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTUOANĂ</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUOANĂ">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> altoi</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULTUR</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULTUR">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> vultur</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULȚERĂ</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULȚERĂ">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> ulcer</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULȚIOR</orth>    
+				<gramGrp>s. n.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULȚIOR">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> urcior</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULUBAR</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULUBAR">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> hulubar</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULUBĂ</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULUBĂ">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> hulubă</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULUBEASNEA</orth>    
+				<gramGrp>adv.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="ULUBEASNEA">
+				<def>
+					<MorfDef>adv.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Învechit, rar)</usg>
+						<RegDef>Din cale afară, peste măsură, foarte.</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Când te duci la dumnealui,... de se va întâmpla să fii ceva mai ipochimen sau cel puțin fecior de boier, îl vezi mai dezlegat la limbă...; iar de vei fi d'alde terchea-berchea, e posac ulubeasnea.</hi></quote>
+							<bibl><abbr type="siglum" author="HELIADE" pages="426" sigla="HELIADE, O." source="O." volume="II">HELIADE, O.</abbr>.</bibl>
+							</cit>	
+						</dictScrap>
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Etimologia necunoscută</form>
+			</form>
+		</entry>
+
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">ULUBEJ</orth>    
+				<gramGrp>s. m.</gramGrp>
+			</form>
+			
+			<sense class="0" value="ULUBEJ">
+				<def>
+					<MorfDef>s. m.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						
+					<RegDef>v. <hi rend="bold"> hulubej</hi>.</RegDef>
+						
+					</def>
+				</sense>	
+			</sense>
+			
+		</entry>
+
+	
+	
+	
+	
+
+		<entry type="lemma">
+			<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ULTRAVIRUS</orth>
+			<gramGrp>s. n.</gramGrp>
+			</form>
+
+				
+			<sense class="0" value="ULTRAVIRUS">
+				<def>
+					<MorfDef>s. n.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Virus extrem de mic,care nu poate fi vazut la microscopul obisnuit.</RegDef> 
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Ultravirusuri care determină boala zisă și mozaicul tutunului și cartofului produc o reacțiune în elementele celulare.</hi></quote>
+							<bibl><abbr type="siglum" author="MARINESCU" pages="81" sigla="MARINESCU, P. A." source="P. A.">MARINESCU, P. A.</abbr>.</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Cauza ei nu se cunoaște precis; se crede că ar fi vorba de o infecție cu ultravirus.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="279" sigla="ABC SĂN." source="ABC SĂN.">ABC SĂN.</abbr>, cf. DEX, DN, FORM, CUV. II, 250.</bibl>
+							</cit>
+						</dictScrap> 
+					</def>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Pl.: <hi rend="italic"> ultravirusuri</hi>.</form>
+				<form>- Din fr.<hi rend="bold">ultra-virus</hi>.</form>
+			</form>
+		</entry>
+
+	
+</body>

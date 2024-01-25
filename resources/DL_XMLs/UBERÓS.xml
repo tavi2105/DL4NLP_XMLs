@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UBERÓS</orth>
+      <gramGrp>adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UBERÓS, -OÁSĂ">
+      <def>
+	  <MorfDef>adj.</MorfDef>
+	  <usg>(Livresc)</usg>
+	  <RegDef>Fertil, fecund,</RegDef><bibl><citedRange source="DN">DN</citedRange><hi rend="superscript">3</hi></bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">uberoși, -oase</hi>.</form>
+      <form>– Din lat. <hi rend="bold">uberosus</hi>., fr. <hi rend="bold">ubéreux</hi>.</form>
+    </form>
+  </entry>
+</body>

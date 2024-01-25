@@ -1,0 +1,21 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPRÂNZÍ</orth>
+      <gramGrp>vb. IV.  intranz.</gramGrp>
+    </form>
+
+    <sense class="0" value="DOPRÂNZÍ">
+      <def>
+	  <MorfDef>vb. IV.</MorfDef>
+	  <usg type="gram">Intranz. </usg>
+	  <RegDef>A termina de prânzit.</RegDef>
+	  <bibl>Cf. <citedRange pages="108" source="CL" year="1973">CL 1973, 108</citedRange>, <citedRange pages="336" source="ARH. FOLK." volume="VI">ARH. FOLK. VI, 336</citedRange></bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form> - Prez. ind.: <hi rend="italic">doprânzesc</hi>.</form>
+      <form> - Pref. <hi rend="italic">do</hi>.- + <hi rend="bold">prânzi</hi>.</form>
+    </form>
+  </entry>
+</body>

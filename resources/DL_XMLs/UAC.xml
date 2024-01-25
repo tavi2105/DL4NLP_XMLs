@@ -1,0 +1,15 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">UAC</orth>
+			<gramGrp>interj.</gramGrp>
+		</form>
+
+		<sense class="0" value="UAC">
+			<def>
+			<MorfDef>interj.</MorfDef>
+			<RegDef>v.oac.</RegDef>
+			</def>
+		</sense>
+	</entry>
+</body>

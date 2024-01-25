@@ -1,0 +1,45 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UBICUITÁTE</orth>
+      <gramGrp>s.f. </gramGrp>
+    </form>
+
+    <sense class="0" value="UBICUITÁTE">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+        <usg>(Livresc)</usg>
+      </def>
+      <sense class="1" value="1.">
+      <def>
+		<RegDef>Atribut al lui Dumnezeu, prezent pretutindeni în același timp.</RegDef><bibl>Cf. <citedRange source="M. D. ENC.">M. D. ENC.</citedRange></bibl>. 
+      </def>
+      </sense>
+      <sense class="2" value="2.">
+        <def>
+		<RegDef>Posibilitate de a fi prezent în mai multe locuri deodată.</RegDef><bibl>Cf. POEN. - AAR. - HILL, V. II, 777<hi rend="superscript">1</hi>./10</bibl>. 
+		<dictScrap>
+			<cit id="UNKNOWN"><quote>Darul binecuvântat al ubicvității.</quote><bibl><citedRange pages="138" source="SĂM." volume="I">SĂM. I, 138</citedRange>, cf. <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU, D. U." source="D. U.">ȘĂINEANU, D. U.</abbr>, <citedRange source="CADE">CADE</citedRange>, SCRIBAN, D</bibl>.</cit>
+			<cit id="UNKNOWN"><quote>Totul e o simplă iluzie, persoana fiind una singură, cu darul vrăjitoresc al ubicuității.</quote><bibl><abbr type="siglum" author="RALEA" pages="77" sigla="RALEA, O." source="O.">RALEA, O. 77</abbr></bibl>.</cit>
+			<cit id="UNKNOWN"><quote>Viciul geografic are o tortură specifică: imposibilitatea ubicuității,</quote><bibl><abbr type="siglum" author="id." pages="305" source="S. T." volume="III">id. S. T. III, 305</abbr></bibl>.</cit>
+			<cit id="UNKNOWN"><quote>Îți mărturisesc că nu sunt prea încântat de diversitatea și ubicuitatea mea literară.</quote><bibl><citedRange month="DECEMBRIE" pages="150" source="V. ROM." year="1963">V. ROM. DECEMBRIE 1963, 150</citedRange>, Cf. <citedRange source="DN">DN</citedRange><hi rend="superscript">3</hi></bibl>.</cit>
+			<cit id="UNKNOWN"><quote>Ubicuitatea este prin excelență semnul vocației la omul de acțiune.</quote><bibl><citedRange number="26" pages="1/1" source="ROMÂNIA LITERARĂ" year="1969">ROMÂNIA LITERARĂ, 1969, nr. 26, 1/1</citedRange>, cf. <citedRange source="DJP">DJP</citedRange>, DSR</bibl>.</cit>
+		</dictScrap>
+		</def>
+        <sense class="3" value="♦">
+          <def>
+            <usg>(Rar)</usg>
+            <RegDef>Universalitate.</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Specificul național căpăta sens abia în clipa în care depășea provincialul pentru a intra în ubicuitate.</quote><bibl><abbr type="siglum" author="PLEȘU" pages="71" sigla="PLEȘU, O." source="O.">PLEȘU, O. 71</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pronunțat: <hi rend="italic">-cu-i-</hi>. - . Și: <hi rend="bold">ubicvitáte</hi>., (învechit) <hi rend="bold">ubichitáte</hi>. (<bibl>ȘĂINEANU, D. U., CADE, SCRIBAN, D</bibl>.) s.f.</form>
+      <form>– Din fr. <hi rend="bold">ubiquité</hi>.</form>
+    </form>
+  </entry>
+</body>

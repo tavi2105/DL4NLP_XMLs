@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCÍT</orth>
+      <gramGrp>adv.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCÍT">
+      <def>
+	  <MorfDef>adv.</MorfDef>
+	  <RegDef>= <hi rend="bold">ocit</hi>.</RegDef><bibl>Cf. <citedRange pages="114" source="LEXIC REG." volume="II">LEXIC REG. II, 114</citedRange></bibl>. 
+	  </def>
+    </sense>
+  </entry>
+</body>

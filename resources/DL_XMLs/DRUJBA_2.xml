@@ -1,0 +1,40 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUJBĂ</orth>
+            <gramGrp>s. f.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUJBĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f.</MorfDef>
+            </def>
+            <def>
+                <RegDef>Fierăstrău mecanic cu motor.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <quote>Muncitorul forestier de astăzi mânuieşte fierăstraie electrice numite drujbe.</quote>
+                        <bibl>
+                            <abbr type="siglum" pages="7" sigla="FLACĂRA" source="FLACĂRA, 1977" volume="nr. 20">FLACĂRA, 1977, nr. 20, 7</abbr>
+                            , cf.
+                            <abbr type="siglum" source="DEXI" sigla="DEXI">DEXI</abbr>
+                        </bibl>
+                    </cit>
+                    <cit id="UNKNOWN">
+                        <quote>Probabil că dacă în zonă ar fi trebuit să răsară un cartier rezidențial, copacii ar fi căzut sub drujbe fără drept de apel şi fără nicio aprobare de la Mediu</quote>
+                        <bibl>
+                            <abbr type="siglum" pages="870" sigla="RL" source="RL 2006" volume="nr. 4">RL 2006, nr. 4 870</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drujbe.</hi>
+            </form>
+            <form>— Denumire comercială (de la numele rusesc al fabricii producătoare).</form>
+        </form>
+    </entry>
+</body>

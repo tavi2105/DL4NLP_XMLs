@@ -1,0 +1,19 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCANÉL</orth>
+      <gramGrp>s.m.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCANÉL">
+      <def>
+        <MorfDef>s.m.</MorfDef>
+        <usg>(Regional)</usg>
+        <RegDef>Nume care se dă diavolului <usg>(Brehuiești - Botoșani)</usg>. <bibl>CF. H I 27</bibl>.</RegDef>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Etimologia necunoscută.</form>
+    </form>
+  </entry>
+</body>

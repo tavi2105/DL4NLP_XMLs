@@ -1,0 +1,143 @@
+in general, structura unui cuvant e ceva de genul:
+
+<entry>
+    <form>
+        <orth></orth>
+        <gramGrp></gramGrp>
+    </form>
+    <dictScrap/>
+    <sense>
+        <def>
+            <MorfDef></MorfDef>
+        </def>
+        daca are mai multe sensuri:
+        <sense>
+            <def>
+                <usg></usg>daca are
+                <RegDef></RegDef>
+                <dictScrap>daca are
+                    <cit>
+                        <quote></quote>daca are
+                        <bibl>
+                            <abbr></abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <sense></sense>
+        . 
+        . 
+        . 
+        daca are doar un sens:
+        <def>
+            <usg></usg>daca are
+            <RegDef></RegDef>
+            <dictScrap>daca are
+                <cit>
+                    <quote></quote>daca are
+                    <bibl>
+                        <abbr></abbr>
+                    </bibl>
+                </cit>
+            </dictScrap>
+        </def>
+    </sense>
+    <form>
+        <form></form> pot fi oricate
+    </form>
+</entry>
+
+
+
+<body>
+    <entry type="lemma"> entry e tagul care inglobeaza tot despre un cuvant
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels"></orth> aici vine cuvantul exact cum e scris la inceput de definitie
+            <gramGrp rendition="simple:spaced"></gramGrp> toate partile de vb pe care le poate avea, imd dupa definitie apar
+        </form>
+
+        <sense class="0" value="DRUI, -IE"> tag care incorporeaza sensurile cuvantului
+            <def>
+                <MorfDef rendition="simple:spaced"></MorfDef>toate partile de vb pe care le poate avea, imd dupa definitie apar
+            </def>
+            <sense class="1" value="1."> primul sens
+                <def>
+                    <RegDef></RegDef> definitie primul sens
+                    <dictScrap> tag care incorporeaza citatele
+                        <cit id="UNKNOWN">
+                            <bibl>
+                                aici o sa mai gasesti cf sau virgule
+                                <abbr type="siglum"></abbr> asa arata puse siglele, ele vin dupa un sens sau un citat si de regula arata ca niste abrevieri sau nume
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="2" value="♦"> sens 2
+                <def>
+                    <RegDef></RegDef> definitie sens 2
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <bibl>
+                                <abbr type="siglum"></abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="3" value="2."> sens 3
+                <def>
+                    <usg></usg> gen in ce situatii?? se foloseste, cum ar fi "(regional)"
+                    <RegDef></RegDef> definitie sen 3
+                </def>
+            </sense>
+            <sense class="4" value="◊"> sens 4
+                <def>
+                    <usg></usg> de notata, aici nu avem RegDef, doar usg si cit
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <quote></quote> citat efectiv in care se foloseste
+                            <bibl>
+                                <abbr type="siglum" author="AL LUPULUI" source="P. G. 195."></abbr> sigla
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="5" value="◊"> sens 5
+                <def>
+                    <usg></usg>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <quote></quote>
+                            <bibl>
+                                <abbr type="siglum">LEXIC REG.</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="6" value="♦"> sens 6
+                <def>
+                    <RegDef></RegDef>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <bibl>
+                                <abbr type="siglum" volume="44"></abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+        </sense>
+        <form type="varia"> aici vin diferitele forme care sunt trecute dupa toata definitia, si au cate o linie in fata
+            <form> toate tipurile de forme sunt in tag form
+            — Pl.:
+                <hi rend="italic">drui, </hi> cand vezi un hi, este de fapt un mod de randare a textului. aici e italic, dar de exemplu "superscript" inseamna ca e pus la putere
+                -ie.
+            </form>
+            <form>— Cuvânt traco-dac. Cf. alb.dru, dru.</form>
+        </form>
+    </entry>
+</body>

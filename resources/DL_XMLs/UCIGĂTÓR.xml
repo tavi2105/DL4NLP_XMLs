@@ -1,0 +1,133 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIGĂTÓR</orth>
+      <gramGrp>adj., s.m. și f., adj. </gramGrp>
+    </form>
+
+    <sense class="0" value="UCIGĂTÓR, -OÁRE">
+      <def>
+        <MorfDef>adj., s.m. și f.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+          <MorfDef>Adj.</MorfDef>
+          <RegDef>Care ucide <hi rend="bold">(1</hi>.) (sau care poate ucide), care provoacă (sau care poate provoca) moartea; omorâtor <hi rend="bold">(1)</hi>,.  ucigaș <hi rend="bold">(3)</hi>.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Totu ucigătoriu iaste omul acesta.</quote><bibl>COD. VOR<hi rend="superscript">2</hi>. 48<hi rend="superscript">v</hi>./9</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ce ei se arătară răi și hitleani și ucigători.</quote><bibl><abbr type="siglum" author="CORESI" pages="298" sigla="CORESI, EV." source="EV.">CORESI, EV. 298</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cumplită iaste otrava și ucigătoare de oameni.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="172" sigla="VARLAAM, C." source="C.">VARLAAM, C. 172</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>S-au făcut tămăduitoriu... și, când ucigătoarea moarte sterpiia maicele de prunci..., maicele să-nvățasă a striga numele sv[â]nt[u]lui.</quote><bibl><abbr type="siglum" author="DOSOFTEI" month="noiembrie" pages="171"><hi rend="superscript">r</hi>/23" sigla="DOSOFTEI, V. S." source="V. S.">DOSOFTEI, V. S. noiembrie 171<hi rend="superscript">r</hi>./23</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Scoate-mă, stăpână, din mâna șarpelui celui ucigătoriu de oameni.</quote><bibl><citedRange pages="204"><hi rend="superscript">v2</hi>/38" source="MINEIUL" year="1776">MINEIUL (1776), 204<hi rend="superscript">v2</hi>./38</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nu băgă în seamă... nici de turbarea vrăjmașilor carii îl năpăstuia că au fost ucigătoriu și fărmecătoriu.</quote><bibl><citedRange author="MOLNAR" pages="15" source="RET. ROM.">MOLNAR, în RET. ROM. 15</citedRange>, cf. <citedRange source="DRLU">DRLU</citedRange>, LB</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Plângea împreună cu mine pentru jertfa săvârșită de însăși ucigătoarea sa mână.</quote><bibl><citedRange pages="738/3" source="MOZAICUL" year="1839">MOZAICUL (1839), 738/3</citedRange>, cf. <citedRange source="ISER">ISER</citedRange>, <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>, <abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Orice a fost motivul care i-a dat în mână revolverul ucizător, faptul s-a îndeplinit.</quote><bibl>F (1881), 301</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Întinzându-și auritul arc, azvârlă darde ucigătoare de se cutremură creștetul înalților munți.</quote><bibl><abbr type="siglum" author="ODOBESCU" pages="53" sigla="ODOBESCU, S." source="S." volume="III">ODOBESCU, S. III, 53</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigătoarea ploaie de fier acopere, învăluie de jur împrejur oastea.</quote><bibl><abbr type="siglum" author="VLAHUȚĂ" source="CADE">VLAHUȚĂ, ap. CADE</abbr>, cf. DDRF</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Unde alergați voi, unde? și cu mâni ucigătoare Spadele ascunse-n teacă pentru ce le-ați ridicat?</quote><bibl><abbr type="siglum" author="OLLĂNESCU" pages="363" sigla="OLLĂNESCU, H. O." source="H. O.">OLLĂNESCU, H. O. 363</abbr>, cf. <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Înțepenești strașnic baioneta strălucitoare, ascuțită, ucigătoare.</quote><bibl><abbr type="siglum" author="SANDU-ALDEA" pages="61" sigla="SANDU-ALDEA, D. P." source="D. P.">SANDU-ALDEA, D. P. 61</abbr>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Îți va luci în mâini o armă ucigătoare.</quote><bibl><abbr type="siglum" author="A. HOLBAN" pages="213" sigla="A. HOLBAN, O." source="O." volume="II">A. HOLBAN, O. II, 213</abbr>, cf. CADE</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Doctorul... găsi ocazia să facă interesante experiențe, inoculându-i o serie de microbi ucigători.</quote><bibl><abbr type="siglum" author="BART" pages="393" sigla="BART, E." source="E.">BART, E. 393</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Să cadă peste acești oameni... un trăsnet ucigător.</quote><bibl><abbr type="siglum" author="BOGZA" pages="278" sigla="BOGZA, A. Î." source="A. Î.">BOGZA, A. Î. 278</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Răul poate fi nu numai ireparabil, ci să se desfășoare crescendo, ca o avalanșă ucigătoare.</quote><bibl><abbr type="siglum" author="FLORIAN" pages="20" sigla="FLORIAN, R." source="R." volume="II">FLORIAN, R. II, 20</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Au dezlănțuit un foc ucigător de mitraliere și tunuri.</quote><bibl><citedRange month="octombrie" pages="50" source="V. ROM." year="1964">V. ROM. octombrie 1964, 50</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Alei! iazmă călătoare, Boală rea ș-ucigătoare!</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="39" sigla="ALECSANDRI, P. P." source="P. P.">ALECSANDRI, P. P. 39</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="2" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Tot păcatul ucigătoriu iaste și junghetoriu sufletului.</quote><bibl><abbr type="siglum" author="CORESI" pages="386" sigla="CORESI, EV." source="EV.">CORESI, EV. 386</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Așea și meșterșugul cel rău a Satanei iaste ucigătoriu de suflete omenești.</quote><bibl><abbr type="siglum" author="VARLAAM" pages="172" sigla="VARLAAM, C." source="C.">VARLAAM, C. 172</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Noul plan al învățăturei, în alăturare cu sistemul vechi, ucizătoriu de suflete... trebuie să placă foarte tuturor.</quote><bibl><citedRange pages="265"><hi rend="superscript">1</hi>/44" source="BUCOVINA" year="1849">BUCOVINA (1849),265<hi rend="superscript">1</hi>./44</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Noi vom prigoni cât vom pute această manie ucigătoare a gustului original.</quote><bibl><abbr type="siglum" author="KOGĂLNICEANU" pages="223" sigla="KOGĂLNICEANU, O." source="O." volume="I">KOGĂLNICEANU, O. I, 223</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Era el ca citerna Saharei din care arșița ucigătoare a uscat apa</quote><bibl> (a. 1867). <citedRange pages="239" source="RET. ROM.">RET. ROM. 239</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Această din urmă tiranie a trecut la noi, în perioada echilibrului și ponderației, mai ucigătoare... decât tirania francă a vechiului despotism.</quote><bibl><abbr type="siglum" author="BOLINTINEANU" pages="259" sigla="BOLINTINEANU, O." source="O.">BOLINTINEANU, O. 259</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Fără idee, forma e ucigătoare, căci duce la moartea literelor</quote><bibl> (a. 1880). <citedRange pages="338" source="PLR" volume="I">PLR I, 338</citedRange></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Căci în priviri citeam o vecinicie De-ucigătoare visuri de plăcere.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="200" sigla="EMINESCU, O." source="O." volume="I">EMINESCU, O. I, 200</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Ce ochi! Ar fi ei oare mai ucigători, Dac-ar avea copila veștmânt țesut cu flori?</quote><bibl><abbr type="siglum" author="COȘBUC" pages="5" sigla="COȘBUC, S." source="S.">COȘBUC, S. 5</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Arșița cădea ucigătoare Pe-a secerii sclipire.</quote><bibl><abbr type="siglum" author="GOGA" pages="79" sigla="GOGA, POEZII" source="POEZII">GOGA, POEZII, 79</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Privirea ei pierdută Avea ucigătoarea pară A visului zdrobit pe totdeauna.</quote><bibl><abbr type="siglum" author="PETICĂ" pages="99" sigla="PETICĂ, O." source="O.">PETICĂ, O. 99</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Așa de blând părea, ca și când ar fl îndurat dureri ucigătoare.</quote><bibl><abbr type="siglum" author="AGÂRBICEANU" pages="50" sigla="AGÂRBICEANU, O." source="O." volume="I">AGÂRBICEANU, O. I, 50</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Amintirea ucigătoarei voastre inutilități... mă devoră uneori.</quote><bibl><abbr type="siglum" author="C. PETRESCU" pages="245" sigla="C. PETRESCU, S." source="S.">C. PETRESCU, S. 245</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Simți... ațintiți asupra lui o pereche de ochi reci, metalici, ucigători.</quote><bibl><abbr type="siglum" author="M. ELIADE" pages="220" sigla="M. ELIADE, D." source="D.">M. ELIADE, D. 220</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Privirile celor două femei se încrucișară, ciocnindu-se într-o străfulgerare ucigătoare.</quote><bibl><abbr type="siglum" author="DAN" pages="98" sigla="DAN, U." source="U.">DAN, U. 98</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>E drept că era o căldură ucigătoare.</quote><bibl><abbr type="siglum" author="BOGZA" pages="551" sigla="BOGZA, A. Î." source="A. Î.">BOGZA, A. Î. 551</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Eu, ca femeie, simt că nu o ucigătoare dragoste vă ține lângă el.</quote><bibl><abbr type="siglum" author="VINEA" pages="186" sigla="VINEA, L." source="L." volume="II">VINEA, L. II, 186</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Am să-ți zdrobesc pieptul delicat Cu dragostea-mi ucigătoare.</quote><bibl><abbr type="siglum" author="BOTTA" pages="247" sigla="BOTTA, S." source="S." volume="I">BOTTA, S. I, 247</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Toate în jurul lui i se păreau de-o ucigătoare platitudine: cancanurile, lecțiile, colegii.</quote><bibl><abbr type="siglum" author="T. POPOVICI" pages="108" sigla="T. POPOVICI, S." source="S.">T. POPOVICI, S. 108</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Nu poate anula chinurile și anxietățile ucigătoare ale unei singure creaturi umane.</quote><bibl><abbr type="siglum" author="FLORIAN" pages="141" sigla="FLORIAN, R." source="R." volume="II">FLORIAN, R. II, 141</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Se va întoarce la viața monotonă, exasperantă, ucigătoare de iluzii, o viață fără stele și iubire.</quote><bibl><citedRange source="V. ROM.">V. ROM.</citedRange> ianuarie1965, 142</bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Un zbucium ucigător.</quote><bibl>ib. august 1970, 133</bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="3" value="◊">
+          <def>
+            <usg>(Adverbial)</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Las' să mă uit în ochii-ți ucigător de dulci!</quote><bibl><abbr type="siglum" author="EMINESCU" pages="97" sigla="EMINESCU, O." source="O." volume="I">EMINESCU, O. I, 97</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Cine-o să-ți mai deie mâine vraja clipei, Care trece Ucigător de rece.</quote><bibl><abbr type="siglum" author="COTRUȘ" pages="187" sigla="COTRUȘ, V." source="V.">COTRUȘ, V. 187</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Plimbările acelea mi-au rămas mai proaspete și ucigător de dulci în amintire.</quote><bibl><abbr type="siglum" author="M. ELIADE" pages="143" sigla="M. ELIADE, M." source="M.">M. ELIADE, M. 143</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>N-avea să-mi spună Nimic pământul? Tot pământu-acesta Neîndurător de larg și-ucigător de mut, Nimic?</quote><bibl><abbr type="siglum" author="BLAGA" pages="6" sigla="BLAGA, POEZII" source="POEZII">BLAGA, POEZII, 6</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Sorrento e cu desăvârșire pustiu și ucigător de plicticos.</quote><bibl><citedRange month="aprilie" pages="10" source="V. ROM." year="1970">V. ROM. aprilie 1970, 10</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+      <sense class="4" value="2.">
+        <def>
+          <MorfDef>S.m. și f.</MorfDef>
+          <RegDef>Ucigaș (<hi rend="bold">1</hi>.), asasin; p. ext. călău.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Neștinre de voi chinuiască ca ucigătorii sau ca furul.</quote><bibl>COD. VOR<hi rend="superscript">2</hi>. 81<hi rend="superscript">r</hi>./1</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Tâlharii și ucigătorii și furii... și toți câți întru necurățiile aceastea întină-se..., toți păstori de porci cheamă-se.</quote><bibl><abbr type="siglum" author="CORESI" pages="27" sigla="CORESI, EV." source="EV.">CORESI, EV. 27</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Împăratul acela, mânie-se și tremease voinicii lui și pierdură ucigătorii aceia.</quote><bibl><abbr type="siglum" author="id." pages="302" source="ib.">id. ib. 302</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cela ce va ucide pre cineva cu greșală și fără de voia lui, să nu să cearte ca un ucigătoriu.</quote><bibl><citedRange pages="87" source="PRAV.">PRAV. 87</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Și pre ucigătoriul cel de oameni  l-au fo[st] ucigând cu piietri.</quote><bibl><abbr type="siglum" author="EUSTRATIE" pages="207/13" sigla="EUSTRATIE, PRAV." source="PRAV.">EUSTRATIE, PRAV. 207/13</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Stătu și-ncepu a striga tare... și pre ucisul și pre ucigătoriul.</quote><bibl><abbr type="siglum" author="DOSOFTEI" month="septembrie" pages="31"><hi rend="superscript">r</hi>/4" sigla="DOSOFTEI, V. S." source="V. S.">DOSOFTEI, V. S. septembrie 31<hi rend="superscript">r</hi>./4</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Și ucigătorii să obosâră.</quote><bibl><abbr type="siglum" author="id." source="ib.">id. ib.</abbr> martie 8<hi rend="superscript">v</hi>.8</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Pe acest Ghine îl avea Șărban Vodă ucigătoriu de boiari.</quote><bibl> R. POPESCU, <citedRange pages="461" source="CM" volume="I">CM I, 461</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Oarecarii credincioși... le-au ascuns pentru frica ce era atuncea de ucigătoriu.</quote><bibl><citedRange pages="18"><hi rend="superscript">r2</hi>/22" source="MINEIUL" year="1776">MINEIUL (1776), 18<hi rend="superscript">r2</hi>./22</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Lui Caracalla tot întru acest an i-au urmat Macrin, ucigătoriul lui.</quote><bibl><abbr type="siglum" author="ȘINCAI" pages="16/37" sigla="ȘINCAI, HR." source="HR." volume="I">ȘINCAI, HR. I, 16/37</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Viața mea îmi va fi ocară, de aș câștiga-o de la ucigătorii stăpânului meu.</quote><bibl><abbr type="siglum" author="GOLESCU" pages="305" sigla="GOLESCU, S." source="S.">GOLESCU, S. 305</abbr>, cf. DRLU</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Atunci, disperat, strigă: „ Ucidător de frate, O, mizerabilCain!”.</quote><bibl><abbr type="siglum" author="HELIADE" pages="392" sigla="HELIADE, O." source="O." volume="I">HELIADE, O. I, 392</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Cuprinsă averile acelora ce fugiră dinaintea ucigătorilor.</quote><bibl><citedRange pages="1"><hi rend="superscript">2</hi> /23" source="GT" year="1838">GT (1838), 1<hi rend="superscript">2</hi>. /23</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucigătoarea îndată își mărturisi crâncena faptă.</quote><bibl>ib. (1839), 14<hi rend="superscript">1</hi>. 49</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Au cerut de la poloni ca să-i deie pe Petru Aron, ucigătorul părintelui său.</quote><bibl><citedRange pages="83/24" source="IST. M.">IST. M. 83/24</citedRange>, cf. BAR. - MUNT., W. 860<hi rend="superscript">1</hi>./37, <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Tot soldatul era un bandit și tot căpitanul un cap de ucigători.</quote><bibl><abbr type="siglum" author="BARONZI" pages="31/29" sigla="BARONZI, I. L." source="I. L." volume="I">BARONZI, I. L. I, 31/29</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucisul care moare zâmbind disprețuitor Ucide mult mai crâncen pe-al său ucigător.</quote><bibl><abbr type="siglum" author="ALECSANDRI" pages="170" sigla="ALECSANDRI, T." source="T." volume="II">ALECSANDRI, T. II, 170</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nimeni nu poate zice încă că dumneata ești ucigătorul.</quote><bibl><abbr type="siglum" author="BOLINTINEANU" pages="403" sigla="BOLINTINEANU, O." source="O.">BOLINTINEANU, O. 403</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Haide, vino, vino de zugrumă Tu, ucizător de frate.</quote><bibl><abbr type="siglum" author="EMINESCU" pages="207" sigla="EMINESCU, O." source="O." volume="VIII">EMINESCU, O. VIII, 207</abbr>, CF. GHEȚIE, R. M., <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Din cupe închinau lui Hermes, Dibaciul pânditor, ucigătorul Lui Argus.</quote><bibl><abbr type="siglum" author="MURNU" pages="113" sigla="MURNU, O." source="O.">MURNU, O. 113</abbr>, cf. ALR SN IV H 981/105</bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="5" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Iobăgia este rușinea veacului nostru: această ucigătoare scârnavă a tuturor virtuților civile este singură de ajuns, pentru ca să răstoarne staturi.</quote><bibl><abbr type="siglum" author="BARIȚIU" pages="467" sigla="BARIȚIU, P. A." source="P. A." volume="I">BARIȚIU, P. A. I, 467</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Sânt un nebun, un ucigător!... abia ieri mi-am adus aminte de dânsa. Ieri dar alergai să-i duc banii.</quote><bibl><abbr type="siglum" author="BOLINTINEANU" pages="342" sigla="BOLINTINEANU, O." source="O.">BOLINTINEANU, O. 342</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+        <sense class="6" value="◊">
+          <def>
+            <label type="gram" rendition="simple:spaced">Compus</label>:
+            <usg>(învechit, rar; calc după germ. <hi rend="italic">Hundswürger</hi>.)</usg>
+            <hi rend="bold">ucigătorul-câinelui </hi>
+            <RegDef>= iarba-fiarelor</RegDef>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>(Cynanchum vincetoxicum).</quote><bibl> Cf. <citedRange pages="1059" source="CONV. LIT." volume="XXIII">CONV. LIT. XXIII, 1059</citedRange></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucigători, -oare</hi>. - Și: (rar) <hi rend="bold">ucizătór, -oáre</hi>. adj., s.m. și f., (învechit, rar) <hi rend="bold">ucidătór, -oáre</hi>. s.m. și f.</form>
+      <form><hi rend="bold">- Ucig</hi>. (prez. ind. al lui <hi rend="italic">ucide) +</hi>. suf. <hi rend="italic">-ător</hi>.</form>
+    </form>
+  </entry>
+</body>

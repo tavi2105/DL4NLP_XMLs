@@ -1,0 +1,30 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UBICUÍST</orth>
+      <gramGrp>adj.</gramGrp>
+    </form>
+
+    <sense class="0" value="UBICUÍST, -Ă">
+      <def>
+        <MorfDef>adj.</MorfDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<usg>(Despre plante și animale)</usg>
+		<RegDef>Care trăiește și se dezvoltă la fel de bine în condiții de mediu diferite; care este răspândit într-un număr mare de zone geografice.</RegDef><bibl><citedRange source="M. D. ENC.">M. D. ENC.</citedRange>, <citedRange source="DEX">DEX</citedRange>, <citedRange source="D. ECOL.">D. ECOL.</citedRange></bibl>. 
+		</def>
+      </sense>
+      <sense class="2" value="2.">
+        <def>
+		<usg>(Livresc; despre oameni)</usg>
+		<RegDef>Care pare a fi în mai multe locuri deodată.</RegDef><bibl>Cf. <citedRange source="DN">DN</citedRange><hi rend="superscript">3</hi></bibl>. 
+		</def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ubicuiști, -ste</hi>. - Și: <hi rend="bold">ubicvíst, -ă</hi>. adj. <bibl>M. D. ENC</bibl>., <bibl>DN<hi rend="superscript">3</hi>., DEX</bibl>.</form>
+      <form>– Din fr. <hi rend="bold">ubiquiste</hi>.</form>
+    </form>
+  </entry>
+</body>

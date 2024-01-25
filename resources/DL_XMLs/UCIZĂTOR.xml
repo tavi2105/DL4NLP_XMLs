@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIZĂTOR</orth>
+      <gramGrp>adj., s.m. și f</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIZĂTOR, -OARE">
+      <def>
+        <MorfDef>adj., s.m. și f</MorfDef>
+        <RegDef>v. ucigător. </RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

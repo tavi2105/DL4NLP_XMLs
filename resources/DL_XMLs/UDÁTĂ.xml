@@ -1,0 +1,20 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UDÁTĂ</orth>
+      <gramGrp>adv. </gramGrp>
+    </form>
+
+    <sense class="0" value="UDÁTĂ">
+      <def>
+        <MorfDef>adv.</MorfDef>
+		<usg>= (regional)</usg>
+        <RegDef><hi rend="bold">odată<hi rend="superscript">2</hi>. (1). </hi></RegDef>
+        
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>A fost udată un croitoraș.</quote><bibl><citedRange pages="236" source="T. DIAL. M." volume="I">T. DIAL. M. I, 236</citedRange></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+  </entry>
+</body>

@@ -1,0 +1,27 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUM</orth>
+            <gramGrp>s. n.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUM">
+            <def>
+                <MorfDef rendition="simple:spaced">s. n.</MorfDef>
+            </def>
+            <sense class="1" value="1.">
+                <def>
+                    <RegDef>Fâşie continuă de teren, amenajată prin bătătorire, pietruire, asfaltare etc., în vederea realizării comunicaţiei terestre; cale; p. restr. (învechit şi regional) potecă.</RegDef>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <quote>Duceţi-vă amu în ieşitul drumurelor şi câți veți afla chemaţi-i la nuntă.</quote>
+                            <bibl>
+                                <abbr type="siglum">CORESI</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+        </sense>
+    </entry>
+</body>

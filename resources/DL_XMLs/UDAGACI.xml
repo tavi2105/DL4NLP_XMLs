@@ -1,0 +1,15 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UDAGACI</orth>
+      <gramGrp>subst.</gramGrp>
+    </form>
+
+    <sense class="0" value="UDAGACI">
+      <def>
+        <MorfDef>subst.</MorfDef>
+        <RegDef>v. odagaci. </RegDef>
+      </def>
+    </sense>
+  </entry>
+</body>

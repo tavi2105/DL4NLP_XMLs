@@ -1,0 +1,31 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">ÚBLĂ</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    
+    <sense class="0" value="ÚBLĂ">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+        <RegDef>= <hi rend="bold">oblu<hi rend="superscript">2</hi></hi>.</RegDef>
+      </def>
+      <sense class="1" value="1.">
+        <def>
+		<usg>(Prin Ban.)</usg>
+		<RegDef>Rindea <hi rend="bold">(1)</hi>.</RegDef><bibl>Cf. <citedRange pages="1" source="ALR">ALR 1</citedRange> 832/5, 9, 24, NALR - B III h 574/5, 6, 7, 9, 12, 18, 24</bibl>. 
+		</def>
+      </sense>
+      <sense class="2" value="2.">
+        <def>
+          <usg>(Prin Ban. și prin sud-vestul Transilv.)</usg>
+          <RegDef>Mistrie <hi rend="bold">(1)</hi>.  <bibl>CF. H XVIII 104, CHEST, II 373/3, 6</bibl>.</RegDef>
+        </def>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">uble</hi>. <hi rend="italic">-</hi>. Și: <hi rend="bold">úglu</hi>. (<bibl>ALR I 1 832/2</bibl>., pl., m., <hi rend="italic">ugli</hi>.<bibl>ib., NALR - B III h 574/2</bibl>., și, n., <hi rend="italic">ugluri</hi>. <bibl>IB</bibl>.) s.m., s.n., <hi rend="bold">óblă</hi>. (<bibl>NALR - B III </bibl>. 574/7) s.f, <hi rend="bold">hóbăl</hi>. (<bibl>ALR I 1 832/12</bibl>.) s.n., <hi rend="bold">húblă</hi>. (<bibl>H XVIII 104, CHEST, II 373/</bibl>.) s.f.</form>
+    </form>
+  </entry>
+</body>

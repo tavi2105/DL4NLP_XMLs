@@ -1,0 +1,17 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DOPĂ</orth>
+			<gramGrp>prep.</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="UNKNOWN" value="DOPĂ">
+			<def>
+			<MorfDef>prep.</MorfDef>
+			<RegDef>v. după.</RegDef>
+			</def>
+		</sense>
+		</dictScrap>
+	</entry>
+</body>

@@ -1,0 +1,60 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCENICÍE</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCENICÍE">
+      <def>
+	  <MorfDef>s.f.</MorfDef>
+	  <RegDef>Faptul de a lucra ca ucenic <hi rend="bold">(I 2);</hi>.  starea, calitatea, ocupația de ucenic; timpul petrecut de cineva ca ucenic.</RegDef><bibl>Cf. <abbr type="siglum" author="MOLNAR" pages="68/15" sigla="MOLNAR, D." source="D.">MOLNAR, D. 68/15</abbr>, <abbr type="siglum" author="POLIZU" sigla="POLIZU">POLIZU</abbr>,<abbr type="siglum" author="PONTBRIANT" sigla="PONTBRIANT, D." source="D.">PONTBRIANT, D.</abbr>, LM</bibl>.   
+		<cit id="UNKNOWN"><quote>A crescut băiatul canonit și muncit și a ajuns, după ucenicie, culegător.</quote><bibl><abbr type="siglum" author="CARAGIALE" pages="19" sigla="CARAGIALE, O." source="O." volume="III">CARAGIALE, O. III, 19</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Acum ești calfă, ai scăpat de ucenicie.</quote><bibl><abbr type="siglum" author="ISPIRESCU" sigla="ISPIRESCU, L." source="L.">ISPIRESCU, L.</abbr>370</bibl>.</cit>
+		<cit id="UNKNOWN"><quote>După copilăria lui fericită și liberă a sosit ucenicia grea, munca de lucrător.</quote><bibl><abbr type="siglum" author="DELAVRANCEA" pages="260" sigla="DELAVRANCEA, O." source="O." volume="V">DELAVRANCEA, O. V, 260</abbr>, cf.<citedRange source="DDRF">DDRF</citedRange>, <abbr type="siglum" author="BARCIANU" sigla="BARCIANU">BARCIANU</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Acolo, la plăcintarul acela, și-a făcut Iani Livaridi ucenicia lui de negustor.</quote><bibl><abbr type="siglum" author="SANDU-ALDEA" pages="10" sigla="SANDU-ALDEA, D.N." source="D.N.">SANDU-ALDEA, D.N. 10</abbr>, cf. <abbr type="siglum" author="ALEXI" sigla="ALEXI, W." source="W.">ALEXI, W.</abbr>, <citedRange source="TDRG">TDRG</citedRange>, <abbr type="siglum" author="ȘĂINEANU" sigla="ȘĂINEANU">ȘĂINEANU</abbr>, D. U</bibl>.</cit>
+		<cit id="UNKNOWN"><quote>,</quote><bibl><citedRange source="CADE">CADE</citedRange></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>. Tipograful Petre Ispirescu aici și-a făcut ucenicia.</quote><bibl><abbr type="siglum" author="ROMANESCU" pages="12" sigla="ROMANESCU, ZEȚ." source="ZEȚ.">ROMANESCU, ZEȚ. 12</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Văzuse și el America pe când își făcea ucenicia de marinar.</quote><bibl><abbr type="siglum" author="BART" pages="26" sigla="BART, E." source="E.">BART, E. 26</abbr>, cf. <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Ucenicia lui să dureze trei ani.</quote><bibl><abbr type="siglum" author="PAVLESCU" pages="107" sigla="PAVLESCU, E." source="E.">PAVLESCU, E. 107</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>La 1773 scheienii arătau împăratului că... nu le mai sunt primiți copii la ucenicie.</quote><bibl><abbr type="siglum" author="id." pages="80" source="M. N.">id. M. N. 80</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Cu mina aceasta mi-am început ucenicia.</quote><bibl><abbr type="siglum" author="BOGZA" pages="164" sigla="BOGZA, A. Î." source="A. Î.">BOGZA, A. Î. 164</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>Haina cumpărată în ultimul an de ucenicie nu-i mai poate cuprinde pieptul lat.</quote><bibl><citedRange month="martie" pages="97" source="V. ROM." year="1954">V. ROM. martie 1954, 97</citedRange>, cf. <abbr type="siglum" author="CIAUȘANU" pages="184" sigla="CIAUȘANU, V." source="V.">CIAUȘANU, V. 184</abbr></bibl>.</cit>
+		<cit id="UNKNOWN"><quote>A termina[t] fata ucenicia, a venit acasă, meseriașă de-acuma, croitoriță.</quote><bibl><citedRange pages="744" source="T. DIAL. M." volume="II">T. DIAL. M. II, 744</citedRange></bibl>.</cit>
+	  dictScrap>
+	  </def>
+      <sense class="1" value="♦">
+        <def>
+          <usg>P. gener.</usg>
+          <RegDef>Formare, instruire a cuiva într-un anumit domeniu.</RegDef>
+          <dictScrap>
+            <cit id="UNKNOWN"><quote>Făcut-am cea mai aspră și grea ucenicie.</quote><bibl><abbr type="siglum" author="MACEDONSKI" pages="3" sigla="MACEDONSKI, O." source="O." volume="I">MACEDONSKI, O. I, 3</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Scrisul se învață și ceea ce pare talent nu este adese decât efectul unei ucenicii.</quote><bibl><abbr type="siglum" author="LOVINESCU" pages="145" sigla="LOVINESCU, S." source="S." volume="I">LOVINESCU, S. I, 145</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>În anii mei de ucenicie și de luptă, lumea ispitelor... era să-mi înfățișeze... o cosiță parfumată totdeauna cu trandafiri.</quote><bibl><abbr type="siglum" author="GALACTION" pages="59" sigla="GALACTION, O." source="O.">GALACTION, O. 59</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Am luat ucenicia militară de la început.</quote><bibl><abbr type="siglum" author="BRĂESCU" sigla="BRĂESCU, A." source="A.">BRĂESCU, A.</abbr>223</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Problema țărănimii noastre ne-a fost familiară din vremea uceniciei literare.</quote><bibl><abbr type="siglum" author="SADOVEANU" pages="6" sigla="SADOVEANU, E." source="E.">SADOVEANU, E. 6</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Ucenicia mi-a folosit: scăpasem de stângăcia, de sfiiciunea mea firească.</quote><bibl><abbr type="siglum" author="CIPRIAN" pages="94" sigla="CIPRIAN, S." source="S." volume="I">CIPRIAN, S. I, 94</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>E chiar necesar să facă și o ucenicie în munca de bibliotecă, însă trebuie neapărat s-o depășească.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="200" sigla="CĂLINESCU, C. O." source="C. O.">CĂLINESCU, C. O. 200</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Începe în anonimat o lungă și grea ucenicie, care îi va aduce totuși, în cele din urmă, adevărata glorie.</quote><bibl>BOGZA, C O. 137</bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Nu e deloc ușor să te remarci în medicină...,o ucenicie sub pulpana unui mare specialist este aproape inevitabilă.</quote><bibl><abbr type="siglum" author="PREDA" pages="36" sigla="PREDA, R." source="R.">PREDA, R. 36</abbr></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Două decenii de ucenicie tăcută pot vorbi cu îndreptățire și certitudine despre ... „o carieră literară”.</quote><bibl><citedRange month="decembrie" pages="67" source="V. ROM." year="1970">V. ROM. decembrie 1970, 67</citedRange></bibl>.</cit>
+            <cit id="UNKNOWN"><quote>Anii de tinerețe ai uceniciei literare.</quote><bibl><abbr type="siglum" author="CIOCULESCU" pages="119" sigla="CIOCULESCU, C." source="C.">CIOCULESCU, C. 119</abbr></bibl>.</cit>
+          </dictScrap>
+        </def>
+        <sense class="2" value="◊">
+          <def>
+            <usg>Fig.</usg>
+            <dictScrap>
+              <cit id="UNKNOWN"><quote>Literatura italiană și-a făcut ucenicia la școala poeziei provensale.</quote><bibl><abbr type="siglum" author="OȚETEA" pages="196" sigla="OȚETEA, R." source="R.">OȚETEA, R. 196</abbr></bibl>.</cit>
+              <cit id="UNKNOWN"><quote>Știa că a fost și la ucenicie bună..., în d-ale vieții. Știa cum se mănâncă frumos.</quote><bibl><abbr type="siglum" author="I. M. SADOVEANU" pages="22" sigla="I. M. SADOVEANU, S." source="S.">I. M. SADOVEANU, S. 22</abbr></bibl>.</cit>
+            </dictScrap>
+          </def>
+        </sense>
+      </sense>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">ucenicii. -</hi>. Și: <usg>(regional)</usg> <hi rend="bold">ocenicíe</hi>. s.f. <bibl>CIAUȘANU, V. 184</bibl>.</form>
+      <form>– <hi rend="bold">Ucenic</hi>. + suf. <hi rend="italic">-ie</hi>.</form>
+    </form>
+  </entry>
+</body>

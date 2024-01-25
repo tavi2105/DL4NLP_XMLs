@@ -1,0 +1,102 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUID</orth>
+            <gramGrp>s. m.</gramGrp>
+        </form>
+
+
+        <sense class="0" value="DRUID">
+            <def>
+                <MorfDef rendition="simple:spaced">s. m.</MorfDef>
+            </def>
+            <sense class="1" value="1.">
+                <def>
+                    <RegDef>Preot al vechilor celți din Galia, Bretania, Irlanda şi din insulele britanice.</RegDef>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <quote>Brebenelul sau brebenea sau vervena era o floare sacră în Antichitate, este floarea druidilor. </quote>
+                            <bibl>
+                                <abbr type="siglum" author="HELIADE" pages="218" sigla="HELIADE, O." source="O." volume="II">HELIADE, O. II, 218</abbr>
+                                , cf.
+                                <abbr type="siglum" author="I. GOLESCU" sigla="I. GOLESCU, C." source="C.">I. GOLESCU, C.</abbr>
+                                ,
+                                <abbr type="siglum" author="NEGULICI" sigla="NEGULICI">NEGULICI</abbr>
+                            </bibl>.
+                        </cit>
+                        <cit id="UNKNOWN">
+                            <quote>Parcă anticii druizi încă ar împărăţi şi ... nemaiputând ciunti pe oameni spre a-i jertfi zeului lor, ciuntesc pe zeul lor.</quote>
+                            <bibl>
+                                <abbr type="siglum" author="NEGULICI" sigla="NEGULICI, E. I" source="E." volume="I" pages="43/13">NEGULICI, E. I, 43/13</abbr>
+                                , cf.
+                                <abbr type="siglum" author="STAMATI" sigla="STAMATI, D." source="D.">STAMATI, D.</abbr>
+                            </bibl>.
+                        </cit>
+                        <cit id="UNKNOWN">
+                            <quote>Îmi pare că mă aflu ... în pădurea-aceea, în care mai-nainte Druizii cei sălbatici jerifeau pe osândiţi.</quote>
+                            <bibl>
+                                <abbr type="siglum" author="ALEXANDRESCU" sigla="ALEXANDRESCU, O. I" source="O." volume="I" pages="121">ALEXANDRESCU, O. I, 121</abbr>
+                                , cf.
+                                <abbr type="siglum" sigla="PROT. — POP., N. D." source="PROT. — POP., N. D.">PROT. — POP., N. D.</abbr>
+                                ,
+                                <abbr type="siglum" author="COSTINESCU" sigla="COSTINESCU">COSTINESCU</abbr>
+                            </bibl>.
+                        </cit>
+                        <cit id="UNKNOWN">
+                            <quote>Stând pe scaunul cioplit De-un druid, eu fui podoaba Tribului întreg.</quote>
+                            <bibl>
+                                <abbr type="siglum" author="COŞBUC" sigla="COŞBUC, P.I" source="P." volume="I" pages="319">COŞBUC, P.I, 319</abbr>
+                                , cf.
+                                <abbr type="siglum" author="ŞĂINEANU" sigla="ŞĂINEANU">ŞĂINEANU</abbr>
+                                ,
+                                <abbr type="siglum" author="RESMERIŢĂ" sigla="RESMERIŢĂ, D." source="D.">RESMERIŢĂ, D.</abbr>
+                                ,
+                                <abbr type="siglum" author="CADE" sigla="CADE">CADE</abbr>
+                                ,
+                                <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr>
+                                ,
+                                <abbr type="siglum" source="DL" sigla="DL">DL</abbr>
+                                ,
+                                <abbr type="siglum" source="DER" sigla="DER">DER</abbr>
+                                ,
+                                <abbr type="siglum" source="DN" sigla="DN">DN <hi rend="superscript">2</hi>
+                                </abbr>
+                            </bibl>
+                        </cit>
+                        <cit id="UNKNOWN">
+                            <quote>Interdicţia culturii viței de vie ... de către druizi, pentru a evita abuzul de băutură.</quote>
+                            <bibl>
+                                <abbr type="siglum" sigla="MAGAZIN, IST." source="MAGAZIN, IST. 1969" volume="nr. 9" pages="49">MAGAZIN, IST. 1969, nr. 9, 49</abbr>
+                                , cf.
+                                <abbr type="siglum" source="DEX" sigla="DEX">DEX</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="2" value="◊">
+                <def>
+                    <usg type="gram">(Adjectival)</usg>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <quote>Anticii legiuitori druizi au zis în poezie: „Apăraţi muma voastră, patria voastră”</quote>
+                            <bibl>
+                                <abbr type="siglum" author="BOLLIAC" sigla="BOLLIAC, O." source="O." pages="34">BOLLIAC, O. 34</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+        </sense>
+        <form type="varia">
+            <form>- Pronunţat: 
+                <hi rend="italic">dru-id.</hi>
+            </form>
+            <form>
+            — Pl.:
+                <hi rend="italic">druizi şi (învechit, rar) druidi</hi>
+            </form>
+            <form>— Din fr. druide, lat. druides (pl.).</form>
+        </form>
+    </entry>
+</body>

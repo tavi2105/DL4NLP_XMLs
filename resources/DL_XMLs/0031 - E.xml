@@ -1,0 +1,461 @@
+
+<body>
+	<entry type="lemma">
+	  <form type="headword">
+		<orth xml:lang="ro-x-accent-upcase-vowels">ECLUZA</orth>
+		<gramGrp>vb. I, <usg type="gram" 
+		rendition="simple:spaced">intranz.</usg></gramGrp>
+	  </form>
+	  
+	  <sense class="0" value="ECLUZA">
+		<def>
+		  <MorfDef>vb. I</MorfDef>
+		</def>
+		<sense class="1" value="1.">
+		  <def>
+			<usg type="sem">	</usg>
+			<usg>(Despre nave)</usg>
+			<RegDef>A trece printr-o ecluză (1)</RegDef>
+		  </def>
+		  <sense class="2" value="2">
+			  <def><RegDef><usg type="gram" 
+		rendition="simple:spaced">Tranz.</usg>(Complementul indică cursuri de apă, canale etc.) A închide cu o ecluză (1)</RegDef><bibl>Cf. DEX, DNS</bibl></def>           
+		  </sense>
+		</sense>
+	  </sense>
+	</entry>
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ECLUZARE</orth>
+			<gramGrp>s. f.</gramGrp>
+		</form>
+		<sense class="0" value="ECLUZARE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Acţiunea de a ecluza (2) şi rezultatul ei.</RegDef>               
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: ecluzări</form>
+			<form>— V. ecluza</form>
+		</form>
+	</entry>
+
+
+
+
+	<entry type="lemma">
+	  <form type="headword">
+		<orth xml:lang="ro-x-accent-upcase-vowels">ECLUZĂ</orth>
+		<gramGrp>s. f.</gramGrp>
+	  </form>
+
+	  
+	  <sense class="0" value="ECLUZĂ">
+		<def>
+		  <MorfDef>s. f.</MorfDef>
+		</def>
+		<sense class="1" value="1.">
+		  <def>
+			<usg type="sem">	</usg>
+			<RegDef>(Învechit) Stăvilar (1); (sens curent) construcție hidrotehnică specială, executată pe traseul unei căi navigabile, care permite trecerea navelor dintr-o porţiune a traseului cu nivel de apă mai ridicat în altă porţiune cu nivel de apă mai scăzut şi invers.</RegDef>
+			<dictScrap>
+			  <cit id="UNKNOWN"><quote>S-au închis ecluzile (stavilile).</quote><bibl><abbr type="siglum" author="AR" pages="77" sigla="LIICEANU, J." source="J.">LIICEANU, J. 77</abbr></bibl>.</cit>
+			  <cit id="UNKNOWN"><quote>Unul din trei bărbați ... are probleme de disfuncție erectilă, se arată în cel mai complex studiu privind sexualitatea populației active din România. RL 2006, nr. 4879.</quote><bibl>RL 2006, nr. 4879</bibl></cit>
+			</dictScrap>
+		  </def>
+		  </sense>
+		  <sense class="2" value="◊">
+			  <def>
+				<usg type="sem" rendition="simple:spaced">Fig.</usg>
+				<dictScrap>
+					<cit id="UNKNOWN"><quote>Și aici apar disfuncţii. SCÂNTEIA, 1975, nr. 10 347.</quote><bibl><abbr type="siglum" source="SCÂNTEIA, 1975, nr. 10 347" author="N/A" pages="10 347">SCÂNTEIA, 1975, nr. 10 347</abbr></bibl></cit>
+				</dictScrap>
+			  </def>
+		  </sense>
+		<sense class="3" value="2.">
+		  <def> 
+			<RegDef>Anomalie în funcționarea unei structuri sociale administrative, a unui proces etc.Cf. DN%, DEX?.</RegDef>
+			<dictScrap>
+			  <cit id="UNKNOWN"><quote>Este interesantă reacția pieței la aiurelile şi disfuncțiile procesului electoral.</quote><bibl><abbr type="siglum" source="RL 2004, nr. 4 487" author="N/A" pages="487">RL 2004, nr. 4 487</abbr></bibl></cit>
+			  <cit id="UNKNOWN"><quote>Exprimările confuze sau incomplete utilizate în textul actelor normative au creat disfuncții în privința aplicării dispozițiilor legale în domeniul culturii. RL 2005, nr. 4 559.</quote><bibl><abbr type="siglum" source="RL 2005, nr. 4 559" author="N/A" pages="559">RL 2005, nr. 4 559</abbr></bibl></cit>			
+			</dictScrap>
+		  </def>
+		</sense>
+		<sense class="4" value="3.">
+		  <def>
+			<usg type="sem">(Tehn.)</usg>
+			<RegDef>Reducere a adaptării sau integrării unui subsistem la sistemul din care face parte. Cf. DEX?</RegDef>
+		  </def>
+		</sense>
+	  </sense>
+	  <form type="varia">
+			<form>— PL.: disfuncţii</form>
+			<form>— Din germ. Dysfunktion</form>
+			<form>— Din fr. dysfonction</form>
+		</form>
+	</entry>
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">ECLUZIST, -Ă</orth>
+			<gramGrp>s. m. si f.</gramGrp>
+		</form>
+
+		<sense class="0" value="ECLUZIST, -Ă">
+			<def>
+				<MorfDef>s. m. si f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Persoană care lucrează la ecluză; ecluzier (2).</RegDef>                
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>— PL.: ecluzişti, -ste</form>
+			<form>— Ecluză + suf. -ist</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECLUZIUNE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECLUZIUNE">
+			<def>
+				<MorfDef>s. f. v.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>ecloziune</RegDef>
+				</def>
+			</sense>
+		</sense>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECMECCI-BAȘA</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECMECCI-BAȘA">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>(Turcism) Şeful slujitorilor de la cuptoarele domneşti. Erau puşi sub ordinul ispravnicilor de curte şi al lui ecmecci-başa.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din tc. ekmekçi başy</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECMNEZIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECMNEZIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Formă de amnezie, care constă în pierderea amintirii evenimentelor recente şi tr? jea în prezent a unor evenimente dintr-o perioadă de viaţă îndepărtată în timp.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. ecmnésie</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECO</orth>
+		  <gramGrp>s. n. şi, rar, f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECO">
+			<def>
+				<MorfDef>s. n. şi, rar, f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. ecou</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOANSON</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOANSON">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Arhit.)</usg>
+					<RegDef> Ornament triunghiular cuprins 
+					între două arcade tangente, legate la înălțime de 
+					un brâu orizontal: piatră care formează colțul 
+					ambrazurii unei ferestre sau a unei uşi.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -co-an-</form>
+			<form>— PL.: ecoansoane</form>
+			<form>— Din fr. ecmnésie</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOCARDIOGRAF</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOCARDIOGRAF">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Aparat folosit pentru examinarea inimii cu ultrasunete.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -di-o-</form>
+			<form>— PL.:?</form>
+			<form>— Din  engl. echocardiograph</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOCARDIOGRAFIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOCARDIOGRAFIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Aplicare a ecogratiei la examinarea şi diagnosticarea bolilor inimii.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -di-o-</form>
+			<form>— PL.: ecocardiografii</form>
+			<form>— Din fr. echocardiographie</form>
+			<form>— Din  engl. echocardiography</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOCARDIOGRAMĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOCARDIOGRAMĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Ecogramă a inimii.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -di-o-</form>
+			<form>— PL.: ecocardiograme</form>
+			<form>— Din fr. echocardiogramme</form>
+			<form>— Din  engl. echocardiogram</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOCINEMATOGRAFIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOCINEMATOGRAFIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Cinematografie care produce filme cu subiect ecologic.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: ecocinematograţii</form>
+			<form>— Din engl. eco-cinematography</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOENCEFALOGRAFIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOENCEFALOGRAFIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Metodă de diagnosticare a proceselor patologice intracraniene cu ajutorul ultrasunetelor.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: ecoencefalografii</form>
+			<form>— Din engl. echoencephalography</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOENCEFALOGRÂMĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="?" value="ECOENCEFALOGRÂMĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Înregistrare a unui proces patologic intracranian, obținută prin ecoencefalogratie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: ecoencefalograme</form>
+			<form>— Din engl. echoencephalogram</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOFEEDBACK</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOFEEDBACK">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Biol.)</usg>
+					<RegDef>Retroacţiune ecologică având rolul de a menţine stabilitatea ecosistemelor naturale faţă de diversele influenţe din mediul ambiant.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -/idbec</form>
+			<form>— Din engl. ecofeedback</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOFILM</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOFILM">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Film cu subiect ecologic.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: ecofilme</form>
+			<form>— Din engl. ecofilm</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOFIZIOLOGIC, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOFIZIOLOGIC, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Care aparține ecofiziologiei, referitor la ecofiziologie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunţat: -zi-o</form>
+			<form>— PL.: ecofiziologici, -ce</form>
+			<form>— Din engl. ecophysiological.</form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ECOFIZIOLOGIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ECOFIZIOLOGIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ramură a ecologiei care studiază din punct de vedere fiziologic grupe de organisme în corelaţie cu mediul lor natural.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+</body>

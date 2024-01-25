@@ -1,0 +1,19 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPÁRE</orth>
+      <gramGrp>s. f.</gramGrp>
+    </form>
+
+    
+    <sense class="UNKNOWN" value="DOPÁRE">
+      <def>
+	  <MorfDef>s. f.</MorfDef>
+	  <RegDef>Acțiunea de a (se) dopa2. și rezultatul ei; dopaj, doping.</RegDef>Cf. DL.   <dictScrap><cit id="UNKNOWN"><quote>Având un efect nociv, doparea este interzisă prin statute și regulamente.</quote><bibl><citedRange source="M. D. ENC.">M. D. ENC.</citedRange>, cf. <citedRange source="DEX">DEX</citedRange>, <citedRange source="DN">DN</citedRange>3</bibl>.</cit></dictScrap></def>
+    </sense>
+    <form type="varia">
+      <form>– Pl.: <hi rend="italic">dopări</hi>.</form>
+      <form>– V. <hi rend="bold">dopa</hi>.</form>
+    </form>
+  </entry>
+</body>

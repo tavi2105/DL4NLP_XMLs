@@ -1,0 +1,19 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIULÁ</orth>
+      <gramGrp>vb. I. </gramGrp>
+    </form>
+
+    <sense class="0" value="UCIULÁ">
+      <def>
+	  <MorfDef>vb. I.</MorfDef>
+	  <usg>(Regional)</usg>
+	  <RegDef>A (se) da în leagăn, a se da în scrânciob <hi rend="bold">(2)</hi>.  (Lăpugiul de Sus - Deva).</RegDef><bibl>Cf. ALR I 1703/85</bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– V. <hi rend="bold">uciul</hi>.</form>
+    </form>
+  </entry>
+</body>

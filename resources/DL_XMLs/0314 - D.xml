@@ -1,0 +1,522 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRÂNGĂNI</orth>    >
+			<gramGrp>vb. IV<usg type="gram"> rendition="simple:spaced">Tranz.</usg>	
+			</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DRESUI">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+				<usg>(Învechit)</usg>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>A aranja, a îndrepta; a drege (4).</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote>Când toate relele Statelor stăpânite se vor lipi de tine, vițiul fără strălucire, nelegiuirea fără fermecul amorului ca să-i îndulcească şi să-i dresuiască vederea.</quote>
+							<bibl><abbr type="siglum" author="HELIADE, L. B." pages="171/9" sigla="L. B." volume="II">HELIADE, L. B. II, 171/9</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+				<form>- Prez. ind.: <hi rend="italic">dresuiesc.</hi></form>
+				<form>- <hi rend="bold">Dres</hi> + suf. -ui </form>
+		</form>
+	</entry>
+
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRESUIRE</orth>    >
+			<gramGrp>s. f.<usg type="sem"> rendition="simple:spaced">Fig.</usg>	
+			</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DRESUIRE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+				<usg>(învechit, rar)</usg>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Îndreptare.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote>Îl deprinz nu numai a asculta adevărul, ci şi a-l dori, a-l iubi şi a-l auzi cu linişte desbrăcat de orice fel de dresuire.</quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="330 1/4" sigla="CR">CR (1839), 330 1/4.</abbr></bibl>
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- V. <hi rend="bold">dresuire</hi></form>
+		</form>
+	</entry>
+
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRESUIT, -Ă</orth>    >
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DRESUIT, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+				<usg>(învechit)</usg>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Aranjat.</RegDef>
+				</def>
+				<sense class="2" value="◊">
+						<def>
+							<usg>(Substantivat; ironic)</usg>
+							<dictScrap>
+								<cit id="UNKNOWN">
+								<quote>Ne-au lăsat trădătorii! ... nu e, dar, altă speranţă decât să ne facem una cu dresuiţii aştia.</quote>
+								<bibl><abbr type="siglum" author="HELIADE" pages="495" sigla="HELIADE, O." source="O." volume="II">HELIADE, O. II, 495</abbr></bibl>
+								</cit>
+							</dictScrap>
+						</def>
+					</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> dresuiţi, -te.</hi></form>
+			<form>- V. <hi rend="bold">dresui</hi></form>
+		</form>
+	</entry>
+
+
+
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DRESURĂ</orth>    >
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DRESURĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Acţiunea de a drege (5); reparaţie (1);<hi rend="italic">p. re str.</hi> obiect reparat.</RegDef>
+				</def>
+				<sense class="2" value="2.">
+					<def>
+						<usg>(Prin nordul Munt.)</usg>
+						<RegDef>Preparare (1).</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">I-a mai făcut o dresură.</hi></quote>
+							<bibl>, Cf. <abbr type="siglum" author="" pages="" sigla="UDRESCU">UDRESCU</abbr></bibl>
+							</cit>
+						</dictScrap>
+					</def>
+				</sense>
+				<sense class="3" value="3.">
+					<def>
+						<usg>(Prin vestul Munt.)</usg>
+						<RegDef>Fardare.</RegDef>
+					</def>
+				</sense>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> dresuri.</hi></form>
+			<form>- <hi rend="bold">Dres</hi> + suf. -ură.</form>
+		</form>
+	</entry>
+
+
+<!-- DRESURĂ -->
+
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREȚ</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREȚ">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. <hi rend="BOLD">dreață</hi>.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DREȚE</orth>    >
+				<gramGrp>s. f. pl. <usg>Regional</usg></gramGrp>
+			</form>
+
+			
+			<sense class="0" value="DREȚE">
+				<def>
+					<MorfDef>s. f. pl.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<RegDef>Tărâţe folosite ca hrană pentru animale.</RegDef>
+						<usg>(Vâlcele — Cluj-Napoca)</usg>
+					</def>
+					<sense class="2" value="2.">
+						<def>
+							<usg>(La sg.)</usg>
+							<RegDef>Rapăn (1).</RegDef>
+						</def>
+					</sense>
+				</sense>	
+			</sense>
+			<form type="varia">
+				<form>- Din magh. <hi rend="bold">derce</hi></form>
+			</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREȚEL</orth>
+			<gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREȚEL">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Bot.; regional)</usg>
+					<RegDef>Bobormic</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- PL.: <hi rend="italic">dreței</hi></form>
+			<form>- Din magh. <hi rend="bold">deréce.</hi></form>
+		</form>
+	</entry>
+
+<!-- DREUCĂ -->
+
+
+	<entry type="lemma">
+		<form type="headword">     
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREVA</orth>
+			<gramGrp>vb. I. <usg type="gram"> rendition="simple:spaced">Tranz.</usg>.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVA">
+			<def>
+				<MorfDef>vb. I.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional; complementul indică lâna)</usg>
+					<RegDef>A dărăci</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>- Prez. ind.: <hi rend="italic"> drevez </hi> </form>
+			<form>- Din magh. <hi rend="simple:spaced"> dreavă </hi> </form>
+		</form>
+	</entry>
+
+
+
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREVĂNA</orth>
+		  <gramGrp>vb. I.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVĂNA">
+			<def>
+				<MorfDef>vb. I.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. dreveni.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREVE</orth>
+		  <gramGrp>s. f. pl.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVE">
+			<def>
+				<MorfDef>s. f. pl.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. trevere.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREVELI</orth>    
+			<gramGrp>vb. IV<usg type="gram"> rendition="simple:spaced">Tranz.</usg>	
+			<usg>(Regional; complementul indică lâna)</usg>
+			</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVELI">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional; complementul indică lâna)</usg>
+					<RegDef>A dărăci.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Prez. ind.: <hi rend="italic">drevelesc.</hi>-</form>
+			<form>— <hi rend="bold">Dreavă</hi> + suf. -ăli.-</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREVELI</orth>
+		  <gramGrp>vb. IV.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVELI">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. dârvări.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREVELIRE</orth>    
+			<gramGrp>s. f.
+			<usg>(Regional)</usg>
+			</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVELIRE">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional)</usg>
+					<RegDef>Acţiunea de a dreveli şi rezultatul ei.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: <hi rend="italic">dreveliri.</hi>-</form>
+			<form>— V. <hi rend="bold">dreveli.</hi></form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREVEN, -Ă</orth>    
+			<gramGrp>adj.
+			<usg>(Regional)</usg>
+			</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVEN, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional)</usg>
+					<RegDef>Amorţit, înțepenit.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: <hi rend="italic">dreveni, -e.</hi>-</form>
+			<form>— Şi: <hi rend="bold">dreâvăn, -ă</hi>adj. LEXIC REG. 44.</form>
+			<form>— Din sb.: <hi rend="bold">dreven</hi>„de lemn”, bg. dial. 		</form>  
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREVENI</orth>    >
+			<gramGrp>vb. IV<usg type="gram"> rendition="simple:spaced">Tranz.</usg>	
+			<usg> (Transilv., Bucov.) </usg>
+			</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DREVENI">
+			<def>
+				<MorfDef>vb. IV.</MorfDef>
+				<usg>(Transilv., Bucov.)</usg>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>A deveni inert, a înțepeni; a amorţi; a tremura de frig.</RegDef>
+					<dictScrap>
+							<cit id="UNKNOWN">
+							<quote>De multă moarte capu le ameţisă, Și mâini viteze le drevenisă.</quote>
+							<bibl><abbr type="siglum" author="BUDAI-DELEANU" pages="257" sigla="BUDAI-DELEANU, Ţ.">BUDAI-DELEANU, Ţ. 257</abbr></bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote>Am stat culcat pe mână şi mi-a drevenit.</quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="123" sigla="REV. CRIT." volume="III">REV. CRIT. III, 123</abbr>cf. CADE, GĂMULESCU, E. S. 129</bibl>
+							</cit>
+							<cit id="UNKNOWN">
+							<quote>Băiatul drevăna de frig şi l-am luat în casă.</quote>
+							<!-- <bibl><abbr type="siglum" author="UNKNOWN" pages="123" sigla="REV. CRIT." volume="III">REV. CRIT. III, 123</abbr>cf. CADE, GĂMULESCU, E. S. 129</bibl> -->
+							</cit>
+							<cit id="UNKNOWN">
+							<quote>Trebuia să mai aştern la porci, că dreavănă, îs cârlig de frig.</quote>
+							<!-- <bibl><abbr type="siglum" author="UNKNOWN" pages="123" sigla="REV. CRIT." volume="III">REV. CRIT. III, 123</abbr>cf. CADE, GĂMULESCU, E. S. 129</bibl> -->
+							</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+				<form>- Prez. ind.: <hi rend="italic">drevenesc.</hi></form>
+				<form>- Şi: <hi rend="bold">drevăna</hi> vb. I. </form>
+				<form>- Din sb.<hi rend="bold">drveniti se</hi> Cf. ucr. dial      „lemn”.</form>
+		</form>
+	</entry>
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREVENŢ</orth>    
+			<gramGrp>s. n.
+			<usg>(Regional)</usg>
+			</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVENŢ">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional)</usg>
+					<RegDef>Darac (1)</RegDef>
+					<usg>(Vâlcele — Cluj- Napoca)</usg>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.:?-</form>
+			<form>— Cf. <hi rend="simple:spaced">dreavă.</hi></form>  
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREVEŞ</orth>    
+			<gramGrp>adj.
+			<usg>(Regional; despre cai sau, pe ext., despre oameni)</usg> 
+			</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVEŞ">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional; despre cai sau, pe ext., despre oameni)</usg>
+					<RegDef>Darac Cu şoldul bolnav, lovit</RegDef>
+					<usg>(Mititei — Năsăud)</usg>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.:<hi rend="italic">dreveşi</hi>-</form>
+			<form>— <hi rend="bold">Dreavă</hi> + suf. -eş.</form>  
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DREVEŞIT</orth>    
+			<gramGrp>adj.
+			<usg>(Regional; despre cai)</usg>
+			</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREVEŞIT">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Regional; despre cai)</usg>
+					<RegDef>Care are un defect la picioarele dinapoi. Am un cal dreveşit, adică cu spata dinapoia piciorului ruptă</RegDef>
+					<usg>(Mititei — Năsăud)</usg>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.:<hi rend="italic">dreveşiţi.</hi>-</form>
+			<form>— <hi rend="bold">Dreveş</hi> + suf. -eş.</form>  
+		</form>
+	</entry>
+	
+	
+	<!-- DREVUI -->
+</body>

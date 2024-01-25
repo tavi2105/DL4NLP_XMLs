@@ -1,0 +1,16 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DJURSTVA</orth>
+			<gramGrp>s.f.</gramGrp>
+		</form>
+
+		
+		<sense class="UNKNOWN" value="DJURSTVA">
+			<def>
+			<MorfDef>s.f.</MorfDef>
+			<RegDef>v. dejurstvă</RegDef>
+			</def>
+		</sense>
+	</entry>
+</body>

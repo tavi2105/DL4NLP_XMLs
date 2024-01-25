@@ -1,0 +1,562 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂNGĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRÂNGĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+				<usg>(Prin nord-vestul Transilv. şi prin Mold.)</usg>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Clopot (stricat); talangă pentru oi.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: <hi rend="italic">drângi</hi>-</form>
+			<form>-Şi: (regional) <hi rend="bold">droângă</hi> s. f. CADE, 1. CR. IV, 121</form>
+			<form>— Cf. <hi rend="simple:spaced">drângăni</hi>-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!!  « in loc de s  -->
+
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂNGĂLĂU</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRÂNGĂLĂU">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. drăgălău.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	<body>
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DRÂNGĂNI</orth>    >
+				<gramGrp>vb. IV<usg type="gram"> rendition="simple:spaced">Intranz.</usg>		
+				</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="DRÂNGĂNI">
+				<def>
+					<MorfDef>vb. IV.</MorfDef>
+					<usg>(Atestat prima dată în 1652, cf. ÎND. LEG., ap. TDRG?)</usg>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg type="gram" rendition="simple:spaced">Intranz.</usg>
+						<usg>(Astăzi rar)</usg>
+						<RegDef>A cânta cu drângul (1).</RegDef>
+					</def>
+					<sense class="2" value="2.">
+						<def>
+							<usg>(învechit şi familiar)</usg>
+							<RegDef>A zdrăngăni (2).</RegDef>
+							<dictScrap>
+								<cit id="UNKNOWN">
+								<quote>V. Duduca ... drăngăneşte din ghitară.</quote>
+								<bibl><abbr type="siglum" author="ALECSANDRI" pages="324" sigla="ALECSANDRI, T." source="T.">ALECSANDRI, T. 324</abbr></bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote>Drângănind pe strune vesel, stă cobzariul ş-o priveşte.</quote>
+								<bibl><abbr type="siglum" author="CONTEMPORANUL" pages="5509" sigla="CONTEMPORANUL" source="CONTEMPORANUL" volume="I">CONTEMPORANUL, 1, 5509</abbr></bibl>, cf. DDRF, GHEȚIE, R. M., ALEXI, W.
+								</cit>
+								<cit id="UNKNOWN">
+								<quote>Vecina mea din dreapta voind să n-ameţească, Pe-al ei clavir începe grozav, să drângănească.</quote>
+								<bibl><abbr type="siglum" author="I.  NEGRUZZI" pages="46" sigla="I.  NEGRUZZI" source="S." volume="II">I. NEGRUZZI, S. II, 46</abbr></bibl>, cf. ŞĂINEANUZ, TDRG, RESMERIŢĂ, D., CADE, SCRIBAN, D., DEX.
+								</cit>
+							</dictScrap>
+						</def>
+					</sense>
+				</sense>
+				<sense class="3" value="3.">
+					<def>
+						<usg>(Învechit)</usg>
+						<RegDef>A bate din palme; a aplauda.</RegDef>
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote>Nu se cade [prin păresimi] a drăngăi, adecă a plesni în palme.</quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="UNKNOWN" source="TDRG">TDRG</abbr></bibl>
+								</cit>
+								<cit id="UNKNOWN">
+								<quote>Să nu joace pre la dinsele [pre la nunte] sau să drăngăiască adecă să bată din palme.</quote>
+								<bibl><abbr type="siglum" author="TDRG" pages="UNKNOWN" sigla="UNKNOWN" source="TDRG">TDRG</abbr></bibl>, cf. CADE, BL VI, 199.   
+								</cit>
+							</dictScrap>
+					</def>
+				</sense>
+			</sense>			
+			<form type="varia">
+				<form>-Prez. ind.: <hi rend="italic">drângănesc</hi></form>
+				<form>-Şi: (învechit) <hi rend="bold">drăngăi</hi>, (regional) <hi rend="bold">drăngăni, drăncăni</hi> vb. IV.</form>
+				<form>-<hi rend="bold">Drâng? </hi> + suf. -ăni. Cf.<hi rend="simple:spaced">zdrăngăni</hi>.</form>
+			</form>
+		</entry>
+	</body>
+
+
+	<!-- !!!! II scris ca N -->
+	<!-- !!!! I scris ca 1 -->
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂNGĂNIRE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRÂNGĂNIRE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+				<usg>(Învechit)</usg> 
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Acţiunea de a <hi rend="simple:spaced">drângăni</hi> şi rezultatul ei.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: <hi rend="italic">drângăniri</hi>.-</form>
+			<form>— V. <hi rend="bold">drângăni</hi>.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂNGĂNIT</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRÂNGĂNIT">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+				<usg>(Învechit)</usg> 
+				<usg>(regional)</usg>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Faptul de a <hi rend="simple:spaced">drângăni</hi>; sunet vibrant; drângănitură.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Şi: (învechit) <hi rend="bold">drăngănit</hi> s. n. RESMERIŢĂ, D.-</form>
+			<form>— V. <hi rend="bold">drângăni</hi>.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂNGĂNITURĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="?" value="DRÂNGĂNITURĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+				<usg>(Regional)</usg>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<RegDef>Drângănit.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: <hi rend="italic">drângănituri</hi>.-</form>
+			<form>— Şi:  <hi rend="bold">drăngănitură</hi> s. f. DDRF.-</form>
+			<form>— <hi rend="bold">Drângăni</hi>+ suf. <hi rend="italic">-tură</hi>.-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! £ in loc de f  -->
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂNGĂU</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="?" value="DRÂNGĂU">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+				<usg>(Regional)</usg>
+			</def>
+			<sense class="?" value="1.">
+				<def>
+					<RegDef>Drăgălău.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: <hi rend="italic">drângăi</hi>.-</form>
+			<form>— Şi:  <hi rend="bold">drăngău</hi> s. m. PASCU, S. 415, RĂDULESCU-CODIN.-</form>
+			<form>— Cf.  <hi rend="simple:spaced">drângălău</hi>-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂSCA</orth>
+		  <gramGrp>vb. I.<usg type="gram"> rendition="simple:spaced">Intranz.</usg></gramGrp>
+		</form>
+		
+		<sense class="0" value="DRÂSCA">
+			<def>
+				<MorfDef>vb. I.</MorfDef>
+				<usg>(Regional; despre pisică)</usg>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>A zgâria</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Prez. ind. pers. 3 sg.: <hi rend="italic">drâscă</hi>-</form>
+			<form>— Et. nec.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂSTĂ</orth>
+		  <gramGrp> s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRÂSTĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. dârstă.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂSTIE</orth>
+		  <gramGrp> s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DRÂSTIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. drist.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DRÂȘTEA</orth>
+		  <gramGrp>interj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DRÂȘTEA">
+			<def>
+				<MorfDef>interj.</MorfDef>
+				<usg>(Regional; de obicei repetat)</usg> 
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Cuvânt care imită zgomotul produs de seceră.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>La capu pământului (locului), La jelița vântului, Una cu mâna dreaptă tăia, Alta cu stânga polog făcea. Drâştea, râştea, drâştea [râştea].</quote>
+							<bibl><abbr type="siglum" author="CoL." pages=" 193 " sigla="CoL." source="CoL.">CoL. 193</abbr></bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Accentul necunoscut.-</form>
+			<form>— Onomatopee.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREABĂ</orth>
+		  <gramGrp> s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREABĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. <hi rend="bold">dreavă</hi>.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREADNOUGHT</orth>
+		  <gramGrp> s. n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DREADNOUGHT">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+				<usg>(Mar.)</usg> 
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Cuirasat foarte puternic înarmat.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>La capu pământului (locului), La jelița vântului, Una cu mâna dreaptă tăia, Alta cu stânga polog făcea. Drâştea, râştea, drâştea [râştea].</quote>
+							<bibl><abbr type="siglum" author="CoL." pages=" 193 " sigla="CoL." source="CoL.">CoL. 193</abbr></bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Scris şi: <hi rend="italic">dreadnougt</hi>. CADE-</form>
+			<form>— Pronunţat: <hi rend="italic">drednor.</hi>-</form>
+			<form>—	PL.: ?.-</form>
+			<form>—	Şi: (învechit) <hi rend="bold">drighnout</hi> (pronunţat: <hi rend="italic">drienaut</hi> RESMERIŢĂ, D.) Ss. n.-</form>
+			<form>—	Din engl. <hi rend="bold">dreadnought</hi>.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREAHLĂ</orth>
+		  <gramGrp> s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREAHLĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. <hi rend="bold">drelă</hi>.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREALĂ</orth>
+		  <gramGrp> s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREALĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. <hi rend="bold">drelă</hi>.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREAMB</orth>
+		  <gramGrp> s. m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DREAMB">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+				<usg>(Regional)</usg> 
+				<usg>(Purcăreţi — Cugir)</usg>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Lujer subţire, ram (1)</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>La capu pământului (locului), La jelița vântului, Una cu mâna dreaptă tăia, Alta cu stânga polog făcea. Drâştea, râştea, drâştea [râştea].</quote>
+							<bibl><abbr type="siglum" author="CoL." pages=" 193 " sigla="CoL." source="CoL.">CoL. 193</abbr></bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">		
+			<form>—	PL.: <hi rend="italic">dreambi</hi>.-</form>
+			<form>—	Et. nec.-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DREÂNȚĂ</orth>
+		  <gramGrp> s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="DREÂNȚĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. <hi rend="bold">zdreanță.</hi>.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+
+		<entry type="lemma">
+			<form type="headword">
+				<orth xml:lang="ro-x-accent-upcase-vowels">DREAȚĂ</orth>    
+				<gramGrp>s. f.</gramGrp>
+			</form>
+
+			
+			<sense class="0" value="DREAȚĂ">
+				<def>
+					<MorfDef>s. f.</MorfDef>
+				</def>
+				<sense class="1" value="1.">
+					<def>
+						<usg>(Transilv.; mai ales la pl.)</usg>
+						<RegDef>Plantă erbacee târâtoare din familia primulaceelor, cu frunze opuse şi flori galbene solitare; banul-popii, duminicea, duminiță, gălbenele, inima- pământului, scrântitoare (2), scrântitură (2) (Lysimachia nummularia) </RegDef>
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote>Se pot găsi pe hotarul comunei [Răşinari] ... următoarele plante: ... busuioc ... dreaţă. </quote>
+								<bibl><abbr type="siglum" author="PĂCALĂ" pages="18" sigla="PĂCALĂ, M. R." source="M. R.">PĂCALĂ, M. R. 18</abbr></bibl>, PANŢU, PL., ENC. AGR., BORZA, D., DEX.
+								</cit>
+						</dictScrap>
+					</def>
+					<sense class="2" value="2.">
+						<def>
+							<RegDef>Plantă acvatică subtropicală cu frunze mari, dințate şi violacee pe partea inferioară şi cu flori mari; gălbenele, nufăr (2) (Nymphea lotus var. thermalis)</RegDef>
+							<dictScrap>
+								<cit id="UNKNOWN">
+								<quote>Localnicii îi zic drețe, iar în ştiinţă Castalia lotus.</quote>
+								<bibl><abbr type="siglum" author="SIMIONESCU" pages="26" sigla="SIMIONESCU, FL." source="FL.">SIMIONESCU, FL. 26</abbr>, cf. <citedRange source="DER">DER</citedRange>, <citedRange source="DEX">DEX</citedRange>.</bibl>
+								</cit>
+							</dictScrap>
+						</def>
+					</sense>
+				</sense>
+				<sense class="3" value="3.">
+					<def>
+						<usg>(Bot.; regional)</usg>
+						<RegDef>Lintiţă (Lemna minor, lemna trisulca)</RegDef>
+					</def>	
+				</sense>
+				<sense class="4" value="4.">
+					<def>
+						<usg>(Regional)</usg>
+						<RegDef>Plantă cu flori albastre nedefinită mai îndeaproape</RegDef>
+					</def>
+				</sense>	
+				<sense class="5" value="5.">
+					<def>
+						<usg><hi rend="bold">Compuse</hi>: </usg>
+						<usg>(Regional)</usg>
+						<RegDef><hi rend="bold">dreţ-galben</hi> = plantă erbacee din familia liliacee, cu frunze înguste liniare, cu flori plăcut mirositoare de culoare galbenă-deschis, puţin arcuite în afară; crin-galben <hi rend="italic">(Hemerocallis lilio-asphodelus)</hi>.</RegDef>
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote>Dreţ galben... rarisimă prin grădini la oraş, la sate, văzută o singură dată.</quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="59" sigla="BULET. GRĂD. BOT." volume="V">BULET. GRĂD. BOT.</abbr></bibl>, cf. PANŢU, PL., BORZA, D. 
+								</cit>
+							</dictScrap>
+					</def>
+					<def>
+						<RegDef><hi rend="bold">dreţe-de-apă</hi> = plantă acvatică, comestibilă, întrebuințată şi în medicina populară.</RegDef>
+						<dictScrap>
+								<cit id="UNKNOWN">
+								<quote>Drețe-de-apă ... este un soi de plantă care creşte şi se întinde prin apă şi care se mănâncă ca salata.</quote>
+								<bibl><abbr type="siglum" author="UNKNOWN" pages="27" sigla="ŞEZ." volume="XV">ŞEZ. XV, 27</abbr></bibl>
+								</cit>
+						</dictScrap>
+					</def>
+				</sense>
+			</sense>	
+			<form type="varia">
+				<form>-PL.: <hi rend="italic">drețe.</hi></form>
+				<form>-Şi: (regional) <hi rend="bold">dreţ</hi>, s. n.</form>
+				<form>-Et. nec.</form>
+			</form>
+		</entry>
+</body>
+	
+	<!-- DREAVĂ -->
+
+
+
+	

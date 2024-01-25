@@ -1,0 +1,24 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UBÍCUU</orth>
+      <gramGrp>adj. </gramGrp>
+    </form>
+
+    <sense class="0" value="UBÍCUU, -UĂ">
+      <def>
+        <MorfDef>adj.</MorfDef>
+        <usg>(Livresc)</usg>
+        <RegDef>Care are posibilitatea de a fi prezent pretutindeni în același timp. <usg>(F i g.)</usg></RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Dragoslav a dobândit cu vremea un fel de popularitate ubicvă, găsind, oriunde se ducea..., pe „frate-meu” sau „un prieten”.</quote><bibl><abbr type="siglum" author="LOVINESCU" pages="20" sigla="LOVINESCU, M." source="M.">LOVINESCU, M. 20</abbr>, cf. <citedRange source="DN">DN</citedRange><hi rend="superscript">3</hi></bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Depistarea acestei ubicue prezențe eminesciene implică desigur familiaritatea cu stilul marelui gazetar.</quote><bibl><citedRange number="1" pages="7/1" source="ROMÂNIA LITERARĂ" year="1985">ROMÂNIA LITERARĂ, 1985, nr. 1, 7/1</citedRange></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Pronunțat: <hi rend="italic">-cu-u. -</hi>. Pl.: <hi rend="italic">ubicui, -ue</hi>. - Și: <hi rend="bold">ubícv, -ă</hi>. adj.</form>
+      <form>– De la <hi rend="bold">ubicuitate</hi>,. după modelul unor adjective ca <hi rend="italic">perpetuu, continuu</hi>.</form>
+    </form>
+  </entry>
+</body>

@@ -1,0 +1,20 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DJEBEL</orth>
+			<gramGrp>s. n.</gramGrp>
+		</form>
+		<dictScrap>
+		
+		<sense class="UNKNOWN" value="DJEBEL">
+			<def>
+			<MorfDef>s. n.</MorfDef>
+			<RegDef>Regiune muntoasă în Africa de Nord. Cf. NDN.</RegDef>
+			</def>
+		</sense>
+		<form type="varia">
+			<form> — Pronunţat: gebel. — Cuv. arab. Cf. fr.djebel.</form>
+		</form>
+		</dictScrap>
+	</entry>
+</body>

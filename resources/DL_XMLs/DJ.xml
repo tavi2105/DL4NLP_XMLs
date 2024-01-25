@@ -1,0 +1,22 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DJ</orth>
+			<gramGrp>s.m.</gramGrp>
+		</form>
+
+		<sense class="?" value="DJ">
+			<def>
+			<MorfDef>s.m.</MorfDef>
+			<RegDef>Abreviere de la disc-jockey.</RegDef>
+			<dictScrap>
+					<cit id="?"><quote>DJ din România se vor bate cu cei mai tari DJ din lume.</quote><bibl><abbr type="siglum" author="RL" source="2005" volume="nr. 4" pages="522">RL 2005, nr. 4 522.</abbr></bibl></cit>
+				</dictScrap>
+			</def>
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: <hi rend="italic">digei.</hi>  — PL: <hi rend="italic">DJ.</hi></form>
+			<form>-Din engl. DJ.</form>
+		</form>
+	</entry>
+</body>

@@ -1,0 +1,15 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">UBAGIU</orth>
+			<gramGrp>s. m.</gramGrp>
+		</form>
+
+		<sense class="0" value="UBAGIU">
+			<def>
+			<MorfDef>s. m.</MorfDef>
+			<RegDef>v.iobag.</RegDef>
+			</def>
+		</sense>
+	</entry>
+</body>

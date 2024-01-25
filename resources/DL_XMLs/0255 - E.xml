@@ -1,0 +1,638 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROBACTER</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROBACTER">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. enterobacterie</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+
+
+
+
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROBACTERIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ENTEROBACTERIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>(La pl.) Nume generic dat germenilor saprofiţi care constituie flora intestinală normală a organismului, precum şi germenilor patogeni pentru care intestinul reprezintă poarta de intrare în organism sau mediul propice înmulțirii acestora şi manifestărilor patologice consecutive.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Teramicină pentru enterobacterii</quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="91" sigla="ABC SĂN." source="ABC SĂN.">ABC SĂN. 91</abbr>, cf. M. D. ENC., DEX, DN, V. BREBAN, D. G., D. ENC., NDN.</bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enterobacterii-</form>
+			<form>— Şi: enterobacter s. n. DN?-</form>
+			<form>— Din fr. entérobactérie-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!!ct in loc de cf -->
+	<!-- !!!! un é ignorat si unul scris ca a^ -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROBIAZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROBIAZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Oxiuriază</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Pronunțat: -bi-a--</form>
+			<form>— Din fr. entérobiase-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCEL</orth>
+		  <gramGrp> s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROCEL">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Oxiuriază</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL: ?-</form>
+			<form>— Din fr. entérocèle-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCENTEZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROCENTEZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Puncţie a intestinului în cursul unei intervenţii chirurgicale, care se efectuează în scopul evacuării conținutului intestinal.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Din fr. entérocentèse-</form>
+		</form>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCHINAZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROCHINAZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Biol.)</usg>
+					<RegDef>Enzimă produsă de mucoasa duodenală, ce are rolul de activator al tripsinei.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— Scris şi: enterokinază D. MED.-</form>
+			<form>— PL.: enterochinaze-</form>
+			<form>— Din fr. entérokinase-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCLIZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROCLIZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Introducere de lichid în rect, în scop alimentar sau pentru evacuare; clismă.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteroclize-</form>
+			<form>— Din fr. entéroclyse-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!!!DN” in loc de DN n^ -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCOC</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ENTEROCOC">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Microb intestinal care poate provoca boli infecțioase interne.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Microbii cauzali sunt mai ales stafilococul, ... enterococul.</quote>
+							<bibl><abbr type="siglum" author="ABC SĂN." pages="294" sigla="ABC SĂN." source="ABC SĂN.">ABC SĂN. 294</abbr></bibl>, D. MED., DNS, NDN.
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enterococi-</form>
+			<form>— Din fr. entérocoque-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCOCIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROCOCIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Boală cauzată de o infecție cu un enterococ.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enterocii-</form>
+			<form>— Din fr. entérococcie-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCOLITĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="ENTEROCOLITĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef>Inflamaţie acută sau cronică a mucoasei intestinului subţire şi a colonului, cauzată de germeni patogeni sau de unele saprofite ori de factori alergeni, manifestată prin colici, diaree, febră, scădere în greutate.</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN">
+							<quote>Cauzele enterocolitei Sunt în primul rând toxiinfecțiile cu diferite bacterii. </quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN " sigla="ABC SĂN." source="ABC SĂN.">ABC SĂN.   </abbr>, D. MED., M. D. ENC., DEX, DN', V. BREBAN, D. G., D. ENC., NDN, DEI.</bibl>
+						</cit>
+					</dictScrap>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enterocolite-</form>
+			<form>— Din fr. entérocolite-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!$ in loc de S (idk why) -->
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCTOMIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROCTOMIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. enterectomie</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROCOCIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROCOCIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Gastroenterită</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enterogastrite-</form>
+			<form>— Din fr. entérogastrite-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROGASTRON</orth>
+		  <gramGrp>s. n.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROGASTRON">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>v. enterogastronă</RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROGASTRONĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROGASTRONĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Biol.)</usg>
+					<RegDef> Hormon secretat de mucoasa duodenală sub influența grăsimilor din duoden, care acționează ca inhibitor al secreției şi al motilității gastrice.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enterogastrone-</form>
+			<form>— Şi: enterogastron s. n. D. MED., DN”-</form>
+			<form>— Din fr. entérogastrone-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!!* in loc de ^n  -->
+	<!-- !!!!" in loc de ^n -->
+	<!-- !!!!â in loc de o cu accent -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROHEMORAGIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROHEMORAGIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Hemoragie intestinală; enteroragie.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enterohemoragii-</form>
+			<form>— Şi: enterogastron s. n. D. MED., DN”-</form>
+			<form>— Din fr. entéro-hémorhagie-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! ? in loc de ^n -->
+	<!-- !!!! " in loc de ^n -->
+	<!-- !!!! un = de nicaieri ?? -->
+	<!-- !!!! â in loc de é -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROHEPATITĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROHEPATITĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Inflamaţie necrotică a cecumului şi a ficatului, mai ales la curcile tinere.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enterohepatite-</form>
+			<form>— Din fr. entérohépatite-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! â in loc de é -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROLIT</orth>
+		  <gramGrp>s. m.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROLIT">
+			<def>
+				<MorfDef>s. m.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Concreţiune minerală formată în intestin; calcul intestinal.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteroliţi-</form>
+			<form>— Din fr. entérolithe-</form>
+		</form>
+	</entry>
+
+	<!-- !!!! â in loc de é -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROLOGIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROLOGIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Ramură a medicinei care studiază tractul intestinal.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteroliţi-</form>
+			<form>— Din fr. entérologie-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROMORF, -Ă</orth>
+		  <gramGrp>adj.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROMORF, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Biol.)</usg>
+					<RegDef> Care are formă tubulară, de intestin.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteromorfi, -e-</form>
+			<form>— Din fr. entéromorphe-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!! é ignorat -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROPATIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROPATIE">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Med.)</usg>
+					<RegDef> Denumire generică pentru afecţiuni ale intestinelor.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteromopatii-</form>
+			<form>— Din fr. entéropathie-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!! t in loc de f -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROPEXIE</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROPEXIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Fixare chirurgicală la peretele abdomi- nal a unuia dintre viscere, care, ca urmare a unui proces patologic, a căpătat o mobilitate anormală.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteropexii-</form>
+			<form>— Din fr. entéropexie-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROPLASTIE</orth>
+		  <gramGrp>s. f. </gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROPLASTIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Restabilire chirurgicală a diametrului normal al intestinului în caz de stenoză.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteroplastii-</form>
+			<form>— Din fr. entéroplastie-</form>
+		</form>
+	</entry>
+
+
+	<!-- !!!! "diame- trului" -->
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROPLEXIE</orth>
+		  <gramGrp> s. f. </gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROPLEXIE">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef> Anastomoză chirurgicală a două segmente de intestin.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteroplexii-</form>
+			<form>— Din fr. entéroplexie-</form>
+		</form>
+	</entry>
+	
+	
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">ENTEROPTOZĂ</orth>
+		  <gramGrp>s. f.</gramGrp>
+		</form>
+		
+		<sense class="0" value="ENTEROPTOZĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Deplasare a intestinului în partea de jos a cavității abdominale.</RegDef>
+				</def>
+			</sense>	
+		</sense>
+		<form type="varia">
+			<form>— PL.: enteroptoze-</form>
+			<form>— Din fr. entéroptose-</form>
+		</form>
+	</entry>
+</body>

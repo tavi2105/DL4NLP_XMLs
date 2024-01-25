@@ -1,0 +1,19 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPLOSÍRE</orth>
+      <gramGrp>s. f.</gramGrp>
+    </form>
+
+    <sense class="0" value="DOPLOSÍRE">
+      <def><MorfDef>s. f.</MorfDef>
+	  <usg>(Prin nord-estul Olt.)</usg>
+	  <RegDef>Acțiunea de a (se) doplosi și rezultatul ei; (<usg>regional</usg>) doploseală.</RegDef>
+	  <bibl>Cf. <abbr type="siglum" author="CIAUȘANU" pages="158" sigla="CIAUȘANU, V." source="V.">CIAUȘANU, V. 158</abbr></bibl>. 
+	  </def>
+    </sense>
+    <form type="varia">
+      <form>– V. <hi rend="bold">doplosi</hi>.</form>
+    </form>
+  </entry>
+</body>

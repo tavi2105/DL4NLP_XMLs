@@ -1,0 +1,42 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUJBĂ</orth>
+            <gramGrp>s. f.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUJBĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f.</MorfDef>
+            </def>
+            <def>
+                <RegDef>(Atestat prima dată în 1896, ap. TDRG) (Învechit şi regional) Prietenie, tovărăşie (1), camaraderie.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <bibl>
+                            Cf.
+                            <abbr type="siglum" source="TDRG" sigla="TDRG">TDRG</abbr>
+                        </bibl>
+                    </cit>
+                    <cit id="UNKNOWN">
+                        <quote>Slujba-i slujbă şi drujba, drujbă,</quote>
+                        se spune pentru a justifica neamestecul problemelor personale cu cele profesionale. 
+                        <bibl>
+                            Cf.
+                            <abbr type="siglum" author="BRĂESCU" pages="363" sigla="BRĂESCU, O." source="O." volume="I">BRĂESCU, O. A. I, 363</abbr>
+                            ,
+                            <abbr type="siglum" author="SCRIBAN" sigla="SCRIBAN, D." source="D.">SCRIBAN, D.</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drujbe.</hi>
+            </form>
+            <form>— Din rus. apyx6a.</form>
+        </form>
+    </entry>
+</body>

@@ -1,0 +1,24 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DOPLECÁ</orth>
+      <gramGrp>vb. I.  tranz. </gramGrp>
+    </form>
+
+    
+    <sense class="UNKNOWN" value="DOPLECÁ">
+      <def>
+        <MorfDef>vb. I.</MorfDef>
+        <RegDef>Tranz. <usg>(Prin Ban.)</usg> „A pleca de tot”.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>După ce au doplecat.</quote><bibl><citedRange pages="232" source="JAHRESBER." volume="III">JAHRESBER. III, 232</citedRange>, cf. SFC IV, 35</bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Prez. ind.: <hi rend="italic">dopléc</hi>.</form>
+      <form>– Pref. <hi rend="italic">do- + </hi>.<hi rend="bold">pleca</hi>.</form>
+    </form>
+  </entry>
+</body>
+

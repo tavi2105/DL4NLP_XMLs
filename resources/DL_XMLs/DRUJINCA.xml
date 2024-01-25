@@ -1,0 +1,56 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUJINCĂ</orth>
+            <gramGrp>s. f.</gramGrp>
+        </form>
+
+        <sense class="0" value="DRUJINCĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f.</MorfDef>
+            </def>
+            <sense class="1" value="1.">
+                <def>
+                    <usg>(Regional)</usg>
+                    <RegDef>Felie de pâine, de caş etc.</RegDef>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <bibl>
+                                <abbr type="siglum">V. strujea</abbr>
+                                Cf.
+                                <abbr type="siglum" author="GRAUR" sigla="GRAUR, E." source="E." volume="36" pages="37">GRAUR, E. 36, 37</abbr>
+                                ,
+                                <abbr type="siglum" author="VICIU" sigla="VICIU, GL." source="GL.">VICIU, GL.</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+            <sense class="2" value="2.">
+                <def>
+                    <RegDef>Parcelă (1).</RegDef>
+                    <dictScrap>
+                        <cit id="UNKNOWN">
+                            <bibl>
+                                Cf. 
+                                <abbr type="siglum" author="VICIU" sigla="VICIU, GL." source="GL.">VICIU, GL.</abbr>
+                                ,
+                                <abbr type="siglum" sigla="CV" source="CV 1951" volume="nr. 3" pages="47">CV 1951, nr. 3, 47</abbr>
+                                ,
+                                <abbr type="siglum" sigla="CHEST." volume="IV" pages="96/282">CHEST. IV 96/282</abbr>
+                            </bibl>
+                        </cit>
+                    </dictScrap>
+                </def>
+            </sense>
+        </sense>
+        <form type="varia">
+            <form>
+            — Pl.:
+                <hi rend="italic">drujince.</hi>
+            </form>
+            <form>Drujină<hi rend="superscript">2</hi> + suf. <hi rend="italic">-că.</hi>
+            </form>
+        </form>
+    </entry>
+</body>

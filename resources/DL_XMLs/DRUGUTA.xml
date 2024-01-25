@@ -1,0 +1,37 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUGUŢĂ</orth>
+            <gramGrp>s. f.</gramGrp>
+        </form>
+
+
+        <sense class="0" value="DRUGUŢĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f.</MorfDef>
+            </def>
+            <def>
+                <usg type="gram">regional</usg>
+                <RegDef>Druguleţ.</RegDef>
+                <dictScrap>
+                    <cit id="UNKNOWN">
+                        <quote>Gâlcuţă, gâlcuță Încalică-ti pi-o druguţă Şi ti du la mare.</quote>
+                        <bibl>
+                            <abbr type="siglum" source="MAT. FOLK. 1 518, cf. GR. S. VI, 160" author="N/A" pages="160" volume="cf. GR. S. VI">MAT. FOLK. 1 518, cf. GR. S. VI, 160</abbr>
+                        </bibl>
+                    </cit>
+                </dictScrap>
+            </def>
+        </sense>
+        <form type="varia">
+            <form>
+            — PL.:
+                <hi rend="italic">druguțe</hi>
+            </form>
+            <form>
+            —                <hi rend="bold">Drug</hi>
+                <hi rend="superscript">1</hi> + suf. -uță
+            </form>
+        </form>
+    </entry>
+</body>

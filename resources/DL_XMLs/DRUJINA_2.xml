@@ -1,0 +1,18 @@
+<body>
+    <entry type="lemma">
+        <form type="headword">
+            <orth xml:lang="ro-x-accent-upcase-vowels">DRUJINĂ</orth>
+            <gramGrp>s. f. v.</gramGrp>
+        </form>
+
+
+        <sense class="0" value="DRUJINĂ">
+            <def>
+                <MorfDef rendition="simple:spaced">s. f. v.</MorfDef>
+            </def>
+            <def>
+                <RegDef>drughină.</RegDef>
+            </def>
+        </sense>
+    </entry>
+</body>

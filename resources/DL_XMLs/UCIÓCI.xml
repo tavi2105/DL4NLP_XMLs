@@ -1,0 +1,27 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UCIÓCI</orth>
+      <gramGrp>s. m.  pl. =  ocioc.</gramGrp>
+    </form>
+
+    <sense class="0" value="UCIÓCI">
+      <def>
+        <MorfDef>s. m.</MorfDef>
+        <RegDef>pl. = <hi rend="bold">ocioc</hi>.</RegDef>
+      </def>
+      <sense class="1" value="4.">
+        <def>
+		<usg>(Regional)</usg>
+		<RegDef>Ceea ce rămâne după ce s-au cernut sâmburii de bostan pisați (Băuțar - Caransebeș).</RegDef><bibl>Cf. <abbr type="siglum" author="VICIU" sigla="VICIU, GL." source="GL.">VICIU, GL.</abbr></bibl>. 
+		</def>
+      </sense>
+	  <sense class="2" value="5.">
+        <def>
+		<usg>(Regional)</usg>
+		<RegDef> Bucăţele de aluat care se folosesc în loc de tăieţei, fierte în supă sau în lapte; <usg>(popular)</usg> colărezi (Brădişorul de Jos — Oraviţa). Com. LIUBA. </RegDef>
+		</def>
+      </sense>
+    </sense>
+  </entry>
+</body>

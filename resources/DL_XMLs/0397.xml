@@ -1,0 +1,762 @@
+<body>	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUMBRĂ</orth>    >
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMBRĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg>(Popular; în ghicitori; cu sens neprecizat)</usg>
+						<dictScrap>
+							<cit id="UNKNOWN">
+							<quote><hi rend="italic">Dumbră, Sumbră, Fără umbră</hi>(Apa)</quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="278" sigla="UNKNOWN" source="DR. I">Cf. DR. I, 278</abbr></bibl>.
+							<bibl><abbr type="siglum" author="GOROVEI" pages="15" sigla="GOROVEI C." source="C">GOROVEI, C.15,</abbr></bibl>.
+							<bibl><abbr type="siglum" author="PASCU" pages="30" sigla="PASCU C." source="C">PASCU, C.30,</abbr></bibl>.
+							</cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>- Cf.v.sl. <hi rend="bold"> </hi> „pădure”. </form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMBRĂȚ</orth>
+		  <gramGrp>s. m. v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMBRĂȚ">
+			<def>
+				<MorfDef>s. m. v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumbeț.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUMBRĂVEAN</orth>    >
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMBRĂVEAN, -Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<usg>(Rar)</usg>
+					<RegDef>Al dumbrăvii, privitor la dumbravă; care are loc în dumbravă</RegDef>
+					<dictScrap>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Amândoi însă în lume ... Ici prin noaptea dumbrăvană și prin văi om duce-o bine</hi></quote>
+					<bibl><abbr type="siglum" author="EMINESCU" pages="137" sigla="EMINESCU, L.P." source="L.P">EMINESCU, L.P. 137</abbr></bibl>.
+					<bibl><abbr type="siglum" author="ALEXI" pages="UNKNOWN" sigla="ALEXI, W." source="DEX">ALEXI, W., DEX</abbr></bibl>.
+					</cit>
+					</dictScrap>
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> dumbtăveni, -e.</hi></form>
+			<form>- <hi rend="bold">Dumbravă</hi> + suf. <hi rend="italic">-ean.</hi></form>
+		</form>
+	</entry>
+
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUMBRĂVEANCĂ</orth>    >
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMBRĂVEANCĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Pasăre migratoare cu pene albastre-verzui <hi rend="italic">(Coracias garrulus)</hi></RegDef>
+					<dictScrap>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Privesc sosind prin aer sburători cu mândre pene, Dumbrăvenci, granguri de aur</hi></quote>
+					<bibl><abbr type="siglum" author="ALECSANDRI" pages="55" sigla="ALECSANDRI, P.III" source="P. III">ALECSANDRI, P.III, 55</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Dumbrăvence cu aripi verzi</hi></quote>
+					<bibl><abbr type="siglum" author="ODOBESCU" pages="180" sigla="ODOBESCU, S.III" source="S.III">ODOBESCU, S.III, 180</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">De unde se vede că-i vin la poporul român și numirile de dumbrăvancă</hi></quote>
+					<bibl><abbr type="siglum" author="MARIAN" pages="62" sigla="MARIAN, O. I" source="S.III">MARIAN,O. I, 62</abbr></bibl>.
+					<bibl><abbr type="siglum" author="ALEXI" pages="UNKNOWN" sigla="DDRF, ALEXI, W." source="UNKNOWN">DDRF, ALEXI, W.</abbr></bibl>.
+					<bibl><abbr type="siglum" author="ȘĂINEANU" pages="UNKNOWN" sigla="TDRG, ȘĂINEANU" source="D.U">DDRF, ALEXI, W.</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Treceau în zboruri joase, din când în când dumbrăvenci și turturele</hi></quote>
+					<bibl><abbr type="siglum" author="SADOVEANU" pages="48" sigla="SADOVEANU O. IX" source="O. IX">SADOVEANU, O. IX, 48</abbr></bibl>.
+					<bibl><abbr type="siglum" author="BĂCESCU, PĂS" pages="80" sigla="BĂCESCU, PĂS, DEX" source="DEX">SBĂCESCU, PĂS. 80, DEX</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic"> dumbrăvenci</hi> și învechit <hi rend="italic">dumbrăvence</hi></form>
+			<form>- <hi rend="space">dumbravă, dumbrăvean.</hi></form>
+		</form>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUMBRĂVIOARĂ</orth>    >
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMBRĂVIOARĂ">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>Diminutiv al lui <hi rend="space">dumbravă;</hi>dumbrăviţă</RegDef>
+					<dictScrap>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Pădurici şi dumbrăvioare pline de felurimi de coapaci.</hi></quote>
+					<bibl><abbr type="siglum" author="GORJAN" pages="66" sigla="GORJAN, H. I" source="H. I.">GORJAN, H. I, 66/12, </abbr></bibl>.
+					<bibl><abbr type="siglum" author="POLIZU, PONTRIBIANT" pages="UNKNOWN" sigla="POLIZU, PONTRIBIANT" source="D">POLIZU, PONTRIBIANT, D.</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Într+o dumbrăvioară el yăreşte o căprioară</hi></quote>
+					<bibl><abbr type="siglum" author="ALECSANDRI" pages="89" sigla="ALECSANDRI, P. II" source="P.II">ALECSANDRI, P. II,89.</abbr></bibl>.
+					<bibl><abbr type="siglum" author="BARCIANU, ALEXI" pages="UNKNOWN" sigla="BARCIANU, V., ALEXI, W." source="UNKNOWN">BARCIANU, V., ALEXI, W.</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">Sus pe-o dumbrăvioară deasă Multă ploe se revarsă.</hi></quote>
+					<bibl><abbr type="siglum" author="UNKNOWN" pages="53" sigla="I." source="CR. II">I. CR. II, 53</abbr></bibl>.</cit>
+					<cit id="UNKNOWN"><quote><hi rend="italic">DUMBRĂVIOARĂ VERDE, DEASĂ, cAPRELE SĂ TE MIJDREASCĂ.</hi></quote>
+					<bibl><abbr type="siglum" author="UNKNOWN" pages="253" sigla="FOLC.OLT.-MUNT" source="II">FOLC.OLT.-MUNT, II, 253.</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">dumbrăvioare</hi></form>
+			<form>- <hi rend="bold">Dumbravă</hi> + suf. <hi rend="italic">-ioară.</hi></form>
+		</form>
+	</entry> 
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMBREANĂ</orth>
+		  <gramGrp>s. f. v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMBREANĂ">
+			<def>
+				<MorfDef>s. f. v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">mreană.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUM-DUM</orth>    >
+			<gramGrp>s. n.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUM-DUM">
+			<def>
+				<MorfDef>s. n.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>(În sintagmă) <hi rend="italic">Glonţ</hi>(sau<hi rend="italic">proiectil</hi>)<hi rend="italic">dum-dum</hi>proiectil de puşcă a cărui ogivă tăiată în formă de cruce provoacă răni foarte grave în momentul atingerii ţintei</RegDef>
+					<dictScrap>
+						<cit><bibl><abbr type="siglum" author="ŞĂINEANU" pages="UNKNOWN" sigla="ŞĂINEANU, D. U." source="DEX">Cf. ŞĂINEANU D. U.DEX</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Din fr.<hi rend="bold">dum-dum,</hi>engl.<hi rend="bold">dum-dum.</hi></form>
+		</form>
+	</entry> 
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUMEA</orth>    >
+			<gramGrp>s. f.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMEA">
+			<def>
+				<MorfDef>s. f.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>(Turcism învechit) Un fel de impozit</RegDef>
+					<dictScrap>
+						<cit id="UNKNOWN"><quote><hi rend="italic">Alte încărcări şi cheltuieli multe, puţine ci era, care să da mai nainte de vremea oştirei, cu nume de havaeturi, cu dumeale, obuducturi şi geaizăle, acelea s-au proptit şi s-au ridicat cu ştergirea de istov.</hi></quote>
+					<bibl><abbr type="siglum" author="URICARIUL" pages="435" sigla="URICARIUL VI" source="URICARIUL VI">(a. 1774) URICARIUL VI, 435 </abbr></bibl>.
+						<bibl><abbr type="siglum" author="ŞIO" pages="49" sigla="ŞIO II2" source="II2">ŞIO II2, 49</abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+		</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">dumele</hi></form>
+			<form>-Din tc. <hi rend="bold">tume</hi>„hrană”.</form>
+		</form>
+	</entry> 
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMEATA</orth>
+		  <gramGrp>pron. de politețe v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMEATA">
+			<def>
+				<MorfDef>pron. de politețe v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumneata.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMECA</orth>
+		  <gramGrp>vb. I v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMECA">
+			<def>
+				<MorfDef>vb. I v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumica.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUMENC</orth>    >
+			<gramGrp>adj.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMENC,-Ă">
+			<def>
+				<MorfDef>adj.</MorfDef>
+			</def>
+			<sense class="1" value="1.">
+				<def>
+					<RegDef>(Regional) Leneș</RegDef>
+					<dictScrap>
+					<cit><bibl><abbr type="siglum" author="UNKNOWN" pages="UNKNOWN" sigla="UNKNOWN" source="UNKNOWN">Co. din STRAJA - VICOVU DE SUS </abbr></bibl>.</cit>
+					</dictScrap>
+				</def>
+			</sense>
+		</sense>
+		<form type="varia">
+			<form>- Pl.: <hi rend="italic">dumenci,-ce</hi></form>
+			<form>-Et.nec.</form>
+		</form>
+	</entry> 
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMENECĂ</orth>
+		  <gramGrp>s.f.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMENECĂ">
+			<def>
+				<MorfDef>s.f.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">duminică.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMENICĂ</orth>
+		  <gramGrp>s.f.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMENICĂ">
+			<def>
+				<MorfDef>s.f.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">duminică.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMEREALĂ</orth>
+		  <gramGrp>s.f.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMEREALĂ">
+			<def>
+				<MorfDef>s.f.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumireală.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMERI</orth>
+		  <gramGrp>vb. IV v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMERI">
+			<def>
+				<MorfDef>s.f.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumiri.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMERIRE</orth>
+		  <gramGrp>s.f.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMERIRE">
+			<def>
+				<MorfDef>s.f.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumirire.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMERIT</orth>
+		  <gramGrp>adj. v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMERIT">
+			<def>
+				<MorfDef>adj. v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumirit.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESNIC</orth>
+		  <gramGrp>adj. v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESNIC">
+			<def>
+				<MorfDef>adj. v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domestic.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESNICI</orth>
+		  <gramGrp>vb. IV v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESNICI">
+			<def>
+				<MorfDef>vb. IV v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domestici.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESNICIE</orth>
+		  <gramGrp>s.f.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESNICIE">
+			<def>
+				<MorfDef>s.f.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domesticie.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESNICIRE</orth>
+		  <gramGrp>s.f.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESNICIRE">
+			<def>
+				<MorfDef>s.f.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domesticire.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESNICIT</orth>
+		  <gramGrp>adj. v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESNICIT,-Ă">
+			<def>
+				<MorfDef>adj.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domesticit.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESTEC</orth>
+		  <gramGrp>adj.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESTEC,-Ă">
+			<def>
+				<MorfDef>adj.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domestic.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESTIC</orth>
+		  <gramGrp>adj.s.m.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESTIC,-Ă">
+			<def>
+				<MorfDef>adj.s.m.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domestic.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESTICIT</orth>
+		  <gramGrp>adj.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESTICIT,-Ă">
+			<def>
+				<MorfDef>adj.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domesticit.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESTNIC,-Ă</orth>
+		  <gramGrp>adj.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESTNIC,-Ă">
+			<def>
+				<MorfDef>adj.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domestic.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESTNICI</orth>
+		  <gramGrp>vb. IV v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESTNICI">
+			<def>
+				<MorfDef>vb. IV v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domestici.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMESTNICIT</orth>
+		  <gramGrp>adj.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMESTNICIT,-Ă">
+			<def>
+				<MorfDef>adj.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domestnicit.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMEȘNIC</orth>
+		  <gramGrp>adj.v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMEȘNIC,-Ă">
+			<def>
+				<MorfDef>adj.v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">domestic.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMETA</orth>
+		  <gramGrp>pron. de politețe v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMETA">
+			<def>
+				<MorfDef>pron. de politețe v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumneata.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMI</orth>
+		  <gramGrp>vb. IV v.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMI">
+			<def>
+				<MorfDef>vb. IV v.</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumăi.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMIALUI</orth>
+		  <gramGrp>pron. de politețe v</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMIALUI">
+			<def>
+				<MorfDef>pron. de politețe v</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumăi.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMIATA</orth>
+		  <gramGrp>pron. de politețe v</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMIATA">
+			<def>
+				<MorfDef>pron. de politețe v</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumneata.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">     
+		  <orth xml:lang="ro-x-accent-upcase-vowels">DUMIAVOASTRĂ</orth>
+		  <gramGrp>pron. de politețe v</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMIAVOASTRĂ">
+			<def>
+				<MorfDef>pron. de politețe v</MorfDef>
+			</def>
+			<sense class="0" value="0.">
+				<def>
+					<RegDef><hi rend="bold">dumneavostră.</hi></RegDef>
+				</def>
+			</sense>	
+		</sense>
+	</entry>
+	
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DUMICA</orth>    >
+			<gramGrp>vb. I.</gramGrp>
+		</form>
+
+		
+		<sense class="0" value="DUMICA">
+			<def>
+				<MorfDef>vb. I.</MorfDef>
+			</def>
+			<sense class="1," value="1.">
+					<def>
+						<usg><hi rend="space">Tranz</hi></usg>
+						<RegDef>1. (Folosit și <hi rend="space">absol.</hi>)(Complementul indică alimente) A rupe cu mâna sau a tăia cu un instrument bucățele dintr-un întreg (pentru a pune în supă, în lapte etc.); a sfărâma</RegDef>
+						<dictScrap>
+							<cit id="UNKNOWN"><quote><hi rend="bold">(1).</hi><hi rend="italic">Și popa demicând Svântul Agneț în patru, cu socotire și cu smerenie, zice</hi></quote>
+							<bibl><abbr type="siglum" author="DOSOFTEI" pages="95" sigla="DOSOFTEI, L." source="L.">DOSOFTEI, L. 95</abbr></bibl>.</cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">El fiarse fiertură și dumică pâine în scafă.</hi></quote>
+							<bibl><abbr type="siglum" author="UNKNOWN" pages="693" sigla="UNKNOWN." source="BIBLIA">BIBLIA (1688), 693/41</abbr></bibl>.
+							<bibl><abbr type="siglum" author="VALIAN, POLIZU, PONTBRIANT" pages="UNKNOWN" sigla="LB, VALIAN,V.,POLIZU,PONTBRIANT" source="D">cf.LB, VALIAN,V.,POLIZU,PONTBRIANT, D.</abbr></bibl>.</cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Când pui lapte acru-n strachină și mămăligă, dumică cu lingura mămăliga...ca s-ai prunci multișori</hi></quote>
+							<bibl><abbr type="siglum" author="JIPESCU" pages="UNKNOWN" sigla="JIPESCU, ap." source="TDRG">JIPESCU, ap., TDRG.</abbr></bibl>.</cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Nalba noi vom dumica Și pe voi vom ospăta.</hi></quote>
+							<bibl><abbr type="siglum" author="MARIAN" pages="535" sigla="MARIAN, NU." source="NU">MARIAN, NU., 535, cf. DDRF, ALEXI, W.</abbr></bibl>.</cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Iea o altă bucățică de rădăcină, o dumică bine, o amestecă cu ceapă</hi></quote>
+							<bibl><abbr type="siglum" author="LEON" pages="69" sigla="N. LEON, MED." source="MED">N. LEON, MED. 69, cf. ȘĂINEANU2</abbr></bibl>.</cit>
+							<cit id="UNKNOWN"><quote><hi rend="italic">Laptele din putine se făcuse acum steregheață; baciul își sumesese din nou mânecile, vârî mâna-n ea.. și prinse a o dumica.</hi></quote>
+							<bibl><abbr type="siglum" author="LUNGIANU" pages="105" sigla="LUNGIANU, CL." source="CL">LUNGIANU, CL. 105</abbr></bibl>.
+							</cit>
+						</dictScrap>
+					</def>
+			</sense>
+		</sense>
+	</entry>
+</body>
+	
+	

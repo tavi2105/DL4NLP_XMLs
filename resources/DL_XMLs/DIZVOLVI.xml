@@ -1,0 +1,25 @@
+<body>
+	<entry type="lemma">
+		<form type="headword">
+			<orth xml:lang="ro-x-accent-upcase-vowels">DIZVOLVI</orth>
+			<gramGrp>vb. IV <usg type="gram" rendition="simple:spaced">Tranz.</usg> (Învechit, rar) A dezvolta (2), a expune. La deschiderea întâi sesie acestui congres pe scurt am disvolvit Ex[celenţelor] Voastre prințipiile cărora ați urmat ... de la începutul guvernului vostru. AR (1829), 1431/39. </gramGrp>
+		</form>
+
+		
+		<sense class="?" value="DIZVOLVI">
+			<def>
+			<MorfDef>vb. IV</MorfDef>
+			<usg type="gram" rendition="simple:spaced">Tranz.</usg>
+			<usg>(Învechit, rar)</usg>
+			<RegDef> A dezvolta (<hi rend="bold">2</hi>), a expune.</RegDef>
+				<dictScrap>
+					<cit id="?"><quote>La deschiderea întâi sesie acestui congres pe scurt am disvolvit Ex[celenţelor] Voastre prințipiile cărora ați urmat ... de la începutul guvernului vostru.</quote><bibl><abbr type="siglum" author="AR" source="(1829)" pages="1431/39">AR (1829) 1431/29</abbr></bibl></cit>
+				</dictScrap>
+			</def>
+		</sense>
+		<form type="varia">
+			<form>— Scris şi: <hi rend="italic">disvolvi.</hi>  — Prez. ind.: <hi rend="italic">dizvolvesc.</hi></form>
+			<form>-Cf.dezvoalbe.</form>
+		</form>
+	</entry>
+</body>

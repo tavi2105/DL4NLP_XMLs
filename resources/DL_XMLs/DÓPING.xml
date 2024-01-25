@@ -1,0 +1,23 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">DÓPING</orth>
+      <gramGrp>s. n.</gramGrp>
+    </form>
+
+    
+    <sense class="UNKNOWN" value="DÓPING">
+      <def>
+        <MorfDef>s. n.</MorfDef>
+        <RegDef>Administrare a unor substanțe chimice stimulatoare care face să crească rezistența sportivilor sau a cailor de curse la o suprasolicitare fizică, în timpul concursurilor sportive, dopare; dopaj; (concretizat) substanță chimică stimulatoare folosită în acestă acțiune.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>Excitarea excesivă a sistemului nervos produsă de doping are de rezultat istovirea ... sistemului nervos.</quote><bibl><citedRange pages="339" source="ENC. AGR." volume="II">ENC. AGR. II, 339</citedRange>, cf. <citedRange source="D. MED.">D. MED.</citedRange>, <citedRange source="M. D. ENC.">M. D. ENC.</citedRange>, <citedRange source="DEX">DEX</citedRange>, <citedRange source="DN">DN</citedRange>3</bibl>.</cit>
+          <cit id="UNKNOWN"><quote>Doping pentru un record mondial.</quote><bibl><citedRange number="4" pages="479" source="RL" year="2004">RL 2004, nr. 4 479</citedRange></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Din engl. <hi rend="bold">doping</hi>.Cf. fr. doping.</form>
+    </form>
+  </entry>
+</body>

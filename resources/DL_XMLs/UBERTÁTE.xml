@@ -1,0 +1,24 @@
+<body>
+  <entry type="lemma">
+    <form type="headword">
+      <orth xml:lang="ro-x-accent-upcase-vowels">UBERTÁTE</orth>
+      <gramGrp>s.f.</gramGrp>
+    </form>
+
+    <sense class="0" value="UBERTÁTE">
+      <def>
+        <MorfDef>s.f.</MorfDef>
+        <usg>(Livresc)</usg>
+        <RegDef>Fertilitate, fecunditate; abundență.</RegDef>
+        <dictScrap>
+          <cit id="UNKNOWN"><quote>„Toamna în insulele Canare” revelă o percepție a uberității exotice.</quote><bibl><abbr type="siglum" author="CĂLINESCU" pages="202" sigla="CĂLINESCU, C. O." source="C. O.">CĂLINESCU, C. O. 202</abbr>, cf. <citedRange source="DN">DN</citedRange><hi rend="superscript">2</hi></bibl>.</cit>
+        </dictScrap>
+      </def>
+    </sense>
+    <form type="varia">
+      <form>– Și: <hi rend="bold">uberitáte</hi>. s.f.</form>
+      <form>– Din lat. <hi rend="bold">ubertas</hi>., fr. <hi rend="bold">uberté</hi>. Cf. it. u b e r t à.</form>
+      <form>– <hi rend="bold">Uberitate</hi>. lt; lat. <hi rend="bold">uberitas</hi>.</form>
+    </form>
+  </entry>
+</body>
